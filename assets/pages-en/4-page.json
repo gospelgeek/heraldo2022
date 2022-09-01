@@ -1,0 +1,63 @@
+[{
+        "x": "0",
+        "y": "6%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.5em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "Editorial"
+        }
+    },
+    {
+        "x": "68%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-fb",
+        "class": "button-share-fb",
+        "text": "facebok",
+        "icon": "./assets/pics/icons/fb.png",
+        "data": {
+            "page": 4,
+            "url": "http://www.facebook.com/sharer.php?u="
+        }
+    },
+    {
+        "x": "76%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-wpp",
+        "class": "button-share-wpp",
+        "text": "whatsapp",
+        "icon": "./assets/pics/icons/wpp.png",
+        "data": {
+            "page": 4,
+            "url": "http://api.whatsapp.com/send?text="
+        }
+    },
+    {
+        "x": "84%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-twi",
+        "class": "button-share-twi",
+        "text": "twitter",
+        "icon": "./assets/pics/icons/twi.png",
+        "data": {
+            "page": 4,
+            "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }
+]

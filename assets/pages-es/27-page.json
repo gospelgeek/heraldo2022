@@ -1,0 +1,27 @@
+[{
+    "x": "46%",
+    "y": "2%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "20%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "",
+    "data": {
+        "src": "./assets/pics/icons/logo_perfiles.png"
+    }
+}, {
+    "x": "0%",
+    "y": "-1%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "94%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "p",
+    "class": "section-magazine",
+    "data": {
+        "content": "Soy emocional"
+    }
+}]

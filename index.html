@@ -1,0 +1,318 @@
+<!doctype html>
+
+<html lang="es">
+
+<head>
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-5LH8XZP');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <title>Perfiles 2022</title>
+    <meta name="viewport" content="width = device-width, minimum-scale=1, maximum-scale=1, user-scalable = no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://ipuc.org.co/mujer/perfiles/">
+    <meta property="og:image" content="">
+    <meta name="og:title" content="Perfiles 2022 | Edición número 16 | Formato interactivo">
+    <meta name="og:description" content="El magazín de la mujer cristiana celebra sus 16 años">
+    <link rel="icon" type="image/png" href="/assets/pics/icons/book.png">
+
+
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+
+    <script type="text/javascript" src="./assets/extras/jquery.min.1.7.js"></script>
+    <script type="text/javascript" src="./assets/extras/modernizr.2.5.3.min.js"></script>
+    <script type="text/javascript" src="./assets/lib/hash.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Belgrano&family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LH8XZP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
+
+    <div id="loading">
+        <img id="loading-image" src="./assets/pics/icons/loading.gif" alt="Cargando..." />
+    </div>
+
+    <div id="canvas">
+        <div class="magazine-viewport">
+            <!-- Next button -->
+            <div ignore="1" class="next-button"></div>
+
+            <!--Container of the flipbook-->
+            <div class="container">
+                <div class="magazine"></div>
+            </div>
+
+            <!-- Previous button -->
+            <div ignore="1" class="previous-button"></div>
+        </div>
+    </div>
+
+    <!--Navigation bar-->
+    <div class="navigation options">
+        <div class="menu">
+            <ul class="options">
+                <li class="thumb options">
+                    <a class="options" onclick="createThumb(`${ $('.magazine').turn('pages')}`)">
+                        <img src="/assets/pics/icons/grid.png" class="options" alt=""> </a>
+                    </a>
+                </li>
+                <li class="search options">
+                    <a class="options" onclick="createSearch()">
+                        <img src="/assets/pics/icons/search.png" class="options" alt=""> </a>
+                    </a>
+                </li>
+                <li class="language options">
+                    <a class="options" onclick="changeLanguage()">
+                        <img src="/assets/pics/icons/globe.png" class="options" alt=""> </a>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="show-menu">
+            <img src="/assets/pics/icons/down.png" class="options" alt=""> </a>
+        </div>
+    </div>
+
+    <!--Search Section-->
+    <div id="search" class="container-search options">
+        <div class="input-search options">
+            <input id="word-search" class="options" type="text" placeholder="Ingrese su búsqueda aquí...">
+            <button id="button-search" class="options" onclick="searchButton('es')"> <img src="/assets/pics/icons/search.png" class="options" alt=""></i></button>
+        </div>
+        <div class="result-search options"></div>
+    </div>
+
+    <!--Language Section-->
+    <div id="language" class="container-language options">
+        <button id='spain' class='spain-language options' onclick="location.href = 'index.html'"><img src="./assets/pics/icons/spain.png" alt="" class="options"><p>Español</p></button>
+        <button id='english' class='english-language options' onclick="location.href = 'index-en.html'"><img src="./assets/pics/icons/united-states.png" alt="" class="options"><p>Inglés</p></button>
+    </div>
+
+    <script src="/assets/js/loader.js"></script>
+
+    <script type="text/javascript">
+        function loadApp() {
+
+            $('#canvas').fadeIn(1000);
+
+
+            var flipbook = $('.magazine');
+
+            // Check if the CSS was already loaded
+
+            if (flipbook.width() == 0 || flipbook.height() == 0) {
+                setTimeout(loadApp, 10);
+
+                return;
+            }
+
+            // Create the flipbook
+
+            flipbook.turn({
+
+                height: $(window).height(),
+
+                // Duration in millisecond
+
+                duration: 1000,
+
+                // Hardware acceleration
+
+                acceleration: !isChrome(),
+
+                // Enables gradients
+
+                gradients: true,
+
+                // Auto center this flipbook
+
+                autoCenter: true,
+
+                // Elevation from the edge of the flipbook when turning a page
+
+                elevation: 50,
+
+                // The number of pages
+
+                pages: 54,
+
+                // Events
+
+                when: {
+                    turning: function(event, page, view) {
+
+                        var book = $(this),
+                            currentPage = book.turn('page'),
+                            pages = book.turn('pages'),
+                            turnPage = document.getElementById("turnPage");
+
+                        //Sonido cambio de página
+                        turnPage.play()
+
+                        // Update the current URI
+
+                        Hash.go('pagina/' + page).update();
+
+                        // Show and hide navigation buttons
+
+                        disableControls(page);
+
+                    },
+
+                    turned: function(event, page, view) {
+
+                        disableControls(page);
+
+                        $(this).turn('center');
+
+                        if (page == 1) {
+                            $(this).turn('peel', 'br');
+                        }
+
+                    },
+
+                    missing: function(event, pages) {
+
+                        // Add pages that aren't in the magazine
+                        for (var i = 0; i < pages.length; i++)
+                            addPage(pages[i], $(this), 'es');
+
+                    }
+                }
+
+            });
+
+            // Using arrow keys to turn the page
+
+            $(document).keydown(function(e) {
+
+                var previous = 37,
+                    next = 39,
+                    esc = 27;
+
+                switch (e.keyCode) {
+                    case previous:
+
+                        // left arrow
+                        $('.magazine').turn('previous');
+                        hideAudio()
+                        e.preventDefault();
+
+                        break;
+                    case next:
+
+                        //right arrow
+                        $('.magazine').turn('next');
+                        hideAudio()
+                        e.preventDefault();
+
+                        break;
+                }
+            });
+
+            // URIs - Format #/page/1 
+            //  window.location.hash.replace('#', '%23')
+            //console.log(window.location.hash.replace('#', '%23'));
+            //  console.log(window.location.hash);
+
+            Hash.on('^pagina\/([0-9]*)$', {
+                yep: function(path, parts) {
+                    var page = parts[1];
+
+                    if (page !== undefined) {
+                        if ($('.magazine').turn('is'))
+                            $('.magazine').turn('page', page);
+                    }
+
+                },
+                nop: function(path) {
+
+                    if ($('.magazine').turn('is'))
+                        $('.magazine').turn('page', 1);
+                }
+            });
+
+
+            $(window).resize(function() {
+                resizeViewport();
+            }).bind('orientationchange', function() {
+                resizeViewport();
+            });
+
+
+            // Regions
+
+            if ($.isTouch) {
+                $('.magazine').bind('touchstart', regionClick);
+            } else {
+                $('.magazine').click(regionClick);
+            }
+
+            // Events for the next button
+
+            $('.next-button').click(function() {
+
+                $('.magazine').turn('next');
+                hideAudio()
+
+            });
+
+            // Events for the previous button
+
+            $('.previous-button').click(function() {
+
+                $('.magazine').turn('previous');
+                hideAudio()
+
+            });
+
+            resizeViewport();
+
+            $('.magazine').addClass('animated');
+
+
+        }
+
+        $('#canvas').hide();
+
+
+        // Load the HTML4 version if there's not CSS transform
+
+        yepnope({
+            test: Modernizr.csstransforms,
+            yep: ['./assets/lib/turn.js'],
+            nope: ['./assets/lib/turn.html4.min.js'],
+            both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css', './assets/js/loader.js'],
+            complete: loadApp
+        });
+    </script>
+
+</body>
+
+</html>

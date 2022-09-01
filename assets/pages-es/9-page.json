@@ -1,0 +1,76 @@
+[{
+        "x": "46%",
+        "y": "2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "p",
+        "class": "section-magazine",
+        "data": {
+            "content": "SOY EMOCIONAL"
+        }
+    },
+    {
+        "x": "89%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-fb",
+        "class": "button-share-fb",
+        "text": "facebok",
+        "icon": "./assets/pics/icons/facebook.png",
+        "data": {
+            "page": 9,
+            "url": "http://www.facebook.com/sharer.php?u="
+        }
+    },
+    {
+        "x": "89%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-wpp",
+        "class": "button-share-wpp",
+        "text": "whatsapp",
+        "icon": "./assets/pics/icons/whatsapp.png",
+        "data": {
+            "page": 9,
+            "url": "http://api.whatsapp.com/send?text="
+        }
+    },
+    {
+        "x": "89%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-twi",
+        "class": "button-share-twi",
+        "text": "twitter",
+        "icon": "./assets/pics/icons/twiter.png",
+        "data": {
+            "page": 9,
+            "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }
+]

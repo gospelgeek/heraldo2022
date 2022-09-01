@@ -1,0 +1,79 @@
+[{
+    "x": "8%",
+    "y": "2%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "20%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "",
+    "data": {
+        "src": "./assets/pics/icons/logo_perfiles.png"
+    }
+}, {
+    "x": "-38%",
+    "y": "-1%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "94%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "p",
+    "class": "section-magazine",
+    "data": {
+        "content": "Algo más"
+    }
+}, {
+    "x": "10%",
+    "y": "5%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "77%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "",
+    "data": {
+        "src": "./assets/pics/titles/46.png"
+    }
+}, {
+    "x": "0%",
+    "y": "8%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "h1",
+    "class": "title",
+    "data": {
+        "content": "La angustia del duelo"
+    }
+}, {
+    "x": "8%",
+    "y": "33%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "text-biblical",
+    "data": {
+        "content": "<i>“Pero sed hacedores de la palabra, y no tan solo oidores, engañándoos a vosotros mismos”</i>"
+    }
+}, {
+    "x": "8%",
+    "y": "40%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "verse",
+    "data": {
+        "content": "<i>Santiago 1: 22-25 RV.1960</i>"
+    }
+}]

@@ -1,0 +1,53 @@
+[{
+    "x": "10%",
+    "y": "0%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "77%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "",
+    "data": {
+        "src": "./assets/pics/titles/40.png"
+    }
+}, {
+    "x": "0%",
+    "y": "6%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "h1",
+    "class": "title",
+    "data": {
+        "content": "Hacedoras de tu palabra"
+    }
+}, {
+    "x": "8%",
+    "y": "23%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "text-biblical",
+    "data": {
+        "content": "<i>“Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos.”.</i>"
+    }
+}, {
+    "x": "8%",
+    "y": "29%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "verse",
+    "data": {
+        "content": "<i>Santiago 1: 22-25 RV.1960</i>"
+    }
+}]

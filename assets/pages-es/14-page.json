@@ -1,0 +1,27 @@
+[{
+    "x": "0%",
+    "y": "6%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "h1",
+    "class": "title",
+    "data": {
+        "content": "No se turbe vuestro corazón, ni tengáis miedo"
+    }
+}, {
+    "x": "8%",
+    "y": "16%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "text-biblical",
+    "data": {
+        "content": "“La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo. Juan 14:27” Salmos 4:7"
+    }
+}]

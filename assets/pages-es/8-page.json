@@ -1,0 +1,162 @@
+[{
+        "x": "0%",
+        "y": "-2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/graphics/8.png"
+        }
+    }, {
+        "x": "10%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/titles/8.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "6%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "Qué son las emociones y por qué están allí"
+        }
+    }, {
+        "x": "13%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "70%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "p",
+        "class": "text-biblical",
+        "data": {
+            "content": "<i>“Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, y espíritu, y alma y cuerpo sea guardado irreprensible para la venida de nuestro Señor Jesucristo”</i>"
+        }
+    }, {
+        "x": "13%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "70%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "p",
+        "class": "verse",
+        "data": {
+            "content": "<i>(1 Tesalonicenses 5:23)</i>"
+        }
+    }, {
+        "x": "2%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "9%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/Flechatexto.png"
+        }
+    }, {
+        "x": "13%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "70%",
+        "height": "4%",
+        "fontSize": "4em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "Las emociones son un recurso dado por Dios que nos permiten sentir, dar sentido a la vida, a todo lo que experimentamos, a todo lo que vivimos; son las que nos permiten saborear la vida. Las emociones son reacciones psicofisiológicas (de nuestra mente y cuerpo) a los estímulos internos o externos que nos impresionan, y están influenciadas por la forma de pensar y actuar de cada individuo, su personalidad, su contexto familiar y sociocultural e influyen en el modo en que se percibe, valora y se actúa ante a una situación. "
+        }
+    },
+    {
+        "x": "65%",
+        "y": "76%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p8",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>QUÉ SON LAS EMOCIONES Y PORQUÉ ESTÁN ALLÍ<br><br>",
+            "content": "<i>“Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, y espíritu, y alma y cuerpo sea guardado irreprensible para la venida de nuestro Señor Jesucristo” (1 Tesalonicenses 5:23).</i><br><br>Dios creó al ser humano a su imagen y semejanza, lo creó un ser integral; con espíritu, alma y cuerpo, Génesis 1:26-27. Precisamente las emociones hacen parte del alma, y es hermoso cómo las Escrituras describen ese carácter emocional de Dios, su amor, compasión, gozo, ira, celo, alegría, tristeza. Juan 3:16; Lamentaciones 3:22; Isaías 62:5; Romanos 1:28; Éxodo 20:5; Jeremías 32:41; Juan 11:35.<br><br>Las emociones son un recurso dado por Dios que nos permiten sentir, dar sentido a la vida, a todo lo que experimentamos, a todo lo que vivimos; son las que nos permiten saborear la vida. Las emociones son reacciones psicofisiológicas (de nuestra mente y cuerpo) a los estímulos internos o externos que nos impresionan, y están influenciadas por la forma de pensar y actuar de cada individuo, su personalidad, su contexto familiar y sociocultural e influyen en el modo en que se percibe, valora y se actúa ante a una situación.<br><br>El manejo de las emociones determina los estados afectivos y estados del ánimo de cada persona, pues surgen del estado interno personal: Necesidades, motivaciones, deseos, propósito y experiencias de vida. Indiscutiblemente, la dimensión espiritual cumple un papel muy importante en cómo experimentamos las emociones; la Palabra de Dios nos insta a cuidar nuestro interior, vigilar nuestras intenciones, cuidar nuestras emociones,<i>“Sobre toda cosa guardada, guarda tu corazón; Porque de él mana la vida”</i>(Proverbios 4:23).<br><br>Las emociones son reacciones naturales y ocurren de manera espontánea, automática y son de corta duración. Una misma emoción puede generar diferentes sentimientos en una persona. Los sentimientos son el resultado de la elaboración que hace la mente de las emociones que experimentamos; es decir, la manera en que procesamos la emoción y la interpretamos, lo que nos hace conscientes de esa emoción. El sentimiento a diferencia de la emoción, es más duradero y determina nuestro estado de ánimo.<br><br><span>Las emociones básicas son: La alegría, la tristeza, el miedo, la ira, la sorpresa y la aversión.</span>La emoción es instintiva, natural, puede experimentarse de manera agradable o desagradable; en cambio los sentimientos, son el resultado de lo que decidimos hacer con la emoción e involucra nuestra voluntad y nuestro proceso interno personal, si puede ser positivo (alegría, amor, felicidad, compasión, gratitud, esperanza, entre otros) o negativo (envidia, hostilidad, frustración, ira, desesperanza, culpa, celos, entre otros.)<br><br>Como seres humanos experimentamos emociones agradables y desagradables, eso es natural, por tanto, no es sabio negar o censurar las emociones, por el contrario, debemos agradecer el poder sentir y experimentarlas, y pedir sabiduría a Dios para aprender a vivir las emociones. Asimismo, experimentamos no solo sentimientos positivos, también sentimientos negativos; lo importante es nuestra actitud y decisión frente a eso que sentimos, qué hacemos con lo que sentimos, qué atesoramos en el corazón y qué decidimos soltar a través del perdón. Lucas 6:45, 17:3-4, Mateo 6:15.<br><br>Como creyentes podemos enojarnos, sentir miedo, tristeza y experimentar las demás emociones y sentimientos, pues hacen parte de nuestra naturaleza humana, y podemos aprender que aun el Señor Jesús en su carne los experimentó. Juan 11:25; Marcos 3:4-6, 10:14; Lucas 7:13; Juan 2:15-17. Y lo que Él nos enseña es, que las emociones tienen un propósito para nuestro bien, y nos ha dado la capacidad para manejarlas de manera enriquecedora para la vida.<br><br>Aun aquellas emociones desagradables y sentimientos negativos, nos son útiles para salir de la zona de confort en la que muchas veces estamos, nos mueven a buscar un cambio de manera de pensar, de actitud, nos permiten darnos cuenta que podemos hacer mejor las cosas; que podemos ser mejores personas, construir una mejor relación con Dios, con nosotros mismos y con los demás.<br><br>En nuestra vida cristiana, las emociones nos permiten experimentar esa conexión especial con Dios. El libro de los Salmos es un fiel reflejo de cómo reconocer y expresar esas emociones a Dios; decirle lo que sentimos nos permite comprender lo que vivimos, sus propósitos para nuestra vida, y esa experiencia personal expresada a Dios en oración, nos conduce a crecer en comunión e intimidad con Él. Salmos 25:16, 94:19, 102:2, 118:24, 145:14.<br><br>Dios ha dado al ser humano inteligencia emocional, que es la capacidad de reconocer y manejar las emociones, una habilidad que se aprende desde niños. Como seres humanos aprender a manejar las emociones es algo constante en la vida, por ejemplo: Podemos aprender a ser más compasivos, a expresar nuestro enojo de manera más asertiva, a enfrentar nuestros miedos. Asimismo, se hace necesario desaprender formas no adecuadas de manejar las emociones, para aprender a ser más sabios en ello; ya que muchos aprendizajes en este sentido, están marcados por sentimientos negativos y heridas emocionales, como consecuencia de experiencias dolorosas y traumáticas aun desde la infancia; que han comprometido la salud mental, física y espiritual en la manera de vivir las emociones, afectando nuestras relaciones.<br><br>Es hermoso saber que Dios sana las heridas del corazón, “Él sana a los quebrantados de corazón, Y venda sus heridas” (Salmos 147:3). El perdón y amor de Dios, sana el corazón; y la obediencia a su Palabra trae alegría al corazón, Salmos 19:8. Dios en su Palabra, nos conduce a ser transformados por medio de la renovación de nuestras mentes, Romanos 12:1-2, y por el poder del Espíritu Santo produce en nosotros el dominio propio necesario para manejar nuestras emociones. Gálatas 5:22-23; Proverbios 3:5-8; Isaías 26:3; filipenses 4:7.<br><br>Es necesario rendir nuestro corazón a Dios para que sea sanado, y pedir a Dios la sabiduría para manejar las emociones, pensamientos, sentimientos y acciones, “Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.” (2 Timoteo 1:7).<i>“Más vale ser paciente que valiente; más vale el dominio propio que conquistar ciudades”</i> (Proverbios 16:3).<br><br>La mejor forma de manejar las emociones es conocer más a Dios a través de su Palabra y obedecerla, es crecer cada día en el caminar con Dios, en comunión con Él; a través de la oración y adoración, en un reconocimiento de su Señorío en nuestra vida, al estar dispuestos para hacer su voluntad. Solo así podemos discernir si nuestras emociones dictan lo que es agradable a Dios, sometiendo nuestra voluntad, emociones y sentimientos al querer y el hacer de Dios por su buena voluntad en nosotros; comprobando la voluntad de Dios, que nos conduce a lo bueno, agradable y perfecto. Salmos 119:105; Filipenses 2:13; Romanos 12:1-2.<br><br>Somos seres integrales y no debemos dejarnos llevar solo por las emociones, debemos aprender a controlar con la razón la emoción, que nuestra manera de pensar sea la de Cristo.<i>“… «¿Quién sabe lo que piensa el Señor? ¿Quién puede darle consejos?»</i>Pero nosotros tenemos el Espíritu de Dios, y por eso pensamos como Cristo” (1 Corintios 2:16, TLA).<br><br>Aprender a manejar las emociones es desarrollar la inteligencia emocional. Es necesario reconocer, aceptar, validar y gestionar nuestras emociones, así como la de los demás, y aprender a expresarlas de manera asertiva, y que sea de edificación para provecho. Esto mejora notablemente nuestras relaciones y nos ayuda a crecer en todo como personas. Poder sentirnos y vivirnos como humanos, nos conduce a reconocer la obra creadora de Dios que es hermosa, pues Él nos hizo, nos conoce, nos comprende, sabe lo que sentimos, Salmos 100:3, y como sus hijos nos da la sabiduría que necesitamos para vivir las emociones según su propósito, Santiago 1:5.<br><br>Ser inteligentes emocionalmente, posibilita el bienestar a nivel personal, en las relaciones interpersonales y con el entorno. Dios nos lleva a trascender a un nivel superior en el manejo de las emociones, y es el amor. A partir de la experiencia del amor divino que sana, restaura y nos conduce a amarnos a nosotros mismos y a nuestro prójimo como Él nos ama, Mateo 22:37-39, Juan 13:34-35, Jeremías 31:3; 1 Pedro 4:8; 1 Juan 4:8-21. Somos seres integrales, amar no solo implica la emoción sino todo el ser,<i>“Jesús le dijo: Amarás al Señor tu Dios con todo tu corazón, y con toda tu alma, y con toda tu mente”</i>(Mateo 22:37).<br><br>Esa paz de Dios reflejada en una vida de amor, perfecciona su obra en nuestro ser (espíritu, alma y cuerpo), para una vida de bendición, en la que podamos disfrutar y experimentar a través de cada emoción, todo lo hermoso que Dios nos concede vivir; y confiar en que Él es Poderoso y Fiel, para guardar nuestro corazón y nuestra vida irreprensible para su venida. 1 Tesalonicenses 5:23.<br><br><i>“Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús”</i>(Filipenses 4:7).<br><br>"
+        }
+    },
+    {
+        "x": "54%",
+        "y": "81%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "audio",
+        "id": "audio9",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": ""
+        }
+    },
+    {
+        "x": "65%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    },
+    {
+        "x": "59%",
+        "y": "91%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p8",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br><span>Momento para reflexionar…</span><br><br>",
+            "content": "Escribir es un ejercicio que facilita la reflexión y los nuevos aprendizajes. Dedica un espacio y tiempo para desarrollar la siguiente reflexión en un lugar tranquilo. Toma una hoja, cuaderno o agenda y un lápiz, y manos a la obra.<br><br><span>1.</span> De las seis emociones básicas (Alegría, tristeza, miedo, ira, aversión y sorpresa), ¿cuáles conoces más y cuáles te son menos conocidas? Consulta la definición y función de cada una y elige con cuáles te identificas más y cuales necesitas conocer más en ti. Es una oportunidad para aprender a conocer tus emociones.<br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'> Alegría</label><br><label><input type='checkbox' id='cbox2' value='Tristeza' onchange='getValueInputs(8)'> Tristeza</label><br><label><input type='checkbox' id='cbox3' value='Miedo' onchange='getValueInputs(8)'> Miedo</label><br><label><input type='checkbox' id='cbox4' value='Ira' onchange='getValueInputs(8)'> Ira</label><br><label><input type='checkbox' id='cbox5' value='Aversion' onchange='getValueInputs(8)'> Aversión</label><br><label><input type='checkbox' id='cbox6' value='Sorpresa' onchange='getValueInputs(8)'> Sorpresa</label><br><br><span>2</span>. Menciona los sentimientos positivos que te identifican y que te gustaría seguir potenciando en tu vida. Ejemplo:<li>Soy una mujer agradecida, compasiva, humilde…</li><br><textarea rows='5' cols='50' id='input2' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>3.</span> Menciona los sentimientos positivos que consideras necesitas y te gustaría aprender. Ejemplo:<li>Necesito aprender a ser más paciente, me gustaría ser más amable.</li><br><textarea rows='5' cols='50'id='input3' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>4.</span> Identifica los sentimientos negativos que necesitas trabajar en ti y plantea cómo puedes hacerlo. Ejemplo:<li>Guardo rencor cuando alguien me hiere, necesito aprender a perdonar.</li><li>Me enojo con facilidad y por mucho tiempo, necesito aprender a manejar el enojo, a expresarlo y resolverlo a tiempo.</li><br><textarea rows='5' cols='50' id='input4' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>5.</span> Realiza un acróstico con las letras de tu nombre a partir de las virtudes que te identifican. Descubre en cada virtud la emoción y sentimientos que  te caracterizan. Ejemplo:<br><br><span class='acrostico'>E</span>sforzada. Siento satisfacción al hacer las cosas bien, no me gustan las cosas a medias…<br><span class='acrostico'>S</span>incera. No me gusta la hipocresía, valoro la verdad, me gusta ser confiable…<br><span class='acrostico'>T</span>rabajadora. Me hace feliz lo que hago, me siento bendecida por las capacidades y oportunidad que Dios me da para hacer las cosas…<br><span class='acrostico'>E</span>mpática. Amo a cada persona por lo que es, me sorprende que cada persona es diferente…<br><span class='acrostico'>R</span>isueña. Me alegra las alegrías de otros, me aburre la seriedad en todo, me encanta ver sonreír a otros…<br><br><textarea rows='5' cols='50' id='input5' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>6.</span> Lee los textos bíblicos citados en el artículo, y escribe lo que Dios te ha acerca de tus emociones.<br><br><textarea rows='5' cols='50' id='input6' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>7.</span> Lee y comparte este ejercicio de reflexión con alguien significativo para ti, y pídele que te cuente qué le pareció esta reflexión acerca de ti.<br><br><textarea rows='5' cols='50' id='input7' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br>"
+        }
+    }
+]

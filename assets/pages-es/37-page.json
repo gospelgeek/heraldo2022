@@ -1,0 +1,109 @@
+[{
+        "x": "43%",
+        "y": "2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "p",
+        "class": "section-magazine",
+        "data": {
+            "content": "Recursos divinos"
+        }
+    },
+    {
+        "x": "70%",
+        "y": "43%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.7em",
+        "tag": "modal",
+        "id": "modal-p37",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br><br><br>",
+            "content": ""
+        }
+    },
+    {
+        "x": "58%",
+        "y": "48%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "audio",
+        "id": "audio37",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": ""
+        }
+    },
+    {
+        "x": "70%",
+        "y": "53%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    }, {
+        "x": "25%",
+        "y": "52%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "9%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/Flechatexto.png"
+        }
+    },
+    {
+        "x": "66%",
+        "y": "58%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p37",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br><br><br>"
+        }
+    }
+]

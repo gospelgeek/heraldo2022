@@ -1,0 +1,543 @@
+/*General Styles*/
+
+h1,
+h2 {
+    margin: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 1.4;
+    margin: 0;
+    text-align: justify;
+}
+
+.blocker {
+    z-index: 100 !important;
+}
+
+span {
+    font-weight: bold;
+}
+
+.acrostico {
+    font-size: 1.8em;
+}
+
+
+/*Tooltip*/
+
+.contentAuthor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentAuthor p {
+    width: 42%;
+    float: right;
+}
+
+.photoAuthor {
+    border-radius: 100%;
+    width: 38px !important;
+    height: 38px;
+}
+
+
+/*Magazine text*/
+
+.text-biblical {
+    font-family: 'Belgrano', serif;
+}
+
+.text-introductory,
+.button-magazine {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/*Magzine pagination*/
+
+.number-page {
+    position: absolute;
+    font-size: .8em;
+    bottom: 45px;
+    z-index: 10;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.even .number-page {
+    left: 55px;
+    transform: scale(1);
+    animation: pulse 2s 3;
+}
+
+.odd .number-page {
+    right: 55px;
+    transform: scale(1);
+    animation: pulse-2 2s 4;
+}
+
+@media only screen and (max-width: 468px) {
+    .number-page {
+        bottom: 28px;
+    }
+    .even .number-page {
+        left: 36px;
+    }
+    .odd .number-page {
+        right: 36px;
+    }
+}
+
+
+/*Section title*/
+
+.section-magazine,
+.section {
+    font-weight: bold;
+    font-style: italic;
+    cursor: context-menu;
+}
+
+.section-magazine p {
+    width: 25%;
+    float: right;
+    background-color: #ffa800;
+    padding: 5% 3% 2% 0%;
+    border-radius: 0 0 89px 89px;
+    font-weight: bold;
+    text-align: right;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+
+/*Buttons read, listen and print*/
+
+.region {
+    z-index: 10;
+}
+
+.button-magazine {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.button-magazine img {
+    width: 6% !important;
+    border-radius: 100%;
+    box-shadow: 3px 3px 8px grey;
+    animation: pulse 2s 3;
+}
+
+.button-read img {
+    animation: pulse 2s 3;
+}
+
+.button-magazine p {
+    margin-right: 2%;
+}
+
+
+/*Button audio*/
+
+.audioPage {
+    display: none;
+}
+
+audio {
+    display: flex;
+    position: absolute;
+    width: 68%;
+    height: 26px;
+    margin-top: 1%;
+    right: 60%;
+}
+
+
+/*Modal*/
+
+.modal {
+    max-width: unset !important;
+    width: 50% !important;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+@media only screen and (max-width: 468px) {
+    .modal {
+        width: 100% !important;
+        height: 77%;
+    }
+}
+
+.inputStorage {
+    width: 98%;
+}
+
+.header-modal h1 {
+    font-size: 1.1em;
+}
+
+.body-modal p {
+    font-size: .9em;
+    overflow-y: auto;
+    line-height: 1.6;
+}
+
+.modal a.close-modal {
+    background-color: red;
+    width: 25px !important;
+    height: 25px !important;
+    position: fixed !important;
+    border-radius: 100%;
+    box-shadow: 3px 3px 8px grey;
+    top: 24px !important;
+    right: 27%!important;
+    background-image: url(/assets/pics/icons/x.png) !important;
+}
+
+
+/*Page 2*/
+
+.p2 .backPage2 {
+    width: 200% !important;
+}
+
+.p2 .to-page:hover,
+.p3 .to-page:hover {
+    opacity: 0.5;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=50);
+}
+
+.p2 .to-page p,
+.p3 .to-page p,
+.section {
+    margin: 0;
+    padding-left: 7%;
+    cursor: pointer;
+}
+
+
+/*Page 3*/
+
+.p3 .backPage3 {
+    width: 200% !important;
+    float: right;
+}
+
+
+/*Page 4*/
+
+
+/*Social Media Buttons*/
+
+#button-fb,
+#button-wpp,
+#button-twi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    transform: scale(1);
+}
+
+#button-fb img,
+#button-wpp img,
+#button-twi img {
+    width: 60% !important;
+    box-shadow: none;
+}
+
+#button-fb:hover,
+#button-wpp:hover,
+#button-twi:hover {
+    transform: scale(1.1);
+}
+
+.button-share-fb,
+.button-share-wpp,
+.button-share-twi {
+    bottom: 38px;
+}
+
+@media only screen and (max-width: 468px) {
+    #button-fb,
+    #button-wpp,
+    #button-twi {
+        width: 100%;
+        height: 30px;
+    }
+    .button-share-fb,
+    .button-share-wpp,
+    .button-share-twi {
+        bottom: 28px !important;
+    }
+    .button-share-fb {
+        left: 64% !important;
+    }
+    .button-share-wpp {
+        left: 74% !important;
+    }
+}
+
+
+/*Page 8*/
+
+.p8 .title,
+.p10 .title,
+.p40 .title,
+.p46 .title {
+    visibility: hidden;
+}
+
+.p8 .text-biblical p {
+    text-align: justify;
+}
+
+.p8 .verse p {
+    text-align: center;
+}
+
+.p8 .button-magazine {
+    color: #ffffff;
+}
+
+.p8 .backPage8,
+.p10 .backPage10,
+.p36 .backPage36,
+.p38 .backPage38 {
+    width: 200% !important;
+    float: left;
+}
+
+
+/*Page 9*/
+
+.p9 .button-share-fb {
+    bottom: 84%;
+}
+
+.p9 .button-share-twi {
+    bottom: 78%;
+}
+
+.p9 .button-share-wpp {
+    bottom: 72%;
+}
+
+.p9 .backPage9,
+.p11 .backPage11,
+.p37 .backPage37,
+.p39 .backPage39 {
+    width: 200% !important;
+    float: right;
+}
+
+@media only screen and (max-width: 468px) {
+    .p9 #button-fb,
+    .p9 #button-wpp,
+    .p9 #button-twi {
+        width: 100%;
+        height: 30px;
+    }
+    .p9 .button-share-fb {
+        bottom: 80% !important;
+        left: 88% !important;
+    }
+    .p9 .button-share-twi {
+        bottom: 72% !important;
+        left: 88% !important;
+    }
+    .p9 .button-share-wpp {
+        bottom: 64% !important;
+        left: 88% !important;
+    }
+    .p10 .button-share-fb,
+    .p10 .button-share-twi,
+    .p10 .button-share-wpp,
+    .p36 .button-share-fb,
+    .p36 .button-share-twi,
+    .p36 .button-share-wpp {
+        bottom: 21px !important;
+    }
+    .p10 .button-share-wpp {
+        left: 80% !important;
+    }
+    .p36 .button-share-twi {
+        left: 72% !important;
+    }
+    .p36 .button-share-wpp {
+        left: 80% !important;
+    }
+}
+
+.circle {
+    z-index: 0;
+}
+
+
+/*Page 10*/
+
+.p10 .text-biblical p,
+.p38 .text-biblical p,
+.p40 .text-biblical p,
+.p46 .text-biblical p {
+    text-align: center;
+}
+
+.p10 .verse p,
+.p38 .verse p,
+.p40 .verse p,
+.p46 .verse p {
+    text-align: center;
+}
+
+
+/*Page 11*/
+
+.p11 .section-magazine p {
+    background-color: #b41015;
+    color: #ffffff;
+}
+
+
+/*Page 31*/
+
+.p5 .section-magazine p,
+.p31 .section-magazine p,
+.p43 .section-magazine p,
+.p45 .section-magazine p,
+.p46 .section-magazine p,
+.p49 .section-magazine p,
+.p51 .section-magazine p,
+.p53 .section-magazine p {
+    text-align: center;
+    padding: 5% 0% 2% 0%;
+}
+
+.p33 .section-magazine p,
+.p35 .section-magazine p,
+.p37 .section-magazine p,
+.p39 .section-magazine p,
+.p41 .section-magazine p {
+    width: 29%;
+}
+
+
+/*Page 36*/
+
+.p36 .button-share-fb {
+    bottom: 20%;
+}
+
+.p36 .button-share-twi {
+    bottom: 15%;
+}
+
+.p36 .button-share-wpp {
+    bottom: 10%;
+}
+
+
+/*Page 37*/
+
+.p37 .section-magazine p {
+    background-color: #e8cdbd;
+    color: #856955;
+}
+
+
+/*page 38*/
+
+.p38 .text-biblical p {
+    color: #ffffff;
+}
+
+.p38 .verse p {
+    color: #ffffff;
+}
+
+.p38 .text-introductory p {
+    color: #ffffff;
+}
+
+.p38 .button-magazine p {
+    color: #ffffff;
+}
+
+
+/*Page 40*/
+
+.p40 .text-biblical p,
+.p41 .text-introductory p {
+    color: #ffffff;
+}
+
+.p40 .verse p {
+    color: #ffffff;
+}
+
+.videoPages {
+    overflow-x: hidden !important;
+}
+
+.p40 video,
+.p46 video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-height: 100%;
+    min-width: 100%;
+    overflow-x: hidden;
+}
+
+.p41 video,
+.p47 video {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    max-height: 100%;
+    min-width: 100%;
+    overflow-x: hidden !important;
+}
+
+
+/*Page 46*/
+
+.p46 .text-biblical p,
+.p47 .text-introductory p {
+    color: #ffffff;
+}
+
+.p46 .verse p {
+    color: #ffffff;
+}
+
+.p46 .section-magazine p {
+    background-color: #c8b7ab;
+}
+
+
+/*Page 47*/
+
+.p47 .text-introductory p {
+    background-color: #00000096;
+    padding: 15% 8%;
+    border-radius: 0 0 20% 0;
+}
+
+.p47 .button-magazine p {
+    color: #ffffff;
+}
