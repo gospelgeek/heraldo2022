@@ -133,9 +133,8 @@ span {
 }
 
 .button-magazine img {
-    width: 6% !important;
+    width: 9% !important;
     border-radius: 100%;
-    box-shadow: 3px 3px 8px grey;
     animation: pulse 2s 3;
 }
 
@@ -540,4 +539,20 @@ audio {
 
 .p47 .button-magazine p {
     color: #ffffff;
+}
+
+.btn-normal-23 {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+    justify-items: center;
+    align-items: center;
+    width: 7em ;
+    height: 2.4em;
+    border-radius: 0.5em;
+    text-decoration: none;
+}
+
+.boton-normal-text-23 {
+    font-family: 'Montserrat', sans-serif;
 }

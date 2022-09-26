@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "x": "42%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "8%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "",
+        "icon": "./assets/pics/icons/iconEscucha.png",
+        "data": {
+        }
+    },
+    {
+        "x": "52%",
+        "y": "80.9%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "print",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": {
+
+        }
+    },
+    {
+        "x": "40%",
+        "y": "73%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "btn-normal",
+        "class": "",
+        "text": "",
+        "data": {
+           "text": "Leer Mas"
+        }
+    }
+    
+]
