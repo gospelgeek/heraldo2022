@@ -133,9 +133,8 @@ span {
 }
 
 .button-magazine img {
-    width: 6% !important;
+    width: 9% !important;
     border-radius: 100%;
-    box-shadow: 3px 3px 8px grey;
     animation: pulse 2s 3;
 }
 
@@ -540,4 +539,11 @@ audio {
 
 .p47 .button-magazine p {
     color: #ffffff;
+}
+
+.btn-normal-23 {
+    background-color: #b41015;
+    color: #ffffff;
+    width: 20em !important;
+    height: 2em;
 }
