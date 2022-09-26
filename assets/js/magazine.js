@@ -25,9 +25,9 @@
 
            if (page !== 1 && page !== pages) {
                if (lang == 'es') {
-                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edición 16 - 2022</div>');
+                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
                } else {
-                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edition 16 - 2022</div>');
+                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
                }
            } else {
                element.html('<div class="gradient"></div>');
