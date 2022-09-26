@@ -318,7 +318,7 @@ audio {
 .p10 .backPage10,
 .p36 .backPage36,
 .p38 .backPage38 {
-    width: 200% !important;
+    width: 100% !important;
     float: left;
 }
 
@@ -341,7 +341,7 @@ audio {
 .p11 .backPage11,
 .p37 .backPage37,
 .p39 .backPage39 {
-    width: 200% !important;
+    width: 100% !important;
     float: right;
 }
 
