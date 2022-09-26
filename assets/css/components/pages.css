@@ -542,8 +542,17 @@ audio {
 }
 
 .btn-normal-23 {
-    background-color: #b41015;
-    color: #ffffff;
-    width: 20em !important;
-    height: 2em;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+    justify-items: center;
+    align-items: center;
+    width: 7em ;
+    height: 2.4em;
+    border-radius: 0.5em;
+    text-decoration: none;
+}
+
+.boton-normal-text-23 {
+    font-family: 'Montserrat', sans-serif;
 }
