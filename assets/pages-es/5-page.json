@@ -7,10 +7,41 @@
         "width": "9%",
         "height": "4%",
         "fontSize": "8em",
-        "tag": "img",
+        "tag": "boton",
         "class": "",
         "data": {
             "src": "./assets/pics/icons/book.png"
         }
+    },
+    {
+        "x": "46%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "8%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "",
+        "icon": "./assets/pics/icons/iconEscucha.png",
+        "data": {
+        }
+    },
+    {
+        "x": "56%",
+        "y": "80.5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "8%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": {
+        }
     }
+    
 ]
