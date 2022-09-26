@@ -1,5 +1,16 @@
 [
     {
-        
+        "x": "30%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "9%",
+        "height": "4%",
+        "fontSize": "8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/book.png"
+        }
     }
 ]
