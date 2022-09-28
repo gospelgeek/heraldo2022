@@ -33,7 +33,23 @@
         "class": "",
         "text": "",
         "data": {
-           "text": "Leer Mas"
+           "text": "Leer Mas",
+           "url": "#"
+        }
+    },
+    {
+        "x": "0",
+        "y": "27%",
+        "width": "100%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "title-content",
+        "style": "font-size: 2em; color: #a92021",
+        "text": "",
+        "data": {
+           "text": "Titulo",
+           "url": "#"
         }
     }
     
