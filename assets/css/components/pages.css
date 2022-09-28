@@ -556,3 +556,42 @@ audio {
 .boton-normal-text-23 {
     font-family: 'Montserrat', sans-serif;
 }
+
+.div-center-ubication-responsive {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 100%;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+.div-center-two-icons-responsive {
+    display: grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    justify-items: center;
+    width: 4.5em;
+}
+
+
+/*
+   Media Queries
+*/
+@media screen and (max-width: 600px) {
+
+    .btn-normal-23 {
+        width: 5em;
+        height: 2em;
+    }
+    .boton-normal-text-23 {
+        font-size: 0.8em !important;
+    }
+    .div-center-two-icons-responsive  {
+        width: 3.5em;
+    }
+    
+}
