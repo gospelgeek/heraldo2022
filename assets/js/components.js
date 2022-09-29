@@ -45,10 +45,10 @@ const addComponents = (region, lang) => {
             element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a href="${ (region.data)[0].url }"><img src="${(region.data)[0].icon}" ></a> <a href="${ (region.data)[1].url }"><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
             break;
         case 'title-content':
-            element = (`<div class="div-center-ubication-responsive"><span style="${region.style}" >${(region.data).text}</span></div>`)
+            element = (`<div class="div-center-ubication-responsive"><span class="responsive-font" style="${region.style}" >${(region.data).text}</span></div>`)
             break;
         case 'content-text':
-            element = (`<div class="div-center-ubication-responsive"><div style="width: 80%; heiht: 80%"> <span style="${region.style}" >${(region.data).text}</span> </div> </div>`)
+            element = (`<div class="div-center-ubication-responsive"><div style="width: 80%; heiht: 80%"> <span class="responsive-font-content" style="${region.style}" >${(region.data).text}</span> </div> </div>`)
             break;
         case 'botones-idomas':
             element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 33.3% 33.3% 33.3%;" class="div-center-two-icons-responsive" > ${`<a href="${ (region.data)[0].url }"><img src="${(region.data)[0].icon}" ></a> <a href="${ (region.data)[1].url }"><img src="${(region.data)[1].icon}" ></a> <a href="${ (region.data)[2].url }"><img src="${(region.data)[2].icon}" ></a>`} </div> </div>`)

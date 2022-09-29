@@ -682,5 +682,11 @@ audio {
         width: 80%;
         height: 80%;
     }
+    .responsive-font {
+        font-size: 0.9em !important;
+    }
+    .responsive-font-content {
+        font-size: 0.5em !important;
+    }
     
 }
