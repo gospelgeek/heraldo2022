@@ -29,7 +29,7 @@ const hideAudio = () => {
 
 //event click of read more
 const clickReadMore = () => {
-    alert('read more')
+   $('.read-more-box').removeClass('display-none')
 }
 
 
@@ -52,4 +52,12 @@ $('.read-more-box').on('click', function( event ) {
     event.preventDefault();
 
     console.log('color', $(this).css('background-color'))
+});
+
+//evento click para quitar el read more
+$('.read-more-close').on('click', function( event ) {
+    //prevent the default action for the click event
+    event.preventDefault();
+
+    $(this).parent().parent().addClass('display-none')
 });

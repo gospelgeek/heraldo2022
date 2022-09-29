@@ -551,6 +551,7 @@ audio {
     height: 2.4em;
     border-radius: 0.5em;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .boton-normal-text-23 {
@@ -615,6 +616,7 @@ audio {
     position: absolute;
     right: 1em;
     top: 1em;
+    cursor: pointer;
 }
 
 .read-more-text {
@@ -631,6 +633,10 @@ audio {
 
 ::-webkit-scrollbar {
     display: none;
+}
+
+.display-none {
+    display: none !important;
 }
 
 /*
