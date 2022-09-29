@@ -39,7 +39,16 @@ const addComponents = (region, lang) => {
             element = '<a href="' + region.data.url + "" + doClick(region.data.page, lang) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
             break;
         case 'btn-normal':
-            element = (`<a style="background-color: ${region['background-color']}" class='btn-normal-23'  xmlns="http://www.w3.org/1999/xhtml" href="${region.data.url}" target="blank" id="${region.id}"><span style="color: ${region.color}; font-size: ${region['font-size']}" class="boton-normal-text-23">${(region.data).text}</span></a>`)
+            element = (`<div class="div-center-ubication-responsive"> <a onClick="clickReadMore()" style="background-color: ${region['background-color']}; z-index: 1000;" class='btn-normal-23'   target="_blank" id="${region.id}"><span style="color: ${region.color}; font-size: ${region['font-size']}" class="boton-normal-text-23">${(region.data).text}</span></a> </div>`)
+            break;
+        case 'btn-normal-2':
+            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a href="${ (region.data)[0].url }"><img src="${(region.data)[0].icon}" ></a> <a href="${ (region.data)[1].url }"><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
+            break;
+        case 'title-content':
+            element = (`<div class="div-center-ubication-responsive"><span style="${region.style}" >${(region.data).text}</span></div>`)
+            break;
+        case 'content-text':
+            element = (`<div class="div-center-ubication-responsive"><div style="width: 80%; heiht: 80%"> <span style="${region.style}" >${(region.data).text}</span> </div> </div>`)
             break;
         default:
             break;
