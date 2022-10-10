@@ -37,11 +37,22 @@ const clickReadMore = async () => {
     let url_href = window.location.href;
     let url = new URL(url_href);
     let id_page = (url.href).split('#')[1].split('/')[1];
+    
+    if (id_page !== undefined && id_page !== '')  {
+
     json = await getPagesJson(id_page);
     let text_insert = json.find(x => x._id == 'text-read-more').text
 
     $('.read-more-text').html(text_insert)
 
+    }
+
+}
+
+//event click of lenguage
+const clickLenguage = () => {
+    
+    addPage(page, book, lang)
 }
 
 
