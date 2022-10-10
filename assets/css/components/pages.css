@@ -605,6 +605,7 @@ audio {
     height: 90%;
     padding: 1em;
     background-color: #ffffff;
+    background-image: url('../../pics/backgrounds/bg-modal.jpg');
     box-shadow: 0 0 10px #4e4e4e;
     border-radius: 0.7em;
     z-index: 99999;

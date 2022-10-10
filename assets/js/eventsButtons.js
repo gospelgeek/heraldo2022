@@ -28,8 +28,20 @@ const hideAudio = () => {
 }
 
 //event click of read more
-const clickReadMore = () => {
-   $('.read-more-box').removeClass('display-none')
+const clickReadMore = async () => {
+
+    //poner visible la caja de texto
+    $('.read-more-box').removeClass('display-none')
+
+    //capturar los parametros de la url
+    let url_href = window.location.href;
+    let url = new URL(url_href);
+    let id_page = (url.href).split('#')[1].split('/')[1];
+    json = await getPagesJson(id_page);
+    let text_insert = json.find(x => x._id == 'text-read-more').text
+
+    $('.read-more-text').html(text_insert)
+
 }
 
 
@@ -46,18 +58,27 @@ btnNav.addEventListener('click', () => {
 });
 
 
-//evento click para quitar el read more
-$('.read-more-box').on('click', function( event ) {
-    //prevent the default action for the click event
-    event.preventDefault();
-
-    console.log('color', $(this).css('background-color'))
-});
 
 //evento click para quitar el read more
-$('.read-more-close').on('click', function( event ) {
+$('.read-more-close').on('click', function (event) {
     //prevent the default action for the click event
     event.preventDefault();
 
     $(this).parent().parent().addClass('display-none')
 });
+
+
+//capturar el json de la pagina actual
+async function getPagesJson(page) {
+
+    try {
+
+        const response = await fetch(`./assets/pages-es/${page}-page.json`);
+        const data = await response.json();
+        return data;
+
+    } catch (error) {
+        console.log(error)
+    }
+
+}
