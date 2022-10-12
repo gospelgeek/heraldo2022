@@ -41,7 +41,7 @@ const clickReadMore = async () => {
 
     if (id_page !== undefined && id_page !== '') {
 
-        json = await getPagesJson(id_page);
+        json = await getPagesJson(id_page,0);
         let text_insert = json.find(x => x._id == 'text-read-more').text
 
         //insertar el texto en la caja de texto
@@ -55,12 +55,11 @@ const clickReadMore = async () => {
 const clickLenguage = async () => {
 
     page = 5
-    json = await getPagesJson(5);
+    json = await getPagesJson(5,0);
     data = $('#page-wrapper-4')
-   
-    $('#content-inter-5').html(json.find(x => x._id == 'text-read-more').text)
-    //$(data).appendTo('#page-wrapper-5')
-  
+    add_components_page(null, page, null)
+    $('#content-inter-5').html(change_info_page_lengauage(5))
+
 }
 
 
@@ -88,16 +87,103 @@ $('.read-more-close').on('click', function (event) {
 
 
 //capturar el json de la pagina actual
-async function getPagesJson(page) {
+async function getPagesJson(page , type) {
 
     try {
-
-        const response = await fetch(`./assets/pages-es/${page}-page.json`);
+        const array = {
+            "0": {
+                fetch: `./assets/pages-es/${page}-page.json`
+            },
+            "1": {
+                fetch: `./assets/json_Languages/languages.json`
+            }
+        }
+        const response = await fetch((array[type]).fetch);
         const data = await response.json();
         return data;
 
     } catch (error) {
         console.log(error)
+    }
+
+}
+
+
+/**
+ * @dec Simular el proceso de creacion de los componentes
+*/
+function change_info_page_lengauage(page) {
+
+    //crear el div padre
+    if (checkMobile()) {
+        element = $(`<div id="content-inter-${page}" />`, { class: 'hard' });
+    } else {
+        element = $(`<div id="content-inter-${page}" />`, {});
+    }
+
+    if (page % 2 == 0) {
+        element.addClass('even')
+    } else {
+        element.addClass('odd')
+    }
+
+    //Insertar html para saber en pagina se encuentra
+    element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
+
+    insert_img_background(page, element)
+    loadRegions(page, element, 'es')
+
+    return element
+
+}
+
+
+
+/**
+ * @dec insertar imagen de fondo
+*/
+function insert_img_background(page, pageElement) {
+
+    var img = $('<img />', { class: 'backPage' + page });
+
+    img.mousedown(function (e) {
+        e.preventDefault();
+    });
+
+    img.load(function () {
+
+        // Set the size
+        $(this).css({ width: '100%', height: '100%' });
+
+        // Add the image to the page after loaded
+
+        $(this).appendTo(pageElement);
+
+        // Remove the loader indicator
+
+        pageElement.find('.loader').remove();
+    });
+
+    // Load the page
+    checkImage('../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
+
+}
+
+async function add_components_page(element, page, lang) {
+
+    try {
+    
+    //sacar la informacion de la pagina
+    json = await getPagesJson(5,1);
+    let data = (json[page])[lang]
+
+    console.log(data)
+
+    //addRegion(region, element, 'es', page);
+
+
+    } catch (error) {
+        console.log(error)   
     }
 
 }
