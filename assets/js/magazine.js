@@ -7,7 +7,7 @@
 
        // Create a new element for this page
        if (checkMobile()) {
-           var element = $('<div />', { class: 'hard' });
+           var element = $(`<div id="content-inter-${page}" />`, { class: 'hard' });
        } else {
            var element = $(`<div id="content-inter-${page}" />`, {});
 

@@ -52,13 +52,12 @@ const clickReadMore = async () => {
 }
 
 //event click of lenguage
-const clickLenguage = async () => {
+const clickLenguage = async (e) => {
 
     page = 5
-    json = await getPagesJson(5,0);
-    data = $('#page-wrapper-4')
-    add_components_page(null, page, null)
-    $('#content-inter-5').html(change_info_page_lengauage(5))
+    lang = e['id']
+   
+    $(`#content-inter-${page}`).html(change_info_page_lengauage(page,lang))
 
 }
 
@@ -112,7 +111,7 @@ async function getPagesJson(page , type) {
 /**
  * @dec Simular el proceso de creacion de los componentes
 */
-function change_info_page_lengauage(page) {
+function change_info_page_lengauage(page,lang) {
 
     //crear el div padre
     if (checkMobile()) {
@@ -131,8 +130,9 @@ function change_info_page_lengauage(page) {
     element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
 
     insert_img_background(page, element)
-    loadRegions(page, element, 'es')
 
+    if (lang !== 'espana') { add_components_page(element, page, lang) } else { loadRegions(page, element, 'es') }
+    
     return element
 
 }
@@ -179,8 +179,9 @@ async function add_components_page(element, page, lang) {
 
     console.log(data)
 
-    //addRegion(region, element, 'es', page);
-
+    data.map((region, index) => {
+      addRegion(region, element, 'es', page);
+    })
 
     } catch (error) {
         console.log(error)   
