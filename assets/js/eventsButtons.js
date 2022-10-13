@@ -36,12 +36,19 @@ const clickReadMore = async (e) => {
     //saber si estoy dando click en la pagina derecha o izquierda
     /*(($($(`#${e.replace("+", "").replace("+", "")}`).parent().parent().parent()).hasClass('odd')))*/
     let id_page = (e.replace("+", "").replace("+", "")).split('-')[2]
+    let lang = (e.replace("+", "").replace("+", "")).split('-')[1]
 
-    console.log(id_page)
+    console.log(id_page , (e.replace("+", "").replace("+", "")).split('-')[1] ) 
+
     if (id_page !== undefined && id_page !== '') {
 
-        json = await getPagesJson(id_page, 0);
-        let text_insert = json.find(x => x._id == 'text-read-more').text
+        json = await getPagesJson(id_page, (lang !== 'espanol')? 1 : 0);
+
+        if (lang !== 'espanol') {
+         text_insert = ((json[id_page])[lang]).find(x => x._id == 'text-read-more').text
+        } else {
+         text_insert = json.find(x => x._id == 'text-read-more').text
+        }
 
         //insertar el texto en la caja de texto
         $('.read-more-text').html(text_insert)
