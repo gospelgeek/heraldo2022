@@ -22,5 +22,15 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "x": "60%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "botones-idomas",
+        "text": ""
     }
 ]

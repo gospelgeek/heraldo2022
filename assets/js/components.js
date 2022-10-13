@@ -11,7 +11,7 @@ const addComponents = (region, lang) => {
             element = addSVG('<h1 style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml">' + region.data.content + '</h1>', region)
             break;
 
-        case 'img':
+        case 'im g':
             element = '<img src=' + region.data.src + '>'
             break;
 
