@@ -1,0 +1,134 @@
+{
+    "5": {
+        "francia": [
+            {
+                "x": "0",
+                "y": "80.9%",
+                "viewX": 1800,
+                "viewY": 100,
+                "width": "100%",
+                "height": "20%",
+                "fontSize": "5em",
+                "tag": "btn-normal-2",
+                "class": "",
+                "text": "",
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/iconEscucha.png",
+                        "url": "#"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/iconImprimir.png",
+                        "url": "#"
+                    }
+                ]
+            },
+            {
+                "x": "0",
+                "y": "73%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "btn-normal",
+                "class": "",
+                "id": "btn-francia-5",
+                "text": "",
+                "data": {
+                    "text": "Lire plus",
+                    "url": "#"
+                }
+            },
+            {
+                "x": "0",
+                "y": "30%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "title-content",
+                "style": "font-size: 1.1em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "text": "",
+                "data": {
+                    "text": "Celui qui croit en moi, comme le dit l'Ecriture….",
+                    "url": "#"
+                }
+            },
+            {
+                "x": "0",
+                "y": "40%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "style": "font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "text": "",
+                "data": {
+                    "text": "<p><span style='color: #a92021; font-size: 2em'>S</span>alutation fraternelle à tous nos frères au nom de Jésus. En pensant au thème qui occupe cette nouvelle édition intitulée “Comme le dit l'Ecriture”, je dois dire que sa Parole est le flambeau qui éclaire notre chemin et dirige notre destinée</p> <p style='padding-top: 0.5em'> Dans le but de promouvoir des outils qui contribuent à notre croissance et à notre formation, le Consistoire des Anciens, cherchant toujours à agir sous la direction de Dieu dans toutes nos actions ; reprend le thème de notre précédent numéro intitulé “La foi toujours”, en l'orientant vers notre style de vie chrétien et propose ainsi notre nouvelle devise : “Comme disent les Ecritures”.</p>"
+                }
+            },
+            {
+                "x": "6%",
+                "y": "9%",
+                "width": "50%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "botones-idomas",
+                "text": "",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/francia.png",
+                        "url": "#",
+                        "id": "4-espanol-5-francia"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/brasil.png",
+                        "url": "#",
+                        "id": "4-espanol-5-brasil"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/espana.png",
+                        "url": "#",
+                        "id": "4-espanol-5-espana"
+                    }
+                ]
+            },
+            {
+                "_id": "text-read-more",
+                "text": "Frances"
+            }
+        ],
+        "brasil": [
+            {
+                "x": "6%",
+                "y": "9%",
+                "width": "50%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "botones-idomas",
+                "text": "",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/francia.png",
+                        "url": "#",
+                        "id": "4-espanol-5-francia"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/brasil.png",
+                        "url": "#",
+                        "id": "4-espanol-5-brasil"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/espana.png",
+                        "url": "#",
+                        "id": "4-espanol-5-espana"
+                    }
+                ]
+            }
+        ]
+    }
+}
