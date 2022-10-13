@@ -28,20 +28,19 @@ const hideAudio = () => {
 }
 
 //event click of read more
-const clickReadMore = async () => {
+const clickReadMore = async (e) => {
 
     //poner visible la caja de texto
     $('.read-more-box').removeClass('display-none')
 
-    //capturar los parametros de la url
-    let url_href = window.location.href;
-    let url = new URL(url_href);
-    let id_page = (url.href).split('#')[1].split('/')[1];
+    //saber si estoy dando click en la pagina derecha o izquierda
+    /*(($($(`#${e.replace("+", "").replace("+", "")}`).parent().parent().parent()).hasClass('odd')))*/
+    let id_page = (e.replace("+", "").replace("+", "")).split('-')[2]
 
-
+    console.log(id_page)
     if (id_page !== undefined && id_page !== '') {
 
-        json = await getPagesJson(id_page,0);
+        json = await getPagesJson(id_page, 0);
         let text_insert = json.find(x => x._id == 'text-read-more').text
 
         //insertar el texto en la caja de texto
@@ -51,13 +50,14 @@ const clickReadMore = async () => {
 
 }
 
+
 //event click of lenguage
 const clickLenguage = async (e) => {
 
     page = 5
     lang = e['id']
-   
-    $(`#content-inter-${page}`).html(change_info_page_lengauage(page,lang))
+
+    $(`#content-inter-${page}`).html(change_info_page_lengauage(page, lang))
 
 }
 
@@ -86,7 +86,7 @@ $('.read-more-close').on('click', function (event) {
 
 
 //capturar el json de la pagina actual
-async function getPagesJson(page , type) {
+async function getPagesJson(page, type) {
 
     try {
         const array = {
@@ -111,7 +111,7 @@ async function getPagesJson(page , type) {
 /**
  * @dec Simular el proceso de creacion de los componentes
 */
-function change_info_page_lengauage(page,lang) {
+function change_info_page_lengauage(page, lang) {
 
     //crear el div padre
     if (checkMobile()) {
@@ -132,7 +132,7 @@ function change_info_page_lengauage(page,lang) {
     insert_img_background(page, element)
 
     if (lang !== 'espana') { add_components_page(element, page, lang) } else { loadRegions(page, element, 'es') }
-    
+
     return element
 
 }
@@ -172,19 +172,19 @@ function insert_img_background(page, pageElement) {
 async function add_components_page(element, page, lang) {
 
     try {
-    
-    //sacar la informacion de la pagina
-    json = await getPagesJson(5,1);
-    let data = (json[page])[lang]
 
-    console.log(data)
+        //sacar la informacion de la pagina
+        json = await getPagesJson(5, 1);
+        let data = (json[page])[lang]
 
-    data.map((region, index) => {
-      addRegion(region, element, 'es', page);
-    })
+        console.log(data)
+
+        data.map((region, index) => {
+            addRegion(region, element, 'es', page);
+        })
 
     } catch (error) {
-        console.log(error)   
+        console.log(error)
     }
 
 }

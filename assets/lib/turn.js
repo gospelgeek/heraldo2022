@@ -304,7 +304,6 @@ turnMethods = {
             data.pagePlace[page] = page;
             // Move `pageObjs[page]` to wrapper
             data.pageObjs[page].appendTo(data.pageWrap[page]);
-            console.log('addPage 2',data.pageObjs[page]);
          }
 
           // Set the size of the page
