@@ -1,14 +1,26 @@
-[{
-    "x": "0",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.5em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Editorial"
+[
+    {
+        "x": "60%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "botones-idomas",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "#"
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "#"
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "#"
+            }
+        ]
     }
-}]
+]

@@ -9,22 +9,10 @@
         "tag": "h1",
         "class": "title",
         "data": {
-            "content": "Index"
+            "content": "Índice"
         }
-    }, {
-        "x": "0%",
-        "y": "10%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "section",
-        "data": {
-            "content": "Editorial"
-        }
-    }, {
+    },
+    {
         "x": "0%",
         "y": "14%",
         "viewX": 1800,
@@ -36,9 +24,10 @@
         "class": "to-page",
         "data": {
             "page": 4,
-            "content": "Editorial"
+            "content": "Carta del presidente"
         }
-    }, {
+    },
+    {
         "x": "0%",
         "y": "18%",
         "viewX": 1800,
@@ -49,26 +38,13 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 5,
-            "content": "Legal"
-        }
-    }, {
-        "x": "0%",
-        "y": "24%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "section",
-        "data": {
-            "content": "I am emotional"
+            "page": 4,
+            "content": "Discurso de despedida"
         }
     },
     {
         "x": "0%",
-        "y": "28%",
+        "y": "22%",
         "viewX": 1800,
         "viewY": 50,
         "width": "100%",
@@ -77,13 +53,13 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 6,
-            "content": "The woman an emotional being"
+            "page": 4,
+            "content": "Articulo Vicepresidente1"
         }
     },
     {
         "x": "0%",
-        "y": "32%",
+        "y": "26%",
         "viewX": 1800,
         "viewY": 50,
         "width": "100%",
@@ -92,13 +68,13 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 8,
-            "content": "What are emotions and why are they there?"
+            "page": 4,
+            "content": "Articulo Vicepresidente2"
         }
     },
     {
         "x": "0%",
-        "y": "36%",
+        "y": "30%",
         "viewX": 1800,
         "viewY": 50,
         "width": "100%",
@@ -107,13 +83,13 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 10,
-            "content": "Be angry, but do not sin"
+            "page": 4,
+            "content": "Articulo Secretario"
         }
     },
     {
         "x": "0%",
-        "y": "40%",
+        "y": "34%",
         "viewX": 1800,
         "viewY": 50,
         "width": "100%",
@@ -122,13 +98,13 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 12,
-            "content": "You gave joy to my heart"
+            "page": 4,
+            "content": "Articulo director de Misiones Nacionales"
         }
     },
     {
         "x": "0%",
-        "y": "44%",
+        "y": "38%",
         "viewX": 1800,
         "viewY": 50,
         "width": "100%",
@@ -137,13 +113,13 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 14,
-            "content": "Do not let your hearts be troubled, nor be afraid"
+            "page": 4,
+            "content": "Articulo Misiones Extranjeras"
         }
     },
     {
         "x": "0%",
-        "y": "48%",
+        "y": "42%",
         "viewX": 1800,
         "viewY": 50,
         "width": "100%",
@@ -152,94 +128,10 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 16,
-            "content": "Why are you despondent, oh my soul?"
-        }
-    },
-    {
-        "x": "0%",
-        "y": "52%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 18,
-            "content": "I hate the work of those who turn aside"
-        }
-    },
-    {
-        "x": "0%",
-        "y": "56%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 20,
-            "content": "I praise you because I am an admirable creation!"
-        }
-    }, {
-        "x": "0%",
-        "y": "60%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 22,
-            "content": "Anxious? he takes care of you"
-        }
-    }, {
-        "x": "0%",
-        "y": "64%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 23,
-            "content": "A fruitful life"
-        }
-    }, {
-        "x": "0%",
-        "y": "68%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 24,
-            "content": "So remove the anger from your heart"
-        }
-    }, {
-        "x": "0%",
-        "y": "72%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 25,
-            "content": "Taking care of my emotional health"
+            "page": 4,
+            "content": "Lámpara es a mis pies (Artículo Director FECP)"
         }
     }
+
+
 ]

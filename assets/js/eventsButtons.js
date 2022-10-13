@@ -27,8 +27,13 @@ const hideAudio = () => {
     $('.audioPage ')[0].pause();
 }
 
-//Function to show menu
+//event click of read more
+const clickReadMore = () => {
+   $('.read-more-box').removeClass('display-none')
+}
 
+
+//Function to show menu
 var btnNav = document.querySelector('.show-menu'),
     menu = document.querySelector('.menu');
 
@@ -38,4 +43,21 @@ btnNav.addEventListener('click', () => {
     $('.container-language').removeClass("visible");
     $('.container-search').removeClass("visible");
     $('.container-thumbs').remove()
+});
+
+
+//evento click para quitar el read more
+$('.read-more-box').on('click', function( event ) {
+    //prevent the default action for the click event
+    event.preventDefault();
+
+    console.log('color', $(this).css('background-color'))
+});
+
+//evento click para quitar el read more
+$('.read-more-close').on('click', function( event ) {
+    //prevent the default action for the click event
+    event.preventDefault();
+
+    $(this).parent().parent().addClass('display-none')
 });

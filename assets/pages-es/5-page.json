@@ -1,27 +1,95 @@
-[{
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Editorial"
+[
+    {
+        "x": "0",
+        "y": "80.9%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "100%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "#"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "73%",
+        "width": "100%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "btn-normal",
+        "class": "",
+        "id": "btn-normal-12",
+        "text": "",
+        "data": {
+           "text": "Leer Mas",
+           "url": "#"
+        }
+    },
+    {
+        "x": "0",
+        "y": "30%",
+        "width": "100%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "title-content",
+        "style": "font-size: 1.1em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+           "text": "El que cree en mí, como dice la Escritura….",
+           "url": "#"
+        }
+    },
+    {
+        "x": "0",
+        "y": "40%",
+        "width": "100%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+           "text": "<p><span style='color: #a92021; font-size: 2em'>F</span>raternal saludo para todos nuestros hermanos en el Nombre de Jesús. Al pensar en el tema que ocupa esta nueva edición titulado “Como dice la Escritura”, debo decir que su Palabra es la antorcha que alumbra nuestro camino y direcciona nuestro destino. </p> <p style='padding-top: 0.5em'> Con el propósito de promover herramientas que contribuyen a nuestro crecimiento y formación, el Consistorio de Ancianos, siempre en procura del actuar bajo la dirección de Dios en todo nuestro hacer; relacionó el propósito de nuestra entrega anterior titulada “Fe siempre”, orientándola a nuestra forma de vida cristiana y propone así nuestro nuevo lema: “Como dice la Escritura”. </p>"
+        }
+    },
+    {
+        "x": "60%",
+        "y": "9%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "botones-idomas",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/francia.png",
+                "url": "#"
+            },
+            {
+                "icon": "./assets/pics/icons/brasil.png",
+                "url": "#"
+            },
+            {
+                "icon": "./assets/pics/icons/espana.png",
+                "url": "#"
+            }
+        ]
     }
-}, {
-    "x": "0",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.5em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Legal"
-    }
-}]
+    
+]
