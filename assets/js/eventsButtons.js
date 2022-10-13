@@ -33,8 +33,6 @@ const clickReadMore = async (e) => {
     //poner visible la caja de texto
     $('.read-more-box').removeClass('display-none')
 
-    //saber si estoy dando click en la pagina derecha o izquierda
-    /*(($($(`#${e.replace("+", "").replace("+", "")}`).parent().parent().parent()).hasClass('odd')))*/
     let id_page = (e.replace("+", "").replace("+", "")).split('-')[2]
     let lang = (e.replace("+", "").replace("+", "")).split('-')[1]
 
@@ -61,10 +59,17 @@ const clickReadMore = async (e) => {
 //event click of lenguage
 const clickLenguage = async (e) => {
 
-    page = 5
-    lang = e['id']
+    //page even
+    page_even = (e).split('-')[0]
+    lang_even = (e).split('-')[1]
 
-    $(`#content-inter-${page}`).html(change_info_page_lengauage(page, lang))
+    //page odd
+    page_odd = (e).split('-')[2]
+    lang_odd = (e).split('-')[3]
+
+
+    $(`#content-inter-${page_odd}`).html(change_info_page_lengauage(page_odd, lang_odd))
+    $(`#content-inter-${page_even}`).html(change_info_page_lengauage(page_even, lang_even))
 
 }
 
@@ -186,7 +191,7 @@ async function add_components_page(element, page, lang) {
 
         console.log(data)
 
-        data.map((region, index) => {
+        data.map((region) => {
             addRegion(region, element, 'es', page);
         })
 

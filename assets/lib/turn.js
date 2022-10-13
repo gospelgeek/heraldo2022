@@ -218,7 +218,7 @@ turnMethods = {
 
     if (data.destroying)
       return false;
-    console.log('addPage', element, page);
+    
     // Read the page number from the className of `element` - format: p[0-9]+
 
     if ((currentPage = /\bp([0-9]+)\b/.exec($(element).attr('class'))))

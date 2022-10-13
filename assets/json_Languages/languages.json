@@ -82,17 +82,17 @@
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "francia"
+                        "id": "4-espanol-5-francia"
                     },
                     {
                         "icon": "./assets/pics/icons/brasil.png",
                         "url": "#",
-                        "id": "brasil"
+                        "id": "4-espanol-5-brasil"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "espana"
+                        "id": "4-espanol-5-espana"
                     }
                 ]
             },
@@ -115,17 +115,17 @@
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "francia"
+                        "id": "4-espanol-5-francia"
                     },
                     {
                         "icon": "./assets/pics/icons/brasil.png",
                         "url": "#",
-                        "id": "brasil"
+                        "id": "4-espanol-5-brasil"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "espana"
+                        "id": "4-espanol-5-espana"
                     }
                 ]
             }
