@@ -24,13 +24,14 @@
         ]
     },
     {
-        "x": "60%",
-        "y": "90%",
-        "width": "50%",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "botones-idomas",
-        "text": ""
+        "x": "0",
+        "y": "68%",
+        "style": "z-index: 1;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-presidente.png"
+        }
     }
 ]

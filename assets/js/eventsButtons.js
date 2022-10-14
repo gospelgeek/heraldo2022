@@ -36,16 +36,16 @@ const clickReadMore = async (e) => {
     let id_page = (e.replace("+", "").replace("+", "")).split('-')[2]
     let lang = (e.replace("+", "").replace("+", "")).split('-')[1]
 
-    console.log(id_page , (e.replace("+", "").replace("+", "")).split('-')[1] ) 
+    console.log(id_page, (e.replace("+", "").replace("+", "")).split('-')[1])
 
     if (id_page !== undefined && id_page !== '') {
 
-        json = await getPagesJson(id_page, (lang !== 'espanol')? 1 : 0);
+        json = await getPagesJson(id_page, (lang !== 'espana') ? 1 : 0);
 
-        if (lang !== 'espanol') {
-         text_insert = ((json[id_page])[lang]).find(x => x._id == 'text-read-more').text
+        if (lang !== 'espana') {
+            text_insert = ((json[id_page])[lang]).find(x => x._id == 'text-read-more').text
         } else {
-         text_insert = json.find(x => x._id == 'text-read-more').text
+            text_insert = json.find(x => x._id == 'text-read-more').text
         }
 
         //insertar el texto en la caja de texto
@@ -200,3 +200,30 @@ async function add_components_page(element, page, lang) {
     }
 
 }
+
+/**
+   <p style='padding-bottom: 1.5em; font-size: 1.5em;'><strong>LETTRE DU PRÉSIDENT</strong></p> 
+   <p style='padding-bottom: 0.5em; font-size: 1em;'><strong>Celui qui croit en moi, comme dit l'Écriture, .....</strong></p>
+   <p style='padding-bottom: 0.5em; font-size: 1em;'>
+Salutations fraternelles à tous nos frères au Nom de Jésus. En réfléchissant au thème de cette nouvelle édition intitulée "Comme dit l'Écriture", je dois dire que Sa Parole est le flambeau qui éclaire notre chemin et dirige notre destinée. 
+</p>
+   <p  style='padding-bottom: 0.5em; font-size: 1em;'>Dans le but de promouvoir des outils qui contribuent à notre croissance et à notre formation, le Consistoire des Anciens, cherchant toujours à agir sous la direction de Dieu dans tout ce que nous faisons, a relié l'objectif de notre précédent numéro intitulé "La foi toujours", en l'orientant vers notre mode de vie chrétien et propose ainsi notre nouvelle devise : "Comme dit l'Écriture".</p>
+   <p  style='padding-bottom: 0.5em; font-size: 1em;'>L'Écriture est la Parole de Dieu, bien qu'elle soit écrite par des hommes inspirés par Lui ; nous n'ignorons pas qu'elle contient tout le plan du Seigneur pour que l'humanité soit sauvée, qu'elle vive avec droiture et piété, qu'elle croisse en sagesse, qu'elle soit perfectionnée et préparée pour toute bonne œuvre. </p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'>Parmi les nombreux enseignements enrichissants pour notre vie, et en cohérence avec la proposition du Christ de vivre dans la paix, la communion, la fraternité et l'harmonie, il nous a doté du même Esprit inspirateur de sa Parole qui nous conduit à marcher dans la lumière, en acceptant nos éventuelles différences, sans générer de querelles, de haines et de ressentiments. </p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> <strong>  'Sa voix s'est répandue par toute la terre... ' (Psaume 19, 4).</strong>
+
+C'est par sa Parole que nous sommes purifiés. Rappelons-nous que les efforts humains, nos sacrifices seront inutiles pour obtenir un cœur pur ; seule une volonté orientée vers Sa Parole et par Son Esprit nous transformera. Par sa Parole, nous sommes édifiés et pourvus des fondements nécessaires à une vie victorieuse en Jésus-Christ ; sa Parole nous donne croissance et fermeté, sa Parole est vie.
+
+</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> Sa Parole est la lumière qui éclaire nos pas afin que nos pieds ne s'écartent pas du chemin, que nous ne glissions pas, que nous ne trébuchions pas et que nous continuions ainsi la marche, à la conquête de notre sanctification.</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'>Nous avons la Parole prophétique la plus sûre ; nous ferons bien de l'écouter et de lui obéir toujours. Nous serons attentifs à ce flambeau qui brille dans un endroit sombre, au milieu de la pénombre de ce monde, jusqu'à ce que le jour se lève et que l'étoile du matin se lève dans nos cœurs.</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> La Parole du Seigneur Jésus est digne d'être reçue par tous ; le but de notre nouvelle édition est en partie d'être un moyen supplémentaire de la diffuser. Nous invitons donc nos lecteurs à chérir les Écritures ; elles nous guideront jusqu'à la fin.
+</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> Par Héctor Ariel Campuzano Fonseca. Président de l'IPUC</p>
+ 
+
+
+
+
+
+*/
