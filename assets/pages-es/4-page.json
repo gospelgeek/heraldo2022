@@ -22,5 +22,16 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "x": "0",
+        "y": "68%",
+        "style": "z-index: 1;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-presidente.png"
+        }
     }
 ]

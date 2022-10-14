@@ -11,7 +11,7 @@ const addComponents = (region, lang) => {
             element = addSVG('<h1 style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml">' + region.data.content + '</h1>', region)
             break;
 
-        case 'img':
+        case 'im g':
             element = '<img src=' + region.data.src + '>'
             break;
 
@@ -52,6 +52,9 @@ const addComponents = (region, lang) => {
             break;
         case 'botones-idomas':
             element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 33.3% 33.3% 33.3%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[0].id}')"><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[1].id}')"><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[2].id}')"><img src="${(region.data)[2].icon}" ></a>`} </div> </div>`)
+            break;
+        case 'img-content':
+            element = (`<div class="div-center-ubication-responsive"> <img src="${region.data.src}" style="width: 70% !important; height: 100%; object-fit: cover;"> </div>`)
             break;
         default:
             break;
