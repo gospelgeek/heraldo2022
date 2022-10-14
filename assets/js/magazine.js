@@ -4,11 +4,12 @@
    function addPage(page, book, lang) {
 
        var pages = book.turn('pages')
-           // Create a new element for this page
+
+       // Create a new element for this page
        if (checkMobile()) {
-           var element = $('<div />', { class: 'hard' });
+           var element = $(`<div id="content-inter-${page}" />`, { class: 'hard' });
        } else {
-           var element = $('<div />', {});
+           var element = $(`<div id="content-inter-${page}" />`, {});
 
        }
 
@@ -66,7 +67,6 @@
 
        // Load the page
        checkImage('../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
-
        loadRegions(page, pageElement, lang);
 
    }
@@ -103,7 +103,6 @@
    // Add region
 
    function addRegion(region, pageElement, lang, page) {
-
        var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
 
        reg.css({

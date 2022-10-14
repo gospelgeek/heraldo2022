@@ -218,7 +218,7 @@ turnMethods = {
 
     if (data.destroying)
       return false;
-
+    
     // Read the page number from the className of `element` - format: p[0-9]+
 
     if ((currentPage = /\bp([0-9]+)\b/.exec($(element).attr('class'))))
@@ -287,23 +287,23 @@ turnMethods = {
       if (turnMethods._necessPage.call(this, page)) {
 
         if (!data.pageWrap[page]) {
-
+         
           // Wrapper
           data.pageWrap[page] = $('<div/>',
             {'class': 'page-wrapper',
               page: page,
+              id: `page-wrapper-${page}`,
               css: {position: 'absolute',
               overflow: 'hidden'}});
 
           // Append to this flipbook
           this.append(data.pageWrap[page]);
-
+          
           if (!data.pagePlace[page]) {
             
             data.pagePlace[page] = page;
             // Move `pageObjs[page]` to wrapper
             data.pageObjs[page].appendTo(data.pageWrap[page]);
-          
          }
 
           // Set the size of the page
