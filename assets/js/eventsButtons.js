@@ -202,28 +202,25 @@ async function add_components_page(element, page, lang) {
 }
 
 /**
-   <p style='padding-bottom: 1.5em; font-size: 1.5em;'><strong>LETTRE DU PRÉSIDENT</strong></p> 
-   <p style='padding-bottom: 0.5em; font-size: 1em;'><strong>Celui qui croit en moi, comme dit l'Écriture, .....</strong></p>
-   <p style='padding-bottom: 0.5em; font-size: 1em;'>
-Salutations fraternelles à tous nos frères au Nom de Jésus. En réfléchissant au thème de cette nouvelle édition intitulée "Comme dit l'Écriture", je dois dire que Sa Parole est le flambeau qui éclaire notre chemin et dirige notre destinée. 
-</p>
-   <p  style='padding-bottom: 0.5em; font-size: 1em;'>Dans le but de promouvoir des outils qui contribuent à notre croissance et à notre formation, le Consistoire des Anciens, cherchant toujours à agir sous la direction de Dieu dans tout ce que nous faisons, a relié l'objectif de notre précédent numéro intitulé "La foi toujours", en l'orientant vers notre mode de vie chrétien et propose ainsi notre nouvelle devise : "Comme dit l'Écriture".</p>
-   <p  style='padding-bottom: 0.5em; font-size: 1em;'>L'Écriture est la Parole de Dieu, bien qu'elle soit écrite par des hommes inspirés par Lui ; nous n'ignorons pas qu'elle contient tout le plan du Seigneur pour que l'humanité soit sauvée, qu'elle vive avec droiture et piété, qu'elle croisse en sagesse, qu'elle soit perfectionnée et préparée pour toute bonne œuvre. </p>
-  <p  style='padding-bottom: 0.5em; font-size: 1em;'>Parmi les nombreux enseignements enrichissants pour notre vie, et en cohérence avec la proposition du Christ de vivre dans la paix, la communion, la fraternité et l'harmonie, il nous a doté du même Esprit inspirateur de sa Parole qui nous conduit à marcher dans la lumière, en acceptant nos éventuelles différences, sans générer de querelles, de haines et de ressentiments. </p>
-  <p  style='padding-bottom: 0.5em; font-size: 1em;'> <strong>  'Sa voix s'est répandue par toute la terre... ' (Psaume 19, 4).</strong>
-
-C'est par sa Parole que nous sommes purifiés. Rappelons-nous que les efforts humains, nos sacrifices seront inutiles pour obtenir un cœur pur ; seule une volonté orientée vers Sa Parole et par Son Esprit nous transformera. Par sa Parole, nous sommes édifiés et pourvus des fondements nécessaires à une vie victorieuse en Jésus-Christ ; sa Parole nous donne croissance et fermeté, sa Parole est vie.
-
-</p>
-  <p  style='padding-bottom: 0.5em; font-size: 1em;'> Sa Parole est la lumière qui éclaire nos pas afin que nos pieds ne s'écartent pas du chemin, que nous ne glissions pas, que nous ne trébuchions pas et que nous continuions ainsi la marche, à la conquête de notre sanctification.</p>
-  <p  style='padding-bottom: 0.5em; font-size: 1em;'>Nous avons la Parole prophétique la plus sûre ; nous ferons bien de l'écouter et de lui obéir toujours. Nous serons attentifs à ce flambeau qui brille dans un endroit sombre, au milieu de la pénombre de ce monde, jusqu'à ce que le jour se lève et que l'étoile du matin se lève dans nos cœurs.</p>
-  <p  style='padding-bottom: 0.5em; font-size: 1em;'> La Parole du Seigneur Jésus est digne d'être reçue par tous ; le but de notre nouvelle édition est en partie d'être un moyen supplémentaire de la diffuser. Nous invitons donc nos lecteurs à chérir les Écritures ; elles nous guideront jusqu'à la fin.
-</p>
-  <p  style='padding-bottom: 0.5em; font-size: 1em;'> Par Héctor Ariel Campuzano Fonseca. Président de l'IPUC</p>
+   <p style='padding-bottom: 1.5em; font-size: 1.5em; text-align: center;'><strong>Carta do presidente</strong></p> 
+   <p style='padding-bottom: 0.5em; font-size: 1em;'><strong> quem crê em mim, como diz a Escritura...  </strong></p>
+   <p style='padding-bottom: 0.5em; font-size: 1em;'>um cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado <strong>“como diz a Escritura” </strong>, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p>
+   <p  style='padding-bottom: 0.5em; font-size: 1em;'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”,  orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p>
+   <p  style='padding-bottom: 0.5em; font-size: 1em;'>A Escritura é a Palavra de Deus, ainda que escrita por homens inspirados por Deus; não desconhecemos que ela contem todo o plano do senhor para que a humanidade seja salva, viva recta e piedosamente, cresça em sabedoria, se aperfeiçoe e se prepare para toda a boa obra. </p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'>Entre os muitos ensinamentos enriquecedores para a nossa vida, e sendo consequentes com a proposta de Cristo para que vivamos em paz, comunhão, fraternidade e harmonia; nos proveu o mesmo Espírito inspirador de sua Palavra que nos conduz a caminhar na luz, aceitando nossas possiveis diferenças, sem que por isso se gerem contendas, ódios e rancores.</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> <strong> “Por toda a terra saiu a sua voz”... (salmos 19:4).</strong></p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'>É por sua Palavra que somos limpos. Lembremos que os esforços humanos, nossos sacrifícios serão inuteis para alcançar um coração puro; só uma vontade encaminhada em sua Palavra e   mediante seu Espírito é que seremos transformados. Por sua Palavra somos edificados e provistos dos fundamentos necessários para uma vida victoriosa em Cristo Jesus; sua Palavra nos dá crescimento e firmeza, sua Palavra é vida.</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'>Sua Palavra é luz que ilumina nossos passos para que nossos pés não saiam do caminho, não escorreguemos, não tropecemos e dessa forma continuemos na marcha, à conquista da nossa santificação.</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> Temos a Palavra profética mais segura; faremos bem em acatá-la e obedecê-la sempre. Estaremos atentos a essa tocha que ilumina no lugar escuro, em meio a melancolia deste mundo, até que o dia esclareça e a estrela da alva apareça em nossos corações.</p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'>A Palavra do Senhor Jesus é digna de ser recebida por todos; parte do propósito de nossa nova edição é ser somente outro meio de difusão. Pelo qual convidamos a nossos leitores a entesourar as escrituras, ela nos guiará até o fim. </p>
+  <p  style='padding-bottom: 0.5em; font-size: 1em;'> Por: Hector ariel campuzano Fonseca – Presidente IPUC  </p>
  
 
 
+<p><span style='color: #a92021; font-size: 2em'>U</span>m cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado “como diz a Escritura”, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p> 
+<p style='padding-top: 0.5em'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”,  orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p>
 
 
 
+“Comme disent les Ecritures”.
 */
