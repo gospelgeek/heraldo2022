@@ -223,4 +223,21 @@ async function add_components_page(element, page, lang) {
 
 
 “Comme disent les Ecritures”.
+
+
+  <p style='padding-top: 0.5em; font-size: 1em;'>“Dije: Traeré, pues, a la
+memoria los años de la diestra
+del Altísimo.</p>
+<p style='padding-top: 0.5em; font-size: 1em;'>Me acordaré de las obras del
+Señor; Sí, haré yo memoria de
+tus maravillas antiguas.</p>
+<p style='padding-top: 0.5em; font-size: 1em;'>Meditaré en todas tus obras, Y
+hablaré de tus hechos.</p>
+<p style='padding-top: 0.5em; font-size: 1em;'>Oh Dios, santo es tu camino;
+¿Qué dios es grande como
+nuestro Dios?
+Tú eres el Dios que hace
+maravillas; Hiciste notorio en
+los pueblos tu poder”</p>
+<p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>(Salmos 77:10-14)</strong></p>
 */
