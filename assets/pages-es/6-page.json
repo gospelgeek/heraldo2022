@@ -14,11 +14,11 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#"
+                "url": "#pagina/6"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#"
+                "url": "#pagina/6"
             }
         ]
     },
