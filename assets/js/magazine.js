@@ -103,7 +103,9 @@
    // Add region
 
    function addRegion(region, pageElement, lang, page) {
-       var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
+       var reg = $(`<div />`, { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
+
+       $(reg).attr('id', region.id_unique);
 
        reg.css({
            top: region.y,
