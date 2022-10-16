@@ -547,8 +547,8 @@ audio {
     grid-template-rows: 100%;
     justify-items: center;
     align-items: center;
-    width: 7em ;
-    height: 2.4em;
+    width: 6em ;
+    height: 2em;
     border-radius: 0.5em;
     text-decoration: none;
     cursor: pointer;
@@ -623,7 +623,7 @@ audio {
 .read-more-text {
     width: 80%;
     height: 80%;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 1em;
     text-align: justify;
     overflow-x: hidden;
@@ -662,6 +662,40 @@ audio {
 }
 */
 
+/*
+  hacer un rectangulo centrado antes del boton
+*/
+#btn-espana-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    left: -2.5em;
+    width: 4em;
+    height: 20%;
+    background-color: #2e3a74;
+}
+
+#btn-francia-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    left: -2.5em;
+    width: 4em;
+    height: 20%;
+    background-color: #2e3a74;
+}
+
+
+#btn-brasil-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    left: -2.5em;
+    width: 4em;
+    height: 20%;
+    background-color: #2e3a74;
+}
+
 
 /*
    Media Queries
@@ -686,7 +720,7 @@ audio {
         font-size: 0.9em !important;
     }
     .responsive-font-content {
-        font-size: 0.5em !important;
+        font-size: 0.56em !important;
     }
     
 }
