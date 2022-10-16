@@ -108,7 +108,8 @@
        reg.css({
            top: region.y,
            left: region.x,
-           width: region.width
+           width: region.width,
+           "z-index": region.zIndex,
        }).attr('region-data', $.param(region.data || ''));
 
        reg.appendTo(pageElement);
