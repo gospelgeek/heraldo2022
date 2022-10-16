@@ -30,7 +30,7 @@
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
+                "font-size": "1.2em",
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-francia-5",
@@ -42,13 +42,13 @@
             },
             {
                 "x": "0",
-                "y": "30%",
+                "y": "25%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "0.8em",
                 "tag": "title-content",
-                "style": "font-size: 1em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "style": "font-size: 1.1em; color: #a92021; text-align: center; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
                     "text": "Celui qui croit en moi, comme dit l'Écriture, .....",
@@ -57,13 +57,13 @@
             },
             {
                 "x": "0",
-                "y": "40%",
+                "y": "35%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "style": "font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
                     "text": "<p><span style='color: #a92021; font-size: 2em'>S</span>alutations fraternelles à tous nos frères au Nom de Jésus. En réfléchissant au thème de cette nouvelle édition intitulée “Comme dit l'Écriture”, je dois dire que Sa Parole est le flambeau qui éclaire notre chemin et dirige notre destinée.</p> <p style='padding-top: 0.5em'>Dans le but de promouvoir des outils qui contribuent à notre croissance et à notre formation, le Consistoire des Anciens, cherchant toujours à agir sous la direction de Dieu dans tout ce que nous faisons, a relié l'objectif de notre précédent numéro intitulé “La foi toujours”, en l'orientant vers notre mode de vie chrétien et propose ainsi notre nouvelle devise : “Comme dit l'Écriture”.</p>"
@@ -170,13 +170,13 @@
             },
             {
                 "x": "0",
-                "y": "30%",
+                "y": "25%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "0.8em",
                 "tag": "title-content",
-                "style": "font-size: 1.1em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "style": "font-size: 1.3em; color: #a92021; text-align: center; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
                     "text": " quem crê em mim, como diz a Escritura... ",
@@ -185,13 +185,13 @@
             },
             {
                 "x": "0",
-                "y": "40%",
+                "y": "35%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "style": "font-size: 0.83em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
                     "text": "<p><span style='color: #a92021; font-size: 2em'>U</span>m cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado “como diz a Escritura”, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p> <p style='padding-top: 0.5em'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”, orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p> "
@@ -248,10 +248,10 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>( Psaumes 77: 11-14 )</strong></p>"
+                   "text": "<p style='padding-top: 0.5em; font-size: 1em; font-style: italic;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>( Psaumes 77: 11-14 )</strong></p>"
                 }
             }
         ],
@@ -299,10 +299,10 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 0.5em; font-size: 1em;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>( Salmos 77:10-14 )</strong></p>"
+                   "text": "<p style='padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>( Salmos 77:10-14 )</strong></p>"
                 }
             }           
         ]
@@ -329,17 +329,17 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "style": "border-radius: 0.2em; font-size: 0.84em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 1em; font-size: 1em;'><span style='color: #0d5b78; font-size: 2em'>D</span>ieu vous bénisse énormément mes frères. Aujourd'hui, je veux vous saluer en tant que frère Alvaro, en tant que famille que nous sommes et le peuple que Dieu a forgé, en payant un prix élevé et en vous dédiant ses soins avec un amour profond. </p> <p style='padding-top: 1em; font-size: 2em; color: #0d5b78'><strong>Introduction</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>J'avais une mère qui m'enseignait les voies de Dieu et qui priait avec moi le soir. Elle m'a appris à chanter toute la journée et m'a donné un très bon exemple. Elle n'avait pas un caractère colérique et même dans la punition, elle ne perdait pas la raison ou le contrôle, et n'oubliait pas la pitié. </p> <p style='padding-top: 0.7em; font-size: 1em;'>J'ai grandi dans une famille qui aimait se lever à cinq heures du matin pour aller prier au temple. Je ne peux pas me plaindre, j'ai eu toutes les occasions de connaître Dieu dans un environnement chrétien. </p>"
+                   "text": "<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015; font-size: 2em'>D</span>ieu vous bénisse énormément mes frères. Aujourd'hui, je veux vous saluer en tant que frère Alvaro, en tant que famille que nous sommes et le peuple que Dieu a forgé, en payant un prix élevé et en vous dédiant ses soins avec un amour profond. </p> <p style='padding-top: 1em; font-size: 2em; color: #b41015;'><strong>Introduction</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>J'avais une mère qui m'enseignait les voies de Dieu et qui priait avec moi le soir. Elle m'a appris à chanter toute la journée et m'a donné un très bon exemple. Elle n'avait pas un caractère colérique et même dans la punition, elle ne perdait pas la raison ou le contrôle, et n'oubliait pas la pitié. </p> <p style='padding-top: 0.7em; font-size: 1em;'>J'ai grandi dans une famille qui aimait se lever à cinq heures du matin pour aller prier au temple. Je ne peux pas me plaindre, j'ai eu toutes les occasions de connaître Dieu dans un environnement chrétien. </p>"
                 }
             },
             {
-                "x": "0",
-                "y": "76%",
-                "width": "100%",
-                "background-color": "#0d5b78",
+                "x": "5%",
+                "y": "75%",
+                "width": "30%",
+                "background-color": "#2e3a74",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "btn-normal",
@@ -404,17 +404,17 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Montserrat', sans-serif;",
+                "style": "border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 1em; font-size: 1em;'><span style='color: #0d5b78; font-size: 2em'>Q</span>ue Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='padding-top: 1em; font-size: 2em; color: #0d5b78'><strong>Introdução</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão. </p>"
+                   "text": "<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015;; font-size: 2em'>Q</span>ue Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='padding-top: 1em; font-size: 2em; color: #b41015;'><strong>Introdução</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão. </p>"
                 }
             },
             {
-                "x": "0",
-                "y": "76%",
-                "width": "100%",
-                "background-color": "#0d5b78",
+                "x": "5%",
+                "y": "75%",
+                "width": "30%",
+                "background-color": "#2e3a74",      
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "btn-normal",
