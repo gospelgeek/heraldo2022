@@ -662,6 +662,40 @@ audio {
 }
 */
 
+/*
+  hacer un rectangulo centrado antes del boton
+*/
+#btn-espana-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    left: -2.5em;
+    width: 4em;
+    height: 20%;
+    background-color: #2e3a74;
+}
+
+#btn-francia-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    left: -2.5em;
+    width: 4em;
+    height: 20%;
+    background-color: #2e3a74;
+}
+
+
+#btn-brasil-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    left: -2.5em;
+    width: 4em;
+    height: 20%;
+    background-color: #2e3a74;
+}
+
 
 /*
    Media Queries
