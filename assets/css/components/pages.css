@@ -750,5 +750,11 @@ audio {
         top: 40% !important;
         font-size: 0.9em !important;
     }
+    #btn-read-more-21 {
+        left: 2em !important;
+    }
+    #content-text-21 {
+        top: 60% !important;
+    }
     
 }
