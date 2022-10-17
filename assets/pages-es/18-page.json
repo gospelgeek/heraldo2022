@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "x": "3%",
+        "y": "78%",
+        "zIndex": "1",
+        "width": "35%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/autor-18.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "35%",
+        "style": "width: 80% !important;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-18.png"
+        }
+    },
+    {
+        "x": "19%",
+        "y": "70%",
+        "width": "100%",
+        "styleBox": "width: 37%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 1em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2.3em'>l</span>“Lámpara es a mis pies tu palabra, Y lumbrera a mi camino” (Salmos 119: 105).</p>"
+        }
+    }
+]

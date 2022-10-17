@@ -728,6 +728,60 @@ Es allí, en el espacio que deja el desconocimiento humano donde entra en acció
 
 
 
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… LÁMPARA ES A MIS PIES TU PALABRA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> “Lámpara es a mis pies tu palabra, Y lumbrera a mi camino” (Salmos 119: 105).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:
+Es como pan… Que alimenta nuestra alma.
+Es como martillo… Que quebranta el corazón.
+Es como oro… Que tiene un gran valor.
+Es como semilla… Que da vida.
+Es como espejo… Que nos hace ver lo que somos.
+Es como  fuego… Que quema nuestras impurezas. 
+Es como lluvia… Que refresca nuestra alma.
+Es más dulce que la miel..  Que satisface.
+Es como espada… Que parte el corazón.
+Es como una lámpara… Que alumbra el camino.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En estas notas nos ocuparemos de ella, como lámpara a nuestros pies y lumbrera a nuestro camino.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El ser humano siempre está expuesto en este camino de la vida a tropezar y tomar caminos equivocados. Eso fue lo que le sucedió a nuestros primeros padres Adán y Eva, se dejaron seducir por el maligno obedeciendo su voz y como consecuencia sentenciaron a toda la humanidad a la tragedia más grande, la condenación eterna, Génesis 3:6.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Desde ese momento tan deplorable para el hombre, ha vivido en la oscuridad espiritual, alejado de Dios y ha expensas de Satanás; siendo guiado por filosofías y pensamientos que lo han alejado durante mas de dos mil años, de la luz de Aquel que es la Luz.
+  “Otra vez Jesús les habló, diciendo: Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida” (Juan 8:12).  </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Palabra de Dios ha jugado un papel muy importante en orientar e iluminar la senda por donde el hombre debe caminar y transitar con pasos firmes, sin extraviarse del buen camino que Dios ha trazado, para que los caminantes hacia la gloria eterna no se aparten  de Él. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Eso fue lo que Dios le exigió a través de Moisés a su pueblo cuando les dio la ley en el monte Sinaí, para que fuera prosperado.
+“Ahora, pues, Israel, ¿qué pide Jehová tu Dios de ti, sino que temas a Jehová tu Dios, que andes en todos sus caminos, y que lo ames, y sirvas a Jehová tu Dios con todo tu corazón y con toda tu alma;  que guardes los mandamientos de Jehová y sus estatutos, que yo te prescribo hoy, para que tengas prosperidad?” (Deuteronomio 10:12-13).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>De igual manera, fue lo que Dios le pidió a Josué al entregarle la gran tarea de introducir a Israel a la tierra prometida.
+“Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás prosperar tu camino, y todo te saldrá bien” (Josué 1:8). </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El apóstol escribiéndole a los corintios nos hace un planteamiento de la sabiduría del hombre y la eficacia de la Palabra de Dios, muy interesante.
+“¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de este siglo? ¿No ha enloquecido Dios la sabiduría del mundo? Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación” (1 Corintios 1:20-21).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Y el escritor de la carta a los hebreos, también nos muestra el poder que tiene la Palabra de Dios, como la espada del Espíritu para dar vida, para escudriñar integralmente al hombre y ayudarle a conocerse asi mismo. 
+ “Cada palabra que Dios pronuncia tiene poder y tiene vida. La palabra de Dios es más cortante que una espada de dos filos, y penetra hasta lo más profundo de nuestro ser. Allí examina nuestros pensamientos y deseos, y deja en claro si son buenos o malos”  (Hebreos 4:12 TLA).  </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Biblia es muy amplia en mostrarnos cómo la Palabra de Dios es  una luz, y una lámpara que guía nuestros pies e ilumina nuestro caminar. 
+ “La exposición de tus palabras imparte luz; da entendimiento a los sencillos” (Salmos 119:130 LBLA).  </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Los preceptos del SEÑOR son rectos, que alegran el corazón; el mandamiento del SEÑOR es puro, que alumbra los ojos” (Salmos 19:8 LBLA).
+“Porque el mandamiento es lámpara, y la enseñanza luz, y camino de vida las reprensiones de la instrucción” (Proverbios 6:23 LBLA).  
+“Prestadme atención, pueblo mío, y oídme, nación mía; porque de mí saldrá una ley, y estableceré mi justicia para luz de los pueblos” (Isaías 51:4 LBLA).   
+“Y así tenemos la palabra profética más segura, a la cual hacéis bien en prestar atención como a una lámpara que brilla en el lugar oscuro, hasta que el día despunte y el lucero de la mañana aparezca en vuestros corazones” (2 Pedro 1:19 LBLA).  </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Conclusión</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+Para que esto se cumpla en nuestras vidas, mi consejo es; enamorémonos, zambullámonos, valoremos este precioso regalo que Dios ha colocado en nuestra manos. Su Palabra es la lámpara que nos ha dado para que nuestros pies no se salgan del camino, y podamos caminar por la senda que nos llevará al feliz puerto de su Reino, que espera a los caminantes triunfantes que lleguemos al final de la jornada.  </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Angelmiro Camacho Isaza. Director General FECP
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+
+
+
+
+
 
 
 
