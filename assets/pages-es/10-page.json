@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "x": "5%",
+        "y": "75%",
+        "style": "z-index: 1;",
+        "zIndex": "1",
+        "width": "35%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/autor-10.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "15%",
+        "style": "width: 90% !important;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-10.png"
+        }
+    }
+]
