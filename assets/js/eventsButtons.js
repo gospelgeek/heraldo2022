@@ -494,4 +494,43 @@ mas para los llamados, así judíos como griegos, Cristo poder de Dios, y sabidu
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 
+
+"<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015; font-size: 2em'>E</span>l Señor Jesús resucitó y durante cuarenta días dio testimonio de su resurrección, apareciéndoles a más de quinientas personas, y antes de ascender a los cielos encomendó a sus discípulos la responsabilidad de ir por todo el mundo para anunciar a toda persona el Evangelio de la salvación y la vida eterna.</p> <p style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este consiste en que el diablo, quien tenía cautivo a los seres humanos, fue vencido en la cruz del Calvario. Ahora todos los hombres tienen la oportunidad de salir de su dominio y conocer la salvación de Dios. </p>"
+
+<p style='padding-top: 1em; font-size: 1em;'><span style='color: #0d5b78; font-size: 2em'>“Y</span>o planté, Apolos regó; pero el crecimiento lo ha dado Dios. De
+manera que ni el que siembra ni el que riega son nada, sino que Dios lo
+es todo, pues él es quien hace crecer lo sembrado”
+(1 Corintios 3:6-7 DHH).
+
+</p>
+<p style='padding-top: 0.7em; font-size: 1em;'>
+El Reino de Dios es comparado a la semilla de mostaza, la más pequeña
+de todas, para los judíos insignificante. Siendo tan pequeña se sembró,
+creció y se hizo árbol fuerte que ofreció albergue en sus ramas para las
+aves. Pero, ¿cómo crece esa semilla hasta ser un árbol grande que da
+sombra? Marcos 4:26-29, de manera que es Dios quien trabaja en el
+nuevo nacimiento en la vida de la persona
+</p>
+
+
+
+<p style='padding-top: 1em; font-size: 1.3em; font-style: italic;'><span style='color: #0d5b78; font-size: 2em'>“Y</span>oi, j’ai planté, Apollos a arrosé, mais c’est Dieu qui a fait pousser. 7Celui qui plante n’est rien, celui qui arrose n’est rien. Mais celui qui fait pousser est tout, et c’est Dieu (1 Corinthiens 3: 6-7PDV2017).
+
+</p>
+<p style='padding-top: 0.7em; font-size: 1.3em;'>
+Le Royaume de Dieu est comparé à une graine de moutarde, la plus petite de toutes, insignifiante pour les Juifs. Elle était si petite qu'elle a été semée, a grandi et est devenue un arbre solide qui offrait un abri dans ses branches pour les oiseaux. Mais comment cette graine devient-elle un grand arbre qui donne de l'ombre ?  Marc 4:26-29, c'est donc Dieu qui opère la nouvelle naissance dans la vie d'une personne.
+</p>
+
+<p style='padding-top: 1em; font-size: 1.1em; font-style: italic;'><span style='color: #b41015; font-size: 2em'>“E</span>u plantei, Apolo regou; mas Deus deu o crescimento. Por isso, nem oque planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento”. ( 1 Coríntios 3:6-7).
+</p>
+<p style='padding-top: 0.7em; font-size: 1.1em;'>
+O Reino de Deus é comparado a semente de mostarda, a mais pequena de todas,  para os judeus insignificante. Sendo tão pequena se semeou, cresceu e se fez árvore forte que ofereceu abrigo em seus ramos para as aves. Como cresce essa semente até ser uma árvore grande que dá sombra? (Marcos 4:26-29), de maneira que é Deus que trabalha no novo nascimento na vida da pessoa.
+</p>
+
+
+
+<p style='padding-top: 1em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2em'>“Y</span>
+oi, j’ai planté, Apollos a arrosé, mais c’est Dieu qui a fait pousser. 7Celui qui plante n’est rien, celui qui arrose n’est rien. Mais celui qui fait pousser est tout, et c’est Dieu (1 Corinthiens 3: 6-7PDV2017). </p> <p style='padding-top: 0.7em; font-size: 1em;'>
+ Le Royaume de Dieu est comparé à une graine de moutarde, la plus petite de toutes, insignifiante pour les Juifs. Elle était si petite qu'elle a été semée, a grandi et est devenue un arbre solide qui offrait un abri dans ses branches pour les oiseaux. Mais comment cette graine devient-elle un grand arbre qui donne de l'ombre ? Marc 4:26-29, c'est donc Dieu qui opère la nouvelle naissance dans la vie d'une personne. </p>
+
 */
