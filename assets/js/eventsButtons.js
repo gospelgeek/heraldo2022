@@ -649,6 +649,97 @@ La tâche est ardue et le travail est dur et complexe, pour cela Dieu continue �
 
 
 
+
+
+
+
+
+
+
+<p style='padding-top: 1em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2.3em'>“E</span>ntonces volvieron a llamar al hombre que había sido ciego, y le
+dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es
+pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa
+sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué
+te hizo? ¿Cómo te abrió los ojos?”
+(Juan 9:24-26).</p>
+
+<p style='font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #fff;'>
+“La complejidad es tu enemiga”,“Dios es simple,
+todo lo demás es complejo”
+(Albert Einstein).
+“Las cosas simples son las más extraordinarias y
+sólo los sabios consiguen verlas”
+(Paulo Coelho).
+“La simplicidad es la máxima sofisticación”
+(Leonardo Da Vinci).
+“Las cosas más simples suelen ser las más
+verdaderas”
+<p style=' font-size: 1.6em; font-style: italic; color: #fff; text-align: center !important; font-weight: 100 !important;'>
+<strong>(Richard Bach)</strong></p></p>
+
+<p style='font-size: 2em; text-align: center;'><strong>CON LA SENCILLEZ QUE DICE LA ESCRITURA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” (Juan 9:24-26).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“La complejidad es tu enemiga”, “Dios es simple, todo lo demás es complejo” (Albert Einstein). “Las cosas simples son las más extraordinarias y sólo los sabios consiguen verlas” (Paulo Coelho). “La simplicidad es la máxima sofisticación” (Leonardo Da Vinci). “Las cosas más simples suelen ser las más verdaderas” (Richard Bach).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Palabra de Dios responde las preguntas a un niño y confunde la sabiduría de los sabios. Uno de los factores más relevantes del Evangelio es la manera sencilla en la que Dios se ha comunicado con los hombres, Dios es el todo Sabio, Él no pretende que los humanos alcancen una dimensión sobrenatural para entender todo a plenitud.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>La fe es la única que nos hace entender lo que está oculto</strong>
+Es allí, en el espacio que deja el desconocimiento humano donde entra en acción la fe; el don que se recibe de Dios para poder tener “convicción de lo que no se ve”. Lo sencillo lo entendemos y lo explicamos, lo confuso lo creemos y lo predicamos. Hay suficientes razones para creer en Dios, eso es fe; muchas cosas que están expresas en la Biblia son de difícil entendimiento, y en estos casos a Dios hay que creerle, no siempre entenderle. “Por la fe entendemos haber sido constituido el universo por la palabra de Dios, de modo que lo que se ve fue hecho de lo que no se veía” (Hebreos 11:3).
+</p
+<p  style='padding-top: 0.7em; font-size: 1em;'>La razón de ser de la Palabra de Dios es guiar al hombre para que sea salvo; es importante que el creyente crea y conozca las verdades fundamentales y que se cumplan en él.  Alguien dijo: “No necesito que me digan cómo es el cielo; solo les pido que me enseñen como llegar allí”. Muchas posiciones doctrinales pretender profundizarse y lo único que logran es confundir a los creyentes. Los buzos se sumergen en las aguas y disfrutan de las bellezas del mar, sin embargo, tienen un límite al profundizarse; descender demasiado puede hacer doler la cabeza, y bajar aún más puede hacer que esta se reviente</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Las grandes herejías de la historia han sido el resultado del deseo de algunos hombres por tratar de explicar lo inexplicable. La curiosidad por lo desconocido y lo no revelado, ha motivado a presentar una serie de entramados doctrinales diversos, que lo único que han logrado es dividir el cuerpo de Cristo, y alejar a los creyentes de la hermosura de un Evangelio simple y entendible que conduce a los creyentes al cielo. Las cosas más sublimes de Dios son inexplicables, Él mismo es inexplicable. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>“Agradó a Dios salvar a los creyentes por la locura de la predicación. </strong>Porque la palabra de la cruz es locura a los que se pierden; pero a los que se salvan, esto es, a nosotros, es poder de Dios. Pues está escrito: Destruiré la sabiduría de los sabios, Y desecharé el entendimiento de los entendidos. ¿Dónde está el sabio? ¿Dónde está el escriba? ¿Dónde está el disputador de este siglo? ¿No ha enloquecido Dios la sabiduría del mundo? Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación” (1Corintios 1:18-21).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>La sencillez de la cruz</strong>
+“Porque los judíos piden señales, y los griegos buscan sabiduría; pero nosotros predicamos a Cristo crucificado, para los judíos ciertamente tropezadero, y para los gentiles locura; mas para los llamados, así judíos como griegos, Cristo poder de Dios, y sabiduría de Dios” (1 Corintios 1:22-24).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Hay cosas difíciles de entender </strong>   
+“casi en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos e inconstantes tuercen, como también las otras Escrituras, para su propia perdición” (2 Pedro 3:16).  
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Siempre habrá cosas secretas</strong> 
+“Las cosas secretas pertenecen a Jehová nuestro Dios; mas las reveladas son para nosotros y para nuestros hijos para siempre, para que cumplamos todas las palabras de esta ley” (Deuteronomio 29:29).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Siempre habrá cosas secretas </strong>
+“Las cosas secretas pertenecen a Jehová nuestro Dios; mas las reveladas son para nosotros y para nuestros hijos para siempre, para que cumplamos todas las palabras de esta ley” (Deuteronomio 29:29).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Las añadiduras traen problemas </strong>
+“Yo testifico a todo aquel que oye las “palabras de la profecía de este libro: Si alguno añadiere a estas cosas, Dios traerá sobre él las plagas que están escritas en este libro. Y si alguno quitare de las palabras del libro de esta profecía, Dios quitará su parte del libro de la vida, y de la santa ciudad y de las cosas que están escritas en este libro” (Apocalipsis 22:18-19).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Conocemos en parte</strong>
+“Porque en parte conocemos, y en parte profetizamos; mas cuando venga lo perfecto, entonces lo que es en parte se acabará” (1 Corintios 13:9-10).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>De lo que sabemos hablamos </strong>
+“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos? Él les respondió: Ya os lo he dicho, y no habéis querido oír; ¿por qué lo queréis oír otra vez? ¿Queréis también vosotros haceros sus discípulos?” (Juan 9:24-27).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Los grandes milagros de Dios no tienen explicación lógica</strong>
+“Como tú no sabes cuál es el camino del viento, o cómo crecen los huesos en el vientre de la mujer encinta, así ignoras la obra de Dios, el cual hace todas las cosas” (Eclesiastés 11:5). </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“El viento sopla de donde quiere, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde va…” (Juan 3:8). 
+“Y mandó Jehová al pez, y vomitó a Jonás en tierra” (Jonás 2:10). 
+ “Porque Jehová se levantará … para hacer su obra, su extraña obra, y para hacer su operación, su extraña operación” (Isaías 28:21).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>No trates de explicarlo, tan solo, creélo </strong>
+¿Cómo explicar el suceso en que una bestia le habló a Balaam? ¿Cómo explicar que el sol y la luna se detuvieron en el tiempo de Gedeón? ¿Cómo explicar la manera en que la vara de Aarón reverdeció? ¿Cómo explicar que a los amigos de Daniel no se les quemara un solo cabello en un horno calentado siete veces más de lo normal? ¿Cómo pudieron Abraham y Sara tener un hijo en las condiciones físicas en las que estaban? ¿Cómo se recompuso el cuerpo putrefacto y hediondo de Lázaro? ¿Cómo explicar una sanidad Divina? ¿Cómo explicar el bautismo del Espíritu Santo?  ¿Cómo explicar lo sucedido en el vientre de María?
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>“… ¿No te he dicho que si crees, verás la gloria de Dios?” (Juan 11:40).
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Héctor Raúl Betancur Montoya. Secretario General IPUC
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p style='font-size: 2em; text-align: center;'><strong></strong></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
@@ -670,22 +761,5 @@ La tâche est ardue et le travail est dur et complexe, pour cela Dieu continue �
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 */
