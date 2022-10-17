@@ -703,8 +703,8 @@ audio {
 @media screen and (max-width: 600px) {
 
     .btn-normal-23 {
-        width: 5em;
-        height: 2em;
+        width: 4.2em;
+        height: 1.8em;
     }
     .boton-normal-text-23 {
         font-size: 0.8em !important;
@@ -739,6 +739,16 @@ audio {
     }
     #titulo-12-content {
         top: 0% !important;
+    }
+    #text-content-19 {
+       font-size: 0.9em !important;
+    }
+    #btn-read-more-33 {
+        top: 75% !important;
+    }
+    #text-content-33 {
+        top: 40% !important;
+        font-size: 0.9em !important;
     }
     
 }

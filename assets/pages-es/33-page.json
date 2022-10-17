@@ -1,7 +1,7 @@
 [
     {
         "x": "0",
-        "y": "8%",
+        "y": "5%",
         "width": "100%",
         "styleBox": " padding: 1em; width: 70%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #b41015;",
         "background-color": "#b41015",
@@ -11,18 +11,18 @@
         "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #b41015;'><span style='font-size: 2em;'>“E</span>n cuanto a Dios perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan”<p style=' font-size: 1.6em; font-style: italic; color: #1E1E1F; text-align: center !important; font-weight: 100 !important;'><strong>(Salmos 18:30).</strong></p></p>"
+            "text": "<p style='font-weight: 100; padding-top: 0.5em; font-size: 1.3em; font-style: italic; color: #b41015;'><span style='font-size: 2em;'>“E</span>n cuanto a Dios perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan”<p style=' font-size: 1.6em; font-style: italic; color: #1E1E1F; text-align: center !important; font-weight: 100 !important;'><strong>(Salmos 18:30).</strong></p></p>"
         }
     },
     {
         "x": "0",
-        "y": "35%",
+        "y": "30%",
         "width": "100%",
         "styleBox": "width: 72%;",
         "background-color": "#b41015",
+        "id_unique": "text-content-33",
         "color": "#fff",
         "font-size": "1em",
-        "id_unique": "text-content-9",
         "tag": "content-text",
         "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
@@ -32,13 +32,14 @@
     },
     {
         "x": "60%",
-        "y": "73%",
+        "y": "68%",
         "width": "30%",
         "background-color": "#b41015;",
         "color": "#fff",
         "font-size": "1.2em",
         "tag": "btn-normal",
         "id": "btn-espana-33",
+        "id_unique": "btn-read-more-33",
         "text": "",
         "data": {
            "text": "Leer más",
