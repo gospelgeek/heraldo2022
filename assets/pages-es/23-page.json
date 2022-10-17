@@ -1,1 +1,63 @@
-[]
+[
+    {
+        "x": "69%",
+        "y": "81%",
+        "zIndex": "1",
+        "width": "30%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/autor-23.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "5%",
+        "width": "100%",
+        "styleBox": "padding: 1em; display: grid; justify-items: center; width: 94%; height: auto !important; border-style: solid; border-width: 0.2em; border-color: #0e5b79;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "width: 80%; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #1E1E1F;'><span style='font-size: 2em; color: #5f96ab;'>“E</span>sta es Palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos”<p style=' font-size: 1.6em; font-style: italic; color: #1E1E1F; text-align: center !important; font-weight: 100 !important;'>(Zacarías 4:6).</p></p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "35%",
+        "width": "100%",
+        "styleBox": "width: 80%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "id_unique": "content-text-23",
+        "tag": "content-text",
+        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 0.7em; font-size: 1em;'>Dios delega a Zorobabel la responsabilidad de reconstruir el templo, una tarea grande, pero le manifiesta que esto no será posible por habilidades o estrategias humanas, sino por su Espíritu. Se entiende por estrategia un plan de acción para alcanzar un objetivo, sobre este particular hoy tenemos a disposición muchos conocimientos y por cierto nada despreciables; sin embargo, respecto a la predicación del Evangelio debemos ser cuidadosos en el uso de estas herramientas, a fin de no perder la perspectiva del sentido de la misión. Podemos tomar algunos de estos recursos, pero debemos tener presente que las estrategias o métodos no pueden desplazar al Espíritu Santo en la tarea de la predicación.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por ejemplo, Jesús dijo que se predicase en su Nombre el arrepentimiento y perdón de pecados. En muchos casos la predicación se centra en mover las emociones, trayendo como resultado, multitudes frente a un altar pero, no hay convicción de pecado y por ende no se busca el perdón de ellos para alcanzar la salvación.</p>"
+        }
+    },
+    {
+        "x": "1.7em",
+        "y": "80%",
+        "width": "30%",
+        "background-color": "#0e5b79",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-23",
+        "id_unique": "btn-read-more-23",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "_id": "text-read-more",
+        "text": "<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… NO CON EJÉRCITO, SINO CON MI ESPÍRITU</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>“Esta es Palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos” (Zacarías 4:6). Dios delega a Zorobabel la responsabilidad de reconstruir el templo, una tarea grande, pero le manifiesta que esto no será posible por habilidades o estrategias humanas, sino por su Espíritu.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Se entiende por estrategia un plan de acción para alcanzar un objetivo, sobre este particular hoy tenemos a disposición muchos conocimientos y por cierto nada despreciables; sin embargo, respecto a la predicación del Evangelio debemos ser cuidadosos en el uso de estas herramientas, a fin de no perder la perspectiva del sentido de la misión. Podemos tomar algunos de estos recursos, pero debemos tener presente que las estrategias o métodos no pueden desplazar al Espíritu Santo en la tarea de la predicación.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por ejemplo, Jesús dijo que se predicase en su Nombre el arrepentimiento y perdón de pecados. En muchos casos la predicación se centra en mover las emociones, trayendo como resultado, multitudes frente a un altar pero, no hay convicción de pecado y por ende no se busca el perdón de ellos para alcanzar la salvación. </p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Modelos de Dios</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Al correr un poco el velo de la historia del trato de Dios con el hombre, podemos darnos cuenta que para el desarrollo de cada proyecto Él tiene su propio modelo y ha sido muy enfático en la fidelidad a estos, miremos: </p> <p style='padding-top: 0.7em; padding-left: 0.7em; font-size: 1em;'>1. Cuando Dios determinó hacer juicio por la maldad de los antidiluvianos, le dio a Noé un modelo para la salvación de este y preservación de vida, el cual debía seguir fielmente, Génesis 6:9-21. -Noe siguió el modelo que le dio el Señor y se salvó con toda su casa incluyendo los animales. “Y lo hizo así Noé; hizo conforme a todo lo que Dios le mandó” (Génesis 6:22; 7:1-5). Que el modelo de Dios fue efectivo lo vemos en (Génesis 8:18-19). “Entonces salió Noé, y sus hijos, su mujer, y las mujeres de sus hijos con él. Todos los animales, y todo reptil y toda ave, todo lo que se mueve sobre la tierra según sus especies, salieron del arca”. Esto es como dice la Escritura. </p> <p style='padding-top: 0.7em; padding-left: 0.7em; font-size: 1em;'>2. Cuando ordena construir el tabernáculo, el lugar de encuentro con su pueblo Israel, le pide a Moisés subir al monte para reunirse con Él y allí le mostró el modelo y le recomienda seguirlo. “Pon mucho cuidado, porque todo esto debes hacerlo exactamente igual a lo que te mostré en la montaña” (Éxodo 25:40 TLA). (Le dijo exactamente igual, no parecido, Dios no lo dejó a la inventiva de Moisés por muy cercano que fuese). Registra la Biblia que Moisés hizo las cosas conforme Dios le había ordenado y cuando se hubo terminado, Dios lleno el lugar con su presencia. “Entonces una nube cubrió el tabernáculo de reunión, y la gloria de Jehová llenó el tabernáculo” (Éxodo 40:34). De esta manera da testimonio que las cosas se habían hecho según lo ordenado. Esto es como dice la Escritura.</p> <p style='padding-top: 0.7em; padding-left: 0.7em; font-size: 1em;'></p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Modelo de Dios para la predicación</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>En la sinagoga de Nazaret, Jesús inicia su predicación con la siguiente declaración: “El Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres…” (Lucas 4:18-19). Deja presente que la predicación del Evangelio debía hacerse siempre guiado y bajo la unción del Espíritu Santo, Jesús es nuestro ejemplo supremo a seguir. (Él comenzó a hacer y a enseñar).</p> <p style='padding-top: 0.7em; font-size: 1em;'>En Marcos 16:15-16, Jesús les da la gran comisión a sus discípulos, pero Lucas registra la estrategia o el modelo de Dios que debían seguir para cumplirla. “y que se predicase en su nombre el arrepentimiento y el perdón de pecados en todas las naciones, comenzando desde Jerusalén. He aquí, yo enviaré la promesa de mi Padre sobre vosotros; pero quedaos vosotros en la ciudad de Jerusalén, hasta que seáis investidos de poder desde lo alto” (Lucas 24:47-49). Aquí se nos muestran tres cosas sobre el modelo que Jesús entrega a sus discípulos.</p> <p style='padding-top: 0.7em; font-size: 1em;'>1-Predicar en el Nombre de Jesús el arrepentimiento y el perdón de pecados en todas las naciones, comenzando en Jerusalén. 2-Él les enviaría la promesa del Padre (El Espíritu Santo). 3-Debian quedarse en Jerusalén hasta que fuesen investido del poder desde lo alto</p> <p style='padding-top: 0.7em; font-size: 1em;'>Los discípulos habían recibido la misión de ir a llevar el mensaje, pero primero debían ser investidos de poder del Espíritu Santo; Lucas muestra que Jesús se presenta nuevamente a sus discípulos y les ratifica la promesa. Quería dejar muy claro su modelo o estrategia. Hechos 1:8</p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>El cumplimiento de la promesa</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>En el cumplimiento de la promesa, la Biblia declara que “… fueron todos llenos del E.S…”. De esta manera los capacita para la vida cristiana y para el cumplimiento de la misión. Hechos 2:1-4. Jesús les había dicho que el Espíritu Santo sería quien convencería de pecado. Pedro lleno del Espíritu Santo el día de pentecostés da su primer discurso, y efectivamente miramos cómo los presentes son convencidos de pecado y más de tres mil personas reconocen su necesidad de salvación. En Hechos 2:37-42 miramos claramente la efectividad del modelo de Dios. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Fue el Espíritu Santo, quien seleccionó y envió los misioneros. Hechos 13:2-3. Un hombre llegó a Colombia hace ochenta y cinco años ungido con el Espíritu Santo y comenzó a predicar, hoy somos cerca de cinco mil pastores; quiere decir que el modelo que el Señor Jesús usó, que implementaron los discípulos y que además está a disposición de los creyentes ha funcionado. </p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Conclusión</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>La Iglesia en su compromiso de proclamar el mensaje del Evangelio, debe mantenerle ese papel protagónico al Espíritu Santo y seguir los lineamientos de la Palabra de Dios. Nunca permitir que las estrategias humanas (aunque útiles), sustituyan su presencia en el cumplimiento de la misión que se nos ha encomendado. “… Separados de mí nada podéis hacer” (Juan 15:5). Amén.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por Segundo G. Arboleda Rosero. Pastor IPUC</p>"
+    }
+]
