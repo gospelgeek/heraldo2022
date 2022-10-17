@@ -41,11 +41,11 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/19"
+                "url": "#pagina/21"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/19"
+                "url": "#pagina/21"
             }
         ]
     },
