@@ -1,1 +1,98 @@
-[]
+[
+    {
+        "x": "24%",
+        "y": "5%",
+        "width": "25%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "botones-idomas",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/francia.png",
+                "url": "#",
+                "id": "20-espana-21-espana"
+            },
+            {
+                "icon": "./assets/pics/icons/brasil.png",
+                "url": "#",
+                "id": "20-brasil-21-brasil"
+            },
+            {
+                "icon": "./assets/pics/icons/espana.png",
+                "url": "#",
+                "id": "20-espana-21-espana"
+            }
+        ]
+    },
+    {
+        "x": "70%",
+        "y": "4%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "30%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "#pagina/21"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "#pagina/21"
+            }
+        ]
+    },
+    {
+        "x": "69%",
+        "y": "81%",
+        "zIndex": "1",
+        "width": "30%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/autor-21.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "62%",
+        "width": "100%",
+        "styleBox": "width: 70%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-21",
+        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 1em; font-size: 1.3em; font-style: italic;'>vivo, y como prueba irrefutable está soportada por su gloriosa Palabra y por ellos como testigos oculares, le vieron, sintieron sus corazones encendidos por el poder de la Palabra que oyeron de sus labios, Lucas 24:32.</p>"
+        }
+    },
+    {
+        "x": "3em",
+        "y": "85%",
+        "width": "30%",
+        "background-color": "#c55f0b",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-21",
+        "id_unique": "btn-read-more-21",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "_id": "text-read-more",
+        "text": "<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… EL SEÑOR ABRIÓ SU CORAZÓN PARA QUE OYESE SU PALABRA</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Lucas en su Evangelio, capítulo 24:13 nos narra la forma como Jesús caminó al lado de dos de sus discípulos que regresaban tristes y frustrados, porque para ellos, Cristo no había resucitado. Jesús les interpeló, pero ellos no le reconocieron porque tenían sus ojos velados. Jesús a través del camino les va citando las Escrituras desde Moisés, los profetas, y todo lo que decían de Él. Cuando Jesús fue invitado a quedarse con ellos, al partir el pan, los ojos de sus discípulos fueron abiertos y le reconocieron, que Jesús está vivo, y como prueba irrefutable está soportada por su gloriosa Palabra y por ellos como testigos oculares, le vieron, sintieron sus corazones encendidos por el poder de la Palabra que oyeron de sus labios, Lucas 24:32. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Podemos inferir que, el Señor les abrió los ojos a estos dos discípulos, para que le reconocieran y fueran testigos oculares de su resurrección. El Señor Jesús les dio pruebas indubitables de su resurrección a sus discípulos, no solo para que contemplaran las cicatrices de sus heridas, sino también para que las palparan, Lucas 24:39; todo esto debido a que había turbación en sus corazones, y luego pasó a probarles a través de las Escrituras que estas tenían que cumplirse, lo que escribió Moisés, lo que escribieron los profetas y lo que está escrito en los Salmos. Y en esta ocasión el Señor les abrió el entendimiento para que comprendiesen las Escrituras. ¿Y qué era lo que debían entender de las Escrituras? Que Él es el Cristo, que fue necesario su padecimiento extremo para que por medio de su pasión, la muerte fuera derrotada a través de su resurrección Lucas 24:44. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ante sus discípulos, Jesús presenta las Sagradas Escrituras, es decir, el Antiguo Testamento, como autoritativo y digno de ser creído; porque lo que ellos estaban viendo no fue improvisado, sino que todo estaba predicho, escrito desde mucho antes de la venida del Mesías prometido. Jesucristo se presenta como la principal clave hermenéutica al abrir el entendimiento a sus discípulos, para que comprendieran, interpretaran y supieran quien es Él, su gloriosa obra, poder, esencia y carácter; a fin de que estuviesen plenamente convencidos para poderles encomendar la gran comisión, para que se predicase en su Nombre el arrepentimiento y el perdón de los pecados a todas las naciones comenzando desde Jerusalén.</p> <p style='padding-top: 0.7em; font-size: 1em;'>El evangelista Lucas nos enseña en el último capítulo de su Evangelio, el propósito de abrirle los ojos a dos de sus discípulos, para que lo reconocieran y para ser testigos oculares de su resurrección; y le abrió el entendimiento a sus discípulos para que comprendieran las Escrituras, para lanzarlos a dar testimonio del Cristo resucitado como el Salvador del mundo.</p> <p style='padding-top: 0.7em; font-size: 1em;'>En el capítulo 16 de Hechos de los Apóstoles, Lucas nos narra el segundo viaje misionero de Pablo, y como el Espíritu Santo les prohibió hablar de la Palabra en Asia, Pablo insistió y ahora el Espíritu Santo no se los permitió; y fue a Troas donde se les mostró la visión de un varón macedonio pidiendo ayuda. Pablo y sus compañeros de viaje entendieron que Dios los llamaba para anunciar el Evangelio en Europa, llegan a Filipos territorio Europeo y después de hacer oración al Señor, salieron y junto al rio enseñaban la Palabra del Señor a mujeres que se reunía allí. Lucas nos presenta una mujer llamada Lidia, vendedora de púrpura, de la ciudad de Tiatira, que adoraba a Dios, Hechos 16:13-15. Lucas documenta este acontecimiento presentándonos el nombre de esta mujer, Lidia; su oficio, vendedora de púrpura; su procedencia Tiatira; y su fe y devoción a Dios. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Lidia estaba oyendo lo que Pablo decía, es decir, escuchaba la predicación del Evangelio, que era algo nuevo para ella, y es allí donde intervino el Señor y abrió el corazón, su mente, para que estuviese atenta a la exposición de la Palabra de Dios a fin de que pudiera entenderla y creerla para ser salva. </p> <p style='padding-top: 0.7em; font-size: 1em;'>El Señor abrió el corazón de Lidia y esta creyó a la Palabra expuesta por Pablo, y fue tal el efecto que Lidia fue bautizada, su familia también; practicó con Pablo y sus compañeros la ley de la hospitalidad, y el Señor no solo había abierto el corazón de Lidia para que fuese salva junto con su familia, sino que también había abierto el corazón del continente europeo para que conocieran al Señor Jesucristo como el único Dios y Salvador de todos los hombres. Lidia la primera mujer convertida y bautizada junto con su familia en el continente europeo, y todo porque Pablo y sus compañeros se dejaron guiar por el Espíritu Santo; porque decidieron viajar a Filipos, porque antes de… oraron al Señor y Él los guió hasta donde se encontraba Lidia para predicarle el glorioso Evangelio y, sobre todo, el mismo Señor le abrió el corazón. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Lucas en su obra, de forma magistral nos enseña sobre los sublimes propósitos del Señor, cuando abre los ojos de los hombres para que le conozcan y sepan que Él está vivo, el Señor abre el entendimiento para que comprendan quién es Él, su obra, poder y carácter; para que anuncien sin temor su Palabra. Y abre el corazón para que los hombres sean salvos, sus familias y todo un pueblo, una nación, un continente, este es el poder del Evangelio.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Vivimos en medio de una sociedad a la que el enemigo ha cegado los ojos, les ha cerrado el entendimiento y el pecado les ha endurecido su corazón; una sociedad cerrada para los propósitos de Dios, pero totalmente abierta para hacer el mal e ignorar la obra de Dios. Esta es la gran paradoja humana, cerrados para hacer lo bueno, pero abiertos para hacer toda clase de mal. Pero el Señor hoy sigue abriendo los ojos, el entendimiento, el corazón de los perdidos, a fin de que sean salvos a través de la predicación del Evangelio.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por Exel Javier Copete Gamboa. Supervisor Distrito 9 </p>"
+    }
+]
