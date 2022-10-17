@@ -533,4 +533,159 @@ O Reino de Deus é comparado a semente de mostarda, a mais pequena de todas,  pa
 oi, j’ai planté, Apollos a arrosé, mais c’est Dieu qui a fait pousser. 7Celui qui plante n’est rien, celui qui arrose n’est rien. Mais celui qui fait pousser est tout, et c’est Dieu (1 Corinthiens 3: 6-7PDV2017). </p> <p style='padding-top: 0.7em; font-size: 1em;'>
  Le Royaume de Dieu est comparé à une graine de moutarde, la plus petite de toutes, insignifiante pour les Juifs. Elle était si petite qu'elle a été semée, a grandi et est devenue un arbre solide qui offrait un abri dans ses branches pour les oiseaux. Mais comment cette graine devient-elle un grand arbre qui donne de l'ombre ? Marc 4:26-29, c'est donc Dieu qui opère la nouvelle naissance dans la vie d'une personne. </p>
 
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… PERO EL CRECIMIENTO LO HA DADO DIOS</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios. De manera que ni el que siembra ni el que riega son nada, sino que Dios lo es todo, pues él es quien hace crecer lo sembrado” (1 Corintios 3:6-7 DHH).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El Reino de Dios es comparado a la semilla de mostaza, la más pequeña de todas, para los judíos insignificante. Siendo tan pequeña se sembró, creció y se hizo árbol fuerte que ofreció albergue en sus ramas para las aves. Pero, ¿cómo crece esa semilla hasta ser un árbol grande que da sombra?  Marcos 4:26-29, de manera que es Dios quien trabaja en el nuevo nacimiento en la vida de la persona.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La explicación de cómo ocurre el crecimiento de la semilla es imposible. No se acierta a comprender el misterio de la vida; el desarrollo y crecimiento de la semilla depende solo de Dios. (Eclesiastés 11:5) dice: “Como tú no sabes cuál es el camino del viento, o cómo crecen los huesos en el vientre de la mujer encinta, así ignoras la obra de Dios, el cual hace todas las cosas”. Esta semilla que es la Palabra de Dios, siempre, hoy y por los siglos crece de la mano poderosa de Dios.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Crecimiento del Evangelio</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La semilla que se siembra es el Evangelio, siendo nuestro Señor Jesucristo el primer expositor (sembrador). “Desde entonces comenzó Jesús a predicar, y a decir: Arrepentíos, porque el reino de los cielos se ha acercado” (Mateo 4:17).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta semilla dio una planta que empezaba a crecer, “Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores” (Mateo 4:18). Sus ramas empezaron a extenderse, “Y les dijo: Venid en pos de mí, y os haré pescadores de hombres” (Mateo 4:19).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>De manera que, los discípulos fueron comisionados para continuar la obra “Id por todo el mundo y predicad el evangelio a toda criatura” (Marcos 16:15). Teniendo la garantía que es el Señor Jesucristo quien da el crecimiento. “Enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén” (Mateo 28:20).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Así como en la parábola del sembrador, la semilla sembrada en buena tierra dio buen fruto y se multiplicó, la Palabra predicada por los discípulos tuvo una cobertura más allá de Jerusalén. Diez días después de la ascensión del Señor, el Espíritu Santo fue derramado sobre los ciento veinte creyentes que estaban esperando en Jerusalén; con la nueva unción que recibieron los discípulos empezaron a predicar el Evangelio. Los resultados eran casi increíbles y es que el crecimiento que da Dios es sobrenatural, no es del humano.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A través de la Palabra de Dios podemos ver cómo día tras día, el número de personas que recibían a Cristo se incrementaba enormemente. “Así que, los que recibieron su palabra fueron bautizados; y se añadieron aquel día como tres mil personas” (Hechos 2:41). “Y el Señor añadía cada día a la iglesia los que habían de ser salvos” (Hechos 2:47). “Y los que creían en el Señor aumentaban más, gran número así de hombres como de mujeres” (Hechos 5:14). Porque el crecimiento lo ha dado Dios y la salvación proviene unicamente de Él. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Crecimiento de la Iglesia hasta lo último de la tierra</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Además, el Evangelio se expandió rápidamente desde Jerusalén a toda Judea, Samaria, y hasta lo último de la tierra. “Entonces las iglesias tenían paz por toda Judea, Galilea y Samaria; y eran edificadas, andando en el temor del Señor, y se acrecentaban fortalecidas por el Espíritu Santo” (Hechos 9:31).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Poco a poco los apóstoles empezaron a salir a otros países para predicar. La semilla fue plantada y llegó a conocerse la Palabra del Dios y el Evangelio en el mundo, de donde muchos hombres tomados por el Espíritu, deciden emprender grandes viajes para llevar estas Buenas Nuevas a todos los países que aún no habían escuchado de este mensaje maravilloso que solo proviene de Dios.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Pero la palabra del Señor crecía y se multiplicaba” (Hechos 12:24). “Así que las iglesias eran confirmadas en la fe, y aumentaban en número cada día” (Hechos 16:5). “Así crecía y prevalecía poderosamente la palabra del Señor” (Hechos 19:20).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Dios toma el corazón del hermano Larsen </strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Quien llega a Colombia con el mensaje de Salvación. Una iglesia que empezó con gran sacrificio y esfuerzo, tiempos de persecución y muerte para los cristianos, Pero la Palabra predicada siempre ha sido respaldada y nadie ha podido detener el crecimiento de esta Iglesia. El Señor dijo que, las puertas del infierno no prevalecerán contra ella, Mateo 16:18.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Una Iglesia que empezó con una familia, luego se convirtieron algunos, después muchos y ahora somos miles, hoy día hemos crecido tanto que tenemos más de 5.180 pastores en territorio nacional; con la ayuda de Dios hemos llegado al corazón de grupos étnicos, cárceles, población sorda y diferentes grupos vulnerables, que también están alabando y glorificando el Nombre de Jesús. Así mismo, hacemos presencia en muchos paises y contamos con más de setecientos pastores en el extranjero, aproximadamente.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Es nuestra tarea llevar el Evangelio a todos los rincones de Colombia, somos miles de hermanos guiados y respaldados por Dios para alcanzar este objetivo. Podemos ver el territorio muy grande, sin embargo, Dios mismo nos está mostrando caminos y abriendo puertas, Él lo seguirá haciendo, pues es Dios mismo quien ha dado y seguirá dando el crecimiento. 
+La labor es ardua y el trabajo duro y complejo, para esto Dios sigue levantando hombres y mujeres con convicción, pasión y amor por las almas, que han creído a la Palabra y llevan con orgullo la bandera de nuestro Evangelio, no nos han podido callar, ni lo podrán hacer porque esta Palabra es respaldada directamente por Jesucristo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hemos trabajado, hemos crecido, nos hemos fortalecido; pero no hemos terminado, aún queda mucho por hacer, esta semilla seguirá esparciéndose. Solo el poder del Espíritu Santo dirige el crecimiento de la Iglesia, ella da frutos porque Dios es el que da el crecimiento.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Edilberto Ortiz Sanmartín. Segundo Vicepresidente IPUC</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>COMME DIT L'ÉCRITURE... MAIS LA CROISSANCE A ÉTÉ DONNÉE PAR DIEU</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Moi, j’ai planté, Apollos a arrosé, mais c’est Dieu qui a fait pousser. 7Celui qui plante n’est rien, celui qui arrose n’est rien. Mais celui qui fait pousser est tout, et c’est Dieu (1 Corinthiens 3: 6-7PDV2017).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Le Royaume de Dieu est comparé à une graine de moutarde, la plus petite de toutes, insignifiante pour les Juifs. Elle était si petite qu'elle a été semée, a grandi et est devenue un arbre solide qui offrait un abri dans ses branches pour les oiseaux. Mais comment cette graine devient-elle un grand arbre qui donne de l'ombre ?  Marc 4:26-29, c'est donc Dieu qui opère la nouvelle naissance dans la vie d'une personne.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>L'explication de la manière dont la croissance de la graine se produit est impossible. Elle ne comprend pas le mystère de la vie ; le développement et la croissance de la graine dépendent de Dieu seul (Ecclésiaste 11:5) : 'Comme tu ne connais pas le chemin du vent, ni la croissance des os dans le sein d'une femme enceinte, tu ne connais pas non plus l'œuvre de Dieu, qui opère toutes choses'. Cette graine qui est la Parole de Dieu, toujours, aujourd'hui et pour toujours, pousse de la main puissante de Dieu.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Croissance de l'Évangile</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La graine qui est semée est l'Évangile, notre Seigneur Jésus-Christ étant le premier exposant (semeur). Dès lors, Jésus commença à prêcher et à dire : ”Repentez-vous, car le royaume des cieux est proche“ (Matthieu 4:17).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Cette graine a produit une plante qui a commencé à pousser. “Comme Jésus marchait le long de la mer de Galilée, il vit deux frères, Simon appelé Pierre et André son frère, qui jetaient un filet dans la mer ; car ils étaient pêcheurs” (Matthieu 4:18). Leurs branches ont commencé à s'étendre, “et il leur dit : “Suivez-moi, et je ferai de vous des pêcheurs d'hommes”” (Matthieu 4:19).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Les disciples ont donc été chargés de poursuivre l'œuvre : “Allez dans le monde entier et prêchez la bonne nouvelle à toute créature” (Marc 16:15). En ayant l'assurance que c'est le Seigneur Jésus-Christ qui donne la croissance. Et enseignez-leur à observer tout ce que je vous ai prescrit. Et voici, je suis avec vous tous les jours, jusqu’à la fin du monde.”. Amen” (Matthieu 28:20).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>De même que dans la parabole du semeur, la graine semée sur une bonne terre portait de bons fruits et se multipliait, de même la Parole prêchée par les disciples avait une portée au-delà de Jérusalem. Dix jours après l'ascension du Seigneur, le Saint-Esprit a été déversé sur les cent vingt croyants qui attendaient à Jérusalem ; avec la nouvelle onction qu'ils ont reçue, les disciples ont commencé à prêcher l'Évangile. Les résultats étaient presque incroyables car la croissance que Dieu donne est surnaturelle, pas humaine.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Grâce à la Parole de Dieu, nous pouvons voir comment, jour après jour, le nombre de personnes recevant le Christ a énormément augmenté. “Ceux qui acceptèrent sa parole furent baptisés; et, en ce jour-là, le nombre des disciples s’augmenta d’environ trois mille âmes.” (Actes 2:41). “Et le Seigneur ajoutait chaque jour à l'Église ceux qui étaient sauvés” (Actes 2:47). “Le nombre de ceux qui croyaient au Seigneur, hommes et femmes, s’augmentait de plus en plus; ” (Actes 5:14). Car l'augmentation est donnée par Dieu et le salut vient de Lui seul. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>La croissance des églises jusqu'aux extrémités de la terre</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En outre, l'Évangile s'est rapidement répandu de Jérusalem dans toute la Judée, la Samarie et jusqu'aux extrémités de la terre. “L’Église était en paix dans toute la Judée, la Galilée et la Samarie, s’édifiant et marchant dans la crainte du Seigneur, et elle s’accroissait par l’assistance du Saint-Esprit. ” (Actes 9:31).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Peu à peu, les apôtres ont commencé à aller prêcher dans d'autres pays. La semence fut plantée et la Parole de Dieu et l'Évangile furent connus dans le monde, d'où de nombreux hommes, pris par l'Esprit, décidèrent d'entreprendre de grands voyages pour annoncer cette Bonne Nouvelle à tous les pays qui n'avaient pas encore entendu parler de ce merveilleux message qui ne vient que de Dieu.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Cependant la parole de Dieu se répandait de plus en plus, et le nombre des disciples augmentait.” (Actes 12:24). “Les Églises se fortifiaient dans la foi, et augmentaient en nombre de jour en jour. (Actes 16:5). “C’est ainsi que la parole du Seigneur croissait en puissance et en force.” (Actes 19:20).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Dieu touche le cœur du Frère Larsen</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Notre frère arrive en Colombie avec le message du salut. Une église qui a commencé avec beaucoup de sacrifices et d'efforts, des temps de persécution et de mort pour les chrétiens, mais la Parole prêchée a toujours été soutenue et personne n'a pu arrêter la croissance de cette église. Le Seigneur a dit, les portes de l'enfer ne prévaudront pas contre elle, Matthieu 16:18.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Une église qui a commencé avec une famille, puis quelques uns se sont convertis, puis beaucoup et maintenant nous sommes des milliers, aujourd'hui nous avons tellement grandi que nous avons plus de 5 180 pasteurs sur le territoire national ; avec l'aide de Dieu nous avons atteint le cœur des groupes ethniques, des prisons, de la population sourde et de différents groupes vulnérables, qui louent et glorifient également le Nom de Jésus. Nous sommes également présents dans de nombreux pays et comptons plus de 700 pasteurs à l'étranger.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>C'est notre tâche d’annoncer l'Evangile dans tous les coins de la Colombie, nous sommes des milliers de frères guidés et soutenus par Dieu pour atteindre ce but.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> Nous pouvons voir que le territoire est très vaste, cependant, Dieu lui-même nous montre des chemins et ouvre des portes, il continuera à le faire, car c'est Dieu lui-même qui a donné et continuera à donner la croissance. 
+La tâche est ardue et le travail est dur et complexe, pour cela Dieu continue à susciter des hommes et des femmes avec conviction, passion et amour des âmes, qui ont cru la Parole et portent fièrement le drapeau de notre Évangile, ils n'ont pas pu nous faire taire, et ils ne pourront pas le faire parce que cette Parole est soutenue directement par Jésus-Christ.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Nous avons travaillé, nous avons grandi, nous nous sommes consolidés ; mais nous n'avons pas fini, il y a encore beaucoup à faire, cette graine va continuer à se répandre. Seule la puissance du Saint-Esprit dirige la croissance de l'Église, elle porte du fruit parce que c'est Dieu qui donne la croissance.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Par Edilberto Ortiz Sanmartín. Deuxième vice-président IPUC</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>Mas Deus deu  o crescimento</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Eu plantei, Apolo regou; mas Deus deu o crescimento. Por isso, nem oque planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento”. ( 1 Coríntios 3:6-7).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O Reino de Deus é comparado a semente de mostarda, a mais pequena de todas,  para os judeus insignificante. Sendo tão pequena se semeou, cresceu e se fez árvore forte que ofereceu abrigo em seus ramos para as aves. Como cresce essa semente até ser uma árvore grande que dá sombra? (Marcos 4:26-29), de maneira que é Deus que trabalha no novo nascimento na vida da pessoa.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A explicação de como ocorre o crescimento da semente é impossivel. Não se alcança comprender o mistério da vida; o desenvolvimento e crescimento da semente depende só de Deus. ( Eclesiastes 11:5) diz: “ assim como tu não sabes qual o caminho do vento, nem como se formam os ossos no ventre da mulher grávida, assim também não sabes as obras de Deus, que faz todas as coisas. Esta semente que é a Palavra de Deus, sempre, hoje e pelos séculos cresce da mão poderosa de Deus.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Crescimento do evangelho</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A semente que se semeia é o Evangelho, sendo o nosso Senhor Jesus Cristo o primeiro expositor  ( semeador). “ desde então começou jesus a pregar, e a dizer: Arrependei-vos, porque está próximo o Reino dos céus”. (Mateus 4:17).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta semente deu uma planta que começou a crescer, “e Jesus andando junto ao mar da Galileia, viu a dois irmãos, viu a dois irmãos, Simão, chamado Pedro, e André, seu irmão, que lançavam a rede ao mar porque ream pescadores. Seus ramos começaram aextender-se, “ e disse-lhes: Vinde após mim, e eu vos farei peescadores de homens” (Mateus 4:19).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>De maneira que, os discípulos foram comissionados para continuar a obra “  ensinando-os a guardar todas as coisas que vos tenho mandado; e eis que eu estou convosco todos os dias, até a consumação do mundo. Amém. (Mateus 28:20). </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Assim que na parábola do semeador, a semente semeada em boa terra deu bom fruto e se multiplicou, a palavra pelos discípulos teve uma cobertura mais além de Jerusalém. Dez dias depois da ascenção do Senhor, o Espírito foi derramado sobre os cento e vinte crentes que estavam esperando em Jerusalém; com a nova unção que receberam os discípilos começaram a pregar o Evangelho. Os resultados eram quase incriveis porque o crescimento que dá Deus é sobrenatural, não é humano.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Através da Palavra de Deus podemos ver como dia após dia, o número de pessoas que recebiam a Cristo se aumentava enormemente.  “ de sorte que foram batizados os que debom grado receberam a sua palavra; e naquele dia agregaram-se quase três mil almas” (Atos 2:41). “... E todos os dias acrescentava o Senhor a igreja os que se haviam de  salvar” ( Atos 2:47). “E a multidão dos que criam no Senhor, tanto homens como mulher, crescia cada vez mais”. ( Atos 5:14). Porque o crescimento o deu Deus e a salvação provem unicamente dele.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Crescimento da igreja até aos confins da terra.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Além do mais, o Evangelho se expandiu rapidamente desde Jerusalém a toda a Judeia, Samaria e até aos confins da terra. “ Assim pois as igrejas em toda a Judeia, e Galileia e Samaria tinham paz, e eram edificadas; e se multiplicavam, andando no temor do Senhor e consolação do Espírito”. (Atos 9:31).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Pouco a pouco os apóstolos começaram a sair por outros países para pregar, a semente foi plantada e chegou-se a conhecer a Palavra de Deus e o Evangelho no mundo, de onde muitos homens tomados pelo Espírito, decidem empreender grandes viagens para levar estas Boas Novas a todos os países que ainda não haviam escutado esta mensagem maravilhosa que só provem de Deus.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>“E a Palavra de Deus crescia e multiplicava”. (Atos 12:24). “ De sorte que as igrejas eram confirmadas na fé, e cada dia cresciam em número”.( Atos 16:5). “ Assim a Palavra do Senhor crescia poderosamente e prevalecia”. (Atos 19:20).</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Deus toma o coração do irmão Larsen.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Foi precisamente o irmão Larsen quem chegou a Colômbia com a mensagem de salvação. Uma igreja que começou com grande sacrifício e esforço, tempos de persiguição e morte para os cristãos, mas a Palavra pregada sempre foi respaldada e ninguém pôde deter o crescimento desta igreja. O Senhor disse que: “ as portas do inferno não prevalecerão contra ela”.  Mateus 16:18.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Uma igreja que começou com uma família, logo se converteram alguns, depois muitos e agora somos milhares. Hoje em dia crescemos tanto que temos mais de 5180 pastores no território nacional;  com a ajuda de Deus chegamos ao coração de grupos étnicos, cadeias, população surda e diferentes grupos vulneraveis, que também estão louvando e glorificando ao Senhor Jesus. Assim mesmo, estamos presentes em muitos países e contamos com mais de setecentos pastores no extrangeiro,  aproximadamente.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>É nossa tarefa levar o Evangelho a todos os cantos de Colômbia. Somos milhares de irmãos respaldados por Deus para alcançar esse objectivo. Podemos ver o território muito grande, embora, Deus mesmo nos está mostrando caminhos e abrindo portas, Ele o seguirá fazendo, pois é Deus mesmo quem deu e seguirá dando crescimento.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O labor é árduo e o trabalho duro e complexo, mas para isso Deus segue levantando homens e mulheres com convicção, paixão e amor pelas almas, que creram a Palavra e levam com orgulho a bandeira  do nosso Evangelho, e não conseguiram calar-nos, e nem poderão fazê-lo porque  essa palavra é respaldada directamente por Jesus Cristo.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Temos trabalhado, temos crescido, temos fortalecidos; mas ainda não terminamos, ainda há muito por fazer, essa semente seguirá  se espalhando. Só o poder do Espírito Santo dirige o crescimento da igreja, ela dá frutos porque Deus é quem dá o crescimento.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por: Edilberto ortiz Sanmartín – segundo vice presidente IPUC.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong></strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 */
