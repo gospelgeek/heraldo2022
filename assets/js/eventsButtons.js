@@ -427,4 +427,71 @@ Os ministros somos aderentes a uma causa e não amantes de uma actividade. Os qu
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 
 
+
+
+<p style='padding-top: 1em; font-size: 1em;'><span style='color: #0d5b78; font-size: 2em'>E</span>l Señor Jesús resucitó y durante cuarenta días dio testimonio de su
+resurrección, apareciéndoles a más de quinientas personas, y antes de
+ascender a los cielos encomendó a sus discípulos la responsabilidad de ir
+por todo el mundo para anunciar a toda persona el Evangelio de la
+salvación y la vida eterna.</p>
+<p style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este
+consiste en que el diablo, quien tenía cautivo a los seres humanos, fue
+vencido en la cruz del Calvario. Ahora todos los hombres tienen la
+oportunidad de salir de su dominio y conocer la salvación de Dios.
+</p>
+<p style='padding-top: 0.7em; font-size: 1em;'>
+</p>
+
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… POR TODA LA TIERRA SALIÓ SU VOZ</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1.5em; text-align: center;'><strong>Somos llamados a predicar su Palabra</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> <strong>“Por toda la tierra salió su voz, </strong> Y hasta el extremo del mundo sus palabras.  En ellos puso tabernáculo para el sol” (Salmos 19:4).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El Señor Jesús resucitó y durante cuarenta días dio testimonio de su resurrección, apareciéndoles a más de quinientas personas, y antes de ascender a los cielos encomendó a sus discípulos la responsabilidad de ir por todo el mundo para anunciar a toda persona el Evangelio de la salvación y la vida eterna.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este consiste en que el diablo, quien tenía cautivo a los seres humanos, fue vencido en la cruz del Calvario.  Ahora todos los hombres tienen la oportunidad de salir de su dominio y conocer la salvación de Dios.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta buena noticia de gran victoria y libertad espiritual, nos fue encomendada por el Señor, para que la diésemos a conocer a todos los hombres.
+ “Y les dijo: <strong>Id por todo el mundo y predicad el evangelio a toda criatura.</strong>
+El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado” 
+(Marcos 16:15-16).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Predicar es proclamar, gritar, anunciar a toda persona en todo lugar, que nuestros pecados fueron pagados por Jesucristo cuando dio su vida y derramó toda su sangre en la cruz; ahora solo toca reconocer y aceptar lo que el Señor Jesús hizo por nosotros como nuestro Salvador, disponiéndonos para seguirle y obedecerle.
+Si el pecado es quitado de una persona, entonces puede acercarse confiadamente ante la presencia de Dios y obtener en cualquier circunstancia oportuno socorro de parte de Dios.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El deseo de Dios es que todos los seres humanos seamos salvos, que nadie se pierda, que cada hombre se entere de esta noticia y sea partícipe de las promesas de Dios, y esta función corresponde a cada uno de los que nos hemos ido enterando y experimentando la salvación del alma y su gracia Divina.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta labor no fue encargada a los ángeles, porque ellos no han vivido la experiencia de ser cautivos por el diablo, por el pecado y la opresión del mal; porque ellos desconocen lo que es vivir bajo ese dominio, dado que están al servicio de Dios. Somos los que hemos vivido bajo el dominio del maligno, del pecado, de vicios y maldades, podemos entender a los otros pecadores y siendo movidos a misericordia anunciar a los otros que sí hay una vida mejor, feliz, grata, de paz, amor y comunión con Dios.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Dios establece el proceso a través del cual se debe proclamar su obra libertadora y salvadora.
+“Pues la Escritura dice: Todo aquel que en él creyere, no será avergonzado.” 
+Porque no hay diferencia entre judío y griego, pues el mismo que es Señor de todos, es rico para con todos los que le invocan;
+porque todo aquel que invocare el nombre del Señor, será salvo.
+¿Cómo, pues, invocarán a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien no han oído? ¿Y cómo oirán sin haber quien les predique? (Romanos 10:11-14).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hacer este trabajo tiene dos aspectos.  Un agente emisor y un agente receptor.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1.3em;'><strong>Emisor</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Dios llama al predicador.
+El Espíritu Santo lo envía.
+La iglesia respalda y apoya al enviado.
+El llamado debe predicar a Jesús y su obra redentora; proclamar para que sea escuchado.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><ul><li>Dios llama al predicador.</li>
+<li>El Espíritu Santo lo envía.</li>
+<li>La iglesia respalda y apoya al enviado.</li>
+<li>El llamado debe predicar a Jesús y su obra redentora; proclamar para que sea escuchado.</li></ul>
+</p>
+<p  style='padding-top: 0.7em; font-size: 1.3em;'><strong>Receptor</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><ul><li>Escucha al predicador, quiera o no.</li>
+<li>Cuando escuches de Jesús, puedan creer en Él.</li>
+<li>Cuando crean en el Señor, le invoquen (llamen).</li>
+<li>Cuando le invoquen sean salvos.</li></ul></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Fuimos escogidos con el propósito de que anunciemos todas las virtudes maravillosas que hay en el Señor Jesús, 1 Pedro 2:9-10; sabiendo que la obra de regeneración y conversión, solo el Señor es quien la hace, Hechos 4:12; Tito 3:5. Jesús dijo: “… el que a mi viene, yo no le echo fuera” (Juan 6:37). Y es el Señor Jesús quien a través de su Santo Espíritu se encarga de convencer al pecador de pecado, de justicia y de juicio. Juan 16:8.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La predicación es el medio establecido por Dios, para que sea anunciada su salvación, su Reino, sus promesas, su Palabra, sea revelado su Santo Nombre. 
+ “Pues ya que en la sabiduría de Dios, el mundo no conoció a Dios mediante la sabiduría, agradó a Dios salvar a los creyentes por la locura de la predicación. 
+Porque los judíos piden señales, y los griegos buscan sabiduría; 
+pero nosotros predicamos a Cristo crucificado, para los judíos ciertamente tropezadero, y para los gentiles locura; 
+mas para los llamados, así judíos como griegos, Cristo poder de Dios, y sabiduría de Dios” (1 Corintios 1:21-24).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Bueno es saber que el predicador no está llamado para hablar de sí mismo ni de la organización, sino que ha sido llamado y enviado para predicar a Jesucristo, quién es, qué ha hecho y lo que enseña en su santa Palabra.  Cuando esto se hace, entonces el Espíritu Santo confirma su obra y convierte al oyente. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Cuando una persona se entrega al Señor, recibe la salvación de Dios, y el predicador gana un alma para Cristo; el Señor le dice que cubre multitud de pecados del predicador y atesora galardón para sí en el Reino de los cielos.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Dios nos bendiga maravillosamente y proclamemos con mucha pasión la obra gloriosa que Cristo hizo por nosotros en el Calvario, sabiendo que nuestro trabajo en el Señor no es en vano.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Esdras Barranco Jiménez. Primer Vicepresidente IPUC</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
 */

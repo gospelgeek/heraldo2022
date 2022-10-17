@@ -722,5 +722,14 @@ audio {
     .responsive-font-content {
         font-size: 0.56em !important;
     }
+    #btn-9-read-more {
+        top: 83% !important;
+    }
+    #icon-content-9 {
+        top: 83% !important;
+    }
+    #text-content-9 {
+        top: 44% !important;
+    }
     
 }
