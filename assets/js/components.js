@@ -54,7 +54,7 @@ const addComponents = (region, lang) => {
             element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 33.3% 33.3% 33.3%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[0].id}')"><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[1].id}')"><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[2].id}')"><img src="${(region.data)[2].icon}" ></a>`} </div> </div>`)
             break;
         case 'img-content':
-            element = (`<div class="div-center-ubication-responsive"> <img src="${region.data.src}" style="width: 70% !important; height: 100%; object-fit: cover;"> </div>`)
+            element = (`<div class="div-center-ubication-responsive"> <img src="${region.data.src}" style="width: 70% !important; height: 100%; object-fit: cover; ${region.style}"> </div>`)
             break;
         default:
             break;

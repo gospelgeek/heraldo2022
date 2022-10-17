@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "x": "24%",
+        "y": "5%",
+        "width": "25%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "botones-idomas",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/francia.png",
+                "url": "#",
+                "id": "10-espana-11-francia"
+            },
+            {
+                "icon": "./assets/pics/icons/brasil.png",
+                "url": "#",
+                "id": "10-espana-11-brasil"
+            },
+            {
+                "icon": "./assets/pics/icons/espana.png",
+                "url": "#",
+                "id": "10-espana-11-espana"
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "10%",
+        "width": "100%",
+        "styleBox": "width: 75%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 1.3em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2em'>“Y</span>o planté, Apolos regó; pero el crecimiento lo ha dado Dios. De manera que ni el que siembra ni el que riega son nada, sino que Dios lo es todo, pues él es quien hace crecer lo sembrado” (1 Corintios 3:6-7 DHH). </p> <p style='padding-top: 0.7em; font-size: 1em;'> El Reino de Dios es comparado a la semilla de mostaza, la más pequeña de todas, para los judíos insignificante. Siendo tan pequeña se sembró, creció y se hizo árbol fuerte que ofreció albergue en sus ramas para las aves. Pero, ¿cómo crece esa semilla hasta ser un árbol grande que da sombra? Marcos 4:26-29, de manera que es Dios quien trabaja en el nuevo nacimiento en la vida de la persona </p>"
+        }
+    },
+    {
+        "x": "-1%",
+        "y": "46%",
+        "width": "40%",
+        "height": "20%",
+        "fontSize": "5em",
+        "id_unique": "btn-11-icons",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "#pagina/11"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "#pagina/11"
+            }
+        ]
+    },
+    {
+        "x": "60%",
+        "y": "43%",
+        "width": "30%",
+        "background-color": "#2e3a74",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id_unique": "btn-11-content",
+        "id": "btn-espana-11",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "_id": "text-read-more",
+        "text": "<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… PERO EL CRECIMIENTO LO HA DADO DIOS</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>“Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios. De manera que ni el que siembra ni el que riega son nada, sino que Dios lo es todo, pues él es quien hace crecer lo sembrado” (1 Corintios 3:6-7 DHH).</p> <p style='padding-top: 0.7em; font-size: 1em;'>El Reino de Dios es comparado a la semilla de mostaza, la más pequeña de todas, para los judíos insignificante. Siendo tan pequeña se sembró, creció y se hizo árbol fuerte que ofreció albergue en sus ramas para las aves. Pero, ¿cómo crece esa semilla hasta ser un árbol grande que da sombra? Marcos 4:26-29, de manera que es Dios quien trabaja en el nuevo nacimiento en la vida de la persona.</p> <p style='padding-top: 0.7em; font-size: 1em;'>La explicación de cómo ocurre el crecimiento de la semilla es imposible. No se acierta a comprender el misterio de la vida; el desarrollo y crecimiento de la semilla depende solo de Dios. (Eclesiastés 11:5) dice: “Como tú no sabes cuál es el camino del viento, o cómo crecen los huesos en el vientre de la mujer encinta, así ignoras la obra de Dios, el cual hace todas las cosas”. Esta semilla que es la Palabra de Dios, siempre, hoy y por los siglos crece de la mano poderosa de Dios.</p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Crecimiento del Evangelio</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>La semilla que se siembra es el Evangelio, siendo nuestro Señor Jesucristo el primer expositor (sembrador). “Desde entonces comenzó Jesús a predicar, y a decir: Arrepentíos, porque el reino de los cielos se ha acercado” (Mateo 4:17).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Esta semilla dio una planta que empezaba a crecer, “Andando Jesús junto al mar de Galilea, vio a dos hermanos, Simón, llamado Pedro, y Andrés su hermano, que echaban la red en el mar; porque eran pescadores” (Mateo 4:18). Sus ramas empezaron a extenderse, “Y les dijo: Venid en pos de mí, y os haré pescadores de hombres” (Mateo 4:19).</p> <p style='padding-top: 0.7em; font-size: 1em;'>De manera que, los discípulos fueron comisionados para continuar la obra “Id por todo el mundo y predicad el evangelio a toda criatura” (Marcos 16:15). Teniendo la garantía que es el Señor Jesucristo quien da el crecimiento. “Enseñándoles que guarden todas las cosas que os he mandado; y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo. Amén” (Mateo 28:20).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Así como en la parábola del sembrador, la semilla sembrada en buena tierra dio buen fruto y se multiplicó, la Palabra predicada por los discípulos tuvo una cobertura más allá de Jerusalén. Diez días después de la ascensión del Señor, el Espíritu Santo fue derramado sobre los ciento veinte creyentes que estaban esperando en Jerusalén; con la nueva unción que recibieron los discípulos empezaron a predicar el Evangelio. Los resultados eran casi increíbles y es que el crecimiento que da Dios es sobrenatural, no es del humano.</p> <p style='padding-top: 0.7em; font-size: 1em;'>A través de la Palabra de Dios podemos ver cómo día tras día, el número de personas que recibían a Cristo se incrementaba enormemente. “Así que, los que recibieron su palabra fueron bautizados; y se añadieron aquel día como tres mil personas” (Hechos 2:41). “Y el Señor añadía cada día a la iglesia los que habían de ser salvos” (Hechos 2:47). “Y los que creían en el Señor aumentaban más, gran número así de hombres como de mujeres” (Hechos 5:14). Porque el crecimiento lo ha dado Dios y la salvación proviene unicamente de Él. </p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Crecimiento de la Iglesia hasta lo último de la tierra</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Además, el Evangelio se expandió rápidamente desde Jerusalén a toda Judea, Samaria, y hasta lo último de la tierra. “Entonces las iglesias tenían paz por toda Judea, Galilea y Samaria; y eran edificadas, andando en el temor del Señor, y se acrecentaban fortalecidas por el Espíritu Santo” (Hechos 9:31).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Poco a poco los apóstoles empezaron a salir a otros países para predicar. La semilla fue plantada y llegó a conocerse la Palabra del Dios y el Evangelio en el mundo, de donde muchos hombres tomados por el Espíritu, deciden emprender grandes viajes para llevar estas Buenas Nuevas a todos los países que aún no habían escuchado de este mensaje maravilloso que solo proviene de Dios.</p> <p style='padding-top: 0.7em; font-size: 1em;'>“Pero la palabra del Señor crecía y se multiplicaba” (Hechos 12:24). “Así que las iglesias eran confirmadas en la fe, y aumentaban en número cada día” (Hechos 16:5). “Así crecía y prevalecía poderosamente la palabra del Señor” (Hechos 19:20).</p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Dios toma el corazón del hermano Larsen </strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Quien llega a Colombia con el mensaje de Salvación. Una iglesia que empezó con gran sacrificio y esfuerzo, tiempos de persecución y muerte para los cristianos, Pero la Palabra predicada siempre ha sido respaldada y nadie ha podido detener el crecimiento de esta Iglesia. El Señor dijo que, las puertas del infierno no prevalecerán contra ella, Mateo 16:18.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Una Iglesia que empezó con una familia, luego se convirtieron algunos, después muchos y ahora somos miles, hoy día hemos crecido tanto que tenemos más de 5.180 pastores en territorio nacional; con la ayuda de Dios hemos llegado al corazón de grupos étnicos, cárceles, población sorda y diferentes grupos vulnerables, que también están alabando y glorificando el Nombre de Jesús. Así mismo, hacemos presencia en muchos paises y contamos con más de setecientos pastores en el extranjero, aproximadamente.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Es nuestra tarea llevar el Evangelio a todos los rincones de Colombia, somos miles de hermanos guiados y respaldados por Dios para alcanzar este objetivo. Podemos ver el territorio muy grande, sin embargo, Dios mismo nos está mostrando caminos y abriendo puertas, Él lo seguirá haciendo, pues es Dios mismo quien ha dado y seguirá dando el crecimiento. La labor es ardua y el trabajo duro y complejo, para esto Dios sigue levantando hombres y mujeres con convicción, pasión y amor por las almas, que han creído a la Palabra y llevan con orgullo la bandera de nuestro Evangelio, no nos han podido callar, ni lo podrán hacer porque esta Palabra es respaldada directamente por Jesucristo. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Hemos trabajado, hemos crecido, nos hemos fortalecido; pero no hemos terminado, aún queda mucho por hacer, esta semilla seguirá esparciéndose. Solo el poder del Espíritu Santo dirige el crecimiento de la Iglesia, ella da frutos porque Dios es el que da el crecimiento.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por Edilberto Ortiz Sanmartín. Segundo Vicepresidente IPUC</p>"
+    }
+]
