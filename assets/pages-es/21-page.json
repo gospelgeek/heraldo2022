@@ -1,5 +1,32 @@
 [
     {
+        "x": "24%",
+        "y": "5%",
+        "width": "25%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "botones-idomas",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/francia.png",
+                "url": "#",
+                "id": "20-espana-21-espana"
+            },
+            {
+                "icon": "./assets/pics/icons/brasil.png",
+                "url": "#",
+                "id": "20-brasil-21-brasil"
+            },
+            {
+                "icon": "./assets/pics/icons/espana.png",
+                "url": "#",
+                "id": "20-espana-21-espana"
+            }
+        ]
+    },
+    {
         "x": "70%",
         "y": "4%",
         "viewX": 1800,

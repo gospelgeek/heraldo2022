@@ -896,11 +896,6 @@ Nosotros también lo creemos y estamos dispuestos a seguir esperando en sus prom
 
 
 
-
-
-
-
-
 <p style='font-size: 2em; text-align: center;'><strong></strong></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
@@ -913,6 +908,39 @@ Nosotros también lo creemos y estamos dispuestos a seguir esperando en sus prom
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>Como diz a escritura…o senhor abriu seu coração para que ouvisse a sua palavra.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Lucas em seu evangelho, capítulo 24:13 narra-nos a forma como Jesus caminhou ao lado de dois dos seus discípulos que regressavam tristes e frustrados, porque para eles, Cristo não havia ressuscitado. Jesus interpelou-lhes, mas eles não o reconheceram porque tinham seus olhos vendados. Jesus através do caminho citou-lhes as Escrituras desde Moisés, os profetas e de tudo o que dele se dizia. Quando Jesus foi convidado a ficar com eles, ao partir o pão, os olhos dos seus discípulos foram abertos e reconheceram, que Jesus está vivo, e a prova irrefutável está suportada por sua gloriosa Palavra e por eles, que como testemunhas oculares, viram-no e sentiram os seus corações em chama pelo poder da Palavra que ouviram dos seus lábios, Lucas 24:32.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Podemos deduzir ou inferir que, o Senhor abriu-lhes os olhos (a esses discípulos) para que o reconhecessem e fossem testemunhas oculares da sua ressurreição. O Senhor Jesus deu provas indubitáveis da sua ressurreição a seus discípulos, não só para que contemplassem as cicatrizes das suas feridas, senão  para que também as palpassem, Lucas 24:39; tudo isto porque estavam turbados os seus corações, e em seguida, provou-lhes pelas Escrituras que estas coisas tinham que cumprir-se, sendo profetizadas por Moisés, nos Salmos e nos Profetas. E nesta ocasião o Senhor abriu-lhes o entendimento para que compreendessem as Escrituras. E o que é que eles deveriam entender das Escrituras? Que Ele é o Cristo, que foi necessário seu padecimento extremo para que por meio da sua paixão, a morte fosse derrotada através da sua ressurreição. Lucas 24:44.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Diante dos seus discípulos, Jesus apresenta as Sagradas Escrituras, ou seja, o Antigo Testamento, como autoritário e digno de ser crido; porque o que eles estavam vendo não foi improvisado, senão que tudo estava profetizado e escrito muito tempo antes da vinda do Messias prometido.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Jesus Cristo se apresenta como a principal chave hermenêutica ao abrir o entendimento a seus discípulos, para que compreendessem, interpretassem e soubessem quem  Ele é, sua gloriosa obra, poder, essência e caracter; a fim de que eles estivessem plenamente convencidos para poder encomendar-lhes a grande comissão, para que se pregasse em seu nome o arrependimento e o perdão dos pecados a todas as nações começando por Jerusalém. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O evangelista Lucas nos ensina no último capítulo do seu Evangelho, o propósito de abrir-lhes os olhos (a dois dos seus discípulos), para que o reconhecessem e para que fossem testemunhas oculares da sua ressurreição; e abriu-lhes o entendimento para que compreendessem as Escrituras, para envia-los a dar testemunho do Cristo ressuscitado como o Salvador do mundo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>No capítulo 16 dos Atos dos Apóstolos, Lucas narra-nos a segunda viagem missionária de Paulo, e como o Espírito Santo proibiu-lhes de pregar a Palavra em Ásia. Paulo insistiu e o Espírito Santo não lhe permitiu; e foi a Troas onde se lhe mostrou a visão de um varão macedónio pedindo ajuda. Paulo e seus companheiros de viagem entenderam que Deus lhes chamava para anunciar o Evangelho na Europa, e chegam a Filipos, território europeu e depois de orar ao Senhor, saíram, e junto ao rio ensinavam a Palavra de Deus as mulheres que ali estavam reunidas. Lucas apresenta-nos uma mulher chamada Lídia, vendedora de púrpura, da cidade de Tiatira, que adorava a Deus, Atos 16:13-15. Lucas documenta este acontecimento apresentando-nos o nome dessa mulher, Lídia; seu ofício, vendedora de púrpura; sua procedência, Tiatira; e sua fé e devoção a Deus.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Lídia estava ouvindo o que Paulo dizia, ou seja, escutava a pregação do Evangelho, que para ela era algo novo, e é ali onde o Senhor interveio e abriu-lhe o coração e sua mente para que estivesse atenta a exposição da Palavra de Deus, a fim entendê-la e crê-la para ser salva.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O Senhor abriu o coração de Lídia e esta creu à Palavra exposta por Paulo, e tal foi o efeito, que ela foi batizada juntamente com a sua família; praticou com Paulo e seus companheiros a lei da hospitalidade, e o Senhor não só havia aberto o coração de Lídia para que fosse salva junto com sua família, senão que havia aberto o coração do continente europeu para que conhecessem ao Senhor Jesus Cristo como o único Deus e Salvador de todos os homens. Lídia foi a primeira mulher convertida e batizada junto com sua família no continente europeu, e tudo isso porque Paulo e seus companheiros se deixaram guiar pelo Espírito Santo; porque decidiram viajar a Filipos, porque antes de … oraram ao Senhor e Ele guiou-lhes até onde se encontrava Lídia para pregar-lhe o glorioso Evangelho e, sobre tudo, o mesmo Senhor abriu-lhe o coração. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Lucas em sua obra, de forma magistral ensina-nos sobre os sublimes propósitos do Senhor, quando abre os olhos dos homens para que o conheçam e saibam que Ele está vivo.  O Senhor abre o entendimento aos homens para que compreendam quem Ele é, sua obra, poder e caracter; para que anunciem sem temor a sua Palavra. E abre o coração para que os homens sejam salvos, suas famílias e todo um povo, uma nação, um continente. Este é o poder do Evangelho. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Vivemos no meio de uma sociedade na qual o inimigo cegou-lhe os olhos, fechou-lhe o entendimento e o pecado endureceu-lhe o coração; uma sociedade fechada para os propósitos de Deus, mas totalmente aberta para fazer o mal e ignorar a obra de Deus. Este é o grande paradoxo humano, fechados para fazer o bem, mas abertos para fazer toda a classe de maldade. Mas, o Senhor hoje segue abrindo os olhos, o entendimento, o coração dos perdidos, a fim de que sejam salvos através da pregação do Evangelho.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+Por:  Javier Copete Gamboa. Supervisor do distrito 9
+</p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
