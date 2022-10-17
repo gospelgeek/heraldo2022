@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "8%",
+        "style": "width: 80% !important;",
+        "zIndex": "1",
+        "width": "100%",
+        "id_unique": "titulo-12-content",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-12.png"
+        }
+    }
+]
