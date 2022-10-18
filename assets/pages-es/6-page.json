@@ -37,15 +37,15 @@
         "x": "0",
         "y": "17%",
         "width": "100%",
-        "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.3em; border-color: #0d5b78;",
+        "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #af4947;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
         "text": "",
         "data": {
-           "text": " <p style='padding-top: 0.5em; font-size: 1em; font-style: italic;'>“Dije: Traeré, pues, a la memoria los años de la diestra del Altísimo.</p> <p style='padding-top: 0.5em; font-size: 1em;'>Me acordaré de las obras del Señor; Sí, haré yo memoria de tus maravillas antiguas.</p> <p style='padding-top: 0.5em; font-size: 1em;'>Meditaré en todas tus obras, Y hablaré de tus hechos.</p> <p style='padding-top: 0.5em; font-size: 1em;'>Oh Dios, santo es tu camino; ¿Qué dios es grande como nuestro Dios? Tú eres el Dios que hace maravillas; Hiciste notorio en los pueblos tu poder”</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>(Salmos 77:10-14)</strong></p>"
+           "text": " <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>“Dije: Traeré, pues, a la memoria los años de la diestra del Altísimo.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Me acordaré de las obras del Señor; Sí, haré yo memoria de tus maravillas antiguas.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Meditaré en todas tus obras, Y hablaré de tus hechos.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Oh Dios, santo es tu camino; ¿Qué dios es grande como nuestro Dios? </p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'> Tú eres el Dios que hace maravillas; Hiciste notorio en los pueblos tu poder”</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #af4947; text-align: center;'><strong>(Salmos 77:10-14)</strong></p>"
         }
     }
 ]
