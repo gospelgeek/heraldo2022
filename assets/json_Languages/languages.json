@@ -28,7 +28,7 @@
                 "x": "0",
                 "y": "73%",
                 "width": "100%",
-                "background-color": "#b41015",
+                "background-color": "#982221",
                 "color": "#fff",
                 "font-size": "1.2em",
                 "tag": "btn-normal",
@@ -48,7 +48,7 @@
                 "color": "#fff",
                 "font-size": "0.8em",
                 "tag": "title-content",
-                "style": "font-size: 1.1em; color: #a92021; text-align: center; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; font-size: 1em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
                 "data": {
                     "text": "Celui qui croit en moi, comme dit l'Écriture, .....",
@@ -63,10 +63,10 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p><span style='color: #a92021; font-size: 2em'>S</span>alutations fraternelles à tous nos frères au Nom de Jésus. En réfléchissant au thème de cette nouvelle édition intitulée “Comme dit l'Écriture”, je dois dire que Sa Parole est le flambeau qui éclaire notre chemin et dirige notre destinée.</p> <p style='padding-top: 0.5em'>Dans le but de promouvoir des outils qui contribuent à notre croissance et à notre formation, le Consistoire des Anciens, cherchant toujours à agir sous la direction de Dieu dans tout ce que nous faisons, a relié l'objectif de notre précédent numéro intitulé “La foi toujours”, en l'orientant vers notre mode de vie chrétien et propose ainsi notre nouvelle devise : “Comme dit l'Écriture”.</p>"
+                    "text": "<p class='first_letter_red'>Salutations fraternelles à tous nos frères au Nom de Jésus. En réfléchissant au thème de cette nouvelle édition intitulée “Comme dit l'Écriture”, je dois dire que Sa Parole est le flambeau qui éclaire notre chemin et dirige notre destinée.</p> <p style='padding-top: 0.5em'>Dans le but de promouvoir des outils qui contribuent à notre croissance et à notre formation, le Consistoire des Anciens, cherchant toujours à agir sous la direction de Dieu dans tout ce que nous faisons, a relié l'objectif de notre précédent numéro intitulé “La foi toujours”, en l'orientant vers notre mode de vie chrétien et propose ainsi notre nouvelle devise : “Comme dit l'Écriture”.</p>"
                 }
             },
             {
@@ -156,7 +156,7 @@
                 "x": "0",
                 "y": "73%",
                 "width": "100%",
-                "background-color": "#b41015",
+                "background-color": "#982221",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "btn-normal",
@@ -176,7 +176,7 @@
                 "color": "#fff",
                 "font-size": "0.8em",
                 "tag": "title-content",
-                "style": "font-size: 1.3em; color: #a92021; text-align: center; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; font-size: 1.14em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
                 "data": {
                     "text": " quem crê em mim, como diz a Escritura... ",
@@ -191,10 +191,10 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "font-size: 0.83em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; font-size: 0.83em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p><span style='color: #a92021; font-size: 2em'>U</span>m cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado “como diz a Escritura”, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p> <p style='padding-top: 0.5em'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”, orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p> "
+                    "text": "<p class='first_letter_red'>Um cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado “como diz a Escritura”, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p> <p style='padding-top: 0.5em'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”, orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p> "
                 }
             },
             {
