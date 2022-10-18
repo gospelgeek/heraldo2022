@@ -776,5 +776,7 @@ audio {
         top: 84% !important;
         left: 0.9em !important;
     }
-    
+    #title-9-content {
+        font-size: 0.89em !important;
+    }
 }

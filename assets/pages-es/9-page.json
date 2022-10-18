@@ -18,10 +18,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "title-content",
-        "style": "width: 79%; font-size: 1.07em; color: #2e3a74; text-align: center;  font-family: 'Montserrat', sans-serif; font-weight: 800;",
+        "style": "width: 79%; font-size: 1.07em; color: #2e3a74; text-align: center;  font-family: 'Montserrat', sans-serif; font-weight: 1800 !important;",
         "text": "",
         "data": {
-            "text": "<strong>-Somos llamados a predicar su Palabra-</strong>",
+            "text": "<strong id='title-9-content'>-Somos llamados a predicar su Palabra-</strong>",
             "url": "#"
         }
     },
