@@ -44,7 +44,7 @@
 
        // Create an image element
 
-       var img = $('<img />', { class: 'backPage' + page });
+       var img = $(`<img id="background-page-${page}" />`, { class: 'backPage' + page });
 
        img.mousedown(function(e) {
            e.preventDefault();

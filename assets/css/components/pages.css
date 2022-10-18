@@ -703,10 +703,23 @@ audio {
     line-height: 0.8em;
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
+    font-style: normal;
 }
 
 #title-7-font {
     font-family: 'Montserrat', sans-serif;
+}
+
+#background-page-10 {
+    height: 64% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
+#background-page-11 {
+    height: 64% !important;
+    position: absolute !important;
+    bottom: 0 ;
 }
 
 /*
@@ -776,5 +789,7 @@ audio {
         top: 84% !important;
         left: 0.9em !important;
     }
-    
+    #title-9-content {
+        font-size: 0.89em !important;
+    }
 }
