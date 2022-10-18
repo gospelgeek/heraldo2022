@@ -18,7 +18,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "title-content",
-        "style": "width: 75%; font-size: 1.3em; color: #2e3a74; text-align: center;  font-family: 'Times New Roman', Times, serif; font-weight: 800;",
+        "style": "width: 79%; font-size: 1.07em; color: #2e3a74; text-align: center;  font-family: 'Montserrat', sans-serif; font-weight: 800;",
         "text": "",
         "data": {
             "text": "<strong>-Somos llamados a predicar su Palabra-</strong>",
@@ -34,10 +34,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p style='font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #b41015;'>“Por toda la tierra salió su voz, Y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol”<br><p style=' font-size: 1.6em; font-style: italic; color: #b41015; text-align: center !important; font-weight: 100 !important;'><strong>(Salmos 19:4).</strong></p></p>"
+            "text": " <p style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #b41015;'>“Por toda la tierra salió su voz, Y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol”<p style=' font-size: 1.6em; color: #b41015; text-align: center !important; font-weight: 100 !important;'><strong>(Salmos 19:4).</strong></p></p>"
         }
     },
     {
@@ -50,10 +50,10 @@
         "font-size": "1em",
         "id_unique": "text-content-9",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015; font-size: 2em'>E</span>l Señor Jesús resucitó y durante cuarenta días dio testimonio de su resurrección, apareciéndoles a más de quinientas personas, y antes de ascender a los cielos encomendó a sus discípulos la responsabilidad de ir por todo el mundo para anunciar a toda persona el Evangelio de la salvación y la vida eterna.</p> <p style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este consiste en que el diablo, quien tenía cautivo a los seres humanos, fue vencido en la cruz del Calvario. Ahora todos los hombres tienen la oportunidad de salir de su dominio y conocer la salvación de Dios. </p>"
+            "text": " <p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>El Señor Jesús resucitó y durante cuarenta días dio testimonio de su resurrección, apareciéndoles a más de quinientas personas, y antes de ascender a los cielos encomendó a sus discípulos la responsabilidad de ir por todo el mundo para anunciar a toda persona el Evangelio de la salvación y la vida eterna.</p> <p style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este consiste en que el diablo, quien tenía cautivo a los seres humanos, fue vencido en la cruz del Calvario. Ahora todos los hombres tienen la oportunidad de salir de su dominio y conocer la salvación de Dios. </p>"
         }
     },
     {
