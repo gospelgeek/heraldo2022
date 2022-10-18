@@ -243,15 +243,15 @@
                 "x": "0",
                 "y": "20%",
                 "width": "100%",
-                "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.3em; border-color: #0d5b78;",
+                "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #af4947;",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-style: italic; font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 0.5em; font-size: 1em; font-style: italic;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>( Psaumes 77: 11-14 )</strong></p>"
+                   "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1.5em; color: #af4947;'><strong>( Psaumes 77: 11-14 )</strong></p>"
                 }
             }
         ],
@@ -294,15 +294,15 @@
                 "x": "0",
                 "y": "20%",
                 "width": "100%",
-                "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.3em; border-color: #0d5b78;",
+                "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #af4947;",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-style: italic; font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #0d5b78 ;'><strong>( Salmos 77:10-14 )</strong></p>"
+                   "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1.5em; color: #af4947;'><strong>( Salmos 77:10-14 )</strong></p>"
                 }
             }           
         ]
@@ -329,10 +329,10 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.84em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.84em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015; font-size: 2em'>D</span>ieu vous bénisse énormément mes frères. Aujourd'hui, je veux vous saluer en tant que frère Alvaro, en tant que famille que nous sommes et le peuple que Dieu a forgé, en payant un prix élevé et en vous dédiant ses soins avec un amour profond. </p> <p style='padding-top: 1em; font-size: 2em; color: #b41015;'><strong>Introduction</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>J'avais une mère qui m'enseignait les voies de Dieu et qui priait avec moi le soir. Elle m'a appris à chanter toute la journée et m'a donné un très bon exemple. Elle n'avait pas un caractère colérique et même dans la punition, elle ne perdait pas la raison ou le contrôle, et n'oubliait pas la pitié. </p> <p style='padding-top: 0.7em; font-size: 1em;'>J'ai grandi dans une famille qui aimait se lever à cinq heures du matin pour aller prier au temple. Je ne peux pas me plaindre, j'ai eu toutes les occasions de connaître Dieu dans un environnement chrétien. </p>"
+                   "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Dieu vous bénisse énormément mes frères. Aujourd'hui, je veux vous saluer en tant que frère Alvaro, en tant que famille que nous sommes et le peuple que Dieu a forgé, en payant un prix élevé et en vous dédiant ses soins avec un amour profond. </p> <p style='padding-top: 1em; font-size: 2em; color: #982221;' id='title-7-font'><strong>Introduction</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>J'avais une mère qui m'enseignait les voies de Dieu et qui priait avec moi le soir. Elle m'a appris à chanter toute la journée et m'a donné un très bon exemple. Elle n'avait pas un caractère colérique et même dans la punition, elle ne perdait pas la raison ou le contrôle, et n'oubliait pas la pitié. </p> <p style='padding-top: 0.7em; font-size: 1em;'>J'ai grandi dans une famille qui aimait se lever à cinq heures du matin pour aller prier au temple. Je ne peux pas me plaindre, j'ai eu toutes les occasions de connaître Dieu dans un environnement chrétien. </p>"
                 }
             },
             {
@@ -404,10 +404,10 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015;; font-size: 2em'>Q</span>ue Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='padding-top: 1em; font-size: 2em; color: #b41015;'><strong>Introdução</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão. </p>"
+                   "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Que Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='padding-top: 1em; font-size: 2em; color: #982221;' id='title-7-font'><strong>Introdução</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão. </p>"
                 }
             },
             {
