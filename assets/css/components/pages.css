@@ -715,6 +715,15 @@ audio {
     font-style: normal;
 }
 
+.first_letter_aqua::first-letter {
+    color: #0e5b79;
+    font-size: 2.5em;
+    line-height: 0.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
 
 
 #title-7-font {
