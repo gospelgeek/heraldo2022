@@ -706,6 +706,26 @@ audio {
     font-style: normal;
 }
 
+.first_letter_orange::first-letter {
+    color: #c55f0b;
+    font-size: 2.5em;
+    line-height: 0.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+.first_letter_aqua::first-letter {
+    color: #0e5b79;
+    font-size: 2.5em;
+    line-height: 0.8em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+}
+
+
+
 #title-7-font {
     font-family: 'Montserrat', sans-serif;
 }
@@ -791,5 +811,17 @@ audio {
     }
     #title-9-content {
         font-size: 0.89em !important;
+    }
+    #content-text-13 {
+        font-size: 1em !important;
+    }
+    #text-center-content-19 {
+        top: 63% !important;
+    }
+    #btn-conten-read-more-19 {
+        top: 75% !important;
+    }
+    #btn-content-icons-more-19 {
+        top: 85% !important;
     }
 }

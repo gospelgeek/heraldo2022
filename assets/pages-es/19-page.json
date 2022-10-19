@@ -8,10 +8,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 1em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2.3em'>“L</span>a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
+            "text": "<p class='first_letter_red' style='text-align: center; padding-top: 1em; font-size: 1em;'>“L a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
         }
     },
     {
@@ -27,7 +27,7 @@
         "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p style='font-weight: 100; padding-top: 0.5em; font-size: 1.2em; font-style: italic; color: #b41015;'><strong>Es como pan… Que alimenta nuestra alma. Es como martillo… Que quebranta el corazón. Es como oro… Que tiene un gran valor. Es como semilla… Que da vida. Es como espejo… Que nos hace ver lo que somos. Es como fuego… Que quema nuestras impurezas. Es como lluvia… Que refresca nuestra alma. Es más dulce que la miel.. Que satisface. Es como espada… Que parte el corazón. Es como una lámpara… Que alumbra el camino.</strong></p>"
+            "text": " <p style='text-align: center; padding-top: 0.5em; font-size: 1.2em; color: #b41015;'><strong>Es como pan… Que alimenta nuestra alma.<br> Es como martillo… Que quebranta el corazón. <br> Es como oro… Que tiene un gran valor. <br> Es como semilla… Que da vida. <br> Es como espejo… Que nos hace ver lo que somos. <br>Es como fuego… Que quema nuestras impurezas. <br>Es como lluvia… Que refresca nuestra alma. <br>Es más dulce que la miel.. Que satisface. <br>Es como espada… Que parte el corazón. <br>Es como una lámpara… Que alumbra el camino.</strong></p>"
         }
     },
     {
@@ -38,11 +38,12 @@
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
+        "id_unique": "text-center-content-19",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 1em; font-size: 1em; font-style: italic;'>En estas notas nos ocuparemos de ella, como lámpara a nuestros pies y lumbrera a nuestro camino.</p>"
+            "text": "<p style='text-align: center; padding-top: 1em; font-size: 1.1em; font-style: italic;'>En estas notas nos ocuparemos de ella, como lámpara a nuestros pies y lumbrera a nuestro camino.</p>"
         }
     },
     {
@@ -54,8 +55,7 @@
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
-        "class": "",
-        "text": "",
+        "id_unique": "btn-content-icons-more-19",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
@@ -78,6 +78,7 @@
         "tag": "btn-normal",
         "class": "",
         "id": "btn-espana-19",
+        "id_unique": "btn-conten-read-more-19",
         "text": "",
         "data": {
            "text": "Leer más",

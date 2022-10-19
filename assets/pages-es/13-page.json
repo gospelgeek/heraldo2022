@@ -18,30 +18,30 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 1em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2.3em'>“E</span>ntonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” (Juan 9:24-26).</p>"
+            "text": "<p class='first_letter_red' style='text-align: center; padding-top: 1em; font-size: 1em; font-style: italic;'>“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es <br> pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” <br>(Juan 9:24-26).</p>"
         }
     },
     {
         "x": "0",
         "y": "30%",
         "width": "100%",
-        "styleBox": "background-color: #b41015; padding: 1em; width: 74%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #b41015;",
+        "styleBox": "background-color: #982221; padding: 1em; width: 74%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #b41015;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.7em; color: #fff; text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "border-radius: 0.2em; font-size: 0.7em; color: #fff; text-align: justify; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
-            "text": "<p style='font-weight: 100; padding-top: 0.5em; font-size: 1.3em; font-style: italic; color: #fff;'> “La complejidad es tu enemiga”,“Dios es simple, todo lo demás es complejo” (Albert Einstein). “Las cosas simples son las más extraordinarias y sólo los sabios consiguen verlas” (Paulo Coelho). “La simplicidad es la máxima sofisticación” (Leonardo Da Vinci). “Las cosas más simples suelen ser las más verdaderas” <p style=' font-size: 1.3em; font-style: italic; color: #fff; text-align: center !important; font-weight: 100 !important;'> <strong>(Richard Bach)</strong></p></p>"
+            "text": "<p style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.3em; font-style: italic; color: #fff;' id='content-text-13'> “La complejidad es tu enemiga”,“Dios es simple, todo lo demás es complejo” <br> <strong> (Albert Einstein). </strong><br> “Las cosas simples son las más extraordinarias y sólo los sabios consiguen verlas” <br> <strong> (Paulo Coelho). </strong> <br> “La simplicidad es la máxima sofisticación” <br> <strong> (Leonardo Da Vinci). </strong> <br> “Las cosas más simples suelen ser las más verdaderas” <p style=' font-size: 1.3em; font-style: italic; color: #fff; text-align: center !important; font-weight: 100 !important;'> <strong>(Richard Bach)</strong></p></p>"
         }
     },
     {
         "x": "0",
-        "y": "70%",
+        "y": "75%",
         "width": "100%",
         "background-color": "#2e3a74",
         "color": "#fff",
