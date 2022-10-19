@@ -795,4 +795,13 @@ audio {
     #content-text-13 {
         font-size: 1em !important;
     }
+    #text-center-content-19 {
+        top: 63% !important;
+    }
+    #btn-conten-read-more-19 {
+        top: 75% !important;
+    }
+    #btn-content-icons-more-19 {
+        top: 85% !important;
+    }
 }
