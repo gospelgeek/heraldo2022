@@ -1,7 +1,7 @@
 [
     {
         "x": "0",
-        "y": "38%",
+        "y": "28%",
         "style": "width: 80% !important;",
         "zIndex": "1",
         "width": "100%",
@@ -19,10 +19,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p style='padding-top: 1em; font-size: 1.1em; font-style: italic;'><span style='color: #c55f0b; font-size: 2.3em'>“L</span>ucas en su Evangelio, capítulo 24:13 nos narra la forma como Jesús caminó al lado de dos de sus discípulos que regresaban tristes y frustrados, porque para ellos, Cristo no había resucitado. Jesús les interpeló, pero ellos no le reconocieron porque tenían sus ojos velados. Jesús a través del camino les va citando las Escrituras desde Moisés, los profetas, y todo lo que decían de Él. Cuando Jesús fue invitado a quedarse con ellos, al partir el pan, los ojos de sus discípulos fueron abiertos y le reconocieron, que Jesús está </p>"
+            "text": " <p class='first_letter_orange' style='padding-top: 1em; font-size: 1.1em;'>“L ucas en su Evangelio, capítulo 24:13 nos narra la forma como Jesús caminó al lado de dos de sus discípulos que regresaban tristes y frustrados, porque para ellos, Cristo no había resucitado. Jesús les interpeló, pero ellos no le reconocieron porque tenían sus ojos velados. Jesús a través del camino les va citando las Escrituras desde Moisés, los profetas, y todo lo que decían de Él. Cuando Jesús fue invitado a quedarse con ellos, al partir el pan, los ojos de sus discípulos fueron abiertos y le reconocieron, que Jesús está </p>"
         }
     }
 ]
