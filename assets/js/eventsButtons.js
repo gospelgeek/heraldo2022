@@ -75,6 +75,11 @@ const clickReadMore = async (e) => {
 //event click of lenguage
 const clickLenguage = async (e) => {
 
+    audio_array.map((audio) => {
+        audio.pause();
+    })
+    band_audio = true;
+
     //page even
     page_even = (e).split('-')[0]
     lang_even = (e).split('-')[1]
@@ -1047,4 +1052,31 @@ las emociones, trayendo como resultado, multitudes frente a un altar
 pero, no hay convicción de pecado y por ende no se busca el perdón de
 ellos para alcanzar la salvación.</p>
 
+<p class='first_letter_red'>Um cumprimento fraternal para todos os irmãos no nome de Jesus.
+ Ao pensar no tema que ocupa esta nova edição titulado “como diz a Escritura”, devo dizer que sua palavra é a 
+ tocha que ilumina nosso caminho e direcciona nosso destino.</p> 
+<p style='padding-top: 0.5em'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”, orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p> 
+
+
+“”
+<p class='first_letter_red'>Brotherly greetings to all our brothers in the Name of Jesus. When thinking about the theme of this new edition of Heraldo,  entitled “As the Scripture says”, I must say that his Word is the torch that lights our way and guides us to our destiny.</p> 
+<p style='padding-top: 0.5em'>With the purpose of promoting tools that contribute to our growth and discipleship, the Consistory of Elders, always seeks to act under the direction of God in all aspects of their work. That’s why our previously themed issue of ‘Faith Always’ was focused on relating to our Christian way of life. In the same purpose, the Consistory of Elders proposes our new motto: “As the Scripture says”.</p> 
+
+<p style='font-size: 2em; text-align: center;'><strong>LETTER FROM THE PRESIDENT</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Whoever believes in me, As the Scripture says….
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Brotherly greetings to all our brothers in the Name of Jesus. When thinking about the theme of this new edition of Heraldo,  entitled “As the Scripture says”, I must say that his Word is the torch that lights our way and guides us to our destiny.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>With the purpose of promoting tools that contribute to our growth and discipleship, the Consistory of Elders, always seeks to act under the direction of God in all aspects of their work. That’s why our previously themed issue of ‘Faith Always’ was focused on relating to our Christian way of life. In the same purpose, the Consistory of Elders proposes our new motto: “As the Scripture says”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>The Scripture is the Word of God, although written by men inspired by Him. We are mindful that it contains the entire plan of the Lord so that humanity may be saved, live uprightly and piously, grow in wisdom, be perfected, and be prepared for every good work.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Among the many enriching teachings for our lives, and being consistent with Christ's proposal for us to live in peace, communion, brotherhood and harmony, He has provided us with the same inspiring Spirit of his Word that leads us to walk in the light, accepting our possible differences, without generating disputes, hatred and resentment.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“The voice of Him went out into all the earth...” (Psalms 19:4).
+It is by his Word that we are cleansed. Let us remember that our human efforts and our sacrifices will are useless to achieve a clean heart. It is only through a will directed towards his Word and through his Spirit will we be transformed. By his Word we are built and provided with the necessary foundations for a victorious life in Christ Jesus; his Word gives us growth and firmness, his Word is life.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>His Word is a light that illuminates our steps so that our feet do not stray, we do not slip, we do not stumble and in this way we continue to amrch on, to the victory of sanctification.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>We have the most sure prophetic Word; we would do well to abide by it and always obey it. We will be attentive to this torch that shines in a dark place, in the midst of the gloom of this world, until the day dawns and the morning star rises in our hearts.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>The Word of the Lord Jesus is worthy to be received by all.  Part of the purpose of our new edition is to be another way of sowing the Word. Therefore, we invite our readers to treasure the Scriptures, they will guide us to the end.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>By Héctor Ariel Campuzano Fonseca. IPUC President
+</p>
 */

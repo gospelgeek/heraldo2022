@@ -48,6 +48,7 @@
         "tag": "title-content",
         "style": "font-weight: normal; font-size: 1.1em; color: #b13e3e; text-align: center; font-family: 'Montserrat', sans-serif;",
         "text": "",
+        "id_unique": "title-content-espanol-5",
         "data": {
            "text": "El que cree en mí, como dice la Escritura….",
            "url": "#"
@@ -68,13 +69,13 @@
         }
     },
     {
-        "x": "6%",
-        "y": "9%",
-        "width": "50%",
+        "x": "24%",
+        "y": "5%",
+        "width": "30%",
         "background-color": "#b41015",
         "color": "#fff",
-        "font-size": "1em",
-        "tag": "botones-idomas",
+        "font-size": "1.3em",
+        "tag": "botones-idomas-4",
         "text": "",
         "data": [
             {
@@ -88,10 +89,16 @@
                 "id": "4-espana-5-brasil"
             },
             {
+                "icon": "./assets/pics/icons/usa.png",
+                "url": "#",
+                "id": "4-espana-5-ingles"
+            },
+            {
                 "icon": "./assets/pics/icons/espana.png",
                 "url": "#",
                 "id": "4-espana-5-espana"
             }
+
         ]
     },
     {

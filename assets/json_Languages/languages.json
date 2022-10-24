@@ -50,6 +50,7 @@
                 "tag": "title-content",
                 "style": "font-weight: normal; font-size: 1em; color: #a92021; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
+                "id_unique": "title-content-frances-5",
                 "data": {
                     "text": "Celui qui croit en moi, comme dit l'Écriture, .....",
                     "url": "#"
@@ -70,13 +71,13 @@
                 }
             },
             {
-                "x": "6%",
-                "y": "9%",
-                "width": "50%",
+                "x": "24%",
+                "y": "5%",
+                "width": "30%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
-                "tag": "botones-idomas",
+                "tag": "botones-idomas-4",
                 "text": "",
                 "data": [
                     {
@@ -88,6 +89,11 @@
                         "icon": "./assets/pics/icons/brasil.png",
                         "url": "#",
                         "id": "4-espana-5-brasil"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/usa.png",
+                        "url": "#",
+                        "id": "4-espana-5-ingles"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
@@ -103,13 +109,13 @@
         ],
         "brasil": [
             {
-                "x": "6%",
-                "y": "9%",
-                "width": "50%",
+                "x": "24%",
+                "y": "5%",
+                "width": "30%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
-                "tag": "botones-idomas",
+                "tag": "botones-idomas-4",
                 "text": "",
                 "data": [
                     {
@@ -121,6 +127,11 @@
                         "icon": "./assets/pics/icons/brasil.png",
                         "url": "#",
                         "id": "4-espana-5-brasil"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/usa.png",
+                        "url": "#",
+                        "id": "4-espana-5-ingles"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
@@ -201,6 +212,113 @@
                 "_id": "text-read-more",
                 "text": "<p style='padding-bottom: 1.5em; font-size: 1.5em; text-align: center;'><strong>Carta do presidente</strong></p> <p style='padding-bottom: 0.5em; font-size: 1em;'><strong> quem crê em mim, como diz a Escritura... </strong></p> <p style='padding-bottom: 0.5em; font-size: 1em;'>um cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado <strong>“como diz a Escritura” </strong>, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p> <p style='padding-bottom: 0.5em; font-size: 1em;'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”, orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p> <p style='padding-bottom: 0.5em; font-size: 1em;'>A Escritura é a Palavra de Deus, ainda que escrita por homens inspirados por Deus; não desconhecemos que ela contem todo o plano do senhor para que a humanidade seja salva, viva recta e piedosamente, cresça em sabedoria, se aperfeiçoe e se prepare para toda a boa obra. </p> <p style='padding-bottom: 0.5em; font-size: 1em;'>Entre os muitos ensinamentos enriquecedores para a nossa vida, e sendo consequentes com a proposta de Cristo para que vivamos em paz, comunhão, fraternidade e harmonia; nos proveu o mesmo Espírito inspirador de sua Palavra que nos conduz a caminhar na luz, aceitando nossas possiveis diferenças, sem que por isso se gerem contendas, ódios e rancores.</p> <p style='padding-bottom: 0.5em; font-size: 1em;'> <strong> “Por toda a terra saiu a sua voz”... (salmos 19:4).</strong></p> <p style='padding-bottom: 0.5em; font-size: 1em;'>É por sua Palavra que somos limpos. Lembremos que os esforços humanos, nossos sacrifícios serão inuteis para alcançar um coração puro; só uma vontade encaminhada em sua Palavra e mediante seu Espírito é que seremos transformados. Por sua Palavra somos edificados e provistos dos fundamentos necessários para uma vida victoriosa em Cristo Jesus; sua Palavra nos dá crescimento e firmeza, sua Palavra é vida.</p> <p style='padding-bottom: 0.5em; font-size: 1em;'>Sua Palavra é luz que ilumina nossos passos para que nossos pés não saiam do caminho, não escorreguemos, não tropecemos e dessa forma continuemos na marcha, à conquista da nossa santificação.</p> <p style='padding-bottom: 0.5em; font-size: 1em;'> Temos a Palavra profética mais segura; faremos bem em acatá-la e obedecê-la sempre. Estaremos atentos a essa tocha que ilumina no lugar escuro, em meio a melancolia deste mundo, até que o dia esclareça e a estrela da alva apareça em nossos corações.</p> <p style='padding-bottom: 0.5em; font-size: 1em;'>A Palavra do Senhor Jesus é digna de ser recebida por todos; parte do propósito de nossa nova edição é ser somente outro meio de difusão. Pelo qual convidamos a nossos leitores a entesourar as escrituras, ela nos guiará até o fim. </p> <p style='padding-bottom: 0.5em; font-size: 1em;'> Por: Hector ariel campuzano Fonseca – Presidente IPUC </p>"
             }
+        ],
+        "ingles": [
+            {
+                "x": "0",
+                "y": "80.9%",
+                "viewX": 1800,
+                "viewY": 100,
+                "width": "100%",
+                "height": "20%",
+                "fontSize": "5em",
+                "tag": "btn-normal-2",
+                "class": "",
+                "text": "",
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/iconEscucha.png",
+                        "url": "./assets/audios/page-5-ingles.mp3"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/iconImprimir.png",
+                        "url": "https://drive.google.com/file/d/1EZ3JMXAtv6fcFaOUuTsrGcYAf67XXtXu/view?usp=sharing"
+                    }
+                ]
+            },
+            {
+                "x": "0",
+                "y": "73%",
+                "width": "100%",
+                "background-color": "#982221",
+                "color": "#fff",
+                "font-size": "0.9em",
+                "tag": "btn-normal",
+                "class": "",
+                "id": "btn-ingles-5",
+                "text": "",
+                "data": {
+                    "text": "Read more",
+                    "url": "#"
+                }
+            },
+            {
+                "x": "0",
+                "y": "25%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "title-content",
+                "style": "font-weight: normal; font-size: 1em; color: #b13e3e; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "text": "",
+                "id_unique": "title-content-ingles-5",
+                "data": {
+                    "text": "Whoever believes in me, As the Scripture says….",
+                    "url": "#"
+                }
+            },
+            {
+                "x": "0",
+                "y": "35%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "style": "font-weight: normal; font-size: 0.8em; color: rgb(107 104 104); text-align: justify;  font-family: 'Times New Roman', Times, serif;",
+                "text": "",
+                "data": {
+                    "text": "<p class='first_letter_red'>Brotherly greetings to all our brothers in the Name of Jesus. When thinking about the theme of this new edition of Heraldo, entitled “As the Scripture says”, I must say that his Word is the torch that lights our way and guides us to our destiny.</p> <p style='padding-top: 0.5em'>With the purpose of promoting tools that contribute to our growth and discipleship, the Consistory of Elders, always seeks to act under the direction of God in all aspects of their work. That’s why our previously themed issue of ‘Faith Always’ was focused on relating to our Christian way of life. In the same purpose, the Consistory of Elders proposes our new motto: “As the Scripture says”.</p> "
+                }
+            },
+            {
+                "x": "24%",
+                "y": "5%",
+                "width": "30%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1.3em",
+                "tag": "botones-idomas-4",
+                "text": "",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/francia.png",
+                        "url": "#",
+                        "id": "4-espana-5-francia"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/brasil.png",
+                        "url": "#",
+                        "id": "4-espana-5-brasil"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/usa.png",
+                        "url": "#",
+                        "id": "4-espana-5-ingles"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/espana.png",
+                        "url": "#",
+                        "id": "4-espana-5-espana"
+                    }
+                ]
+            },
+            {
+                "_id": "text-read-more",
+                "text": "<p style='font-size: 2em; text-align: center;'><strong>LETTER FROM THE PRESIDENT</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Whoever believes in me, As the Scripture says…. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Brotherly greetings to all our brothers in the Name of Jesus. When thinking about the theme of this new edition of Heraldo, entitled “As the Scripture says”, I must say that his Word is the torch that lights our way and guides us to our destiny.</p> <p style='padding-top: 0.7em; font-size: 1em;'>With the purpose of promoting tools that contribute to our growth and discipleship, the Consistory of Elders, always seeks to act under the direction of God in all aspects of their work. That’s why our previously themed issue of ‘Faith Always’ was focused on relating to our Christian way of life. In the same purpose, the Consistory of Elders proposes our new motto: “As the Scripture says”.</p> <p style='padding-top: 0.7em; font-size: 1em;'>The Scripture is the Word of God, although written by men inspired by Him. We are mindful that it contains the entire plan of the Lord so that humanity may be saved, live uprightly and piously, grow in wisdom, be perfected, and be prepared for every good work.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Among the many enriching teachings for our lives, and being consistent with Christ's proposal for us to live in peace, communion, brotherhood and harmony, He has provided us with the same inspiring Spirit of his Word that leads us to walk in the light, accepting our possible differences, without generating disputes, hatred and resentment.</p> <p style='padding-top: 0.7em; font-size: 1em;'>“The voice of Him went out into all the earth...” (Psalms 19:4). It is by his Word that we are cleansed. Let us remember that our human efforts and our sacrifices will are useless to achieve a clean heart. It is only through a will directed towards his Word and through his Spirit will we be transformed. By his Word we are built and provided with the necessary foundations for a victorious life in Christ Jesus; his Word gives us growth and firmness, his Word is life. </p> <p style='padding-top: 0.7em; font-size: 1em;'>His Word is a light that illuminates our steps so that our feet do not stray, we do not slip, we do not stumble and in this way we continue to amrch on, to the victory of sanctification. </p> <p style='padding-top: 0.7em; font-size: 1em;'>We have the most sure prophetic Word; we would do well to abide by it and always obey it. We will be attentive to this torch that shines in a dark place, in the midst of the gloom of this world, until the day dawns and the morning star rises in our hearts.</p> <p style='padding-top: 0.7em; font-size: 1em;'>The Word of the Lord Jesus is worthy to be received by all. Part of the purpose of our new edition is to be another way of sowing the Word. Therefore, we invite our readers to treasure the Scriptures, they will guide us to the end. </p> <p style='padding-top: 0.7em; font-size: 1em;'>By Héctor Ariel Campuzano Fonseca. IPUC President </p> "
+            }
         ]
     },
     "6": {
@@ -251,7 +369,7 @@
                 "style": "font-style: italic; font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1.5em; color: #af4947;'><strong>( Psaumes 77: 11-14 )</strong></p>"
+                    "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1.5em; color: #af4947;'><strong>( Psaumes 77: 11-14 )</strong></p>"
                 }
             }
         ],
@@ -302,9 +420,9 @@
                 "style": "font-style: italic; font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1.5em; color: #af4947;'><strong>( Salmos 77:10-14 )</strong></p>"
+                    "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1.5em; color: #af4947;'><strong>( Salmos 77:10-14 )</strong></p>"
                 }
-            }           
+            }
         ]
     },
     "7": {
@@ -332,7 +450,7 @@
                 "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.84em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Dieu vous bénisse énormément mes frères. Aujourd'hui, je veux vous saluer en tant que frère Alvaro, en tant que famille que nous sommes et le peuple que Dieu a forgé, en payant un prix élevé et en vous dédiant ses soins avec un amour profond. </p> <p style='padding-top: 1em; font-size: 2em; color: #982221;' id='title-7-font'><strong>Introduction</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>J'avais une mère qui m'enseignait les voies de Dieu et qui priait avec moi le soir. Elle m'a appris à chanter toute la journée et m'a donné un très bon exemple. Elle n'avait pas un caractère colérique et même dans la punition, elle ne perdait pas la raison ou le contrôle, et n'oubliait pas la pitié. </p> <p style='padding-top: 0.7em; font-size: 1em;'>J'ai grandi dans une famille qui aimait se lever à cinq heures du matin pour aller prier au temple. Je ne peux pas me plaindre, j'ai eu toutes les occasions de connaître Dieu dans un environnement chrétien. </p>"
+                    "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Dieu vous bénisse énormément mes frères. Aujourd'hui, je veux vous saluer en tant que frère Alvaro, en tant que famille que nous sommes et le peuple que Dieu a forgé, en payant un prix élevé et en vous dédiant ses soins avec un amour profond. </p> <p style='padding-top: 1em; font-size: 2em; color: #982221;' id='title-7-font'><strong>Introduction</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>J'avais une mère qui m'enseignait les voies de Dieu et qui priait avec moi le soir. Elle m'a appris à chanter toute la journée et m'a donné un très bon exemple. Elle n'avait pas un caractère colérique et même dans la punition, elle ne perdait pas la raison ou le contrôle, et n'oubliait pas la pitié. </p> <p style='padding-top: 0.7em; font-size: 1em;'>J'ai grandi dans une famille qui aimait se lever à cinq heures du matin pour aller prier au temple. Je ne peux pas me plaindre, j'ai eu toutes les occasions de connaître Dieu dans un environnement chrétien. </p>"
                 }
             },
             {
@@ -347,8 +465,8 @@
                 "id": "btn-francia-7",
                 "text": "",
                 "data": {
-                   "text": "Lire plus",
-                   "url": "#"
+                    "text": "Lire plus",
+                    "url": "#"
                 }
             },
             {
@@ -407,14 +525,14 @@
                 "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Que Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='padding-top: 1em; font-size: 2em; color: #982221;' id='title-7-font'><strong>Introdução</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão. </p>"
+                    "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Que Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='padding-top: 1em; font-size: 2em; color: #982221;' id='title-7-font'><strong>Introdução</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão. </p>"
                 }
             },
             {
                 "x": "5%",
                 "y": "75%",
                 "width": "30%",
-                "background-color": "#2e3a74",      
+                "background-color": "#2e3a74",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "btn-normal",
@@ -422,8 +540,8 @@
                 "id": "btn-brasil-7",
                 "text": "",
                 "data": {
-                   "text": "ler mais",
-                   "url": "#"
+                    "text": "ler mais",
+                    "url": "#"
                 }
             },
             {
@@ -538,8 +656,8 @@
                 "id_unique": "btn-11-content",
                 "text": "",
                 "data": {
-                   "text": "Lire plus",
-                   "url": "#"
+                    "text": "Lire plus",
+                    "url": "#"
                 }
             },
             {
@@ -624,8 +742,8 @@
                 "id": "btn-brasil-11",
                 "text": "",
                 "data": {
-                   "text": "ler mais",
-                   "url": "#"
+                    "text": "ler mais",
+                    "url": "#"
                 }
             },
             {
@@ -756,8 +874,8 @@
                 "id_unique": "btn-read-more-21",
                 "text": "",
                 "data": {
-                   "text": "ler mais",
-                   "url": "#"
+                    "text": "ler mais",
+                    "url": "#"
                 }
             },
             {

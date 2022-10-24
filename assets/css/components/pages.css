@@ -824,4 +824,18 @@ audio {
     #btn-content-icons-more-19 {
         top: 85% !important;
     }
+    #title-content-espanol-5 {
+        font-size: 0.95em !important;
+    }
+    #title-content-frances-5 {
+        font-size: 0.89em !important;
+    }
+    #title-content-ingles-5 {
+        font-size: 0.85em !important;
+    }
+    #btn-ingles-5 {
+        width: 4.9em;
+        height: 1.8em;
+    }
+
 }
