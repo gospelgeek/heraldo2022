@@ -14,7 +14,7 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#"
+                "url": "./assets/audios/page-5-frances.ogg"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

@@ -16,11 +16,11 @@
                 "data": [
                     {
                         "icon": "./assets/pics/icons/iconEscucha.png",
-                        "url": "#"
+                        "url": "./assets/audios/page-5-frances.ogg"
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "#"
+                        "url": "https://drive.google.com/file/d/1EZ3JMXAtv6fcFaOUuTsrGcYAf67XXtXu/view?usp=sharing"
                     }
                 ]
             },
@@ -144,11 +144,11 @@
                 "data": [
                     {
                         "icon": "./assets/pics/icons/iconEscucha.png",
-                        "url": "#"
+                        "url": "./assets/audios/page-5-brasil.mp3"
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "#"
+                        "url": "https://drive.google.com/file/d/1EZ3JMXAtv6fcFaOUuTsrGcYAf67XXtXu/view?usp=sharing"
                     }
                 ]
             },

@@ -220,8 +220,8 @@ async function add_components_page(element, page, lang) {
 const playAudio = (e) => {
 
     if (band_audio) {
-
-    var audio = new Audio('./assets/audios/audio3.mp3');
+   
+    var audio = new Audio(e);
     audio_actual = audio;
     $(audio).attr('id', 'audio-page')
     audio.play();
