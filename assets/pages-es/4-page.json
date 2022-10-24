@@ -6,20 +6,23 @@
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
-        "tag": "botones-idomas",
+        "tag": "social-media",
         "text": "",
         "data": [
             {
                 "icon": "./assets/pics/icons/facebook.png",
-                "url": "https://youtu.be/8NYhCetwssQ"
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 4
             },
             {
                 "icon": "./assets/pics/icons/gorjeo.png",
-                "url": "#"
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 4
             },
             {
                 "icon": "./assets/pics/icons/whatsapp.png",
-                "url": "#"
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 4
             }
         ]
     },

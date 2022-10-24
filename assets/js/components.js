@@ -42,7 +42,7 @@ const addComponents = (region, lang) => {
             element = (`<div class="div-center-ubication-responsive"> <a id="${region.id}" onclick="clickReadMore('+${region.id}+')" style="background-color: ${region['background-color']}; z-index: 1000;" class='btn-normal-23'   target="_blank" id="${region.id}"><span style="color: ${region.color}; font-size: ${region['font-size']}" class="boton-normal-text-23">${(region.data).text}</span></a> </div>`)
             break;
         case 'btn-normal-2':
-            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a href="${ (region.data)[0].url }"><img src="${(region.data)[0].icon}" ></a> <a href="${ (region.data)[1].url }"><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
+            element = (`<div class="div-center-ubication-responsive"> <div class="div-center-two-icons-responsive" > ${`<a style="cursor: pointer;" onClick="playAudio('${(region.data)[0].url}')"><img src="${(region.data)[0].icon}" ></a> <a href="${ (region.data)[1].url }" target='_blank' ><img src="${(region.data)[1].icon}" ></a>`} </div> </div>`)
             break;
         case 'title-content':
             element = (`<div class="div-center-ubication-responsive"><span class="responsive-font" style="${region.style}" >${(region.data).text}</span></div>`)
@@ -55,6 +55,12 @@ const addComponents = (region, lang) => {
             break;
         case 'img-content':
             element = (`<div class="div-center-ubication-responsive"> <img src="${region.data.src}" style="width: 70% !important; height: 100%; object-fit: cover; ${region.style}"> </div>`)
+            break;
+        case 'social-media':
+            element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 33.3% 33.3% 33.3%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" href="${(region.data)[0].url}${doClick( (region.data)[0].page, lang)}" target='_blank' style="cursor: pointer;" ><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}"   href="${(region.data)[1].url}${doClick( (region.data)[1].page, lang)}" target='_blank' style="cursor: pointer;" ><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}"  href="${(region.data)[2].url}${doClick( (region.data)[2].page, lang)}" target='_blank' style="cursor: pointer;" ><img src="${(region.data)[2].icon}" ></a>`} </div> </div>`)
+            break;
+        case 'botones-idomas-4':
+            element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 25% 25% 25% 25%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[0].id}')"><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[1].id}')"><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[2].id}')"><img src="${(region.data)[2].icon}" ></a> <a id="${(region.data)[3].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[3].id}')"><img src="${(region.data)[3].icon}" ></a>`} </div> </div>`)
             break;
         default:
             break;
