@@ -20,11 +20,27 @@ const showAudio = (audio) => {
     $('#' + audio.id)[0].play();
 }
 
+
+//variables auxiliares para el audio
+var band_audio = true;
+var audio_array = [];
 const hideAudio = () => {
+
+    try {
     $('.button-audio').parent().parent().css({ display: 'flex' })
     $('.button-audio').css({ display: 'flex' })
     $('.audioPage').css({ display: 'none' })
-    $('.audioPage ')[0].pause();
+    //$('.audioPage ')[0].pause();
+    audio_array.map((audio) => {
+        audio.pause();
+    })
+    band_audio = true;
+  
+    }
+    catch (error) {
+        console.log(error)
+    }
+
 }
 
 //event click of read more
@@ -127,9 +143,9 @@ function change_info_page_lengauage(page, lang) {
 
     //crear el div padre
     if (checkMobile()) {
-        element = $(`<div id="content-inter-${page}" />`, { class: 'hard' });
+        element = $(`<div style='width: 100%; height: 100%;' id="content-inter-${page}" />`, { class: 'hard' });
     } else {
-        element = $(`<div id="content-inter-${page}" />`, {});
+        element = $(`<div  style='width: 100%; height: 100%;' id="content-inter-${page}" />`, {});
     }
 
     if (page % 2 == 0) {
@@ -156,7 +172,7 @@ function change_info_page_lengauage(page, lang) {
 */
 function insert_img_background(page, pageElement) {
 
-    var img = $('<img />', { class: 'backPage' + page });
+    var img = $(`<img id="background-page-${page}" />`, { class: 'backPage' + page });
 
     img.mousedown(function (e) {
         e.preventDefault();
@@ -198,6 +214,26 @@ async function add_components_page(element, page, lang) {
     } catch (error) {
         console.log(error)
     }
+
+}
+
+const playAudio = (e) => {
+
+    if (band_audio) {
+
+    var audio = new Audio('./assets/audios/audio3.mp3');
+    audio_actual = audio;
+    $(audio).attr('id', 'audio-page')
+    audio.play();
+    band_audio = false;
+    console.log('play' , audio)
+    audio_array.push(audio)
+    }
+
+    //saber si el audio no ha terminado
+    audio.addEventListener('ended', function () {
+        band_audio = true;
+    }, false);
 
 }
 
