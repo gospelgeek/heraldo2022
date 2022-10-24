@@ -2,9 +2,9 @@
 const doClick = (page, lang) => {
     var url = ''
     if (lang == 'es') {
-        url = 'https://perfiles-2022.netlify.app/#pagina/' + page;
+        url = 'https://heraldo2022.vercel.app/#pagina/' + page;
     } else {
-        url = 'https://perfiles-2022.netlify.app/#page/' + page;
+        url = 'https://heraldo2022.vercel.app/#page/' + page;
     }
 
     url = url.replace('#', '%23')
