@@ -698,7 +698,7 @@ audio {
 
 
 .first_letter_red::first-letter {
-    color: #982221;
+    color: #0e5b79;
     font-size: 2.5em;
     line-height: 0.8em;
     font-weight: 700;
@@ -760,7 +760,6 @@ audio {
     border-color: #af4947;
     overflow: hidden;
 }
-
 
 
 #title-7-font {
