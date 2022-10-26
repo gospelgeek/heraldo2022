@@ -1,10 +1,11 @@
 [
+    
     {
-        "x": "60%",
-        "y": "7%",
+        "x": "0",
+        "y": "88%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "40%",
+        "width": "100%",
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
@@ -14,17 +15,17 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/6"
+                "url": "/assets/audios/discurso-despedida-6.mp3"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/6"
+                "url": "https://drive.google.com/file/d/1LZySCdi7gqB0ZbRd8cl9vHMoZI9rCgFG/view?usp=sharing"
             }
         ]
     },
     {
         "x": "0",
-        "y": "70%",
+        "y": "5%",
         "style": "z-index: 1;",
         "zIndex": "1",
         "width": "100%",
@@ -35,17 +36,18 @@
     },
     {
         "x": "0",
-        "y": "17%",
+        "y": "27%",
         "width": "100%",
-        "styleBox": " padding: 1em; width: 50%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #af4947;",
+        "styleBox": " padding: 1em; width: 60%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
+        "id_unique": "page-6-content-text",
+        "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
         "text": "",
         "data": {
-           "text": " <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>“Dije: Traeré, pues, a la memoria los años de la diestra del Altísimo.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Me acordaré de las obras del Señor; Sí, haré yo memoria de tus maravillas antiguas.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Meditaré en todas tus obras, Y hablaré de tus hechos.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Oh Dios, santo es tu camino; ¿Qué dios es grande como nuestro Dios? </p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'> Tú eres el Dios que hace maravillas; Hiciste notorio en los pueblos tu poder”</p> <p style='padding-top: 0.5em; font-size: 1.5em; color: #af4947; text-align: center;'><strong>(Salmos 77:10-14)</strong></p>"
+           "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>“Dije: Traeré, pues, a la <br> memoria los años de la <br> diestra del Altísimo.</p> <p style='padding-top: 0.5em; font-size: 1em; text-align: center;'>Me acordaré de las obras del <br>Señor; Sí, haré yo memoria <br> de tus maravillas antiguas.</p> <p style='padding-top: 0.1em; font-size: 1em; text-align: center;'>Meditaré en todas tus obras,<br> Y hablaré de tus hechos.</p> <p style='padding-top: 0.1em; font-size: 1em; text-align: center;'>Oh Dios, santo es tu camino;<br> ¿Qué dios es grande como <br>nuestro Dios? </p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'> Tú eres el Dios que hace<br> maravillas; Hiciste notorio <br>en los pueblos tu poder”</p> <p style='width: 9em; background-color: #fff; border-radius: 0.5em; margin-top: 0.8em; font-size: 1.2em; color: #216b87;; text-align: center; justify-self: center; font-style: normal;'><strong>(Salmos 77:10-14).</strong></p>"
         }
     }
 ]

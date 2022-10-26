@@ -672,7 +672,7 @@ audio {
     left: -2.5em;
     width: 4em;
     height: 20%;
-    background-color: #2e3a74;
+    background-color: #43a4c4;
 }
 
 #btn-francia-7::before {
@@ -682,7 +682,7 @@ audio {
     left: -2.5em;
     width: 4em;
     height: 20%;
-    background-color: #2e3a74;
+    background-color: #43a4c4;
 }
 
 
@@ -693,7 +693,7 @@ audio {
     left: -2.5em;
     width: 4em;
     height: 20%;
-    background-color: #2e3a74;
+    background-color: #43a4c4;
 }
 
 
@@ -702,6 +702,7 @@ audio {
     font-size: 2.5em;
     line-height: 0.8em;
     font-weight: 700;
+    /* Montserrat Black Italic */
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
 }
@@ -872,6 +873,34 @@ audio {
     #btn-ingles-5 {
         width: 4.9em;
         height: 1.8em;
+    }
+    #page-6-content-text .responsive-font-content  {
+        font-size: 0.7em !important;
+    }
+    #box-principal-autor-page-7 {
+        top: 75% !important;
+    }
+
+
+}
+
+@media screen and (max-width: 600px) and (max-height: 680px) {
+
+    #page-6-content-text .responsive-font-content  {
+        font-size: 0.5em !important;
+    }
+    #page-6-content-text {
+        top: 30% !important;
+    }
+    #box-page-7-autor {
+        width: 5em !important;
+        height: 5em !important;
+    }
+    #text-content-autor-7 {
+        font-size: 0.4em !important;
+    }
+    #box-text-content-autor-7 {
+        height: 1em !important;
     }
 
 }
