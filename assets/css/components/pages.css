@@ -669,20 +669,22 @@ audio {
     content: "";
     position: absolute;
     top: 35%;
-    left: -2.5em;
+    margin-left: -8em;
     width: 4em;
     height: 20%;
     background-color: #43a4c4;
+    z-index: -1;
 }
 
 #btn-francia-7::before {
     content: "";
     position: absolute;
     top: 35%;
-    left: -2.5em;
+    margin-left: -8em;
     width: 4em;
     height: 20%;
     background-color: #43a4c4;
+    z-index: -1;
 }
 
 
@@ -690,10 +692,11 @@ audio {
     content: "";
     position: absolute;
     top: 35%;
-    left: -2.5em;
+    margin-left: -8em;
     width: 4em;
     height: 20%;
     background-color: #43a4c4;
+    z-index: -1;
 }
 
 
