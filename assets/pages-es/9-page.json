@@ -1,11 +1,18 @@
 [
     {
-        "x": "70%",
-        "y": "80%",
-        "style": "z-index: 1;",
-        "zIndex": "1",
-        "width": "27%",
-        "tag": "img-content",
+        "x": "20%",
+        "y": "78%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-7",
+        "id_2": "box-text-content-autor-9",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-7-autor",
+        "styleImg": "border-radius: 50%;",
+        "styleBoxText": "align-self: end; height: 1em; margin-left: 2em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.43em; font-style: italic; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Esdras Barranco Jiménez. Primer Vicepresidente IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-9.png"
         }

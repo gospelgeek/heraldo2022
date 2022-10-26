@@ -808,10 +808,10 @@ audio {
         font-size: 0.56em !important;
     }
     #btn-9-read-more {
-        top: 83% !important;
+        top: 75% !important;
     }
     #icon-content-9 {
-        top: 83% !important;
+        top: 75% !important;
     }
     #text-content-9 {
         top: 44% !important;
@@ -883,6 +883,12 @@ audio {
     #box-principal-autor-page-7 {
         top: 75% !important;
     }
+    #text-content-autor-9 {
+        font-size: 0.3em !important;
+    }
+    #box-text-content-autor-9 {
+        height: 0.8em !important;
+    }
 
 
 }
@@ -904,6 +910,12 @@ audio {
     }
     #box-text-content-autor-7 {
         height: 1em !important;
+    }
+    #icon-content-9 {
+        top: 78% !important;
+    }
+    #btn-9-read-more {
+        top: 78% !important;
     }
 
 }
