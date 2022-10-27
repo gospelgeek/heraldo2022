@@ -1,11 +1,18 @@
 [
     {
-        "x": "70%",
-        "y": "80%",
-        "style": "z-index: 1;",
-        "zIndex": "1",
-        "width": "27%",
-        "tag": "img-content",
+        "x": "20%",
+        "y": "78%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-7",
+        "id_2": "box-text-content-autor-9",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-7-autor",
+        "styleImg": "border-radius: 50%;",
+        "styleBoxText": "align-self: end; height: 1em; margin-left: 2em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.43em; font-style: italic; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Esdras Barranco Jiménez. Primer Vicepresidente IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-9.png"
         }
@@ -29,15 +36,15 @@
         "x": "0",
         "y": "15%",
         "width": "100%",
-        "styleBox": " padding: 1em; width: 65%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #b41015;",
+        "styleBox": " padding: 1em; width: 65%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #57818b;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.7em; color: #144454; text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #b41015;'>“Por toda la tierra salió su voz, Y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol”<p style=' font-size: 1.6em; color: #b41015; text-align: center !important; font-weight: 100 !important;'><strong>(Salmos 19:4).</strong></p></p>"
+            "text": " <p style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color:#144454;'>“Por toda la tierra salió su voz, Y hasta el extremo del mundo sus palabras. En ellos puso tabernáculo para el sol”<p style=' font-size: 1.6em; color: #144454; text-align: center !important;'>(Salmos 19:4).</p></p>"
         }
     },
     {
@@ -76,7 +83,7 @@
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/9"
+                "url": "https://drive.google.com/file/d/1uLc617-tsJELkDC2a-albbY6scinLEop/view?usp=sharing"
             }
         ]
     },
