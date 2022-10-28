@@ -28,8 +28,8 @@
     },
     {
         "x": "0",
-        "y": "68%",
-        "style": "z-index: 1;",
+        "y": "60%",
+        "style": "z-index: 1; width: 100% !important;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
