@@ -782,6 +782,10 @@ audio {
     bottom: 0 ;
 }
 
+#background-page-4 {
+    height: 90% !important;
+}
+
 /*
    Media Queries
 */
@@ -865,13 +869,13 @@ audio {
         top: 85% !important;
     }
     #title-content-espanol-5 {
-        font-size: 0.95em !important;
+        font-size: 0.85em !important;
     }
     #title-content-frances-5 {
-        font-size: 0.89em !important;
+        font-size: 0.82em !important;
     }
     #title-content-ingles-5 {
-        font-size: 0.85em !important;
+        font-size: 0.8em !important;
     }
     #btn-ingles-5 {
         width: 4.9em;
@@ -889,6 +893,16 @@ audio {
     #box-text-content-autor-9 {
         height: 0.8em !important;
     }
+    #text-content-espanol-5 {
+        font-size: 1.2em !important;
+    } 
+    #text-content-frances-5 {
+        font-size: 1.2em !important;
+    }
+    #title-content-brasil-5 {
+        font-size: 0.9em !important;
+    }
+
 
 
 }
@@ -917,5 +931,19 @@ audio {
     #btn-9-read-more {
         top: 78% !important;
     }
-
+    #text-content-espanol-5 {
+        font-size: 1.05em !important;
+    }
+    #title-content-frances-5 {
+        font-size: 0.82em !important;
+    }
+    #frances-5-icons {
+        top: 86% !important;
+    }
+    #title-content-brasil-5 {
+        font-size: 0.86em !important;
+    }
+    #title-content-ingles-5 {
+        font-size: 0.77em !important;
+    }
 }

@@ -3,11 +3,12 @@
         "francia": [
             {
                 "x": "0",
-                "y": "80.9%",
+                "y": "83%",
                 "viewX": 1800,
                 "viewY": 100,
                 "width": "100%",
                 "height": "20%",
+                "id_unique": "frances-5-icons",
                 "fontSize": "5em",
                 "tag": "btn-normal-2",
                 "class": "",
@@ -26,7 +27,7 @@
             },
             {
                 "x": "0",
-                "y": "73%",
+                "y": "77%",
                 "width": "100%",
                 "background-color": "#982221",
                 "color": "#fff",
@@ -42,13 +43,13 @@
             },
             {
                 "x": "0",
-                "y": "25%",
+                "y": "29%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "0.8em",
                 "tag": "title-content",
-                "style": "font-weight: normal; font-size: 1em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "style": "font-weight: normal; font-size: 0.95em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
                 "id_unique": "title-content-frances-5",
                 "data": {
@@ -58,12 +59,14 @@
             },
             {
                 "x": "0",
-                "y": "35%",
+                "y": "37%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
+                "styleBox": "width: 77%",
                 "tag": "content-text",
+                "id_unique": "text-content-frances-5",
                 "style": "font-weight: normal; font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -181,13 +184,14 @@
             },
             {
                 "x": "0",
-                "y": "25%",
+                "y": "29%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "0.8em",
                 "tag": "title-content",
-                "style": "font-weight: normal; font-size: 1.14em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "id_unique": "title-content-brasil-5",
+                "style": "font-weight: normal; font-size: 1.05em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
                 "data": {
                     "text": " quem crê em mim, como diz a Escritura... ",
@@ -196,13 +200,15 @@
             },
             {
                 "x": "0",
-                "y": "35%",
+                "y": "38%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
+                "styleBox": "width: 77%",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "font-weight: normal; font-size: 0.83em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "id_unique": "text-content-frances-5",
+                "style": "font-weight: normal; font-size: 0.86em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
                     "text": "<p class='first_letter_red'>Um cumprimento fraternal para todos os irmãos no nome de Jesus. Ao pensar no tema que ocupa esta nova edição titulado “como diz a Escritura”, devo dizer que sua palavra é a tocha que ilumina nosso caminho e direcciona nosso destino.</p> <p style='padding-top: 0.5em'>Como propósito de promover ferramentas que contribuem para o nosso crescimento e formação , o Consistório de Anciãos , sempre em procura de actuar sob a direcção de Deus em todo o que fazemos; relacionou o propósito de nossa entrega anterior titulado “ Fé sempre”, orientendo-a a nossa forma de vida cristã e propõe assim novo lema: “ Como diz a Escritura”.</p> "
@@ -255,13 +261,13 @@
             },
             {
                 "x": "0",
-                "y": "25%",
+                "y": "29%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "title-content",
-                "style": "font-weight: normal; font-size: 1em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "style": "font-weight: normal; font-size: 0.9em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
                 "id_unique": "title-content-ingles-5",
                 "data": {
@@ -271,12 +277,14 @@
             },
             {
                 "x": "0",
-                "y": "35%",
+                "y": "38%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
+                "styleBox": "width: 77%",
                 "tag": "content-text",
+                "id_unique": "text-content-frances-5",
                 "style": "font-weight: normal; font-size: 0.8em; color: rgb(107 104 104); text-align: justify;  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {

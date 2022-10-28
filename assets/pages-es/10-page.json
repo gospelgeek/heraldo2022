@@ -1,16 +1,5 @@
 [
     {
-        "x": "5%",
-        "y": "75%",
-        "style": "z-index: 1;",
-        "zIndex": "1",
-        "width": "35%",
-        "tag": "img-content",
-        "data": {
-            "src": "./assets/pics/icons/autor-10.png"
-        }
-    },
-    {
         "x": "0",
         "y": "15%",
         "style": "width: 90% !important;",
@@ -19,6 +8,24 @@
         "tag": "img-content",
         "data": {
             "src": "./assets/pics/icons/titulo-10.png"
+        }
+    },
+    {
+        "x": "8%",
+        "y": "78%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-7",
+        "id_2": "box-text-content-autor-7",
+        "id_3": "text-content-autor-7",
+        "id_4": "box-page-7-autor",
+        "styleImg": "border-radius: 50%;",
+        "styleBoxText": "align-self: end; margin-left: -9.5em; margin-bottom: 1em; grid-area: area-2;",
+        "styleBoxImg": "grid-area: area-1;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Álvaro de Jesús Torres Forero. Pastor IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-10.png"
         }
     }
 ]
