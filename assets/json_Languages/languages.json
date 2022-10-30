@@ -356,7 +356,7 @@
             },
             {
                 "x": "0",
-                "y": "2%",
+                "y": "1%",
                 "style": "z-index: 1; width: 85% !important;",
                 "zIndex": "1",
                 "width": "100%",
@@ -408,7 +408,7 @@
             },
             {
                 "x": "0",
-                "y": "5%",
+                "y": "1%",
                 "style": "z-index: 1; width: 85% !important;",
                 "zIndex": "1",
                 "width": "100%",
@@ -419,7 +419,7 @@
             },
             {
                 "x": "0",
-                "y": "32%",
+                "y": "30%",
                 "width": "100%",
                 "styleBox": " padding: 1em; width: 60%; height: auto !important;",
                 "background-color": "#b41015",
@@ -446,9 +446,9 @@
                 "id_3": "text-content-autor-7",
                 "id_4": "box-page-7-autor",
                 "styleImg": "border-radius: 50%;",
-                "styleBoxText": "align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
+                "styleBoxText": "height: 1em; width: 15em; align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
                 "styleBoxImg": "grid-area: area-2;",
-                "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+                "styleTextAutor": "padding-left: 1em; font-size: 0.52em; font-style: italic; color: #fff;",
                 "tag": "boton-author",
                 "autor": "Pour Álvaro de Jesús Torres Forero. Pasteur IPUC",
                 "data": {
@@ -528,9 +528,9 @@
                 "id_3": "text-content-autor-7",
                 "id_4": "box-page-7-autor",
                 "styleImg": "border-radius: 50%;",
-                "styleBoxText": "align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
+                "styleBoxText": "height: 1em; width: 15em;  align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
                 "styleBoxImg": "grid-area: area-2;",
-                "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+                "styleTextAutor": "padding-left: 1em; font-size: 0.54em; font-style: italic; color: #fff;",
                 "tag": "boton-author",
                 "autor": "Por Álvaro de Jesús Torres Forero. Pastor IPUC",
                 "data": {
