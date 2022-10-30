@@ -1079,4 +1079,53 @@ It is by his Word that we are cleansed. Let us remember that our human efforts a
 </p>
 <p  style='padding-top: 0.7em; font-size: 1em;'>By Héctor Ariel Campuzano Fonseca. IPUC President
 </p>
+
+
+<p style='font-size: 2em; text-align: center;'><strong>What do the Scriptures say? But God gave the increase
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> I planted, Apollos watered, but God gave the increase. 7 So then neither he who plants is anything, nor he who waters, but God who gives the increase. (1 Corinthians 3: 6-7
+New King James Version)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>The Kingdom of Heaven is compared to a mustard seed, the smallest of all seeds, but one that was for the Jewish people quite insignificant. Being so tiny when it is sowed, it grows and makes a robust tree that offers shelter on all its branches for the birds. But how does that small seed grown into such a shade-giving tree? So it is God who works the new borth in a person’s life (Mark 4: 26-29).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>It is impossible to explain how this growth happens. We can’t possibly understand the mystery of life. The development and growth of the seed depend entirely on God. Ecclestiastes 11: 5 says, ‘As you do not know what is the way of thewind, Or how the bones grow in the womb of her who is with child,
+So you do not know the works of God who makes everything’</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>This seed that is the Word of God, always, today, and forever grows from the powerful hand of God. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Growing in the Gospel
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>The seed that is sown is the gospel, our Lord Jesus Christ being the first sower. Matthew 4: 17 says, ‘From that time Jesus began to preach and to say, “Repent, for the kingdom of heaven is at hand.” This seed produced a plant that began to grow, ‘And Jesus, walking by the Sea of Galilee, saw two brothers, Simon called Peter, and Andrew his brother, casting a net into the sea; for they were fishermen’ (Matthew 4: 18). And its branches began to spread, ‘Then He said to them, “Follow Me, and I will make you fishers of men’ (Matthew 4: 19). Thus the disciples were commissioned to continue the work, ‘And He said to them, “Go into all the world and preach the gospel to every creature’ (Mark 16: 15). Having the guarantee that it is the Lord Jesus Christ who gives the growth, ‘teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.’ (Matthew 28: 20)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Just as in the parable of the sower, the seed sown in good soil bore good fruit and multiplied, the Word preached by the disciples had coverage beyond Jerusalem. Ten days after the ascension of the Lord, the Holy Spirit was poured out on the hundred and twenty believers who were waiting in Jerusalem; With the new anointing that the disciples received, they began to preach the Gospel. The results were almost incredible because the growth that God gives is supernatural, not human.
+
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Through the Word of God we can see how day after day, the number of people who received Christ increased enormously. “Therefore, those who received the word from him were baptized; and there were added that day about three thousand souls” (Acts 2:41). “And the Lord added to the church daily such as should be saved” (Acts 2:47). “And those who believed in the Lord increased the more, great numbers both male and female” (Acts 5:14). Because growth has been given by God and salvation comes only from Him.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>The Growth of the Church to the Ends of the Earth
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Furthermore, the Gospel spread rapidly from Jerusalem to all of Judea, Samaria, and to the ends of the earth. “Then the churches had peace throughout all Judea, Galilee, and Samaria; and they were built up, walking in the fear of the Lord, and they increased, being strengthened by the Holy Spirit” (Acts 9:31).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Little by little the apostles began to go out to other countries to preach. The seed was planted and the Word of God and the Gospel became known in the world, from where many men who were taken by the Spirit, decided to undertake great trips to take this Good News to all the countries that had not yet heard of this wonderful message. That only comes from God.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“But the word of the Lord increased and multiplied” (Acts 12:24). “So the churches were established in the faith, and increased in number daily” (Acts 16:5). “Thus mightily the word of the Lord grew and prevailed” (Acts 19:20).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>God got ahold of Brother Larsen’s heart</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Brother Larsen arrived in Colombia with the message of Salvation. The church began with great sacrifice and effort, times of persecution and death for Christians, but the Word preached always went forward with purpose and no one has been able to stop the growth of this Church. The Lord said that the gates of hell will not prevail against her (Matthew 16:18).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>The church began with a single family, then there were a few converts, then many converted and now we are many thousands. Today we have grown so much that we have more than 5,180 pastors in the national territory. With the help of God we have reached the hearts of ethnic minorities, the prisons, the deaf population and different groups of vulnerable people, all who are praising and glorifying the Name of Jesus. Likewise, we are present in many countries and we have approximately seven hundred pastors abroad.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>It is our task to take the Gospel to all corners of Colombia. We are thousands of brothers guided and supported by God to achieve this goal. We can see that it is a very large territory, however, God Himself is showing us ways and opening doors. He will continue to do so, since it is God Himself who has given and will continue to give the growth.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>The work is arduous and the work hard and complex, but for all this, God continues to raise up men and women with conviction, passion and love for souls. They have believed the Word and proudly carry the banner of our Gospel.  No one has been able to silence us , nor will they be able to do it because this Word is directly endorsed by Jesus Christ.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>We have worked, we have grown, we have become stronger; but we are not finished, there is still much to do. This seed will continue to spread. Only the power of the Holy Spirit directs the growth of the Church. The church bears fruit because God is the one who gives growth.
+
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>By Edilberto Ortiz Sanmartín. Second Vice-president IPUC
+
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
+
 */
