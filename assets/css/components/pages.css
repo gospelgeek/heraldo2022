@@ -791,6 +791,10 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-9 {
+  display: none !important;
+}
+
 /*
    Media Queries
 */
@@ -894,6 +898,7 @@ audio {
     }
     #text-content-autor-9 {
         font-size: 0.3em !important;
+        margin-top: 0.5em !important;
     }
     #box-text-content-autor-9 {
         height: 0.8em !important;
@@ -913,6 +918,17 @@ audio {
     }
     #box-text-content-autor-7 {
         height: 1em !important;
+        width: 13em !important;
+    }
+    #box-page-9-autor {
+        width: 4.3em !important;
+        height: 4.3em !important;
+    }
+    #box-principal-autor-page-9 {
+        top: 80% !important;
+        left: 22% !important;
+    }
+    #box-text-content-autor-9 {
         width: 13em !important;
     }
 
@@ -959,5 +975,14 @@ audio {
     }
     #title-content-ingles-5 {
         font-size: 0.77em !important;
+    }
+    #text-content-9 {
+        top: 46% !important;
+    }
+    #btn-9-read-more {
+        top: 80% !important;
+    }
+    #icon-content-9 {
+        top: 80% !important;
     }
 }
