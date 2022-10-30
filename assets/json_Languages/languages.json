@@ -638,16 +638,17 @@
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
+                "id_unique": "text-contenet-spana-11",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p style='padding-top: 1em; font-size: 1em; font-style: italic;'><span style='color: #b41015; font-size: 2em'>“Y</span>oi, j’ai planté, Apollos a arrosé, mais c’est Dieu qui a fait pousser. 7Celui qui plante n’est rien, celui qui arrose n’est rien. Mais celui qui fait pousser est tout, et c’est Dieu (1 Corinthiens 3: 6-7PDV2017). </p> <p style='padding-top: 0.7em; font-size: 1em;'> Le Royaume de Dieu est comparé à une graine de moutarde, la plus petite de toutes, insignifiante pour les Juifs. Elle était si petite qu'elle a été semée, a grandi et est devenue un arbre solide qui offrait un abri dans ses branches pour les oiseaux. Mais comment cette graine devient-elle un grand arbre qui donne de l'ombre ? Marc 4:26-29, c'est donc Dieu qui opère la nouvelle naissance dans la vie d'une personne. </p>"
+                    "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em; font-style: italic;'>“Yoi, j’ai planté, Apollos a arrosé, mais c’est Dieu <br> qui a fait pousser. 7Celui qui plante n’est rien, celui qui arrose n’est rien. Mais celui qui fait pousser est tout, et c’est Dieu <br>(1 Corinthiens 3: 6-7PDV2017). </p> <p style='padding-top: 0.7em; font-size: 1em;'> Le Royaume de Dieu est comparé à une graine de moutarde, la plus petite de toutes, insignifiante pour les Juifs. Elle était si petite qu'elle a été semée, a grandi et est devenue un arbre solide qui offrait un abri dans ses branches pour les oiseaux. Mais comment cette graine devient-elle un grand arbre qui donne de l'ombre ? Marc 4:26-29, c'est donc Dieu qui opère la nouvelle naissance dans la vie d'une personne. </p>"
                 }
             },
             {
                 "x": "-1%",
-                "y": "46%",
+                "y": "42%",
                 "width": "40%",
                 "height": "20%",
                 "fontSize": "5em",
@@ -659,11 +660,11 @@
                 "data": [
                     {
                         "icon": "./assets/pics/icons/iconEscucha.png",
-                        "url": "#pagina/11"
+                        "url": "./assets/audios/page-11-portuges.mp3"
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "#pagina/11"
+                        "url": "https://drive.google.com/file/d/1f1HuGi-ejHzO08PGgVk3DaClVfd7PILg/view?usp=share_link"
                     }
                 ]
             },
@@ -723,18 +724,19 @@
                 "width": "100%",
                 "styleBox": "width: 75%;",
                 "background-color": "#b41015",
+                "id_unique": "text-contenet-spana-11",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p style='padding-top: 1em; font-size: 1.1em; font-style: italic;'><span style='color: #b41015; font-size: 2em'>“E</span>u plantei, Apolo regou; mas Deus deu o crescimento. Por isso, nem oque planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento”. ( 1 Coríntios 3:6-7). </p> <p style='padding-top: 0.7em; font-size: 1em;'> O Reino de Deus é comparado a semente de mostarda, a mais pequena de todas, para os judeus insignificante. Sendo tão pequena se semeou, cresceu e se fez árvore forte que ofereceu abrigo em seus ramos para as aves. Como cresce essa semente até ser uma árvore grande que dá sombra? (Marcos 4:26-29), de maneira que é Deus que trabalha no novo nascimento na vida da pessoa. </p>"
+                    "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1.1em; font-style: italic;'>“Eu plantei, Apolo regou; mas Deus deu o crescimento. Por isso, nem oque planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento”. <br>( 1 Coríntios 3:6-7). </p> <p style='padding-top: 0.7em; font-size: 1em;'> O Reino de Deus é comparado a semente de mostarda, a mais pequena de todas, para os judeus insignificante. Sendo tão pequena se semeou, cresceu e se fez árvore forte que ofereceu abrigo em seus ramos para as aves. Como cresce essa semente até ser uma árvore grande que dá sombra? (Marcos 4:26-29), de maneira que é Deus que trabalha no novo nascimento na vida da pessoa. </p>"
                 }
             },
             {
                 "x": "-1%",
-                "y": "46%",
+                "y": "42%",
                 "width": "40%",
                 "height": "20%",
                 "fontSize": "5em",
@@ -746,11 +748,11 @@
                 "data": [
                     {
                         "icon": "./assets/pics/icons/iconEscucha.png",
-                        "url": "#pagina/11"
+                        "url": "./assets/audios/page-11-portuges.mp3"
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "#pagina/11"
+                        "url": "https://drive.google.com/file/d/1f1HuGi-ejHzO08PGgVk3DaClVfd7PILg/view?usp=share_link"
                     }
                 ]
             },
