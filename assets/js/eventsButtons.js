@@ -160,7 +160,7 @@ function change_info_page_lengauage(page, lang) {
     }
 
     //Insertar html para saber en pagina se encuentra
-    element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
+    element.html('<div class="gradient"></div><div id=' +"pie-pagina-"+ page +' class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
 
     insert_img_background(page, element)
 

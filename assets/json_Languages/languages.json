@@ -356,8 +356,8 @@
             },
             {
                 "x": "0",
-                "y": "5%",
-                "style": "z-index: 1;",
+                "y": "1%",
+                "style": "z-index: 1; width: 85% !important;",
                 "zIndex": "1",
                 "width": "100%",
                 "tag": "img-content",
@@ -378,7 +378,7 @@
                 "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
                 "text": "",
                 "data": {
-                   "text": " <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='width: 10em; background-color: #fff; border-radius: 0.5em; margin-top: 0.8em; font-size: 1.2em; color: #216b87;; text-align: center; justify-self: center; font-style: normal;'><strong>( Psaumes 77: 11-14 )</strong></p>"
+                   "text": " <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='line-height: 1.3em; padding: 0.1em; width: 10em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87;; text-align: center; justify-self: center; font-style: normal;'><strong>( Psaumes 77: 11-14 )</strong></p>"
                 }
             }
         ],
@@ -408,8 +408,8 @@
             },
             {
                 "x": "0",
-                "y": "5%",
-                "style": "z-index: 1;",
+                "y": "1%",
+                "style": "z-index: 1; width: 85% !important;",
                 "zIndex": "1",
                 "width": "100%",
                 "tag": "img-content",
@@ -419,7 +419,7 @@
             },
             {
                 "x": "0",
-                "y": "27%",
+                "y": "30%",
                 "width": "100%",
                 "styleBox": " padding: 1em; width: 60%; height: auto !important;",
                 "background-color": "#b41015",
@@ -430,7 +430,7 @@
                 "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
                 "text": "",
                 "data": {
-                   "text": "<p style='text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='width: 10em; background-color: #fff; border-radius: 0.5em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong>( Salmos 77:10-14 )</strong></p>"
+                   "text": "<p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='line-height: 1.3em; padding: 0.15em; width: 10em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong>( Salmos 77:10-14 )</strong></p>"
                 }
             }
         ]
@@ -446,9 +446,9 @@
                 "id_3": "text-content-autor-7",
                 "id_4": "box-page-7-autor",
                 "styleImg": "border-radius: 50%;",
-                "styleBoxText": "align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
+                "styleBoxText": "height: 1em; width: 15em; align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
                 "styleBoxImg": "grid-area: area-2;",
-                "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+                "styleTextAutor": "padding-left: 1em; font-size: 0.52em; font-style: italic; color: #fff;",
                 "tag": "boton-author",
                 "autor": "Pour Álvaro de Jesús Torres Forero. Pasteur IPUC",
                 "data": {
@@ -528,9 +528,9 @@
                 "id_3": "text-content-autor-7",
                 "id_4": "box-page-7-autor",
                 "styleImg": "border-radius: 50%;",
-                "styleBoxText": "align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
+                "styleBoxText": "height: 1em; width: 15em;  align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
                 "styleBoxImg": "grid-area: area-2;",
-                "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+                "styleTextAutor": "padding-left: 1em; font-size: 0.54em; font-style: italic; color: #fff;",
                 "tag": "boton-author",
                 "autor": "Por Álvaro de Jesús Torres Forero. Pastor IPUC",
                 "data": {
