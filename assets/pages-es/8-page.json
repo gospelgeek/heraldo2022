@@ -2,9 +2,10 @@
     {
         "x": "0em",
         "y": "10%",
-        "style": "z-index: 1; width: 92% !important;",
+        "style": "z-index: 1; width: 92%;",
         "zIndex": "1",
         "width": "100%",
+        "id_unique": "mundo-page-8",
         "tag": "img-content",
         "data": {
             "src": "./assets/pics/icons/mundo-8.png"

@@ -795,6 +795,10 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-10 {
+  display: none !important;
+}
+
 /*
    Media Queries
 */
@@ -931,6 +935,17 @@ audio {
     #box-text-content-autor-9 {
         width: 13em !important;
     }
+    #title-spanis-10 {
+        top: 2% !important;
+    }
+    #box-text-content-autor-10 {
+        width: 16.6em !important;
+    }
+    #text-content-autor-10 {
+        font-size: 0.4em !important;
+        padding-left: 9em !important;
+        margin-top: 0.5em !important;
+    }
 
 
 }
@@ -984,5 +999,24 @@ audio {
     }
     #icon-content-9 {
         top: 80% !important;
+    }
+    #mundo-page-8 {
+        top: 2% !important;
+    }
+    #mundo-page-8 .aux-img-class {
+        width: 87% !important;
+    }
+    #btn-7-spanis-aux {
+        top: 80% !important;
+    }
+}
+
+@media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {
+    #box-text-content-autor-9 {
+        width: 16em !important;
+    }
+    #text-content-autor-9 {
+        font-size: 0.4em !important;
+        margin-top: 0.5em !important;
     }
 }

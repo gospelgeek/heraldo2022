@@ -1,10 +1,11 @@
 [
     {
         "x": "0",
-        "y": "15%",
+        "y": "11%",
         "style": "width: 90% !important;",
         "zIndex": "1",
         "width": "100%",
+        "id_unique": "title-spanis-10",
         "tag": "img-content",
         "data": {
             "src": "./assets/pics/icons/titulo-10.png"
@@ -15,15 +16,15 @@
         "y": "78%",
         "width": "100%",
         "id_unique": "box-principal-autor-page-7",
-        "id_2": "box-text-content-autor-7",
-        "id_3": "text-content-autor-7",
+        "id_2": "box-text-content-autor-10",
+        "id_3": "text-content-autor-10",
         "id_4": "box-page-7-autor",
-        "styleImg": "border-radius: 50%;",
-        "styleBoxText": "align-self: end; margin-left: -9.5em; margin-bottom: 1em; grid-area: area-2;",
+        "styleImg": "width: 96%; height: 96%; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 18em; align-self: end; margin-left: -9.5em; margin-bottom: 1em; grid-area: area-2;",
         "styleBoxImg": "grid-area: area-1;",
-        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.55em; font-style: italic; color: #fff;",
         "tag": "boton-author",
-        "autor": "Por Álvaro de Jesús Torres Forero. Pastor IPUC",
+        "autor": "Por Edilberto Ortiz Sanmartín. Segundo Vicepresidente IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-10.png"
         }
