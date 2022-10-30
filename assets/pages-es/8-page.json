@@ -1,8 +1,8 @@
 [
     {
         "x": "0em",
-        "y": "17%",
-        "style": "z-index: 1;",
+        "y": "10%",
+        "style": "z-index: 1; width: 92% !important;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
@@ -13,7 +13,7 @@
     {
         "x": "0em",
         "y": "65%",
-        "style": "z-index: 1;",
+        "style": "z-index: 1; width: 92% !important;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
