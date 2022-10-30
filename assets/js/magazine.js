@@ -23,12 +23,12 @@
        if (book.turn('addPage', element, page)) {
            // Add the initial HTML
            // It will contain a loader indicator and a gradient
-
+           
            if (page !== 1 && page !== pages) {
                if (lang == 'es') {
-                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
+                   element.html('<div class="gradient"></div><div id=' +"pie-pagina-"+ page +' class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
                } else {
-                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
+                   element.html('<div class="gradient"></div><div id=' +"pie-pagina-"+ page +' class="number-page" onclick=goPage(2)>' + page + ' | Heraldo - 2022</div>');
                }
            } else {
                element.html('<div class="gradient"></div>');
