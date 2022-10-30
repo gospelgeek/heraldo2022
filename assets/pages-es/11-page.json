@@ -28,22 +28,23 @@
     },
     {
         "x": "0",
-        "y": "10%",
+        "y": "7%",
         "width": "100%",
         "styleBox": "width: 75%;",
         "background-color": "#b41015",
+        "id_unique": "text-contenet-spana-11",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red' style='padding-top: 1.3em; font-size: 1em; text-align: center; font-style: italic;'>“Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios. De <br> manera que ni el que siembra ni el que riega son nada, sino que Dios lo es todo, pues él es quien hace crecer lo sembrado” <br>(1 Corintios 3:6-7 DHH). </p> <p style='padding-top: 0.7em; font-size: 1em;'> El Reino de Dios es comparado a la semilla de mostaza, la más pequeña de todas, para los judíos insignificante. Siendo tan pequeña se sembró, creció y se hizo árbol fuerte que ofreció albergue en sus ramas para las aves. Pero, ¿cómo crece esa semilla hasta ser un árbol grande que da sombra? Marcos 4:26-29, de manera que es Dios quien trabaja en el nuevo nacimiento en la vida de la persona </p>"
+            "text": "<p class='first_letter_red aux_red' style='padding-top: 1.3em; font-size: 1em; text-align: center; font-style: italic;'>“Yo planté, Apolos regó; pero el crecimiento lo ha dado Dios. De <br> manera que ni el que siembra ni el que riega son nada, sino que Dios lo es todo, pues él es quien hace crecer lo sembrado” <br>(1 Corintios 3:6-7 DHH). </p> <p style='padding-top: 0.7em; font-size: 1em;'> El Reino de Dios es comparado a la semilla de mostaza, la más pequeña de todas, para los judíos insignificante. Siendo tan pequeña se sembró, creció y se hizo árbol fuerte que ofreció albergue en sus ramas para las aves. Pero, ¿cómo crece esa semilla hasta ser un árbol grande que da sombra? Marcos 4:26-29, de manera que es Dios quien trabaja en el nuevo nacimiento en la vida de la persona </p>"
         }
     },
     {
         "x": "-1%",
-        "y": "46%",
+        "y": "42%",
         "width": "40%",
         "height": "20%",
         "fontSize": "5em",
@@ -59,7 +60,7 @@
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/11"
+                "url": "https://drive.google.com/file/d/1f1HuGi-ejHzO08PGgVk3DaClVfd7PILg/view?usp=share_link"
             }
         ]
     },

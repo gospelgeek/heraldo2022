@@ -710,6 +710,10 @@ audio {
     font-style: normal;
 }
 
+.first_letter_red.aux_red::first-letter {
+    color: #9a211f;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -834,10 +838,14 @@ audio {
         top: 44% !important;
     }
     #btn-11-icons {
-        top: 48% !important;
+        top: 40% !important;
     }
     #btn-11-content {
-        top: 45% !important;
+        top: 40% !important;
+    }
+    #text-contenet-spana-11 {
+        top: 9% !important;
+        font-size: 1em !important;
     }
     #titulo-12-content {
         top: 0% !important;
@@ -936,7 +944,7 @@ audio {
         width: 13em !important;
     }
     #title-spanis-10 {
-        top: 2% !important;
+        top: 13% !important;
     }
     #box-text-content-autor-10 {
         width: 16.6em !important;
@@ -945,6 +953,13 @@ audio {
         font-size: 0.4em !important;
         padding-left: 9em !important;
         margin-top: 0.5em !important;
+    }
+    #background-page-10 {
+        height: 60% !important;
+    }
+    
+    #background-page-11 {
+        height: 60% !important;
     }
 
 
@@ -1009,6 +1024,19 @@ audio {
     #btn-7-spanis-aux {
         top: 80% !important;
     }
+    #btn-11-icons {
+        top: 43% !important;
+    }
+    #btn-11-content {
+        top: 43% !important;
+    }
+    #text-contenet-spana-11 {
+        top: 9% !important;
+        font-size: 0.9em !important;
+    }
+    #title-spanis-10 {
+        top: 2% !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {
@@ -1018,5 +1046,8 @@ audio {
     #text-content-autor-9 {
         font-size: 0.4em !important;
         margin-top: 0.5em !important;
+    }
+    #title-spanis-10 {
+        top: 14% !important;
     }
 }
