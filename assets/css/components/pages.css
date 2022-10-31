@@ -803,6 +803,15 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-13 {
+  display: none !important;
+}
+
+#page-fondo-12-content {
+    position: absolute;
+    bottom: 1em;
+}
+
 /*
    Media Queries
 */

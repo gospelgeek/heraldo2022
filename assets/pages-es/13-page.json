@@ -1,10 +1,18 @@
 [
     {
-        "x": "60%",
+        "x": "20%",
         "y": "78%",
-        "zIndex": "1",
-        "width": "35%",
-        "tag": "img-content",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-9",
+        "id_2": "box-text-content-autor-9",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 95% !important; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 19em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Héctor Raúl Betancur Montoya. Secretario General IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-13.png"
         }
@@ -18,10 +26,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "style": "border-radius: 0.2em; font-size: 0.8em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red' style='text-align: center; padding-top: 1em; font-size: 1em; font-style: italic;'>“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es <br> pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” <br>(Juan 9:24-26).</p>"
+            "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em; font-style: italic;'>“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” <br>(Juan 9:24-26).</p>"
         }
     },
     {
@@ -72,7 +80,7 @@
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/13"
+                "url": "https://drive.google.com/file/d/14Xs92ZCteuWKjyAiwfNWeL0Yd7nt96u6/view?usp=share_link"
             }
         ]
     },
