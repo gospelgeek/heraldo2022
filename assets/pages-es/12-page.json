@@ -2,7 +2,7 @@
     {
         "x": "0",
         "y": "7%",
-        "style": "width: 85% !important;",
+        "style": "width: 85%",
         "zIndex": "1",
         "width": "100%",
         "id_unique": "titulo-12-content",
