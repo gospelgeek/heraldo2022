@@ -857,7 +857,7 @@ audio {
         font-size: 1em !important;
     }
     #titulo-12-content {
-        top: 0% !important;
+        top: 4% !important;
     }
     #text-content-19 {
        font-size: 0.9em !important;
@@ -949,6 +949,10 @@ audio {
         top: 80% !important;
         left: 22% !important;
     }
+    #box-principal-autor-page-13 {
+        top: 83% !important;
+        left: 24.5% !important;
+    }
     #box-text-content-autor-9 {
         width: 13em !important;
     }
@@ -966,7 +970,6 @@ audio {
     #background-page-10 {
         height: 60% !important;
     }
-    
     #background-page-11 {
         height: 60% !important;
     }
@@ -1045,6 +1048,16 @@ audio {
     }
     #title-spanis-10 {
         top: 2% !important;
+    }
+    #titulo-12-content {
+        top: 0% !important;
+    }
+    #titulo-12-content .aux-img-class {
+       width: 80% !important;
+    }
+    #box-principal-autor-page-13 {
+        top: 80% !important;
+        left: 24.5% !important;
     }
 }
 
