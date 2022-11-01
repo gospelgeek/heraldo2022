@@ -1,20 +1,30 @@
 [
     {
+        "x": "3%",
+        "y": "65%",
+        "zIndex": "1",
+        "width": "35%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/autor-18.png"
+        }
+    },
+    {
         "x": "0",
-        "y": "28%",
+        "y": "35%",
         "style": "width: 80% !important;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
         "data": {
-            "src": "./assets/pics/icons/titulo-21.png"
+            "src": "./assets/pics/icons/titulo-18.png"
         }
     },
     {
-        "x": "0",
-        "y": "58%",
+        "x": "19%",
+        "y": "65%",
         "width": "100%",
-        "styleBox": "width: 70%;",
+        "styleBox": "width: 37%;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
@@ -22,7 +32,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p class='first_letter_orange' style='padding-top: 1em; font-size: 1.1em;'>“L ucas en su Evangelio, capítulo 24:13 nos narra la forma como Jesús caminó al lado de dos de sus discípulos que regresaban tristes y frustrados, porque para ellos, Cristo no había resucitado. Jesús les interpeló, pero ellos no le reconocieron porque tenían sus ojos velados. Jesús a través del camino les va citando las Escrituras desde Moisés, los profetas, y todo lo que decían de Él. Cuando Jesús fue invitado a quedarse con ellos, al partir el pan, los ojos de sus discípulos fueron abiertos y le reconocieron, que Jesús está </p>"
+            "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>|  “Lámpara es a mis pies tu palabra, Y lumbrera a mi camino” (Salmos 119: 105).</p>"
         }
     }
 ]
