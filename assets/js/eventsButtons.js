@@ -1127,5 +1127,90 @@ So you do not know the works of God who makes everything’</p>
 
 
 
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… LA PALABRA DE DIOS ES VIVA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Porque la palabra de Dios es viva y eficaz, y más cortante que toda espada de dos filos; y penetra hasta partir el alma y el espíritu, las coyunturas y los tuétanos, y discierne los pensamientos y las intenciones del corazón. Y no hay cosa creada que no sea manifiesta en su presencia; antes bien todas las cosas están desnudas y abiertas a los ojos de aquel a quien tenemos que dar cuenta” (Hebreos 4:12-13).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Con este artículo proponemos ayudar a cada lector a entender el momento y el tiempo que estamos viviendo, conocer los peligros a los que estamos expuestos, pero sobre todo animarnos a permanecer firmes creyendo en el poder de la bendita Palabra de Dios, la cual es viva, eficaz y permanece para siempre. Hebreos 4:12; 1 Pedro 1:25.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Nuestra fe cristiana descansa sobre dos fundamentos firmes: </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>1.</strong> La confianza en el Dios Eterno, “… en el cual no hay mudanza, ni sombra de variación” (Santiago 1:17).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>2.</strong> En la Palabra de Dios, como fuente de autoridad y fuente de vida, la cual permanece para siempre.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Estas dos verdades le han brindado seguridad, confianza y solidez a la iglesia a través del tiempo. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La historia nos cuenta que la fe en el Dios verdadero y profesada por el cristianismo, ha sido puesta a prueba en todas las épocas de muchas formas y maneras; al comienzo con el rechazo de la religión dominante, por la familia, los amigos y las costumbres de la sociedad, y en muchos momentos la persecución por parte del estado. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Este rechazo no detuvo el crecimiento de la obra de Dios, al contrario, esto condujo a los creyentes a desarrollar su fe, la confianza en Dios y en su Palabra, y permitió un afianzamiento de la certeza en el corazón de cada creyente, el avance y crecimiento del cristianismo bíblico en nuestro país.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Pero el enemigo cambió de estrategia y ahora el ataque va dirigido a descontextualizar la Palabra de Dios, sembrar inquietudes y poner en duda su veracidad; por medio de hipótesis e interpretaciones basadas en diversas filosofías, entre ellas una que no es nueva, llamada secularismo. Esta filosofía y estrategia está siendo utilizada en nuestros días en muchas formas y maneras, incluyendo algunos llamados “cristianos”. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Cuando hablamos de secularismo nos referimos al proceso que lentamente conduce a las personas que conforman una sociedad, una iglesia, a tomar sus decisiones basados en los criterios humanos, utilizando solo las herramientas, los medios y los conceptos de la razón humana sin recurrir a la fe, ni a la Palabra de Dios; y aunque se hable de Dios, se actúe de manera diferente demostrando que no le necesita, algo sucedía en el pueblo de Israel. Lucas 6:46.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El secularismo tiene unas repercusiones espirituales enormes en todas las áreas de la vida y el desarrollo de una sociedad y de una iglesia; pues las personas dejan de ser Cristocéntricas para convertirse en una sociedad y un cristianismo humanista, donde el ser humano es el centro y donde Dios tiene deberes para con el hombre, y el hombre solo tiene derechos.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El primero en utilizar esta estrategia fue Satanás al comenzar el proceso de comunicación con Eva, proceso que le dio resultado pues terminó con la caída de nuestros primeros padres y la entrada del pecado al mundo con todas sus consecuencias. Genesis 3.1-6.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El secularismo no se implementa de la noche a la mañana, esto lleva tiempo porque responde a un proceso, proceso al que bien haremos nosotros los cristianos Cristocéntricos de estar muy atentos para enfrentarlo con decisión. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El primer paso en este proceso con nuestros primeros padres fue poner en duda lo que Dios les había dicho. “… Conque Dios os ha dicho…” (Génesis 3:1).  Estas palabras tienen como propósito cuestionar, retar y reinterpretar a su modo lo que Dios ya había ordenado, esto significa poner en duda la veracidad de lo dicho por Dios.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El segundo paso fue descontextualizar la orden de Dios para demostrar lo contrario. No comais de todo árbol, suena parecido, pero es totalmente diferente; “Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto podrás comer” (Génesis 2:16).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El tercer paso fue contradecir abiertamente la orden de Dios: No moriréis. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El cuarto paso fue hacer ver a Dios como mezquino para con sus hijos y colocar en duda su bondad, su amor y el buen propósito de Dios para con ellos. Satanás indujo a Eva a pensar y luego a creer que Dios no quería compartir con ellos el conocimiento del bien y del mal.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Quinto paso fue hacerle creer que no necesitaría de Dios y que por el contrario podían desarrollar capacidades, habilidades y poderes que los llevaría a ser como Dios. “…seréis como Dios, sabiendo el bien el mal” (Génesis 3:5). </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Este plan se está llevando a cabo hace muchos días de una manera silenciosa pero efectiva, porque desde tiempo atrás, muchos, entre ellos algunos “cristianos” están colocando en duda la veracidad de la Biblia como Palabra de Dios, a cuestionar su autoridad, hasta finalmente reducir el contenido de la Biblia al nivel de otros buenos libros, pero ya no como la fuente de autoridad Divina, como la Palabra inspirada por Dios, entregada a la humanidad para que podamos conocerle. Juan 5:39.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Algo que facilita enormemente el accionar de esta estrategia es la apatía de muchos cristianos hoy a leer la Biblia, esto trae como consecuencia el desconocimiento de su contenido, su inspiración, sus propósitos y de los efectos poderosos que ella produce en la vida de aquellos que la aman, la oyen, leen y la guardan. Apocalipsis 1:3.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hoy más que nunca necesitamos obedecer la orden que Dios le dio a Moisés: “Y estas palabras que yo te mando hoy, estarán sobre tu corazón” (Deuteronomio 6:6).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Y más tarde a Josué: “Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito; porque entonces harás prosperar tu camino, y todo te saldrá bien” (Josué 1:8).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Para David, leer, estudiar y meditar en la ley de Dios era su delicia. Salmos 119:97.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Como cristianos Cristocéntricos debemos enfrentar con decisión esta filosofía de vida que amenaza el fundamento de nuestra fe para lo cual debemos:
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Amar la Palabra de Dios, apartar tiempo para leer, oír, estudiar, memorizar, meditar y sobre todo obedecerla.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Continuar creyendo que los cielos y la tierra fueron hechos por la Palabra de Dios. Hebreos 11:3; pues, aunque existan otras explicaciones, estas son solo teorías que requieren más fe para creerlas, que estar seguros que la Biblia dice la verdad, porque nadie ha podido demostrar lo contrario.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Continuar predicando la Palabra de Dios, porque ella produce la vida de Dios en los seres humanos, Juan 6:63; como resultado, miles y miles de hombres mujeres nacen de nuevo, sus vidas cambian demostrando de esta manera que la Palabra de Dios es viva y eficaz.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esto nos traerá enormes beneficios, entre ellos: </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Crecer en el conocimiento de nuestro Señor Jesucristo. Juan 5:39.
+Disfrutar de la paz interior que ella produce. Salmos 119:165.
+Edificar nuestra vida sobre el fundamento inamovible. Mateo 7:27.
+Utilizarla como antorcha en este mundo lleno de tinieblas. 2 Pedro 1:17.
+Sobre todo, hacer frente a las amenazas a nuestra fe.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Acerquémonos a ella para nutrir nuestra alma, ser alimentados por ella, ser guiados y ser limpiados.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Otra amenaza que tenemos en este tiempo es la profesionalización en las Escrituras.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El profesionalismo se refiere a la capacidad con la cual una persona desarrolla su actividad profesional, esto es muy importante, pero cuando se trata del cristianismo, de la predicación del Evangelio y del ejercicio de la fe, las cosas son muy diferentes.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Si bien, las herramientas humanas son importantes, nosotros sabemos que tienen unos límites que jamás podrán ser sobrepasados. Recuerdo las palabras de una destacada psicóloga que frente a un paciente expresó con humildad: “Mis herramientas son limitadas, yo puedo actuar de afuera hacia adentro, pero se necesita alguien que actúe de adentro hacia afuera, y solo Dios con su poder lo puede hacer”.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La ciencia con todos sus grandes avances y descubrimientos ha tenido que aceptar que es limitada, lo acabamos de comprobar durante la pandemia donde tuvieron que decir: “Hasta aquí llegan nuestros recursos, no podemos hacer más”
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Pero la Palabra de Dios no tiene límites ni barreras que no puedan ser superadas, eso lo tenía muy claro el centurión cuando le dijo al Señor Jesús: “…solamente di la palabra, y mi criado sanará…” (Mateo 8.15-23). No importa la distancia geográfica, tampoco cual sea la enfermedad, ni qué tan avanzada esté. Y efectivamente el criado fue sanado.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Eso también lo experimentaron los discípulos cuando se levantó una tormenta en medio del mar de Galilea y el Señor Jesús estaba dormido en la popa de la embarcación; cuando lo despertaron Él se levantó y habló con autoridad al mar y a los vientos, y estos inmediatamente obedecieron. Marcos 4:35-41.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por esta razón, quiero invitarles estimados lectores a continuar con mayor amor y mayor esmero a amar la Palabra de Dios, a dedicarle tiempo para estudiarla, conocerla y sobre todo a obedecerla; ella sigue siendo verdad, sigue siendo viva y produciendo vida en aquellos que deciden creerla, con ello podremos permanecer firmes en medio cualquier ataque, disfrutar de todos sus beneficios y explicarla a todos aquellos que lo necesiten. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Tengamos mucho cuidado con el secularismo venga de donde venga y con el profesionalismo, continuemos viviendo y creyendo en la Palabra de Dios con la misma seguridad del comienzo, teniendo claro que el cielo y la tierra pasarán, pero la Palabra de Dios no pasará.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Los libros de todas las disciplinas se desactualizan y se contradicen con el tiempo, lo que hace doscientos años era verdad hoy esta reevaluado y sus conceptos han dejado de tener validez, pero la Palabra de Dios permanece para siempre, sus postulados continúan vigentes y sus efectos siguen siendo poderosos.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Oscar de Jesús Restrepo Villada. Director Administrativo IPUC
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
 
 */
