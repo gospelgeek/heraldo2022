@@ -29,7 +29,7 @@
         "style": "border-radius: 1em; font-size: 0.8em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em; font-style: italic;'>“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” <br>(Juan 9:24-26).</p>"
+            "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em; font-style: italic;'>“Entonces volvieron a llamar al hombre que había sido ciego, y le dijeron: Da gloria a Dios; nosotros sabemos que ese hombre es pecador. Entonces él respondió y dijo: Si es pecador, no lo sé; una cosa sé, que habiendo yo sido ciego, ahora veo. Le volvieron a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?” <br><p style='text-align: center;'>(Juan 9:24-26).</p></p>"
         }
     },
     {

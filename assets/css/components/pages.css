@@ -1020,6 +1020,19 @@ audio {
         top: 83% !important;
         left: 24.5% !important;
     }
+    #content-text-19 {
+        font-size: 1.4em !important;
+    }
+    #btn-content-espana-19 {
+        top: 80% !important;
+        left: 6% !important;
+    }
+    #box-text-content-autor-19 {
+        width: 13em !important;
+    }
+    #content-text-18 {
+        font-size: 1.3em !important;
+    }
 
 }
 
@@ -1122,6 +1135,16 @@ audio {
     }
     #no_esta_enamorada_de_mi_16 .aux-img-class{
         height: 20em !important;
+    }
+    #content-text-19 {
+        font-size: 1.3em !important;
+    }
+    #btn-content-espana-19 {
+        top: 83% !important;
+        left: 6% !important;
+    }
+    #box-text-content-autor-19 {
+        width: 13em !important;
     }
 }
 

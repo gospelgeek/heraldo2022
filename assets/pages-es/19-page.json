@@ -8,7 +8,6 @@
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
-        "id_unique": "btn-normal-2-14",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
@@ -22,18 +21,54 @@
         ]
     },
     {
-        "x": "0",
-        "y": "6%",
+        "x": "-3%",
+        "y": "68%",
         "width": "100%",
-        "styleBox": "width: 60%",
+        "styleBox": "width: 70%",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 1em; font-size: 0.95em; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-19",
+        "style": "border-radius: 1em; font-size: 1em; color: #fc9f31; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“El que tiene oído, oiga lo que el Espírit <br> <p style='margin-left: 1.3em;'>dice a las iglesias”(Apocalipsis 3:22).</p></p>"
+            "text": "<p style='padding-top: 1em; font-size: 1em; font-style: italic;'>“Ya vosotros estáis limpios por la palabra que os he hablado”<span>(Juan 15: 3).</span></p>"
+        }
+    },
+    {
+        "x": "8%",
+        "y": "80%",
+        "width": "30%",
+        "background-color": "#fc9f31",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "class": "",
+        "id": "btn-espana-17",
+        "id_unique": "btn-content-espana-19",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-15",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 112% !important; height: 112% !important; border-radius: 40%;",
+        "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 2.4em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Vicente Arango. Director Misiones Extranjeras IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-19.png"
         }
     }
 ]
