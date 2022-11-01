@@ -10,7 +10,7 @@
         "styleImg": "border-radius: 50%;",
         "styleBoxText": "height: 1em; width: 15em; align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
         "styleBoxImg": "grid-area: area-2;",
-        "styleTextAutor": "padding-left: 1em; font-size: 0.54em; font-style: italic; color: #fff;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.54em; color: #fff;",
         "tag": "boton-author",
         "autor": "Por Álvaro de Jesús Torres Forero. Pastor IPUC",
         "data": {
