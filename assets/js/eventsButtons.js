@@ -536,7 +536,7 @@ mas para los llamados, así judíos como griegos, Cristo poder de Dios, y sabidu
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 
 
-"<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015; font-size: 2em'>E</span>l Señor Jesús resucitó y durante cuarenta días dio testimonio de su resurrección, apareciéndoles a más de quinientas personas, y antes de ascender a los cielos encomendó a sus discípulos la responsabilidad de ir por todo el mundo para anunciar a toda persona el Evangelio de la salvación y la vida eterna.</p> <p style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este consiste en que el diablo, quien tenía cautivo a los seres humanos, fue vencido en la cruz del Calvario. Ahora todos los hombres tienen la oportunidad de salir de su dominio y conocer la salvación de Dios. </p>"
+"<p style='padding-top: 1em; font-size: 1em;'><span style='color: #b41015; font-size: 2em'>E</span>l Señor Jesús resucitó y durante cuarenta días dio testimonio de su resurrección, apareciéndoles a más de quinientas personas, y antes de ascender a los cielos encomendó a sus discípulos la responsabilidad de ir por todo el mundo para anunciar a toda persona el Evangelio de la salvación y la vida eterna.</p> <p style='padding-top: 0.7em; font-size: 1em;'>El Evangelio es la buena noticia de Dios para todos los hombres, y este consiste en que el diablo, quien tenía cautivo a los seres humanos, fue vencido en la cruz del Calvario. Ahora todos los hombres tienen la oportunidad de salir de su dominio y conocer la salvación de Dios. </p>”
 
 <p style='padding-top: 1em; font-size: 1em;'><span style='color: #0d5b78; font-size: 2em'>“Y</span>o planté, Apolos regó; pero el crecimiento lo ha dado Dios. De
 manera que ni el que siembra ni el que riega son nada, sino que Dios lo
@@ -1277,6 +1277,144 @@ Si alguien tiene cerca la Palabra somos nosotros; la Biblia dice, “… cerca d
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>Como diz a Escritura…bem-aventurados os que ouvem e obedecem.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Quem tem ouvidos, ouça o que o Espírito diz às igrejas”. (Apocalipse 3:22).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Segundo a Organização Mundial da Saúde, há quatrocentos e quarenta e seis milhões de surdos no mundo, dos quais quinhentos mil são colombianos, ou seja, para cada cem colombianos um é surdo.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se falamos de nós, a Bíblia nos apresenta um paradoxo, já que é possível ter ouvido, e não ouvir, o que nos leva a concluir que:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>- Ouvir vai mais além da perceção acústica.
+- Se pode escutar sem ouvir.
+- A palavra obediência significa “ouvir o que alguém em autoridade pede e atuar em consequência”.
+- Em outras palavras, ouvir é submeter-se a ordem de alguém em autoridade; é satisfazer os prazeres de alguém que está em cima de.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O principal ensinamento para o povo hebreu está em Deuteronómio 6, “Ouve Israel” são as primeiras palavras e o nome de uma das principais orações judias na que se manifesta seu credo em um só Deus; recitam-na duas vezes por dia nas orações de madrugada e na tarde.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Qual foi a resposta humana a este ensinamento:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte surdo.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Salomão foi um ouvidor surdo sendo um dos homens mais famosos e ricos do mundo. Deveria escutar e observar três advertências da parte de Deus, expressadas com quinhentos anos de antecipação (medicina preventiva).
+- Não aumentar cavalos para si.
+- Não tomar para si muitas mulheres.
+- Não amontoar em abundância prata e ouro, nem mulheres, nem riquezas .
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Não ouviu a admoestação de escrever também para si uma cópia do ensinamento Divino. Não aprendeu a lição que prolongaria seu reino, o livrariam mais de crer a seus irmãos, que o levariam a reconhecer e honrar ao Deus que o havia prosperado.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Agora se aparta de Deus… parece mentira, um homem tão sábio, e ao mesmo tempo tão surdo.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte esquecediço.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Porque se alguém é ouvinte da Palavra, e não cumpridor, é semelhante ao homem que contempla ao espelho o seu rosto natural; porque se contempla a si mesmo, e vai-se, e logo se esquece de como era.” (Santiago 1 :23-24)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>“O ouvinte que engana a si mesmo”.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“E sede cumpridores da Palavra, e não somente ouvintes, enganando-vos a vós mesmos “. (Santiago 1:22).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvidor sem entendimento.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Por que não entendeis a minha linguagem? Por não poder ouvir a minha palavra. (João 8:43).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte de coração duro.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>(Hebreus 3:12), diz que o coração mau é incrédulo e nos aparta do Deus vivo. 
+(Hebreus 3:15). Afirma que o coração duro é surdo e provoca a Deus, aborrece a Deus, é desobediente. “… Hoje, se ouvirdes a sua voz, não endureçais os vossos corações, como na provocação”. Quem foram os que havendo ouvido o provocaram?
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte crente.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O ouvir orientou nossa fé e trouxe como consequência a obediência. Ainda que a obediência não nos justifica diante de Deus, todavia demonstra que somos justificados. Paulo declara que a salvação é um dom de Deus que produz boas obras, (Efésios 2:8-10.) Da mesma maneira, Santiago menciona as obras de obediência que provém da fé, (Santiago 2:14-26). 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por tanto, nossa obediência a Deus é o resultado de ter colocado nossa fé nele.  “Pelo qual recebamos a graça e o apostolado, para a obediência da fé entre todas as gentes pelo seu nome (Romanos 1:5)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte bem-aventurado.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Aquele, porém, que atenta bem para a lei perfeita da liberdade, e nisso persevera, não sendo ouvinte esquecediço, mas fazedor da obra, esse tal será bem-aventurado no seu feito”. (Santiago 1:25).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte por excelência.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O modelo, o exemplo, o melhor ouvidor. Jesus deu o exemplo acerca do que significa a verdadeira obediência. Na noite em que foi traído, disse aos seus discípulos que seu amor se demonstrava através da obediência. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Jesus despojou-se a si mesmo, tomando a forma de servo; se humilhou e se fez obediente até a morte e morte de cruz. (Filipenses 2:7-8).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong> Um convite.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Há um convite para que graduemos na escola da obediência. Segundo Romanos 13, há quatro níveis de obediência:
+Por razão do castigo.
+Por dever.
+Por causa da consciência (conhecimento).
+Por amor
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se há alguém que está próximo da palavra, esse alguém somos nós; a Bíblia diz: “… A palavra está junto de ti, na tua boca e no teu coração; … “ (Romanos 10:8). Se a estudarmos, e a lermos todos os dias, a citarmos, ela nos exorta, corrige, instrui em justiça; que não nos falte a Palavra, que não nos falte ouvir a Palavra e sobretudo a sua aplicação a nossa vida. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por: Fernando López Pimento. Diretor Missões Nacionais.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+<p style='font-size: 2em; text-align: center;'><strong>ZOALS DE SCHRIFT ZEGT... GEZEGEND ZIJN ZIJ DIE HOREN EN GEHOORZAMEN.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Wie oren heeft, laat hij horen wat de Geest tegen de gemeenten zegt” (Openbaring 3:22).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Volgens de Wereldgezondheidsorganisatie zijn er vierhonderdzesenveertig miljoen doven in de wereld, waarvan vijfhonderdduizend Colombianen, dat wil zeggen dat voor elke honderd Colombianen er één doof is. Als we het over ons hebben, stelt de Bijbel een tegenstelling, want het is mogelijk om gehoor te hebben en niet te horen, waaruit we afleiden dat:
+- Horen gaat verder dan alleen akoestische waarneming. 
+- Het is mogelijk om te luisteren zonder te horen.
+- Het woord gehoorzaamheid betekent “horen wat iemand met gezag vraagt en daarnaar handelen”.
+- Met andere woorden, horen is zich onderwerpen aan het bevel van iemand met gezag; het is voldoen aan de eisen van iemand die boven hem staat.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Het belangrijkste onderwijs voor het Hebreeuwse volk staat in Deuteronomium 6, “Hoor, o Israël” zijn de eerste woorden en de naam van een van de belangrijkste Joodse Geboden waarin zij hun geloof in één God manifesteren; zij reciteren het tweemaal per dag in het vroege ochtend- en avondgebed.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Wat is het menselijke antwoord op deze leer:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>1. De dove hoorder</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Salomo was een dove hoorder, een van de beroemdste en rijkste mannen ter wereld. Hij moest luisteren naar drie waarschuwingen van God, die vijfhonderd jaar van tevoren waren uitgesproken (preventieve geneeskunde).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hij luistert niet naar de vermaning om ook voor zichzelf een kopie van de Godsleer te schrijven. 
+Hij leert de les niet die zijn koninkrijk zou verlengen, die hem zou bevrijden van de gedachte dat hij meer is dan zijn broeders, die hem ertoe zou brengen de God die hem voorspoed heeft gebracht te erkennen en te eren. Nu keert hij zich af van God... het lijkt ongelooflijk, een man zo wijs en toch zo doof.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>2. De vergeetachtige hoorder</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Want wie het woord hoort, maar het niet doet, is als iemand die zijn natuurlijke gezicht in een spiegel bekijkt. Want hij beschouwt zichzelf, en gaat weg, en vergeet dan hoe hij was” (Jakobus 1:23-24).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>3. De luisteraar zonder begrip
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Waarom begrijpt u niet wat Ik zeg? Omdat u Mijn woord niet kunt horen. (Johannes 8:43).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>4. De luisteraar die zichzelf misleidt
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En wees daders van het Woord en niet alleen hoorders. Anders bedriegt u uzelf (Jakobus 1:22).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>5. De koppige luisteraar
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hebreeën 3:12 Zie erop toe, broeders, dat er nooit in iemand van u een verdorven hart zal zijn, vol ongeloof, om daardoor afvallig te worden van de levende God;
+Hebreeën 3:15 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hij bevestigt dat het harde hart doof is en God kwelt, God niet bevalt, ongehoorzaam is. “ terwijl er wordt gezegd: Heden, als u Zijn stem hoort, verhard dan uw hart niet, zoals in de verbittering. 
+Wie waren degenen die, toen ze hem hoorden, hem uitlokten?
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>6. De gelovige luisteraar
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Het horen heeft ons geloof georiënteerd en als gevolg daarvan gehoorzaamheid gebracht. Hoewel gehoorzaamheid ons niet rechtvaardigt voor God, toont zij wel aan dat wij gerechtvaardigd zijn. Paulus verklaart dat verlossing een gave van God is die goede werken voortbrengt,
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Efeziërs 2:8-10.
+Op dezelfde manier noemt Jakobus de werken van gehoorzaamheid die voortkomen uit het geloof, Jakobus 2:14-26.
+Daarom is onze gehoorzaamheid aan God het resultaat van ons geloof in Hem. 
+ “en door wie wij genade en apostelschap hebben ontvangen, tot gehoorzaamheid aan het geloof in alle volken omwille van zijn naam” (Romeinen 1:5).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>7. De gezegende hoorder
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Maar wie ijverig kijkt naar de volmaakte wet, de wet der vrijheid, en daarin volhardt, en niet vergeetachtig hoort, maar het werk doet, die zal gezegend worden in wat hij doet” (Jakobus 1:25).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>8. De uitstekende luisteraar</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Het model, het voorbeeld, de beste hoorder, Jezus gaf het voorbeeld van wat ware gehoorzaamheid betekent. In de nacht van zijn verraad vertelde hij de discipelen dat zijn liefde werd getoond door gehoorzaamheid.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Jezus maakte zichzelf leeg en nam de vorm aan van een dienaar; Hij vernederde zichzelf en werd gehoorzaam tot de dood, zelfs de dood aan een kruis. Filippenzen 2:7-8.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Een uitnodiging</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Er is een uitnodiging om af te studeren aan de school van gehoorzaamheid, volgens Romeinen 13 zijn er
+vier niveaus van gehoorzaamheid:
+1. door straf.
+2. Door de plicht.
+3. Door het geweten (kennis). 
+4. Voor de liefde.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Als iemand het Woord dicht bij zich heeft, zijn wij het; de Bijbel zegt: “... het Woord is dicht bij u, in uw mond en in uw hart...” (Romeinen 10:8); als we het bestuderen, dagelijks lezen, citeren, vermaant het ons, corrigeert het ons, onderwijst het ons in gerechtigheid; moge het ons niet ontbreken aan het Woord, moge het ons niet ontbreken om het Woord te horen en bovenal moge het ons van toepassing zijn op ons leven.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Door Fernando López Pimiento. Directeur Nationale Missies IPUC
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
 
 
 */
