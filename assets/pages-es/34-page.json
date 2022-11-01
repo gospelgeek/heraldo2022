@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "x": "-5%",
+        "y": "15%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "#pagina/32"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "#pagina/32"
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "48%",
+        "style": "width: 80% !important;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-32.png"
+        }
+    }
+]
