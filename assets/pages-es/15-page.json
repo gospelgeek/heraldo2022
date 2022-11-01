@@ -1,1 +1,53 @@
-[]
+[
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-15",
+        "id_2": "box-text-content-autor-15",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 95% !important; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 20em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Oscar de Jesús Restrepo Villada. Director Administrativo IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-15.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "9%",
+        "width": "100%",
+        "styleBox": "width: 79%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-15",
+        "style": "font-weight: normal; border-radius: 1em; font-size: 0.8em; color: #9e958b; text-align: center; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 1em; font-size: 1em;'> Con este artículo proponemos ayudar a cada lector a entender el momento y el tiempo que estamos viviendo, conocer los peligros a los que estamos expuestos, pero sobre todo animarnos a permanecer firmes creyendo en el poder de la bendita Palabra de Dios, la cual es viva, eficaz y permanece para siempre. Hebreos 4:12; 1 Pedro 1:25. <br>Nuestra fe cristiana descansa sobre dos fundamentos firmes: </p> <p class='first_letter_red aux_plata' style=' padding-top: 1em; font-size: 1em;'> 1. <strong> La confianza en el Dios Eterno,</strong> “… en el cual no hay mudanza, ni sombra de variación” (Santiago 1:17). </p> <p class='first_letter_red aux_plata' style=' padding-top: 1em; font-size: 1em;'> 2. <strong>En la Palabra de Dios,</strong> como fuente de autoridad y fuente de vida, la cual permanece para siempre. </p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "48%",
+        "width": "100%",
+        "background-color": "#a08365",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "class": "",
+        "id": "btn-espana-15",
+        "id_unique": "btn-content-espana-15",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    }
+]

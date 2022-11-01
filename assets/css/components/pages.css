@@ -714,6 +714,10 @@ audio {
     color: #9a211f;
 }
 
+.first_letter_red.aux_plata::first-letter {
+    color: #edca92;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -804,6 +808,10 @@ audio {
 }
 
 #pie-pagina-13 {
+  display: none !important;
+}
+
+#pie-pagina-15 {
   display: none !important;
 }
 
@@ -973,7 +981,22 @@ audio {
     #background-page-11 {
         height: 60% !important;
     }
-
+    #titulo-14-content {
+        top: 7% !important;
+    }
+    #content-text-14 .aux-class-content {
+        width: 76% !important;
+    }
+    #btn-content-espana-15 {
+        top: 44% !important;
+    }
+    #box-text-content-autor-15 {
+        width: 16em !important;
+    }
+    #box-principal-autor-page-15 {
+        top: 83% !important;
+        left: 24.5% !important;
+    }
 
 }
 
@@ -1059,6 +1082,21 @@ audio {
         top: 80% !important;
         left: 24.5% !important;
     }
+    #content-text-14 {
+        top: 47% !important;
+    }
+    #btn-normal-2-14 {
+        top: 75% !important;
+    }
+    #btn-content-espana-15 {
+        top: 57% !important;
+    }
+    #box-principal-autor-page-15 {
+        top: 78% !important;
+    }
+    #box-text-content-autor-15 {
+        width: 15em !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {
@@ -1071,5 +1109,8 @@ audio {
     }
     #title-spanis-10 {
         top: 14% !important;
+    }
+    #content-text-14 .aux-class-content {
+        width: 70% !important;
     }
 }
