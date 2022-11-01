@@ -1,1 +1,48 @@
-[]
+[
+    {
+        "x": "-2.8em",
+        "y": "8%",
+        "style": "width: 86%",
+        "zIndex": "2",
+        "width": "100%",
+        "id_unique": "titulo-14-content",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-16.png"
+        }
+    },
+    {
+        "x": "-7%",
+        "y": "20%",
+        "style": "width: 86%; height: 33em;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "no_esta_enamorada_de_mi_16",
+        "data": {
+            "src": "./assets/pics/icons/foto-aux-16.png"
+        }
+    },
+    {
+        "x": "60%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "50%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "id_unique": "btn-normal-2-14",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": ""
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1jDrAtrqy_bh2JGd59JILC7juYvvCmSTs/view?usp=share_link"
+            }
+        ]
+    }
+]
