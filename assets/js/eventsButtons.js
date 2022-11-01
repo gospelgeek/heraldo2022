@@ -1279,4 +1279,73 @@ Si alguien tiene cerca la Palabra somos nosotros; la Biblia dice, “… cerca d
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 
 
+
+<p style='font-size: 2em; text-align: center;'><strong>Como diz a Escritura…bem-aventurados os que ouvem e obedecem.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Quem tem ouvidos, ouça o que o Espírito diz às igrejas”. (Apocalipse 3:22).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Segundo a Organização Mundial da Saúde, há quatrocentos e quarenta e seis milhões de surdos no mundo, dos quais quinhentos mil são colombianos, ou seja, para cada cem colombianos um é surdo.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se falamos de nós, a Bíblia nos apresenta um paradoxo, já que é possível ter ouvido, e não ouvir, o que nos leva a concluir que:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>- Ouvir vai mais além da perceção acústica.
+- Se pode escutar sem ouvir.
+- A palavra obediência significa “ouvir o que alguém em autoridade pede e atuar em consequência”.
+- Em outras palavras, ouvir é submeter-se a ordem de alguém em autoridade; é satisfazer os prazeres de alguém que está em cima de.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O principal ensinamento para o povo hebreu está em Deuteronómio 6, “Ouve Israel” são as primeiras palavras e o nome de uma das principais orações judias na que se manifesta seu credo em um só Deus; recitam-na duas vezes por dia nas orações de madrugada e na tarde.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Qual foi a resposta humana a este ensinamento:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte surdo.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Salomão foi um ouvidor surdo sendo um dos homens mais famosos e ricos do mundo. Deveria escutar e observar três advertências da parte de Deus, expressadas com quinhentos anos de antecipação (medicina preventiva).
+- Não aumentar cavalos para si.
+- Não tomar para si muitas mulheres.
+- Não amontoar em abundância prata e ouro, nem mulheres, nem riquezas .
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Não ouviu a admoestação de escrever também para si uma cópia do ensinamento Divino. Não aprendeu a lição que prolongaria seu reino, o livrariam mais de crer a seus irmãos, que o levariam a reconhecer e honrar ao Deus que o havia prosperado.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Agora se aparta de Deus… parece mentira, um homem tão sábio, e ao mesmo tempo tão surdo.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte esquecediço.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Porque se alguém é ouvinte da Palavra, e não cumpridor, é semelhante ao homem que contempla ao espelho o seu rosto natural; porque se contempla a si mesmo, e vai-se, e logo se esquece de como era.” (Santiago 1 :23-24)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>“O ouvinte que engana a si mesmo”.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“E sede cumpridores da Palavra, e não somente ouvintes, enganando-vos a vós mesmos “. (Santiago 1:22).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvidor sem entendimento.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Por que não entendeis a minha linguagem? Por não poder ouvir a minha palavra. (João 8:43).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte de coração duro.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>(Hebreus 3:12), diz que o coração mau é incrédulo e nos aparta do Deus vivo. 
+(Hebreus 3:15). Afirma que o coração duro é surdo e provoca a Deus, aborrece a Deus, é desobediente. “… Hoje, se ouvirdes a sua voz, não endureçais os vossos corações, como na provocação”. Quem foram os que havendo ouvido o provocaram?
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte crente.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O ouvir orientou nossa fé e trouxe como consequência a obediência. Ainda que a obediência não nos justifica diante de Deus, todavia demonstra que somos justificados. Paulo declara que a salvação é um dom de Deus que produz boas obras, (Efésios 2:8-10.) Da mesma maneira, Santiago menciona as obras de obediência que provém da fé, (Santiago 2:14-26). 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por tanto, nossa obediência a Deus é o resultado de ter colocado nossa fé nele.  “Pelo qual recebamos a graça e o apostolado, para a obediência da fé entre todas as gentes pelo seu nome (Romanos 1:5)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte bem-aventurado.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Aquele, porém, que atenta bem para a lei perfeita da liberdade, e nisso persevera, não sendo ouvinte esquecediço, mas fazedor da obra, esse tal será bem-aventurado no seu feito”. (Santiago 1:25).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>O ouvinte por excelência.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O modelo, o exemplo, o melhor ouvidor. Jesus deu o exemplo acerca do que significa a verdadeira obediência. Na noite em que foi traído, disse aos seus discípulos que seu amor se demonstrava através da obediência. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Jesus despojou-se a si mesmo, tomando a forma de servo; se humilhou e se fez obediente até a morte e morte de cruz. (Filipenses 2:7-8).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong> Um convite.
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Há um convite para que graduemos na escola da obediência. Segundo Romanos 13, há quatro níveis de obediência:
+Por razão do castigo.
+Por dever.
+Por causa da consciência (conhecimento).
+Por amor
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se há alguém que está próximo da palavra, esse alguém somos nós; a Bíblia diz: “… A palavra está junto de ti, na tua boca e no teu coração; … “ (Romanos 10:8). Se a estudarmos, e a lermos todos os dias, a citarmos, ela nos exorta, corrige, instrui em justiça; que não nos falte a Palavra, que não nos falte ouvir a Palavra e sobretudo a sua aplicação a nossa vida. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por: Fernando López Pimento. Diretor Missões Nacionais.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+
 */
