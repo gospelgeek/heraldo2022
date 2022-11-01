@@ -22,7 +22,7 @@
         "styleImg": "width: 96%; height: 96%; border-radius: 50%;",
         "styleBoxText": "height: 1em; width: 18em; align-self: end; margin-left: -9.5em; margin-bottom: 1em; grid-area: area-2;",
         "styleBoxImg": "grid-area: area-1;",
-        "styleTextAutor": "padding-left: 1em; font-size: 0.55em; font-style: italic; color: #fff;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.55em; color: #fff;",
         "tag": "boton-author",
         "autor": "Por Edilberto Ortiz Sanmartín. Segundo Vicepresidente IPUC",
         "data": {

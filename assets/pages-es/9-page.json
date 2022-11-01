@@ -10,7 +10,7 @@
         "styleImg": "border-radius: 50%;",
         "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 0.45em; margin-bottom: 0.5em; grid-area: area-1;",
         "styleBoxImg": "grid-area: area-2;",
-        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; font-style: italic; color: #fff;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.5em;  color: #fff;",
         "tag": "boton-author",
         "autor": "Por Esdras Barranco Jiménez. Primer Vicepresidente IPUC",
         "data": {
