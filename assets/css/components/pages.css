@@ -778,6 +778,10 @@ audio {
     font-family: 'Montserrat', sans-serif;
 }
 
+#title-17-font {
+    font-family: 'Montserrat', sans-serif;
+}
+
 #background-page-10 {
     height: 64% !important;
     position: absolute !important;
@@ -812,6 +816,10 @@ audio {
 }
 
 #pie-pagina-15 {
+  display: none !important;
+}
+
+#pie-pagina-17 {
   display: none !important;
 }
 
@@ -1096,6 +1104,9 @@ audio {
     }
     #box-text-content-autor-15 {
         width: 15em !important;
+    }
+    #no_esta_enamorada_de_mi_16 .aux-img-class{
+        height: 20em !important;
     }
 }
 
