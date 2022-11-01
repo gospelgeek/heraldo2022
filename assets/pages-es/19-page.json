@@ -1,3 +1,39 @@
 [
-    
+    {
+        "x": "68%",
+        "y": "6%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "id_unique": "btn-normal-2-14",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": ""
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/15ThLuMbhWJxIoelXOT4Oha3N_vgVrgFU/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "6%",
+        "width": "100%",
+        "styleBox": "width: 60%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; border-radius: 1em; font-size: 0.95em; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“El que tiene oído, oiga lo que el Espírit <br> <p style='margin-left: 1.3em;'>dice a las iglesias”(Apocalipsis 3:22).</p></p>"
+        }
+    }
 ]
