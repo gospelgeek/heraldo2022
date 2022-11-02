@@ -65,8 +65,7 @@
        });
 
 
-       // Load the page
-       checkImage('../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
+       checkImage((page === 1)? '../assets/pics/backgrounds/' + page + '.gif' : '../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
        loadRegions(page, pageElement, lang);
 
    }
