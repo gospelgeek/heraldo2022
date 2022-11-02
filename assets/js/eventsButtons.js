@@ -81,7 +81,7 @@ const clickLenguage = async (e) => {
     })
     band_audio = true;
     audio_array = [];
-    
+
     //page even
     page_even = (e).split('-')[0]
     lang_even = (e).split('-')[1]
@@ -1630,5 +1630,39 @@ Se amontonarán maestros que conforme a sus propias rechazarán la verdad despu�
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… VARÓN Y HEMBRA LOS CREÓ
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Porque toda casa es hecha por alguno; pero el que hizo todas las cosas es Dios” (Hebreos 3:4). Una casa no existe por casualidad, su diseño y construcción apuntan al diseñador y constructor.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En cierta ocasión Jesús fue confrontado acerca de la relación entre el hombre y la mujer. Los fariseos discutían sobre las creencias culturales del divorcio, Mateo 19:3-9, Jesús llevó la discusión a un nivel más alto; Él les dijo que necesitaban ver más allá de sus prácticas culturales, sociales y las deformaciones ocasionadas por el pecado. Ellos como nosotros, necesitamos entender la intención original y sublime de Dios para con el varón y la mujer. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Es necesario entender que Dios es el inicio de todo. “En el principio Dios…”. En Él fue el origen de todo, lo visible y lo invisible fue creado por Él.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> “Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó” (Génesis 1:27).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> “Varón y hembra los creó; y los bendijo, y llamó el nombre de ellos Adán, el día en que fueron creados” (Génesis 5: 2).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Dios escogió el nombre común “Adán” para referirse al varón y hembra, al elegir la palabra “Adán” como un nombre común para ambos, resaltando así la profunda unidad e igualdad que existe entre ellos, la mujer proviene del hombre y no es independiente de él. Ambos existen para contar la historia de Dios. El nombre común “Adán” resalta que la historia no tiene que ver con el varón o la mujer; está señalando al postrer “Adán”, Jesucristo, cuya obra salvadora está dirigida a ambos por igual.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La palabra Adán, proviene del hebreo adamah y su significado es tierra, es un término genérico para los seres humanos, ya sea varón o hembra. Después de la caída de la humanidad, ADÁN (con mayúscula) es el nombre propio para el primer varón, anticipando a Jesucristo, quien es “el postrer ADÁN”, Él vino a redimir a “Adán” (humanidad) “…para que Él sea el primogénito entre muchos hermanos” (Romanos 8:29 LBLA).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hombres y mujeres, pueden rastrear sus inicios al polvo de la tierra, receptores de la imagen de Dios, tienen el mismo honor y valor. Dios les hizo portadores de su diseño masculino y femenino. Lo que hace al hombre y a la mujer distinguirse sobre el resto de la creación es su igualdad en honor, valor, dignidad, personalidad, respeto mutuo, armonía, complementación y destino; estos atributos fueron otorgados a aquellos creados a su imagen y semejanza.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Al ser introducido el pecado, ellos necesitaban de un Salvador. La buena noticia del Evangelio es que están representados por el postrer ADÁN, Jesucristo. Los hombres y mujeres redimidos conforman la Iglesia que Él ama, la novia por la que Él se sacrificó, “a fin de presentársela a sí mismo, una iglesia gloriosa, que no tuviese mancha ni arruga ni cosa semejante, sino que fuese santa y sin mancha” (Efesios 5:27).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La humanidad fue creada para reflejar el carácter de nuestro Salvador, no para ser un lienzo en blanco y moldeable ante la corriente de este mundo, el engañador ha hecho uso de mentiras para desdibujar el diseño original del hombre y la mujer, logrando que olvidemos los parámetros Divinos destinados a reflejar la relación entre el Creador y su creación. Dios nos hizo diferentes, de igual valor y dignidad, a fin de complementarnos el uno al otro. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Al hombre lo llamó a cultivar, proteger, a obedecer su Palabra, a que fuera un dador, y a la mujer la llamó a ser receptora, cuidadora, a ser ayuda imprescindible, estas cualidades se complementan al momento de formar una familia, estas características que el mundo ha tratado de volver diferencias que nos separen, son en realidad hilos que unen ese cordón de tres dobleces con el objetivo de construir una familia sana emocionalmente, que pueda ser luminar en un mundo plagado de mentiras.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Desde el inicio el plan de la serpiente fue separar al hombre y la mujer, esperando que Eva estuviera sola para inducirla a probar del fruto, para luego inducir a Adán a levantar el dedo acusador contra su esposa, esa misma estrategia la ha usado a través de los siglos apoyándose en nuestras diferencias para dividirnos pues él sabe que “…Uno solo puede ser vencido, pero dos pueden resistir (Eclesiastés 4:12 NVI).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta gran mentira nos ha llevado a una guerra de géneros donde los hombres tratan a las mujeres como seres inferiores, o viceversa. La manipulación, la rivalidad, las palabras que degradan y un comportamiento abusivo constituyen un ataque a la misma imagen de Dios. (Santiago 3:9-10) nos dice: “maldecimos a los hombres que están hechos a la semejanza de Dios”, pero concluye diciendo que “esto no debe ser así” </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El enemigo sabe que al desdibujar el diseño de Dios para la familia, corrompe los propósitos de Dios para la raza humana, “Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne” (Génesis 2:24).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>No olvidemos que Jesucristo es la imagen perfecta de Dios “Él es la imagen del Dios invisible…” (Colosenses 1:15). Es por medio de Jesucristo que la imagen de Dios se puede restaurar “para que fuesen hechos conformes a la imagen de su Hijo” (Romanos 8:29). Ahora en Cristo podemos reflejar y manifestar la imagen de Dios. Solo Él puede contestar a preguntas como estas: ¿Quién eres? ¿Cuál es tu propósito? ¿Por qué has sido creado?</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Si la respuesta a estas preguntas nos lleva a Dios, nuestra existencia cobra sentido, como fieles de Dios que viven en la tierra con el fin de glorificar a su creador (Isaías 43:7) dice: “todos los llamados de mi nombre; para gloria mía los he creado, los formé y los hice”.  Fuimos creados para reflejar su gloria, “Le has hecho poco menor que los ángeles, y lo coronaste de gloria y de honra” (Salmos 8:5). Los hombres reflejan la fuerza, el amor y la abnegación de un Dios Redentor; la mujer la sensibilidad, la gracia y la belleza de una novia redimida y el matrimonio como el pacto que une a Cristo y su esposa.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En el relato de la creación observamos que Dios no solo crea y da vida a la humanidad, sino que se toma su tiempo para formar en ellos una clara identidad como hombre y mujer “Entonces Jehová Dios formó al hombre del polvo de la tierra… ” (Génesis 2:7); esta diferencia entre crear y formar, también la podemos encontrar en el pasaje bíblico: “…todos los llamados de mi nombre; para gloria mía los he creado, los formé y los hice”  (Isaías 43:7).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Dios sabe que el enemigo ha robado nuestra identidad, por eso Él extiende su mano con el deseo de restaurar en la humanidad el diseño original, de la misma manera en la que de un Jacob mentiroso, Dios forma y da vida a un Israel redimido, “Mas ahora, así dice el Señor tu Creador, oh Jacob, y el que te formó, oh Israel: No temas, porque yo te he redimido, te he llamado por tu nombre; mío eres tú” (Isaías 43:1 LBLA). Así mismo Dios busca restaurar en la humanidad la correcta identidad de hombre y mujer, la cual nos lleva a entender el gran amor de Dios por los hombres.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Eduardo Tejada. Pastor IPUC
+</p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 */
