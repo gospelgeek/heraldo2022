@@ -1461,4 +1461,116 @@ vier niveaus van gehoorzaamheid:
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 
 
+
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… PREDICA A TIEMPO Y FUERA DE TIEMPO</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Te encarezco delante de Dios y del Señor Jesucristo, que juzgará a los muertos en su manifestación y en su reino, que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina. Porque vendrá tiempo cuando no sufrirán la sana doctrina, sino que, teniendo comezón de oír, se amontonarán maestros conforme a sus propias concupiscencias, apartarán de la verdad el oído y se volverán a las fábulas” (2 Timoteo 2:1-4).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Predicar a tiempo y fuera de tiempo</strong></p>
+<p  style='padding-top: 0.7em; font-size: 0.7em;'><strong>Introducción</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Una y otra vez el mundo es bombardeado con mensajes que ofrecen esperanza, pero por encima de todos los mensajes y todas las esperanzas, hay una que es la que el hombre necesita, que sobrepasa a todas combinadas. Es el mensaje de la Palabra de Dios; la Palabra de Dios es la única esperanza duradera para el hombre.</p>
+<p  style='padding-top: 0.7em; font-size: 0.7em;'><strong>¿Cómo predicar?</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A. Porque Dios juzgará a vivos y muertos.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>B. El Señor aparecerá en su manifestación, se refiere a la segunda venida de Cristo; en su Reino, se refiere al reino milenial que será para siempre. Pablo habla de cinco imperativos.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>1. Predicar. Porque este es el método que Dios escogió para salvar a los hombres. Predicar la Palabra no es exponerla simplemente o enseñarla sistemáticamente, sino darla como un mensaje que Dios ordena a un servidor para ello, 2 Corintios 5:20. Las gentes se agolpaban, no tanto para oír un predicador sino para oír la Palabra de Dios, Lucas 5:1, 8:1. Lo que Cristo predicaba y enseñaba, era la Palabra de Dios, Juan 17:6, 14, 17. Pablo dijo que su mensaje era conforme a la Escrituras, 1 Corintios 15:1-11. Predicar conforme a las Escrituras no es cuestión de charlas, ni reflexiones, ni de vanas palabrerías; la Iglesia no está para ser entretenida sino para ser instruida. Algunos predicadores consideran que la Iglesia hay que entretenerla con historias, chistes, jocosidades, metáforas, testimonios que en muchos casos no son ciertos, que solo distraen y entretienen, pero no edifican en nada.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Un predicador decía que vendrán días en que en lugar de un pastor estar enseñando a ovejas, habrá un payaso entreteniendo cabras. La enseñanza de la sana doctrina está siendo reducida a la mínima expresión, mientras progresan en la misma medida otras cosas que, aun siendo aptas para el culto, no son en modo alguno sustitutivas de la exposición bíblica.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La corriente actual trata de fundamentar el culto en la alabanza de los creyentes, enseñando verdades a medias que no dejan de ser mentiras peligrosas; que la alabanza es el trono sobre el cual Dios manifiesta su presencia en el culto, olvidándose que la alabanza no es otra cosa que la respuesta del pueblo a la voz de Dios. Es la Palabra y no otra cosa la que debería abrir el culto cristiano. El pueblo de Dios se reúne para oír lo que Dios tiene que decirle y no para decirle a él lo que desea Dios de nosotros. No es el pueblo el que invita a Dios para estar en el culto, sino justamente lo contrario, es Dios quien convoca a su pueblo para que acudan a alabarle. Lo que convenció a las gentes no fue el ruido de la alabanza, ni los aplausos ni el ruido estridente de los instrumentos que se usan hoy en las iglesias sin ningún control. Fue la predicación de la Palabra lo que convenció a la gente. Hechos 2:37-42, 3:19-21, 8:12, 10:43-47, 19:1-5. Ese fue el mensaje apostólico que revolucionó al mundo de entonces   y que no puede cambiar ahora.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>2. Instar. Otro imperativo, nos enseña que el predicador hace necesario instar, que quiere decir venir, llegar, aparecer, acercarse, en la voz activa, también quiere decir, arremeter, instar, insistencia; por eso debe hacerlo a tiempo y fuera de tiempo, no se trata de ser inoportuno, sino de aprovechar toda oportunidad. “Aprovechando bien el tiempo…” (Efesios 6:16).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>3. Redargüir. Otro imperativo que tiene el significado de convencer, redargüir, poner en evidencia. La tarea de redargüir es una operación del Espíritu en la aplicación de la Palabra, Hebreos 4:12-13. No habrá actividad de convicción si no hay exposición de la Escritura, 2 Timoteo 3:16, Nehemías 8:8-9.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>4. Reprender. Otro imperativo, establece el mandamiento, esto significa encargar, reconvenir, reprender, se traduce en ocasiones por encargar rigurosamente; esto se refiere a quienes se desvían de la verdad. En ocasiones se reprende a los creyentes por no guardar estrictamente las formas tradicionales del culto, las costumbres de la iglesia, la música, las canciones, el modo de practicar las ordenanzas de la organización que son solo religión y no doctrina bíblica. Por eso hay que reprender solo con la Palabra de Dios.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>5. Exhortación. Equivale a alentar, amonestar, confortar, animar, consolar; esto es, dar aliento de Dios a la vida cristiana. Aquí hay dos ingredientes importantes que son:
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>a. Paciencia. Literalmente longanimidad, que pone de manifiesto la condición tolerante   y paciente, que no se rinde ante las circunstancias ni sucumbe ante la prueba. Es una virtud distintivamente cristiana, Efesios 4:2, Romanos 2:4.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>b. Doctrina. Cualquier exhortación que no descanse en la Escritura, no es una exhortación correcta y espiritual, no se trata de exhortar, reprender, amonestar con algo de paciencia y doctrina, sino con toda, es decir, algo que no se debilita en el tiempo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 0.7em;'><strong>¿Porque qué predicar?</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>1. Vendrá tiempo cuando no sufrirán la sana doctrina, es decir, no soportarán, aguantarán, tolerarán, sufrirán. Pablo dice que no tolerarán la sana doctrina, se trata de un tiempo de evidente desprecio por las demandas en la Sagradas Escrituras; tiempo en que no querrán vivir conforme a la Biblia. La razón por la que no atenderán o soportarán la buena enseñanza, es a causa de que tendrán comezón de oír; el sentido del verbo es el rascar, cosquillear. Estas gentes aceptarán oír solo aquellas cosas que les satisfaga o acaricie sus oídos, el anhelo de ellos es elegir predicadores que les prediquen lo que quieren oír y no lo que necesitan; Dios amonestó a Israel por estas cosas. Leer Jeremías 5:30-31, Ezequiel 33:32.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>2. Se apartarán de la verdad y se volverán a las fábulas. Lamentablemente hay muchos que desean oír novedades cada día y que se cansan de lo que es verdadero y cierto, religiones que solo buscan satisfacer el ego de sus oyentes, el mal llamado Evangelio de la prosperidad; Evangelio sin arrepentimiento, sin santidad y demás. 2 Timoteo 3:16, 1 Timoteo 4:13-16, Apocalipsis 1:3. Apartarán el oído de la verdad, no resistirán la sana doctrina apostólica. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>3. 
+Se amontonarán maestros que conforme a sus propias rechazarán la verdad después de haberla conocido.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El desprecio por la Palabra de Dios, es la tendencia del mundo de hoy; estas cosas nos muestran, nos indican un tiempo de gran apostasía en las iglesias modernas. Tenga en cuenta los siguientes capítulos de la Biblia, Hechos 20:28-30, 1 Timoteo 4:1-5, 2 Timoteo 3:1-9, 2 Pedro 2, Judas 1. Estas Escrituras nos indican las señales que preceden el arrebatamiento de la Iglesia, que son de tipo moral, espiritual y doctrinal. Es lo que hoy se ve en las iglesias.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Reflexión final
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>a. Los creyentes quienes quiera que sean, deben vivir conforme a las Escrituras. Timoteo abrazó las Escrituras desde niño.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>b. Las Escrituras hacen sabia a una persona para ser salva.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>c. Las Escrituras son inspiradas por Dios, incluido todo el Antiguo Testamento.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>d. El Espíritu Santo es el Autor de las Escrituras. 2 Pedro 1:19-21. Los escritores del Antiguo Testamento aseveran que la Biblia es la Palabra de Dios, se refieren a las Escrituras como la Palabra de Dios, Salmos 119:1.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>e. El Salmo 119 presenta las Sagradas Escrituras como la Ley de Dios, los Testimonios de Dios, los Caminos de Dios, los Mandamientos de Dios, los Preceptos de Dios, los Estatutos de Dios, los Juicios de Dios, la Palabra de Dios, los Dichos de Dios.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>f. Jesucristo afirmó que la Biblia es la Palabra de Dios, Lucas 24:44-45.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>g. Las Escrituras son útiles para enseñar, redargüir, corregir, perfeccionar al hombre.     Recuerda esto, lo que lees, lo que ves, lo que oyes, lo que hablas, son las autopistas que llevan a la mente y que afectan al hombre para bien o para mal. La gracia de Dios sea con todos.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Jairo Antonio Marín Leiva. Pastor IPUC</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>PREPARADOS PARA TODA BUENA OBRA
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+ “Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra” 2 Timoteo 3:16-17
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Consideración
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Las buenas obras no salvan, pero todo salvo debe realizar buenas obras. La vida cristiana no consiste en hacer algo que convenga y un montón de cosas que no agraden a Dios. Al ser afectado todo el ser, será afectado el hacer. “No puede el buen árbol dar malos frutos, ni el árbol malo dar frutos buenos” (Mateo 7:18).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>No es normal que los árboles actúen o se comporten de esa manera, cada uno mostrará de que está hecho, y eso lo reflejan sus frutos. En este sentido debe haber un equilibrio entre lo que se es, se piensa y se hace, sin esas condiciones no se podrá ser coherente. El Dios de esta Iglesia es muy coherente y sus hijos deben serlo también.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Él dijo: “… Yo soy la luz mundo; el que me sigue, no andará en tinieblas…” (Juan 8:12). Y verdad que su luz nos ha alumbrado…
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Él dijo: “…Yo soy la resurrección y la vida…” (Juan 11:25). Y verdad, porque resucitó a un hombre de cuatro días de muerto, se levantó Él mismo de la tumba y levantará a todos los que mueren en Cristo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Ambiente en el que se mueve la Palabra de Dios
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Palabra de Dios se mueve en un escenario de debilidades e imperfecciones humanas, donde el hombre sin Dios se ha acostumbrado a vivir de cualquier manera, o sea se ha apoyado en sus propios conceptos y opiniones.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El problema radica en que el hombre quiere ser el arquitecto de su propia vida, cuando no se ha dado cuenta que se le perdió el plano. Es por eso que la Biblia dice: “No seas sabio en tu propia opinión…” (Proverbios 3:7).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En otro pasaje dice algo que es muy grave con respecto al mal actuar del hombre, “Profesando ser sabios, se hicieron necios” (Romanos 1:22). Al irse tras sus necedades fue cuando cambiaron la gloria de Dios por las imágenes, además de envanecerse en sus razonamientos y por eso su necio corazón fue entenebrecido.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Palabra, entonces aparece como esa herramienta fundamental para realizar un trabajo de perfección. Por eso, ella es útil para…enseñar, para… redargüir, para …corregir, para… instruir en justicia, con la finalidad, con el propósito de que el hombre de Dios sea perfecto y preparado para toda buena obra.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hay una meta trazada con nosotros y es de presentar perfecto en Cristo Jesús a todo hombre, por eso que el texto bíblico dice, “hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo” (Efesios 4:13).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>¿Podrá un pecador convertirse en santo?</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Convertir un pecador en santo no es tarea fácil, ni tampoco se hace de la noche a la mañana. Pero Dios a través de su Palabra, tiene la capacidad de hacerlo y además de sostenerlo como un testimonio de su poder y su grandeza.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>No hay una palabra que brinde tanto beneficio al hombre, como lo es la Palabra de Dios…ella… limpia, ilumina, guía, transforma y perfecciona. No lo dice la iglesia, no lo dicen los pastores, lo dice el Santo, y nosotros lo reafirmamos, porque somos testigos de su gran operación en nuestras vidas.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Mas el Dios de toda gracia, que nos llamó a su gloria eterna en Jesucristo…él mismo os perfeccione, afirme, fortalezca y establezca” (1 Pedro 5:10).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“La ley de Jehová es perfecta, que convierte el alma; el testimonio de Jehová es fiel, que hace sabio al sencillo” (Salmos 19:7).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Según el pensamiento Divino revelado en estos textos, esa es la condición que necesitamos para poder estar preparados para toda buena obra. Por eso no se concibe a un buen cristiano siendo mal esposo, ni mal padre, ni mal hijo, ni mal trabajador, ni mal estudiante y mucho menos un mal cristiano; la idea entonces, es que podamos mostrar a Cristo y su obra en nosotros en cada acción de la vida.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Mas a Dios gracias, el cual nos lleva siempre en triunfo en Cristo Jesús, y por medio de nosotros manifiesta en todo lugar el olor de su conocimiento” (2 Corintios 2:14).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Lo que Cristo ha hecho con nosotros, primero, nadie lo haría y aunque quisiera hacerlo no podría; y segundo, ha sido una obra tan perfecta que nosotros mismos hemos quedados estupefactos ante tan maravilloso cambio. ¡A Él la gloria! Esta obra de perfección tiene un comienzo y tendrá un final, y todo lo hace Él mismo. “Estando persuadido de esto, que comenzó en ustedes la buena obra, la perfeccionará hasta el día de Jesucristo” (Filipenses 1:6).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hoy podemos decir que, sí vale la pena vivir para Dios, sí es valioso contar con un Libro Sagrado que ha permitido un cambio profundo en nuestras vidas, de tal forma que se ve reflejado en cada accionar. Podemos vivir en cualquier parte del mundo, podemos estar dentro de cualquier cultura, podemos movernos en cualquier sociedad y mostrar nuestras buenas obras.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Así alumbre vuestra luz delante de todos los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre celestial que está en los cielos” (Mateo 5:16).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Dios nos ha colocado en este mundo como su tesoro más preciado y quiere que a través de nuestra conducta, con nuestro comportamiento, mejor dicho, con toda nuestra vida mostremos que esto de la vida cristiana no es un mero acto religioso de Cristo en nosotros, sino que es un cambio operado en nuestras vidas, desde adentro hacia afuera y desde arriba hacia abajo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Sigamos sumergidos en su Palabra, dejémonos llevar por el río de sus razonamientos, permitamos que la llovizna celestial irrigue nuestras vidas, de tal forma que podamos ver lo que vio el salmista en (Salmos 1: 3).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Será como árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo, y su hoja no cae; y todo lo que hace, prosperará”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Willman Marín Parra. Pastor IPUC
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
 */
