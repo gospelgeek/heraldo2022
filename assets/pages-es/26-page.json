@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "0%",
+        "style": "width: 100%",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "title-aux-content-26",
+        "data": {
+            "src": "./assets/pics/icons/fondo-aux-26.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "43%",
+        "style": "width: 95%",
+        "zIndex": "1",
+        "width": "100%",
+        "id_unique": "title-content-26",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-26.png"
+        }
+    }
+]

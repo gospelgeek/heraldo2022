@@ -1,1 +1,67 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "2%",
+        "width": "100%",
+        "styleBox": "background-image: url('./assets/pics/icons/background-27.png'); background-size: cover; padding: 1.55em; width: 74%; height: auto !important; border-radius: 0.6em;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "border-radius: 0.2em; font-size: 0.7em; color: #fff; text-align: justify; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='first_letter_red aux_black' style='text-align: center; font-weight: 100; font-size: 1.3em; font-style: italic; color: #fff;' id='content-text-13'> “Te encarezco delante de Dios y del Señor Jesucristo, que juzgará a los muertos en su manifestación y en su reino, que prediques la palabra; que instes a tiempo y fuera de tiempo; redarguye, reprende, exhorta con toda paciencia y doctrina. Porque vendrá tiempo cuando no sufrirán la sana doctrina, sino que, teniendo comezón de oír, se amontonarán maestros conforme a sus propias concupiscencias, apartarán de la verdad el oído y se volverán a las fábulas” <p style='text-align: center; font-weight: 100; font-size: 1.3em;' >(2 Timoteo 2:1-4).</p></p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "50%",
+        "width": "100%",
+        "styleBox": "width: 79%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-15",
+        "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 1em; font-size: 1.1em; color: #a34556;' id='title-27-aux'> <strong>Predicar a tiempo y fuera de tiempo </strong> </p> <p style='color: #a34556; padding-top: 0.5em; font-size: 0.8em;' id='title-27-aux'>  <strong> Introducción</strong>  </p> <p style=' padding-top: 0em; font-size: 0.8em; font-weight: normal;'> Una y otra vez el mundo es bombardeado con mensajes que ofrecen esperanza, pero por encima de todos los mensajes y todas las esperanzas, hay una que es la que el hombre necesita, que sobrepasa a todas combinadas. Es el mensaje de la Palabra de Dios; la Palabra de Dios es la única esperanza duradera para el hombre.</p>"
+        }
+    },
+    {
+        "x": "6.4%",
+        "y": "78%",
+        "width": "30%",
+        "background-color": "#a34556",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-23",
+        "id_unique": "btn-read-more-23",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-23",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
+        "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 2.4em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.64em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Jairo Antonio Marín Leiva. Pastor IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-27.png"
+        }
+    }
+]
