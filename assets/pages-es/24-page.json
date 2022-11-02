@@ -1,7 +1,7 @@
 [
     {
         "x": "",
-        "y": "20%",
+        "y": "15%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -14,23 +14,24 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/22"
+                "url": ""
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/22"
+                "url": "https://drive.google.com/file/d/1n5vWwrFp83_LrKrPSWGXMV0M34PMwhlM/view?usp=share_link"
             }
         ]
     },
     {
         "x": "0",
-        "y": "28%",
-        "style": "width: 90% !important;",
+        "y": "22%",
+        "style": "width: 100%;",
         "zIndex": "1",
         "width": "100%",
+        "id_unique": "title-content-24",
         "tag": "img-content",
         "data": {
-            "src": "./assets/pics/icons/titulo-22.png"
+            "src": "./assets/pics/icons/titulo-24.png"
         }
     }
 ]

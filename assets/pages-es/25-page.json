@@ -1,15 +1,5 @@
 [
     {
-        "x": "69%",
-        "y": "81%",
-        "zIndex": "1",
-        "width": "30%",
-        "tag": "img-content",
-        "data": {
-            "src": "./assets/pics/icons/autor-23.png"
-        }
-    },
-    {
         "x": "0",
         "y": "5%",
         "width": "100%",
@@ -18,31 +8,31 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "width: 80%; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; width: 80%; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_aqua' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #1E1E1F;'>“Esta es Palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos”<p style=' font-size: 1.6em; font-style: italic; color: #1E1E1F; text-align: center !important; font-weight: 100 !important;'>(Zacarías 4:6).</p></p>"
+            "text": "<p class='first_letter_aqua' style='text-align: center; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #1E1E1F;'>“Esta es Palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos”<p style=' font-size: 1.6em;  color: #1E1E1F; text-align: center !important; '>(Zacarías 4:6).</p></p>"
         }
     },
     {
         "x": "0",
-        "y": "35%",
+        "y": "32%",
         "width": "100%",
-        "styleBox": "width: 80%;",
+        "styleBox": "width: 84%;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
-        "id_unique": "content-text-23",
+        "id_unique": "content-text-25",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.83em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 0.7em; font-size: 1em;'>Dios delega a Zorobabel la responsabilidad de reconstruir el templo, una tarea grande, pero le manifiesta que esto no será posible por habilidades o estrategias humanas, sino por su Espíritu. Se entiende por estrategia un plan de acción para alcanzar un objetivo, sobre este particular hoy tenemos a disposición muchos conocimientos y por cierto nada despreciables; sin embargo, respecto a la predicación del Evangelio debemos ser cuidadosos en el uso de estas herramientas, a fin de no perder la perspectiva del sentido de la misión. Podemos tomar algunos de estos recursos, pero debemos tener presente que las estrategias o métodos no pueden desplazar al Espíritu Santo en la tarea de la predicación.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por ejemplo, Jesús dijo que se predicase en su Nombre el arrepentimiento y perdón de pecados. En muchos casos la predicación se centra en mover las emociones, trayendo como resultado, multitudes frente a un altar pero, no hay convicción de pecado y por ende no se busca el perdón de ellos para alcanzar la salvación.</p>"
+            "text": "<p style='padding-top: 0.7em; font-size: 1em;'>Dios delega a Zorobabel la responsabilidad de reconstruir el templo, una tarea grande, pero le manifiesta que esto no será posible por habilidades o estrategias humanas, sino por su Espíritu.<br> Se entiende por estrategia un plan de acción para alcanzar un objetivo, sobre este particular hoy tenemos a disposición muchos conocimientos y por cierto nada despreciables; sin embargo, respecto a la predicación del Evangelio debemos ser cuidadosos en el uso de estas herramientas, a fin de no perder la perspectiva del sentido de la misión. Podemos tomar algunos de estos recursos, pero debemos tener presente que las estrategias o métodos no pueden desplazar al Espíritu Santo en la tarea de la predicación.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por ejemplo, Jesús dijo que se predicase en su Nombre el arrepentimiento y perdón de pecados. En muchos casos la predicación se centra en mover las emociones, trayendo como resultado, multitudes frente a un altar pero, no hay convicción de pecado y por ende no se busca el perdón de ellos para alcanzar la salvación.</p>"
         }
     },
     {
-        "x": "1.7em",
-        "y": "80%",
+        "x": "3%",
+        "y": "84%",
         "width": "30%",
         "background-color": "#0e5b79",
         "color": "#fff",
@@ -54,6 +44,24 @@
         "data": {
            "text": "Leer más",
            "url": "#"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-23",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
+        "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 2.4em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.6em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Segundo G. Arboleda Rosero. Pastor IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-23.png"
         }
     },
     {
