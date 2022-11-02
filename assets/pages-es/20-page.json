@@ -1,38 +1,46 @@
 [
     {
-        "x": "3%",
-        "y": "65%",
-        "zIndex": "1",
-        "width": "35%",
-        "tag": "img-content",
-        "data": {
-            "src": "./assets/pics/icons/autor-18.png"
-        }
-    },
-    {
         "x": "0",
-        "y": "35%",
-        "style": "width: 80% !important;",
+        "y": "33%",
+        "style": "width: 97% !important;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
         "data": {
-            "src": "./assets/pics/icons/titulo-18.png"
+            "src": "./assets/pics/icons/titulo-20.png"
         }
     },
     {
         "x": "19%",
-        "y": "65%",
+        "y": "68%",
         "width": "100%",
-        "styleBox": "width: 37%;",
+        "styleBox": "width: 40%;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>|  “Lámpara es a mis pies tu palabra, Y lumbrera a mi camino” (Salmos 119: 105).</p>"
+            "text": "<p class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>|  “Lámpara es a mis pies tu palabra, Y lumbrera a mi camino” (Salmos 119: 105).</p>"
+        }
+    },
+    {
+        "x": "8%",
+        "y": "78%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-7",
+        "id_2": "box-text-content-autor-10",
+        "id_3": "text-content-autor-10",
+        "id_4": "box-page-7-autor",
+        "styleImg": "width: 96%; height: 96%; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 16em; align-self: end; margin-left: -9.5em; margin-bottom: 1em; grid-area: area-2;",
+        "styleBoxImg": "grid-area: area-1;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.55em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Angelmiro Camacho Isaza. Director General FECP",
+        "data": {
+            "src": "./assets/pics/icons/autor-18.png"
         }
     }
 ]

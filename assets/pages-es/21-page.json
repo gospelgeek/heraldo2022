@@ -3,44 +3,44 @@
         "x": "0",
         "y": "6%",
         "width": "100%",
-        "styleBox": "width: 70%;",
+        "styleBox": "width: 79%;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red' style='text-align: center; padding-top: 1em; font-size: 1em;'>“L a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
+            "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em;'>“L a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
         }
     },
     {
         "x": "0",
-        "y": "20%",
+        "y": "24%",
         "width": "100%",
-        "styleBox": " padding: 1em; width: 65%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #b41015;",
+        "styleBox": " padding: 0.3em; width: 70%; height: auto !important; border-radius: 0.6em; border-style: dotted; border-width: 0.3em; border-color: #afa5ab;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
         "id_unique": "text-content-19",
-        "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "line-height: 1.5em; border-radius: 0.2em; font-size: 0.8em; color: #3c3c42; text-align: justify; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
-            "text": " <p style='text-align: center; padding-top: 0.5em; font-size: 1.2em; color: #b41015;'><strong>Es como pan… Que alimenta nuestra alma.<br> Es como martillo… Que quebranta el corazón. <br> Es como oro… Que tiene un gran valor. <br> Es como semilla… Que da vida. <br> Es como espejo… Que nos hace ver lo que somos. <br>Es como fuego… Que quema nuestras impurezas. <br>Es como lluvia… Que refresca nuestra alma. <br>Es más dulce que la miel.. Que satisface. <br>Es como espada… Que parte el corazón. <br>Es como una lámpara… Que alumbra el camino.</strong></p>"
+            "text": " <p style='text-align: center; padding-top: 0.5em; font-size: 1em; color: #3c3c42;'><strong>Es como pan… Que alimenta nuestra alma.<br> Es como martillo… Que quebranta el corazón. <br> Es como oro… Que tiene un gran valor. <br> Es como semilla… Que da vida. <br> Es como espejo… Que nos hace ver lo que somos. <br>Es como fuego… Que quema nuestras impurezas. <br>Es como lluvia… Que refresca nuestra alma. <br>Es más dulce que la miel.. Que satisface. <br>Es como espada… Que parte el corazón. <br>Es como una lámpara… Que alumbra el camino.</strong></p>"
         }
     },
     {
         "x": "0",
-        "y": "55%",
+        "y": "57%",
         "width": "100%",
-        "styleBox": "width: 70%;",
+        "styleBox": "width: 81%;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "id_unique": "text-center-content-19",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
             "text": "<p style='text-align: center; padding-top: 1em; font-size: 1.1em; font-style: italic;'>En estas notas nos ocuparemos de ella, como lámpara a nuestros pies y lumbrera a nuestro camino.</p>"
@@ -48,7 +48,7 @@
     },
     {
         "x": "0",
-        "y": "75%",
+        "y": "78%",
         "viewX": 1800,
         "viewY": 100,
         "width": "100%",
@@ -70,7 +70,7 @@
     },
     {
         "x": "0",
-        "y": "67%",
+        "y": "70%",
         "width": "100%",
         "background-color": "#2e3a74",
         "color": "#fff",
