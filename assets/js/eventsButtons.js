@@ -35,7 +35,7 @@ const hideAudio = () => {
         audio.pause();
     })
     band_audio = true;
-  
+    audio_array = [];
     }
     catch (error) {
         console.log(error)
@@ -79,7 +79,7 @@ const clickLenguage = async (e) => {
         audio.pause();
     })
     band_audio = true;
-
+    audio_array = [];
     //page even
     page_even = (e).split('-')[0]
     lang_even = (e).split('-')[1]
@@ -223,8 +223,18 @@ async function add_components_page(element, page, lang) {
 }
 
 const playAudio = (e) => {
+    console.log(audio_array.length)
 
-    if (band_audio) {
+    if (audio_array.length > 0) {
+
+        audio_array.map((audio) => {
+            audio.pause();
+        })
+        audio_array = [];
+        band_audio = true;
+
+    }
+    else if (band_audio) {
    
     var audio = new Audio(e);
     audio_actual = audio;
@@ -233,12 +243,16 @@ const playAudio = (e) => {
     band_audio = false;
     console.log('play' , audio)
     audio_array.push(audio)
-    }
 
     //saber si el audio no ha terminado
     audio.addEventListener('ended', function () {
-        band_audio = true;
+            band_audio = true;
+            audio_array = [];
     }, false);
+
+    }
+
+
 
 }
 

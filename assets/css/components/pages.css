@@ -847,6 +847,10 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-25 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -1053,6 +1057,13 @@ audio {
         top: 63% !important;
         font-size: 1.2em !important;
     }
+    #title-content-24 {
+        top: 20% !important;
+    }
+    #content-text-25 {
+        top: 35% !important;
+        font-size: 1.1em !important;
+    }
 
 }
 
@@ -1172,6 +1183,13 @@ audio {
     #box-principal-autor-page-23 {
         top: 80% !important;
         left: 20% !important;
+    }
+    #title-content-24 {
+        top: 11% !important;
+    }
+    #content-text-25 {
+        top: 40% !important;
+        font-size: 0.9em !important;
     }
 }
 
