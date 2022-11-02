@@ -378,7 +378,7 @@
                 "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
                 "text": "",
                 "data": {
-                   "text": " <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='line-height: 1.3em; padding: 0.1em; width: 10.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87;; text-align: center; justify-self: center; font-style: normal;'><strong>( Psaumes 77: 11-14 )</strong></p>"
+                    "text": " <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='line-height: 1.3em; padding: 0.1em; width: 10.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87;; text-align: center; justify-self: center; font-style: normal;'><strong>( Psaumes 77: 11-14 )</strong></p>"
                 }
             }
         ],
@@ -430,7 +430,7 @@
                 "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
                 "text": "",
                 "data": {
-                   "text": "<p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='line-height: 1.3em; padding: 0.15em; width: 9.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong>( Salmos 77:10-14 )</strong></p>"
+                    "text": "<p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='line-height: 1.3em; padding: 0.15em; width: 9.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong>( Salmos 77:10-14 )</strong></p>"
                 }
             }
         ]
@@ -633,7 +633,6 @@
                         "url": "#",
                         "id": "10-espana-11-espana"
                     }
-        
                 ]
             },
             {
@@ -727,7 +726,6 @@
                         "url": "#",
                         "id": "10-espana-11-espana"
                     }
-        
                 ]
             },
             {
@@ -836,7 +834,6 @@
                         "url": "#",
                         "id": "10-espana-11-espana"
                     }
-        
                 ]
             },
             {
@@ -972,8 +969,8 @@
                 "id_unique": "btn-content-espana-17",
                 "text": "",
                 "data": {
-                   "text": "Lire plus",
-                   "url": "#"
+                    "text": "Lire plus",
+                    "url": "#"
                 }
             },
             {
@@ -1087,8 +1084,8 @@
                 "id_unique": "btn-content-espana-17",
                 "text": "",
                 "data": {
-                   "text": "ler mais",
-                   "url": "#"
+                    "text": "ler mais",
+                    "url": "#"
                 }
             },
             {
@@ -1417,13 +1414,118 @@
                 "id_unique": "btn-read-more-23",
                 "text": "",
                 "data": {
-                   "text": "ler mais",
-                   "url": "#"
+                    "text": "ler mais",
+                    "url": "#"
                 }
             },
             {
                 "_id": "text-read-more",
                 "text": "<p style='font-size: 2em; text-align: center;'><strong>Preparados para toda a boa obra </strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>“Toda a escritura é divinamente inspirada e proveitosa para ensinar, para repreender, para corrigir e para instruir em justiça para que o homem de Deus seja perfeito e perfeitamente instruído para toda a boa obra”. (2 Timóteo 3:16-17). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Consideração</p> <p style='padding-top: 0.7em; font-size: 1em;'>As boas obras não salvam, mas todo aquele que é salvo deve realizar boas obras. A vida crista não consiste em fazer algo que convenha e uma quantidade de coisas que não agradem a Deus. Ao ser afetado todo o ser, será afetado todo o fazer. Não pode a árvore boa dar maus frutos; nem a árvore má dar frutos bons. (Mateus 7: 18) </p> <p style='padding-top: 0.7em; font-size: 1em;'>Não e normal que as arvores actuem ou se comportem dessa maneira, cada uma mostrarar do que esta feito,e isso e refelectido em seus frutos. Neste sentido deve haver um equilibrio entre o que se e ,se pensa e se faz. Sem essas condições não se poderá ser coerente.O Deus desta igreja é muito coerente e seus filhos devem sê-lo também. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ele disse; Eu sou a luz do mundo; quem me segue não andará em trevas …(João 8:12). E a verdade é que a sua luz iluminou-nos. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ele disse: …Eu sou a ressurreição e a vida …(João 11:25). E a verdade é que ressuscitou a um homem depois de estar quatro dias morto, se levantou a si mesmo da cova e levantará a todos os que morrem em Cristo. </p> <p style='padding-top: 0.7em; font-size: 1em;'>O ambiente no qual se move a palavra de Deus. </p> <p style='padding-top: 0.7em; font-size: 1em;'>A Palavra de Deus se move num cenário de debilidades e imperfeições humanas, onde o homem sem Deus se acostumou a viver de qualquer maneira, ou seja, se apoiou em seus próprios conceitos e opiniões. </p> <p style='padding-top: 0.7em; font-size: 1em;'>O problema está em que o homem quer ser o arquiteto de sua própria vida, quando se deu conta de que se lhe perdeu o plano. É por isso que a Biblia diz: “Não sejas sábio a teus próprios olhos…” (Provérbios 3:7). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Noutra passagem diz algo que é muito grave com respeito ao mal actuar do homem, “Dizendo-se sábios tornaram-se loucos” .(Romanos 1:22). Ao ir atrás das suas loucuras, mudaram a glória de Deus por imagens, além de encherem-se de orgulho em seus raciocínios e por isso seus insensatos corações se entenebreceram. </p> <p style='padding-top: 0.7em; font-size: 1em;'>A palavra, aparece, então, como essa ferramenta fundamental para realizar um trabalho de perfeição. Por isso, ela é útil para…ensinar,para…repreender,para…corrigir,para…instruir em justiça, com o propósito ou a finalidade de que o homem de Deus seja perfeito e perfeitamente instruido para a toda a boa obra. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Há uma meta traçada conosco e é de apresentar a todo o homem perfeito em Cristo Jesus, por isso que o texto Bíblico diz: ”Até que todos cheguemos a unidade da fé, e ao conhecimento do Filho de Deus, a homem perfeito, a medida da estatura completa de Cristo”. (Efésios 4:13). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Poderá um pecador converter-se num santo? </p> <p style='padding-top: 0.7em; font-size: 1em;'>Converter um pecador em santo não é tarefa fácil, e nem tão pouco sucede da noite para a manhã. Mas Deus através da sua Palavra, tem a capacidade de fazê-lo e mais do que isso, tem a capacidade de sustê-lo como um testemunho do seu poder e da sua grandeza. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Não há uma palavra que proporcione tanto benefício ao homem, como a Palavra de Deus o faz …ela…limpa, ilumina, guia, transforma e aperfeiçoa. Não o diz a igreja, não o dizem os pastores, o diz o Santo, e nós o reafirmamos, porque somos testemunhos da sua grande operação em nossas vidas. </p> <p style='padding-top: 0.7em; font-size: 1em;'>“E o Deus de toda a graça, que em Cristo Jesus nos chamou à sua eterna glória, depois de havermos padecido um pouco, Ele mesmo vos aperfeiçoe, confirme, fortifique e estabeleça. ”(1 Pedro 5:10).</p> <p style='padding-top: 0.7em; font-size: 1em;'>“A lei de Deus é perfeita, e refrigera a alma; O testemunho do Senhor é fiel e dá sabedoria aos símplices.” (Salmos 19:7). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Segundo o pensamento Divino revelado nestes textos, essa é a condição que necessitamos para poder estar preparados para toda a boa obra. É por isso que um bom cristão não se concebe sendo um mau esposo, nem mau pai, nem mau filho, nem mau trabalhador, nem mau estudante e muito menos um mau cristão; a ideia então, é que possamos mostrar a Cristo e sua obra em nós, em cada ação da nossa vida.</p> <p style='padding-top: 0.7em; font-size: 1em;'>“E graças a Deus, que sempre nos faz triunfar em Cristo, e por meio de nós manifesta em todo o lugar a fragrância do Seu conhecimento” .(2 Coríntios 2:14). </p> <p style='padding-top: 0.7em; font-size: 1em;'>O que Cristo fez conosco, primeiro, ninguém o faria e ainda que quisesse não poderia fazê-lo; e segundo, foi uma obra tão perfeita que nós mesmos ficamos estupefatos diante de uma mudança tão maravilhosa. A Ele seja toda a Glória! Esta obra de perfeição tem um começo e terá um fim, e é Ele quem faz tudo. “Tendo por certo isto memso que, Aquele que em vós começou a boa obra a aperfeiçoará até ao dia de Jesus Cristo”. (Filipenses 1:6). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Hoje podemos dizer que, sim vale a pena viver para Deus, que sim é valioso contar com o Livro Sagrado que permitiu uma mudança profunda em nossas vidas, de tal forma que se vê refletido no nosso agir. Podemos viver em qualquer parte do mundo, podemos estar dentro de qualquer culltura, podemos mover em qualquer sociedade e mostrar as nossas boas obras. “Assim resplandeça a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus.” (Mateus 5:16).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Deus nos colocou neste mundo como seu tesouro mais apreciado e quer que através da nossa conduta, com nosso comportamento, ou melhor dizendo, com toda a nossa vida mostremos que isto da vida cristã não é um mero ato religioso de Cristo em nós, senão que é uma mudança operado em nossas vidas, de dentro para fora e de cima para baixo. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Sigamos submergidos em sua Palavra, deixemos levar pelo rio de seus pensamentos, permitamos que o chuvisco celestial irrigue nossas vidas de tal forma que possamos ver o que vê o salmista. “Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto no seu tempo; as suas folhas não cairão, e tudo quanto fizer prosperará.” (Salmos 1:3). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Por: Willman Marin Parra. Pastor IPUC</p>"
+            }
+        ]
+    },
+    "31": {
+        "brasil": [
+            {
+                "x": "24%",
+                "y": "1%",
+                "width": "25%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "botones-idomas",
+                "zIndex": 9999999,
+                "text": "",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/francia.png",
+                        "url": "#",
+                        "id": "30-espana-31-espana"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/brasil.png",
+                        "url": "#",
+                        "id": "30-espana-31-brasil"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/espana.png",
+                        "url": "#",
+                        "id": "30-espana-31-espana"
+                    }
+                ]
+            },
+            {
+                "x": "0",
+                "y": "7%",
+                "width": "100%",
+                "styleBox": " padding: 1em; width: 80%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.15em; border-color: #414a7c;",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "style": "font-weight: normal; border-radius: 0.2em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "text": "",
+                "data": {
+                    "text": " <p class='first_letter_red aux_blue' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1em; font-style: italic; color: #1E1E1F;'>“Porque toda a casa é edificada por alguém, mas quem edificou todas as coisas é Deus. <p style='text-align: center;'> (Hebreus 3:4).                    </p> <p style='text-align: center;'>Em certa ocasião Jesus foi confrontado acerca da relação entre o homem e a mulher. </p></p>"
+                }
+            },
+            {
+                "x": "0",
+                "y": "35%",
+                "width": "100%",
+                "styleBox": "width: 79%;",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "id_unique": "content-text-15",
+                "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
+                "text": "",
+                "data": {
+                    "text": "<p style=' padding-top: 0.6em; font-size: 0.9em; font-weight: normal;'>Em certa ocasião Jesus foi confrontado acerca da relação entre o homem e a mulher. Os fariseus discutiam sobre as crenças culturais do divórcio (Mateus 19:3-9). Jesus levou a discussão a um nível mais alto; Ele disse-lhes que necessitavam ver mais além das suas práticas culturais, sociais e as deformações provocadas pelo pecado. Nós como eles, necessitamos entender a original e sublime intenção de Deus para com o homem e a mulher. </p>"
+                }
+            },
+            {
+                "x": "6%",
+                "y": "65%",
+                "width": "30%",
+                "background-color": "#ffd369",
+                "color": "#fff",
+                "font-size": "1.2em",
+                "tag": "btn-normal",
+                "id": "btn-brasil-31",
+                "id_unique": "btn-read-more-31",
+                "text": "",
+                "data": {
+                   "text": "ler mais",
+                   "url": "#"
+                }
+            },
+            {
+                "x": "6.7%",
+                "y": "73%",
+                "viewX": 1800,
+                "viewY": 100,
+                "width": "30%",
+                "height": "20%",
+                "fontSize": "5em",
+                "tag": "btn-normal-2",
+                "id_unique": "btn-content-icons-more-19",
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/iconEscucha.png",
+                        "url": "./assets/audios/page-30-espanol.mp3"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/iconImprimir.png",
+                        "url": "https://drive.google.com/file/d/1DTnmJBwQ30KEMfzP7LYGNEq65F7lggIi/view?usp=share_link"
+                    }
+                ]
+            },
+            {
+                "_id": "text-read-more",
+                "text": " <p style='font-size: 2em; text-align: center;'><strong>COMO DIZ A ESCRITURA…HOMEM E MULHER OS CRIOU</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>“Porque toda a casa é edificada por alguém, mas quem edificou todas as coisas é Deus. (Hebreus 3:4). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Em certa ocasião Jesus foi confrontado acerca da relação entre o homem e a mulher. Os fariseus discutiam sobre as crenças culturais do divórcio (Mateus 19:3-9). Jesus levou a discussão a um nível mais alto; Ele disse-lhes que necessitavam ver mais além das suas práticas culturais, sociais e as deformações provocadas pelo pecado. Nós como eles, necessitamos entender a original e sublime intenção de Deus para com o homem e a mulher. </p> <p style='padding-top: 0.7em; font-size: 1em;'>E necessário entender que Deus é o início de tudo. “No princípio Deus…” Nele foi a origem de tudo, o visível e o invisível foram criados por Ele. </p> <p style='padding-top: 0.7em; font-size: 1em;'>“E criou Deus o homem a sua imagem, a imagem de Deus o criou; homem e mulher os criou” (Génesis 1:27).</p> <p style='padding-top: 0.7em; font-size: 1em;'>“Homem e mulher os criou; e os abençoou e chamou o seu nome Adão, no dia em que foram criados” (Génesis 5:2).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Deus escolheu o nome comum “Adão” para referir-se ao homem e a mulher. Ao eleger a palavra “Adão” como um nome comum para ambos, ressaltou assim a profunda unidade e igualdade que existe entre eles. A mulher provem do homem e não é independente dele. Ambos existem para contar a história de Deus. O nome comum “Adão” ressalta que a história não tem a ver com o homem ou a mulher; está assinalando ao último “Adão”, Jesus Cristo, cuja obra salvadora está dirigida a ambos de igual forma.</p> <p style='padding-top: 0.7em; font-size: 1em;'>A palavra Adão provem do hebreu “Adamah” e seu significado é terra, é um termo genérico para os seres humanos, já sejam homem ou mulher. Depois da queda da humanidade, ADÃO (com maiúscula) é o nome próprio para o primeiro homem, antecipando a Jesus Cristo, quem é “o último ADÃO”, Ele veio a redimir “Adão”(humanidade) “…a fim de que Ele seja o primogénito entre muitos irmãos”(Romanos 8:29).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Homens e mulheres, podem traçar os seus primórdios até ao pó da terra, receptores da imagem de Deus, têm a mesma honra e valor. Deus os fez portadores do seu projeto masculino e femenino. O que faz ao homem e a mulher distinguir-se sobre o resto da criação é sua igualdade em honra, valor, dignidade, personalidade, respeito mútuo, harmonia, complementaridade e destino; estes atributos foram concedidos àqueles criados a sua imagem e semelhança.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Ao ser introduzido o pecado, eles necessitavam de um Salvador. A boa notícia do evangelho é que eles estão representados pelo último ADÃO - Jesus Cristo. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Os homens e mulheres redimidos constituem a igreja que Ele ama, a noiva pela qual Ele se sacrificou, “...para a apresentar a si mesmo igreja gloriosa, sem mácula, sem ruga nem coisa semelhante, mas santo e irrepreensível .” (Efésios 5:27). </p> <p style='padding-top: 0.7em; font-size: 1em;'>A humanidade foi criada para refletir o carater do nosso salvador. Não para ser uma tela branca e maleável diante da corrente deste mundo. O enganador fez uso de mentiras para borrar o projeto original do homem e a mulher, conseguindo que o homem esquecesse os parâmetros Divinos destinados a refletir a relação entre o Criador e a sua criação. Deus nos fez diferentes, de igual valor e dignidade, a fim de complementar-nos um ao outro. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ao homem o chamou a cultivar, a proteger, a obedecer a sua Palavra, a que fosse um dador e a mulher a chamou de receptora, cuidadora e ser ajuda imprescindivel. Estas qualidades se complementam no momento de formar uma família, estas características que o mundo tentou devolver as diferenças que nos separam, são em realidade fios que unem esse cordão de três dobras com o objetivo de construir uma família sã emocionalmente, para que possa ser luz num mundo cheio de mentiras. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Desde o começo o plano da serpente foi separar o homem e a mulher, esperando que Eva estivesse só para induzi-la a provar do fruto, para em seguida induzir a Adão a levantar o dedo acusador contra a sua esposa. Essa mesma estratégia tem usado através dos séculos apoiando-se em nossas diferenças para dividir-nos, pois ele sabe que “…Um só pode ser vencido, mas dois podem resistir” (Eclesiastes 4:12). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Esta grande mentira nos levou a uma guerra de gêneros onde os homens tratam as mulheres como seres inferiores, ou vice-versa. A manipulação, a rivalidade, as palavras degradantes e um comportamento abusivo constituem um ataque a mesma imagem de Deus. “Com ela bendizemos a Deus e Pai, e com ela amaldiçoamos os homens feitos a semelhança de Deus. De uma mesma boca procede benção e maldição. Meus irmãos, não convém que isto se faça assim”. (Tiago 3:9-10). </p> <p style='padding-top: 0.7em; font-size: 1em;'>O inimigo sabe que ao borrar o projeto de Deus para a família, corrompe os propósitos de Deus para a raça humana, ”Portanto deixará o homem o seu pai e sua mãe, e apegar-se-á a sua mulher, e serão ambos uma carne” (Genesis 2:24). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Não esqueçamos que Jesus Cristo é a imagem perfeita de Deus “Ele é a imagem do Deus invisível… ”(Colossenses 1:15). É por meio de Jesus Cristo que a imagem de Deus se pode restaurar “ …Para que fôssemos feitos conforme a imagem de seu Filho…”(Romanos 8:29). Agora em Cristo podemos refletir e manifestar a imagem de Deus. Só Ele pode responder as perguntas como estas: Quem és? Qual é o teu propósito? Por que você foi criado? </p> <p style='padding-top: 0.7em; font-size: 1em;'>Se a resposta a estas perguntas nos leva a Deus, nossa existência faz sentido, como fieis de Deus que vivem na terra com o fim de glorificar ao seu Criador. (Isaías 43:7) diz: ”A todos os que são chamados pelo meu Nome, e os criei para minha glória: eu os formei, e também eu os fiz”. Fomos criados para refletir sua glória. “Pois pouco menor o fizeste do que os anjos, e de glória e de honra os coroaste.” (Salmos 8:5). Os homens refletem a força, o amor e a abnegação de um Deus Redentor; a mulher a sensibilidade, a graça e a beleza de uma noiva redimida e o matrimónio como pacto que une a Cristo e a sua esposa. </p> <p style='padding-top: 0.7em; font-size: 1em;'>No relato da criação observamos que Deus não só cria e da vida a humanidade, senão que toma o seu tempo para formar neles uma clara identidade como homem e mulher “E formou o Senhor Deus o homem do pó da terra, e soprou em suas narinas o fôlego da vida; e o homem foi feito alma vivente” (Génesis 2:7). Esta diferenca entre criar e formar também a podemos encontrar na passagem Bíblica (Isaias 43:7) que diz :”A todos os que são chamados pelo meu Nome, e os criei para minha glória: eu os formei,e também eu os fiz”. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Deus sabe que o inimigo roubou nossa identidade, por isso Ele estende sua mão com o desejo de restaurar na humanidade o projeto original, da mesma forma na que Jacó mentiroso, Deus forma e dá vida a um Israel redimido “Mas agora, assim diz o Senhor que te criou, ó Jacó, e que te formou ó Israel: não temas porque eu te remi, chamei-te pelo teu nome, tu és meu” (Isaias 43:1). Assim mesmo Deus busca restaurar na humanidade a correta identidade do homem e da mulher, a qual nos leva a entender o grande amor de Deus pelos homens.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por: Eduardo Tejada. Pastor IPUC</p>"
             }
         ]
     }
