@@ -36,6 +36,7 @@ const hideAudio = () => {
     })
     band_audio = true;
     audio_array = [];
+    $('.audio-img-content').removeClass('opacity-audio')
     }
     catch (error) {
         console.log(error)
@@ -80,6 +81,7 @@ const clickLenguage = async (e) => {
     })
     band_audio = true;
     audio_array = [];
+    
     //page even
     page_even = (e).split('-')[0]
     lang_even = (e).split('-')[1]
@@ -232,6 +234,7 @@ const playAudio = (e) => {
         })
         audio_array = [];
         band_audio = true;
+        $('.audio-img-content').removeClass('opacity-audio')
 
     }
     else if (band_audio) {
@@ -241,11 +244,12 @@ const playAudio = (e) => {
     $(audio).attr('id', 'audio-page')
     audio.play();
     band_audio = false;
-    console.log('play' , audio)
+   
     audio_array.push(audio)
-
+    $('.audio-img-content').addClass('opacity-audio')
     //saber si el audio no ha terminado
     audio.addEventListener('ended', function () {
+        $('.audio-img-content').removeClass('opacity-audio')
             band_audio = true;
             audio_array = [];
     }, false);

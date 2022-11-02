@@ -909,6 +909,10 @@ audio {
     }
 }
 
+.opacity-audio {
+    opacity: 0.5;
+}
+
 /*
    Media Queries
 */
