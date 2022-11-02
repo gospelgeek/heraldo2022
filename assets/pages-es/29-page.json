@@ -1,1 +1,67 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "3%",
+        "width": "100%",
+        "styleBox": "padding: 0.5em; width: 80%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-size: 0.85em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='first_letter_red' style='text-align: center; font-weight: 100; font-size: 1.3em; font-style: italic; color: #1E1E1F;'>“Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra”  <p style='text-align: center; font-weight: 100; font-size: 1.3em;' >(2 Timoteo 3:16-17)</p></p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "30%",
+        "width": "100%",
+        "styleBox": "width: 79%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-15",
+        "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='color: #135b78; padding-top: 0.5em; font-size: 0.8em;' id='title-27-aux'>  <strong> Consideración </strong>  </p> <p style=' padding-top: 0.6em; font-size: 0.8em; font-weight: normal;'>Las buenas obras no salvan, pero todo salvo debe realizar buenas obras. La vida cristiana no consiste en hacer algo que convenga y un montón de cosas que no agraden a Dios. Al ser afectado todo el ser, será afectado el hacer. “No puede el buen árbol dar malos frutos, ni el árbol malo dar frutos buenos” (Mateo 7:18).</p>"
+        }
+    },
+    {
+        "x": "6%",
+        "y": "52%",
+        "width": "30%",
+        "background-color": "#9a211f",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-29",
+        "id_unique": "btn-read-more-23",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-23",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
+        "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 3em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.7em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Willman Marín Parra. Pastor IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-29.png"
+        }
+    }
+]
