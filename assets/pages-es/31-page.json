@@ -1,1 +1,71 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "7%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 80%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.15em; border-color: #414a7c;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; border-radius: 0.2em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": " <p class='first_letter_red aux_blue' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1em; font-style: italic; color: #1E1E1F;'>“Porque toda casa es hecha por alguno; pero el que hizo todas las cosas es Dios” <p style='text-align: center;'> (Hebreos 3:4).</p> <p style='text-align: center;'> Una casa no existe por casualidad, su diseño y construcción apuntan al diseñador y constructor.</p></p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "35%",
+        "width": "100%",
+        "styleBox": "width: 79%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-15",
+        "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style=' padding-top: 0.6em; font-size: 0.9em; font-weight: normal;'>En cierta ocasión Jesús fue confrontado acerca de la relación entre el hombre y la mujer. Los fariseos discutían sobre las creencias culturales del divorcio, Mateo 19:3-9, Jesús llevó la discusión a un nivel más alto; Él les dijo que necesitaban ver más allá de sus prácticas culturales, sociales y las deformaciones ocasionadas por el pecado. Ellos como nosotros, necesitamos entender la intención original y sublime de Dios para con el varón y la mujer. </p>"
+        }
+    },
+    {
+        "x": "6%",
+        "y": "65%",
+        "width": "30%",
+        "background-color": "#ffd369",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-31",
+        "id_unique": "btn-read-more-31",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "6.7%",
+        "y": "73%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "30%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "id_unique": "btn-content-icons-more-19",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/page-30-espanol.mp3"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1DTnmJBwQ30KEMfzP7LYGNEq65F7lggIi/view?usp=share_link"
+            }
+        ]
+    }
+]
