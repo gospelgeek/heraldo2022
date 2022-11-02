@@ -22,5 +22,27 @@
         "data": {
             "src": "./assets/pics/icons/titulo-26.png"
         }
+    },
+    {
+        "x": "0",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "30%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "id_unique": "btn-content-icons-more-19",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": ""
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1QG094KptAAq2hwcQT-N8rx6Yn1KRjTZr/view?usp=share_link"
+            }
+        ]
     }
 ]

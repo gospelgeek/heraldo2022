@@ -807,6 +807,18 @@ audio {
     bottom: 0 ;
 }
 
+#background-page-28 {
+    height: 80% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
+#background-page-29 {
+    height: 80% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
 #background-page-4 {
     height: 90% !important;
 }
@@ -864,10 +876,19 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-28 {
+  display: none !important;
+}
+
+#pie-pagina-29 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
 }
+
 
 
 
@@ -1080,6 +1101,12 @@ audio {
     #title-content-26{
         top: 46% !important;
     }
+    #img-content-28 {
+        top: 5% !important;
+    }
+    #img-content-28 .aux-img-class {
+        width: 75% !important;
+    } 
 
 }
 
@@ -1216,6 +1243,24 @@ audio {
     #title-aux-content-26 .aux-img-class {
         height: 14.5em !important;
     }
+    #img-content-28 {
+        top: 5% !important;
+    }
+    #img-content-28 .aux-img-class {
+        height: 15.3em !important;
+        width: 75% !important;
+    } 
+    #background-page-28 {
+        height: 75% !important;
+        position: absolute !important;
+        bottom: 0 ;
+    }
+    
+    #background-page-29 {
+        height: 75% !important;
+        position: absolute !important;
+        bottom: 0 ;
+    }
 
 }
 
@@ -1236,4 +1281,7 @@ audio {
     #title-content-26{
         top: 44.5% !important;
     }
+    #img-content-28 .aux-img-class {
+        width: 80% !important;
+    } 
 }
