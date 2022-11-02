@@ -76,7 +76,7 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/13"
+                "url": "./assets/audios/page-13-espanol.mp3"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
