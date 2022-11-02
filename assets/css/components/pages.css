@@ -889,9 +889,25 @@ audio {
     bottom: 1em;
 }
 
+#img-content-1 {
+    animation: slidein 1.2s linear ;
+}
 
+#img-content-1-aux {
+    animation: slidein 1.5s linear ;
+}
 
-
+/*
+    animacion de entrada
+*/
+@keyframes slidein {
+    0% {
+        transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
 
 /*
    Media Queries
@@ -1107,6 +1123,9 @@ audio {
     #img-content-28 .aux-img-class {
         width: 75% !important;
     } 
+    #img-content-1 {
+        top: 16% !important;
+    }
 
 }
 
@@ -1255,11 +1274,16 @@ audio {
         position: absolute !important;
         bottom: 0 ;
     }
-    
     #background-page-29 {
         height: 75% !important;
         position: absolute !important;
         bottom: 0 ;
+    }
+    #img-content-1 {
+        top: 15% !important;
+    }
+    #img-content-1 .aux-img-class {
+       width: 80% !important;
     }
 
 }
