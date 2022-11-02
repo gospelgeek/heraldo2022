@@ -726,6 +726,11 @@ audio {
     color: #ffffff;
 }
 
+
+.first_letter_red.aux_blue::first-letter {
+    color: #2d3a7d;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -819,6 +824,12 @@ audio {
     bottom: 0 ;
 }
 
+#background-page-30 {
+    height: 54% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
 #background-page-4 {
     height: 90% !important;
 }
@@ -881,6 +892,10 @@ audio {
 }
 
 #pie-pagina-29 {
+  display: none !important;
+}
+
+#pie-pagina-31 {
   display: none !important;
 }
 
