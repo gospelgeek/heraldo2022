@@ -839,6 +839,14 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-22 {
+  display: none !important;
+}
+
+#pie-pagina-23 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -906,9 +914,6 @@ audio {
     }
     #btn-read-more-21 {
         left: 2em !important;
-    }
-    #content-text-21 {
-        top: 60% !important;
     }
     #content-text-23 {
         top: 43% !important;
@@ -1037,6 +1042,17 @@ audio {
     #content-text-18 {
         font-size: 1.3em !important;
     }
+    #content-text-22 {
+        font-size: 1.3em !important;
+    }
+    #btn-read-more-23 {
+        top: 84% !important;
+        left: 2% !important;
+    }
+    #content-text-21 {
+        top: 63% !important;
+        font-size: 1.2em !important;
+    }
 
 }
 
@@ -1149,6 +1165,13 @@ audio {
     }
     #box-text-content-autor-19 {
         width: 13em !important;
+    }
+    #content-text-22 {
+        font-size: 1em !important;
+    }
+    #box-principal-autor-page-23 {
+        top: 80% !important;
+        left: 20% !important;
     }
 }
 

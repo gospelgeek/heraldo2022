@@ -60,11 +60,11 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/19"
+                "url": ""
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/19"
+                "url": "https://drive.google.com/file/d/1SgkgWmOne_7JfYhe5Bay8mQBjPnei9Ri/view?usp=share_link"
             }
         ]
     },
