@@ -1573,4 +1573,58 @@ Se amontonarán maestros que conforme a sus propias rechazarán la verdad despu�
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+<p style='font-size: 2em; text-align: center;'><strong>Preparados para toda a boa obra
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Toda a escritura é divinamente inspirada e proveitosa para ensinar, para repreender, para corrigir e para instruir em justiça para que o homem de Deus seja perfeito e perfeitamente instruído para toda a boa obra”. (2 Timóteo 3:16-17).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Consideração</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>As boas obras não salvam, mas todo aquele que é salvo deve realizar boas obras. A vida crista não consiste em fazer algo que convenha e uma quantidade de coisas que não agradem a Deus. Ao ser afetado todo o ser, será afetado todo o fazer. Não pode a árvore boa dar maus frutos; nem a árvore má dar frutos bons. (Mateus 7: 18)
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Não e normal que as arvores actuem ou se comportem dessa maneira, cada uma mostrarar do que esta feito,e isso e refelectido em seus frutos. Neste sentido deve haver um equilibrio entre o que se e ,se pensa e se faz. Sem essas condições não se poderá  ser coerente.O Deus desta igreja é muito coerente e seus filhos devem sê-lo também.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Ele disse; Eu sou a luz do mundo; quem me segue não andará em  trevas …(João 8:12). E a verdade é que a sua luz iluminou-nos.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Ele disse: …Eu sou a ressurreição e a  vida …(João 11:25). E a verdade é que ressuscitou a um homem depois de estar quatro dias morto, se levantou a si mesmo da cova e levantará  a todos os que morrem em Cristo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O ambiente no qual se move a palavra de Deus.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A Palavra de Deus se move num cenário de debilidades e imperfeições humanas, onde o homem sem Deus se acostumou a viver de qualquer maneira, ou seja, se apoiou em seus próprios conceitos e opiniões.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O problema está em que o homem quer ser o arquiteto de sua  própria vida, quando  se deu conta de que se lhe perdeu o plano. É por isso que a Biblia diz: “Não sejas sábio a teus próprios  olhos…” (Provérbios 3:7).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Noutra passagem diz algo que é muito grave com respeito ao mal actuar do homem, “Dizendo-se sábios tornaram-se loucos” .(Romanos 1:22). Ao ir atrás das suas loucuras, mudaram a glória de Deus por imagens, além de encherem-se de orgulho em seus raciocínios e por isso seus insensatos corações se entenebreceram.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A palavra, aparece, então, como essa ferramenta fundamental para realizar um trabalho de perfeição. Por isso, ela é útil para…ensinar,para…repreender,para…corrigir,para…instruir em justiça, com o propósito ou a finalidade de que o homem de Deus seja perfeito e perfeitamente instruido para a toda a boa obra.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Há uma meta traçada conosco e é de apresentar a todo o homem perfeito em Cristo Jesus, por isso que o texto Bíblico diz: ”Até que todos cheguemos a unidade da fé, e ao conhecimento do Filho de Deus, a homem perfeito, a medida da estatura completa de Cristo”. (Efésios  4:13).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Poderá um pecador converter-se num santo?
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Converter um pecador em santo não é tarefa fácil, e  nem tão pouco sucede da noite para a manhã. Mas Deus através da sua Palavra,  tem a capacidade de fazê-lo e mais do que isso, tem a capacidade de sustê-lo como um testemunho do seu poder e da sua grandeza. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Não há uma palavra que proporcione tanto benefício ao homem, como a Palavra de Deus o faz  …ela…limpa, ilumina, guia, transforma e aperfeiçoa. Não o diz a igreja, não o dizem os pastores, o diz o Santo, e nós o reafirmamos, porque somos testemunhos da sua grande operação em nossas vidas.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“E o Deus de toda a graça, que em Cristo Jesus nos chamou à sua eterna glória, depois de havermos padecido um pouco, Ele mesmo vos aperfeiçoe, confirme, fortifique e estabeleça. ”(1 Pedro 5:10).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“A lei de Deus é perfeita, e refrigera a alma; O testemunho do Senhor é fiel e dá sabedoria aos símplices.” (Salmos 19:7).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Segundo o pensamento Divino revelado nestes textos, essa é a condição que necessitamos para poder estar preparados para toda a boa obra. É por isso que um bom cristão  não se concebe  sendo um mau esposo, nem mau pai, nem mau filho, nem mau trabalhador, nem mau estudante e muito menos um mau cristão; a ideia então, é que possamos mostrar a Cristo e sua obra em nós, em cada ação da nossa vida.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“E graças a Deus, que sempre nos faz triunfar em Cristo, e por meio de nós manifesta em todo o lugar a fragrância do Seu conhecimento”  .(2 Coríntios 2:14).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O que Cristo fez conosco, primeiro, ninguém o faria e ainda que quisesse não poderia fazê-lo; e segundo, foi uma obra tão perfeita que nós mesmos ficamos estupefatos diante de uma mudança tão maravilhosa. A Ele seja toda a Glória! Esta obra de perfeição tem um começo e terá um fim, e é Ele quem faz tudo. “Tendo por certo isto memso que, Aquele que em vós começou a boa obra a aperfeiçoará até   ao dia de Jesus Cristo”. (Filipenses 1:6).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hoje podemos dizer que, sim vale a pena viver para Deus, que sim é valioso contar com o Livro Sagrado que permitiu uma mudança profunda em nossas vidas, de tal forma que se vê refletido no nosso agir. Podemos viver em qualquer parte do mundo, podemos estar dentro de qualquer culltura, podemos mover em qualquer sociedade e mostrar as nossas boas obras. “Assim resplandeça  a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem a vosso Pai, que está nos céus.” (Mateus 5:16).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Deus nos colocou neste mundo como seu tesouro mais apreciado e quer que através da nossa conduta, com nosso comportamento, ou melhor  dizendo, com toda a nossa vida mostremos que isto da vida cristã não é um mero ato religioso de Cristo em nós, senão que é uma mudança operado em nossas vidas, de dentro para fora e de cima para baixo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Sigamos submergidos em sua Palavra, deixemos levar pelo rio de seus pensamentos, permitamos que o chuvisco celestial irrigue nossas vidas de tal forma que possamos ver o que vê o salmista. “Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto no seu tempo; as suas folhas não cairão, e tudo quanto fizer prosperará.” (Salmos 1:3).
+
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por: Willman Marin  Parra. Pastor IPUC</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
 */
