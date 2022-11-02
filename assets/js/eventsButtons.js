@@ -1665,4 +1665,50 @@ Se amontonarán maestros que conforme a sus propias rechazarán la verdad despu�
 <p  style='padding-top: 0.7em; font-size: 1em;'>Por Eduardo Tejada. Pastor IPUC
 </p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>COMO DIZ A ESCRITURA…HOMEM E MULHER OS CRIOU</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Porque toda a casa é edificada por alguém, mas quem edificou todas as coisas é Deus. (Hebreus 3:4).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Em certa ocasião Jesus foi confrontado acerca da relação entre o homem e a mulher. Os fariseus discutiam sobre as crenças culturais do divórcio (Mateus 19:3-9).  Jesus levou a discussão a um nível mais alto; Ele disse-lhes que necessitavam ver mais além das suas práticas culturais, sociais e as deformações provocadas pelo pecado. Nós  como eles, necessitamos entender a original e sublime intenção de Deus para com o homem e a mulher.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>E necessário entender que Deus é o início de tudo. “No princípio Deus…” Nele foi a origem de tudo, o visível e o invisível foram criados por Ele.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“E criou Deus o homem a sua imagem, a imagem de Deus o criou;  homem e mulher os criou” (Génesis 1:27).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Homem e mulher os criou; e os abençoou e chamou o seu nome Adão, no dia em que foram criados” (Génesis 5:2).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Deus escolheu o nome comum “Adão” para referir-se ao homem e a mulher. Ao eleger a palavra “Adão” como um nome comum para ambos, ressaltou assim a profunda unidade e igualdade que existe entre eles. A  mulher provem do homem e não é independente dele. Ambos existem para contar a história de Deus. O nome comum “Adão” ressalta que a história não tem a  ver com o homem ou a mulher; está assinalando ao último “Adão”, Jesus Cristo, cuja obra salvadora está dirigida a ambos de  igual forma.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A palavra Adão  provem do hebreu “Adamah” e seu significado é terra, é um termo genérico para os seres humanos, já sejam homem ou mulher. Depois da queda da humanidade, ADÃO (com maiúscula) é o nome próprio para o primeiro homem, antecipando a Jesus Cristo, quem é “o último ADÃO”, Ele veio a redimir “Adão”(humanidade) “…a fim de que Ele seja o primogénito entre muitos irmãos”(Romanos 8:29).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Homens e mulheres,  podem traçar os seus primórdios até ao pó da terra, receptores da imagem de Deus, têm a mesma honra e valor. Deus os fez portadores do seu projeto masculino e femenino. O que faz ao homem e a mulher distinguir-se sobre o resto da criação é sua igualdade em honra, valor, dignidade, personalidade, respeito mútuo, harmonia, complementaridade e destino; estes atributos foram concedidos àqueles criados a sua imagem e semelhança.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Ao ser introduzido o pecado, eles necessitavam de um Salvador. A boa notícia do evangelho é que eles estão representados pelo último ADÃO - Jesus Cristo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Os homens e mulheres redimidos constituem a igreja que Ele ama,  a noiva pela qual Ele se sacrificou, “...para a apresentar a si mesmo igreja gloriosa, sem mácula, sem ruga nem coisa semelhante, mas santo e irrepreensível .” (Efésios 5:27).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A humanidade foi criada para refletir o carater do nosso salvador. Não para ser  uma tela branca e maleável diante da corrente deste mundo. O enganador fez uso de mentiras para borrar o projeto original do homem e a mulher, conseguindo que o homem esquecesse os parâmetros Divinos destinados a refletir a relação entre o Criador e a sua criação. Deus nos fez diferentes, de igual valor e dignidade, a fim de complementar-nos um ao outro.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Ao homem o chamou a cultivar, a proteger, a obedecer a sua Palavra, a que fosse um dador e a mulher a chamou de receptora, cuidadora e ser ajuda imprescindivel. Estas qualidades se complementam no momento de formar uma família, estas características que o mundo tentou devolver as diferenças  que nos separam, são em realidade fios que unem esse cordão de três dobras com o objetivo de construir uma família sã emocionalmente, para que possa ser luz num mundo cheio de mentiras.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Desde o começo o plano da serpente foi separar o homem e a mulher, esperando que Eva estivesse só para induzi-la a provar do fruto, para em seguida induzir a Adão a levantar o dedo acusador contra a sua esposa. Essa mesma estratégia tem usado através dos séculos apoiando-se em nossas diferenças para dividir-nos, pois ele sabe que  “…Um só pode ser vencido, mas dois podem resistir” (Eclesiastes 4:12).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta grande mentira nos levou a uma guerra de gêneros  onde os homens tratam as mulheres como seres inferiores, ou vice-versa. A manipulação, a rivalidade, as palavras degradantes e um comportamento abusivo constituem um ataque a mesma imagem de Deus. “Com ela bendizemos a Deus e Pai, e com ela amaldiçoamos os homens feitos a semelhança de Deus. De uma mesma boca  procede  benção e maldição. Meus irmãos, não convém que isto se faça assim”. (Tiago 3:9-10).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>O inimigo sabe que ao borrar o projeto de Deus para a família, corrompe os propósitos de Deus para a raça humana, ”Portanto deixará o homem o seu pai e sua mãe, e apegar-se-á a sua mulher, e serão   ambos uma carne” (Genesis 2:24).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Não esqueçamos que Jesus Cristo é a imagem perfeita de Deus “Ele é a imagem do Deus invisível… ”(Colossenses 1:15). É por meio de Jesus Cristo que a imagem de Deus se pode restaurar “ …Para que fôssemos feitos conforme a imagem de seu Filho…”(Romanos 8:29). Agora em Cristo podemos refletir e manifestar a imagem de Deus. Só Ele pode responder as perguntas como estas: Quem és? Qual é o teu propósito? Por que você foi criado?
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se a resposta a estas perguntas nos leva a Deus, nossa existência faz sentido, como fieis de Deus que vivem na terra com o fim de glorificar ao seu Criador. (Isaías 43:7) diz: ”A todos os que são chamados pelo meu Nome, e os criei para minha glória: eu os formei, e também eu os fiz”. Fomos criados para refletir sua glória. “Pois pouco menor o fizeste do que os anjos, e de glória e de honra os coroaste.” (Salmos 8:5). Os homens refletem a força, o amor e a abnegação de um Deus Redentor; a mulher a sensibilidade, a graça e a beleza de uma noiva redimida e o matrimónio como pacto que une a Cristo e a sua esposa.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>No relato da criação observamos que Deus não só cria e da vida a humanidade, senão que toma o seu tempo para formar neles uma clara identidade como homem e mulher “E formou o Senhor Deus o homem do pó da terra, e soprou em suas narinas o fôlego da vida; e o homem foi feito alma vivente” (Génesis 2:7). Esta diferenca entre criar e formar também a podemos encontrar na passagem Bíblica (Isaias 43:7) que diz :”A todos os que são chamados pelo meu Nome, e os criei para minha glória: eu os formei,e também eu os fiz”.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Deus sabe que o inimigo roubou nossa identidade, por isso Ele estende sua mão com o desejo de restaurar na humanidade o projeto original, da mesma forma na que Jacó mentiroso, Deus forma e dá vida a um Israel redimido “Mas agora, assim diz o Senhor que te criou, ó Jacó, e que te formou ó Israel: não temas porque eu te remi, chamei-te pelo teu nome, tu és meu” (Isaias 43:1). Assim mesmo Deus busca restaurar na humanidade a correta identidade do homem e da mulher, a qual nos leva a entender o grande amor de Deus pelos homens.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por: Eduardo Tejada. Pastor IPUC</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
 */
