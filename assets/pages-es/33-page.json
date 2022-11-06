@@ -1,1 +1,76 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "28%",
+        "width": "100%",
+        "styleBox": "width: 85%;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-15",
+        "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p  class='first_letter_red' style='padding-top: 0.6em; font-size: 1em; font-weight: normal;'>El apóstol Pablo en la Carta a los Filipenses anima y motiva a la Iglesia a vivir una vida plena en Cristo, el utiliza algunas expresiones en el curso de la epístola, que hacen que los convertidos en Filipos sientan que ellos han encontrado la verdadera fuerza motora de todo cuanto existe; <span style='font-weight: normal; font-style: italic;'>“estando persuadido de esto, que el que comenzó en vosotros la buena </span></p> <p style='text-align: center; font-weight: normal; font-style: italic;'> obra, la perfeccionará hasta el día de Jesucristo”</p> <p style='text-align: center; font-weight: normal;'>(Filipenses 1:6).</p> <p style='padding-top: 0.6em; font-size: 0.88em; font-weight: normal;'>Lo que el apóstol quiere hacer saber con la expresión: <span style='font-size: 1em; color: #0e5b79;' id='title-27-aux'>“Él es, el que produce el querer como el hacer” </span> es, que nuestra permanencia y todo lo que tiene que ver con una vida cristiana plena en Cristo, no depende de nosotros ni es por nuestra fuerza, ni tiene alguna </p> <p style='text-align: center; font-weight: normal;'> gloria que nosotros merezcamos.</p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "78%",
+        "width": "100%",
+        "background-color": "#0d5b78",
+        "zIndex": 200, 
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-33",
+        "id_unique": "btn-read-more-33",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "30%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "zIndex": 200, 
+        "id_unique": "btn-content-icons-more-19",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/page-33-espanol.mp3"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1HcIaa3MgI6VU_4wTXSfBstrTH-RSPEom/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-23",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 100% !important; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 17.5em; align-self: end; height: 1em; margin-left: 3.1em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.8em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Rodrigo Muñoz. Pastor IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-33.png"
+        }
+    }
+]

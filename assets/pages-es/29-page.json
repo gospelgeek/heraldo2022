@@ -55,7 +55,7 @@
         "id_3": "text-content-autor-9",
         "id_4": "box-page-9-autor",
         "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
-        "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 3em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxText": "height: 1em; width: 17.5em; align-self: end; height: 1em; margin-left: 3.1em; margin-bottom: 0.5em; grid-area: area-1;",
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.7em; color: #fff;",
         "tag": "boton-author",

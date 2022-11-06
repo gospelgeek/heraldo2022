@@ -899,6 +899,14 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-32 {
+  display: none !important;
+}
+
+#pie-pagina-33 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -910,6 +918,12 @@ audio {
 
 #img-content-1-aux {
     animation: slidein 1.5s linear ;
+}
+
+#btn-read-more-33 .btn-normal-23 {
+    border-style: solid;
+    border-width: 0.15em;
+    border-color: #43a5c4;
 }
 
 /*
@@ -1145,6 +1159,12 @@ audio {
     #img-content-1 {
         top: 16% !important;
     }
+    #content-text-32 .responsive-font-content {
+        font-size: 1.3em !important;
+    }
+    #text-aux-32 {
+        font-size: 0.9em !important;
+    }
 
 }
 
@@ -1303,6 +1323,15 @@ audio {
     }
     #img-content-1 .aux-img-class {
        width: 80% !important;
+    }
+    #content-text-32 {
+        top: 65% !important;
+    }
+    #content-text-32 .responsive-font-content {
+        font-size: 1em !important;
+    }
+    #text-aux-32 {
+        font-size: 0.9em !important;
     }
 
 }

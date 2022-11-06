@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "x": "",
+        "y": "26%",
+        "style": "width: 75%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/titulo-32-1.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "58%",
+        "width": "100%",
+        "styleBox": "background-color: #0d5b78; padding: 1em; width: 70%; height: auto !important; border-radius: 2em; border-style: solid; border-width: 0.3em; border-color: #43a5c4;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-32",
+        "style": "border-radius: 0.2em; color: #fff; text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='line-height: 1.2em; text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.85em; font-style: italic; color: #fff;' id='content-text-13'> “porque Dios es el que en vosotros produce así  el querer como el hacer, por <br> su buena voluntad” <p id='text-aux-32' style='text-align: center; color:#2391c1; font-size: 1.3em;'>(Filipenses 2:13)</p></p>"
+        }
+    }
+]
