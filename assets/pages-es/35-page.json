@@ -3,31 +3,31 @@
         "x": "0",
         "y": "5%",
         "width": "100%",
-        "styleBox": " padding: 1em; width: 70%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.1em; border-color: #b41015;",
+        "styleBox": " padding: 1em; width: 79%; height: auto !important;",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='font-weight: 100; padding-top: 0.5em; font-size: 1.3em; font-style: italic; color: #b41015;'><span style='font-size: 2em;'>“E</span>n cuanto a Dios perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan”<p style=' font-size: 1.6em; font-style: italic; color: #1E1E1F; text-align: center !important; font-weight: 100 !important;'><strong>(Salmos 18:30).</strong></p></p>"
+            "text": "<p id='text-35-class-aux' class='first_letter_red' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.12em; font-style: italic; color: #495f79;'>“En cuanto a Dios perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan<span style='color: #0e5b79;'>”</span> <p style='text-align: center; color: #528097;'>(Salmos 18:30)</p></p>"
         }
     },
     {
         "x": "0",
         "y": "30%",
         "width": "100%",
-        "styleBox": "width: 72%;",
+        "styleBox": "width: 78%;",
         "background-color": "#b41015",
         "id_unique": "text-content-33",
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 0.5em; font-size: 1em;'>El salmista en esta poética expresión, cargada de verdad y perfección, manifestaba la seguridad que tenía al confiar en su Dios, pues esa Palabra se convertía en su escudo y defensa. Podrían pasar muchos años y aparecer circunstancia tras circunstancia, su fe se mantendría firme, pues estaba anclada a una Palabra intachable y perfecta, que nunca sería cuestionada ni removida ni refutada</p> <p style='padding-top: 0.5em; font-size: 1em;'>Cuando decimos que la Palabra de Dios es intachable, estamos declarando que su Palabra es limpia, perfecta, sin tacha, que no admite reproche ni censuras, que no da lugar a cuestionamientos ni dudas. </p> <p style='padding-top: 1em; font-size: 1em;'> Solo la Palabra de Dios es intachable, perfecta y limpia, <span style='color: #b41015;'>porque Él es perfecto.</span></p>"
+            "text": "<p style='line-height: 1.2em; padding-top: 0.5em; font-size: 0.9em;'>El salmista en esta poética expresión, cargada de verdad y perfección, manifestaba la seguridad que tenía al confiar en su Dios, pues esa Palabra se convertía en su escudo y defensa. Podrían pasar muchos años y aparecer circunstancia tras circunstancia, su fe se mantendría firme, pues estaba anclada a una Palabra intachable y perfecta, que nunca sería cuestionada ni removida ni refutada</p> <p style='line-height: 1.2em; padding-top: 0.5em; font-size: 0.9em;'>Cuando decimos que la Palabra de Dios es intachable, estamos declarando que su Palabra es limpia, perfecta, sin tacha, que no admite reproche ni censuras, que no da lugar a cuestionamientos ni dudas. </p> <p style='line-height: 1.2em; padding-top: 0.5em; font-size: 0.9em;'> Solo la Palabra de Dios es intachable, perfecta y limpia, <span style='line-height: 1.2em; color: #105d8b;'>porque Él es perfecto.</span></p>"
         }
     },
     {

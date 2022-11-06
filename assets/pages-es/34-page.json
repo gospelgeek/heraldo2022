@@ -14,18 +14,18 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/32"
+                "url": "./assets/audios/page-34-espanol.mp3"
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/32"
+                "url": "https://drive.google.com/file/d/1pOUNIMmo5qmTGoeDpoN2ltWMc97rnMTu/view?usp=share_link"
             }
         ]
     },
     {
         "x": "0",
         "y": "48%",
-        "style": "width: 80% !important;",
+        "style": "width: 90%;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
