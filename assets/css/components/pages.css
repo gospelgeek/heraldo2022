@@ -920,6 +920,12 @@ audio {
     animation: slidein 1.5s linear ;
 }
 
+#btn-read-more-33 .btn-normal-23 {
+    border-style: solid;
+    border-width: 0.15em;
+    border-color: #43a5c4;
+}
+
 /*
     animacion de entrada
 */
