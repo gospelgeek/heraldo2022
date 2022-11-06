@@ -1711,4 +1711,35 @@ Se amontonarán maestros que conforme a sus propias rechazarán la verdad despu�
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>ÉL ES, EL QUE PRODUCE EL QUERER COMO EL HACER</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“porque Dios es el que en vosotros produce así el querer como el hacer, por su buena voluntad” (Filipenses 2:13).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El apóstol Pablo en la Carta a los Filipenses anima y motiva a la Iglesia a vivir una vida plena en Cristo, el utiliza algunas expresiones en el curso de la epístola, que hacen que los convertidos en Filipos sientan que ellos han encontrado la verdadera fuerza motora de todo cuanto existe; “estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo” (Filipenses 1:6). Lo que el apóstol quiere hacer saber con la expresión: “Él es, el que produce el querer como el hacer” es, que nuestra permanencia y todo lo que tiene que ver con una vida cristiana plena en Cristo, no depende de nosotros ni es por nuestra fuerza, ni tiene alguna gloria que nosotros merezcamos, antes bien, como está escrito “No a nosotros, oh Jehová, no a nosotros, Sino a tu nombre da GLORIA…”  (Salmos 115:1). Jesús lo expresó claramente cuando dijo: “…separados de mí nada podéis hacer” (Juan 15:5). Hecho el análisis de lo dicho anteriormente, se puede claramente comparar con un circuito eléctrico, el cual está compuesto por los siguientes elementos que son indispensables para que funcione. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Lo primero que encontramos en este orden es un generador, ese es Jesús, según Pablo. Él es el que produce, genera en nosotros, el “querer como el hacer” a través de un hilo conductor llamado Espíritu Santo,  es  Este el que nos mueve, Juan 16:13; nos guía, Romanos 8:14; nos enseña, Juan 14:26; El que intercede; El que gime, Romanos 8:26; El que nos perfecciona, Filipenses 1:6 y el que al final de la jornada nos transformará en un instante, en un abrir y cerrar de ojos, a la final trompeta; Filipenses 3:21.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Posteriormente encontraremos en este circuito maravilloso el interruptor, que no es otra cosa que la perfecta voluntad de Dios, ella nos santifica, 1 Tesalonicenses 4:3. La voluntad de Dios es agradable y perfecta, Romanos 12:2; y por último  encontraremos el objetivo de este gran proceso, Dios quiere  que cada uno de sus hijos  alumbre por ese poder, esa maravillosa gracia que el Señor Jesús imparte por medio de su Espíritu Santo, llenando e impartiendo dones preciosos por su perfecta voluntad, Mateo 5:16; esto implica permanencia en El Señor Jesús, Juan 15:5. Recordemos lo que dice Jesús; “Separados de mi nada podéis hacer” Juan en el capítulo 15, en los primeros diez versículos describe lo que Jesús claramente habló acerca de la dependencia y permanencia, que el creyente (el pámpano) debe tener de la raíz.  </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>1. El pámpano que no lleva fruto lo quita, Juan 15:1, esto implica que estando en Cristo “el querer como el hacer” se cumple, no es posible una vida sin fruto si permanece en Cristo, el salmista lo dijo más claro aún: “Será como árbol plantado junto a corrientes de aguas, Que da su fruto en su tiempo, Y su hoja no cae; Y todo lo que hace, prosperará” (Salmos 1:3).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>2. El pámpano que sí lleva fruto, lo limpia para que lleve más fruto, Juan 15:1; es claro que es Él, quien produce (nos limpia) para que el hacer sea una realidad. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>3. ¿Cómo se logra? Teniendo dependencia y permanecía. “Yo soy la vid, vosotros los pámpanos; el que PERMANECE en mí, y yo en él, éste lleva mucho fruto; porque separados (dependencia) de mí nada podéis hacer” (Juan 15:5). Entender esto es supremamente importante, no hay nada que el hombre pueda hacer, que le agrade a Dios separado de Él, nada es nada; es indispensable estar en Jesús, el apóstol Pablo constantemente refuerza la idea con la expresión en Cristo, “Más por él estáis vosotros en Cristo Jesús…” (1 Corintios 1:30). “…nos bendijo con toda bendición espiritual en los lugares celestiales en Cristo” (Efesios 1:3). “…creados en Cristo Jesús para buenas obras...” (Efesios 2:10). “De modo que si alguno está en Cristo...” (2 Corintios 5:17). Son muchas más las veces que el apóstol usa esta expresión, para hacer saber que estar en Cristo es la verdadera clave de una vida de éxito.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>4. No permanecer y no depender de Jesús, es seguro fracaso “El que en mí no permanece, será echado fuera como pámpano, y se secará; y los recogen, y los echan en el fuego, y arden” (Juan 15:6). Que deliciosa es la Palabra de Dios, entendida y aplicada a nuestras vidas, bien dijo el Señor: “El espíritu es el que da vida; la carne para nada aprovecha; las palabras que yo os he hablado son espíritu y SON VIDA” (Juan 6:63).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>5. La verdad absoluta, “… Dios es el que en vosotros produce así el querer como el hacer…”  (Filipenses 2:13). Juan ahora nos revela la clave del éxito en palabras de Jesús: “Si permanecéis en mí, y mis palabras permanecen en vosotros, pedid todo lo que queréis, y os será hecho. En esto es glorificado mi Padre, en que llevéis mucho fruto, y seáis así mis discípulos” (Juan 15:7-8). 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>¿Qué se puede concluir entonces de lo dicho por el apóstol Pablo cuando dijo: “Él es el que produce el querer como el hacer”? Que nada es nuestro, que todo es de Dios, Él es la fuente de toda gracia, bien lo ratificó el apóstol al decir: “Por medio de él, Dios creó todo lo que hay en el cielo y en la tierra, lo que puede verse y lo que no se puede ver, y también los espíritus poderosos que tienen dominio y autoridad. En pocas palabras: Dios creó todo por medio de Cristo y para Cristo” (Colosenses 1:16 TLA).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Rodrigo Muñoz. Pastor IPUC
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
 */

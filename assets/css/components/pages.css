@@ -834,6 +834,11 @@ audio {
     height: 90% !important;
 }
 
+#background-page-35 {
+    height: 80% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
 
 #pie-pagina-7 {
   display: none !important;
@@ -907,6 +912,10 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-35 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -920,10 +929,14 @@ audio {
     animation: slidein 1.5s linear ;
 }
 
-#btn-read-more-33 .btn-normal-23 {
+#btn-read-more-33new .btn-normal-23 {
     border-style: solid;
     border-width: 0.15em;
     border-color: #43a5c4;
+}
+
+#text-35-class-aux::first-letter {
+   font-style: italic !important;
 }
 
 /*
