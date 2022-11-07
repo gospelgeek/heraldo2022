@@ -10,5 +10,36 @@
         "data": {
             "src": "./assets/pics/icons/titulo-38.png"
         }
+    },
+    {
+        "x": "0",
+        "y": "40%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 50%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-38",
+        "style": "font-weight: normal; font-family: 'Montserrat';",
+        "text": "",
+        "data": {
+            "text": "<p id='text-content-38-aux' style='line-height: 1em; text-align: center; font-weight: 900; padding-top: 0.5em; font-size: 1.2em; color: #45424a;'>Pastores con <span style='color: #4662c7;'>55</span> años o <br> más de trayectoria. </p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "50%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 60%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-2-38",
+        "data": {
+            "text": "<p id='text-content-2-38-aux' class='first_letter_red aux_blue_2' style='text-align: center; font-weight: 400; padding-top: 0.5em; font-size: 1em; color: 1E1E1F;'>“Y cuando aparezca el Principe de los pastores, vosotros recibiereis la corona incorruptible de gloria”. <span style='color: #396cc8;'>(1 Pedro 5:4)</span></p>"
+        }
     }
 ]

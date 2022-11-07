@@ -731,6 +731,11 @@ audio {
     color: #2d3a7d;
 }
 
+.first_letter_red.aux_blue_2::first-letter {
+    color: #3461c7;
+    font-size: 1.6em;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -1198,6 +1203,21 @@ audio {
     #text-aux-32 {
         font-size: 0.9em !important;
     }
+    #img-content_36 {
+        top: 0% !important;
+    }
+    #content-text-38 {
+        top: 37% !important;
+    }
+    #text-content-38-aux {
+        font-size: 1.5em !important;
+    }
+    #content-text-2-38 {
+        top: 45% !important;
+    }
+    #text-content-2-38-aux {
+        font-size: 1.5em !important;
+    }
 
 }
 
@@ -1367,7 +1387,19 @@ audio {
         font-size: 0.9em !important;
     }
     #img-content_36 {
-        top: 4% !important;
+        top: 0% !important;
+    }
+    #content-text-38 {
+        top: 45% !important;
+    }
+    #text-content-38-aux {
+        font-size: 1.5em !important;
+    }
+    #content-text-2-38 {
+        top: 55% !important;
+    }
+    #text-content-2-38-aux {
+        font-size: 1.5em !important;
     }
 
 }
