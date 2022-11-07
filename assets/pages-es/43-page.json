@@ -1,1 +1,95 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "2%",
+        "width": "100%",
+        "styleBox": "width: 80%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-19",
+        "style": "color: #194d10; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='text-align: center; padding-top: 1em; font-size: 1.2em; font-style: italic;'>Alcance obras misioneras nacionales Año 2022 (Estratos altos)</p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "13%",
+        "style": "width: 87%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/grafico-43.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "35%",
+        "width": "100%",
+        "styleBox": "width: 80%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-19",
+        "style": "color: #194d10; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='text-align: center; padding-top: 1em; font-size: 1.3em; font-style: italic;'>Métodos y evangelismo</p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "43%",
+        "width": "100%",
+        "styleBox": "width: 83%;",
+        "background-color": "#b41015",
+        "id_unique": "text-content-37",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; color: rgb(107 104 104); font-family: 'Montserrat', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='first_letter_red aux_green' style=' font-weight: 500;  line-height: 1em; padding-top: 1em; font-size: 0.8em;'>Se trabajó con diferentes métodos de evangelismo en forma presencial y virtual <ul style='padding-inline-start: 0.4em; color: 1E1E1F;  font-weight: 400; font-size: 0.75em; list-style: none;'><li>-Atención a distritos y congregaciones, de forma presencial y virtual.</li><li>-Asesorías realizadas a diferentes distritos por los coordinadores distritales</li><li>-Conferencia presencial en el campamento de Melgar (Tolima) – con los treinta y cinco distritos, y sus coordinadores distritales. </li><li>-Capacitación estratégica en la implementación de Refam digital.</li><li>-Articulación Refam digital con Refam en vivo. </li><li>-Creación del Linkr.bio. - con veintisiete distritos, equivalente al 77% de cobertura</li></ul></p>"
+        }
+    },
+    {
+        "x": "4.5%",
+        "y": "82%",
+        "width": "30%",
+        "background-color": "#798532",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-43",
+        "id_unique": "btn-read-more-43",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-15",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 98% !important; height: 98% !important; border-radius: 40%;",
+        "styleBoxText": "height: 1em; width: 21em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Fernando López Pimiento. Director Misiones Nacionales IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-43.png"
+        }
+    }
+]

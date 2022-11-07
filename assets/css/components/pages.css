@@ -736,6 +736,10 @@ audio {
     font-size: 1.6em;
 }
 
+.first_letter_red.aux_green::first-letter {
+    color: #798532;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -857,6 +861,18 @@ audio {
     bottom: 0 ;
 }
 
+#background-page-42 {
+    height: 68% !important;
+    position: absolute !important;
+    top: 0 ;
+}
+
+#background-page-43 {
+    height: 40% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
 #pie-pagina-7 {
   display: none !important;
 }
@@ -938,6 +954,13 @@ audio {
 }
 
 #pie-pagina-37 {
+  display: none !important;
+}
+
+#pie-pagina-42 {
+  display: none !important;
+}
+#pie-pagina-43 {
   display: none !important;
 }
 
