@@ -1742,4 +1742,45 @@ Se amontonarán maestros que conforme a sus propias rechazarán la verdad despu�
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+<p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… LA PALABRA PROFÉTICA MÁS SEGURA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>'Seguid el amor; y procurad los dones espirituales, pero sobre todo que profeticéis. Porque el que habla en lenguas no habla a los hombres, sino a Dios; pues nadie le entiende, aunque por el Espíritu habla misterios. Pero el que profetiza habla a los hombres para edificación, exhortación y consolación' (1 Corintios 14:1-3).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Cuando hablamos de profecía, de una vez pensamos en los profetas del Antiguo Testamento, hombres que de una forma eventual y espontánea, eran tomados por el  Espíritu de Dios que venía sobre ellos y los tomaba mostrándoles una visión o hablándoles de una forma clara y audible, dándoles un mensaje para el pueblo de Israel, o para el rey o alguien en particular; hombres siervos de Dios que cuando hablaban iban acompañados de actos sobrenaturales, tal como Moisés frente al Faraón o Elias frente a los baales, o Elíseo con Naaman, también eran hombres que debían soportar persecuciones e incluso  pagar un precio aun con su propia vida, como fue el caso de Isaías y muchos más.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El ministerio profético en el Antiguo Testamento no era permanente, venía de forma eventual, no podemos confundir la profecía del Antiguo Testamento con la del Nuevo Testamento. Como en el caso Isaías frente el rey Uzías, cuando escuchó su ruego y vio sus lágrimas, 'Entonces vino palabra de Jehová a Isaías, diciendo: Ve y di a Ezequías: Jehová Dios de David tu padre dice así: He oído tu oración, y visto tus lágrimas; he aquí que yo añado a tus días quince años' (Isaías 38:4-5).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Falsas concepciones acerca de la profecía:</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Algunos han creído que la profecía es de uso particular, otros dicen ser profetas porque predicen el futuro con detalles que convencen, otros cobran por su servicio espiritual pues se han atribuido la profecía como un don exclusivo para ellos; se proclaman y auto proclaman como profetas del milenio con un mensaje contemporáneo, cometiendo graves errores, por lo cual es necesario aclarar lo siguiente: </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El Espíritu Santo no vino para adivinar a nadie. 
+La profecía no es para avergonzar a alguien, sacando a la luz lo que está oculto en el corazón del hombre.
+El don de profecía jamás es irrespetuoso con los demás, no va contra la dignidad de la persona.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Nada de eso es la profecía, nosotros creemos en la profecía como dice la Escritura, 1 (Corintios 14: 3). Nos muestra claramente el propósito de la profecía. “Pero el que profetiza habla a los hombres para edificación, exhortación y consolación'.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La profecía, como dice la Escritura tiene tres propósitos:
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'> Edificar
+2. Consolar
+3. Exhortar 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>1. Edificar: Por eso la profecía fue dada, ligada al ministerio de la doctrina apostólica, para edificarnos como el cuerpo de Cristo en la unidad de la fe y del conocimiento de Cristo, 'Y él mismo constituyó a unos, apóstoles; a otros, profetas; a otros, evangelistas; a otros, pastores y maestros, a fin de perfeccionar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo, hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo; para que ya no seamos niños fluctuantes, llevados por doquiera de todo viento de doctrina, por estratagema de hombres que para engañar emplean con astucia las artimañas del error' (Efesios 4: 11-14).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Consolar: La Palabra de Dios nos habla de la profecía como don del Espíritu Santo, con el propósito de fortalecer a través de la predicación de la Palabra para consolar y fortalecer nuestra vida cristiana, en los momentos difíciles que pasamos, teniendo firme y viva la esperanza a través de la Palabra profética.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>'Al otro día, saliendo Pablo y los que con él estábamos, fuimos a Cesarea; y entrando en casa de Felipe el evangelista, que era uno de los siete, posamos con él. Este tenía cuatro hijas doncellas que profetizaban. Y permaneciendo nosotros allí algunos días, descendió de Judea un profeta llamado Agabo, quien viniendo a vernos, tomó el cinto de Pablo, y atándose los pies y las manos, dijo: Esto dice el Espíritu Santo: Así atarán los judíos en Jerusalén al varón de quien es este cinto, y le entregarán en manos de los gentiles. Al oír esto, le rogamos nosotros y los de aquel lugar, que no subiese a Jerusalén. Entonces Pablo respondió: ¿Qué hacéis llorando y quebrantándome el corazón? Porque yo estoy dispuesto no sólo a ser atado, mas aun a morir en Jerusalén por el nombre del Señor Jesús. Y como no le pudimos persuadir, desistimos, diciendo: Hágase la voluntad del Señor' (Hechos 21:8-14).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El apóstol Pablo, aunque recibió la palabra donde iba a sufrir por causa de la predicación de la Palabra, él se encontraba firme, pues el Espíritu ya le había consolado y fortalecido para soportar lo que fuese necesario con tal de cumplir el propósito de Dios en su vida.
+'De manera que, teniendo diferentes dones, según la gracia que nos es dada, si el de profecía, úsese conforme a la medida de la fe' (Romanos 12:6).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Exhortar: Una de las funciones más hermosas de la Palabra de Dios es la de exhortarnos, motivarnos, animarnos a través de la palabra profética más segura, que nos afirma en la luz de su verdad; predicada por hombres inspirados por el Espíritu Santo con la finalidad de darnos confianza en Él.
+
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>'Tenemos también la palabra profética más segura, a la cual hacéis bien en estar atentos como a una antorcha que alumbra en lugar oscuro, hasta que el día esclarezca y el lucero de la mañana salga en vuestros corazones; entendiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada, porque nunca la profecía fue traída por voluntad humana, sino que los santos hombres de Dios hablaron siendo inspirados por el Espíritu Santo' (2 Pedro 1:19-21).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por Miguel Ángel Lozano. Pastor IPUC
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
 */
