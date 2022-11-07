@@ -840,6 +840,18 @@ audio {
     bottom: 0 ;
 }
 
+#background-page-36 {
+    height: 68% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
+#background-page-37 {
+    height: 68% !important;
+    position: absolute !important;
+    bottom: 0 ;
+}
+
 #pie-pagina-7 {
   display: none !important;
 }
@@ -913,6 +925,14 @@ audio {
 }
 
 #pie-pagina-35 {
+  display: none !important;
+}
+
+#pie-pagina-36 {
+  display: none !important;
+}
+
+#pie-pagina-37 {
   display: none !important;
 }
 
@@ -1345,6 +1365,9 @@ audio {
     }
     #text-aux-32 {
         font-size: 0.9em !important;
+    }
+    #img-content_36 {
+        top: 4% !important;
     }
 
 }
