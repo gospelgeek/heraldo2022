@@ -67,6 +67,7 @@
         "font-size": "1.2em",
         "tag": "btn-normal",
         "id": "btn-espana-43",
+        "zIndex": 200,
         "id_unique": "btn-read-more-43",
         "text": "",
         "data": {
