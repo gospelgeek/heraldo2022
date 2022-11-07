@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "10%",
+        "style": "width: 85%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_36",
+        "data": {
+            "src": "./assets/pics/icons/titulo-36.png"
+        }
+    },
+    {
+        "x": "3%",
+        "y": "86%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/page-34-espanol.mp3"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1peXN9KP6lXYQ4ByDUyluGI7aoLtY1ZK9/view?usp=share_link"
+            }
+        ]
+    }
+    
+]
