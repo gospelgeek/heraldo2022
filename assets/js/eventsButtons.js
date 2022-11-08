@@ -1783,4 +1783,88 @@ El don de profecía jamás es irrespetuoso con los demás, no va contra la digni
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>CAPACITACIÓN MISIONERA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento evangelístico
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Cada misionero ha realizado campañas, trabajo evangelístico y Refam tanto virtual como presencial; además han realizado ayunos, vigilias, devocionales y programas espirituales, que fortalezcan la visión del misionero y su familia.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento espiritual
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se han tenido enseñanzas con invitados, de acuerdo a la necesidad en las reuniones con los misioneros y esposas, como también se han tenido enseñanzas con invitados de acuerdo a la necesidad de los hijos de misioneros.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento formativo
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Capacitación y orientación al misionero, generando y brindando herramientas, por medio de seminarios y talleres de formación, con diversas temáticas de forma integral.  
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento social</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Fortalecemos la obra social como mecanismo de participación en la obra misionera, mediante jornadas socio-evangelísticas. Realizando visitas a varios misioneros y sus familias por parte del Director Nacional, coordinador y su esposa, dando apoyo y fortaleza; y se enseñó a las iglesias. Hubo felicitaciones a misioneros y esposas, a través de los grupos por motivo de cumpleaños entre otros. Los misioneros nacionales realizaron actividades participativas en el campamento de Melgar, realizaron la dinámica del amigo secreto con entrega de detalles unos a otros. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento administrativo
+</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Asesoramos a los misioneros dando técnicas de administración ministerial, logrando la consolidación y estructuración de proyectos e ideas mediante conferencias. Las esposas de los misioneros se reunieron en la Asamblea de Pastores en Medellín para recibir formación, y se publicaron artículos formativos por parte de ellas en la revista digital de Misiones Nacionales.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>De las familias misioneras nacionales se han escogido dos, para el campo misionero internacional: Edilberto Díaz y familia (Misionero en Duitama, Boyacá, Distrito 14) para Cabo Verde; y Rafael Gómez y familia (Misionero en San Andrés Islas, Distrito 8) para Trinidad y Tobago.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+<p style='font-size: 2em; text-align: center;'><strong>EDUCACIÓN CRISTIANA: Innovación y transformación con proyección eterna</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+“…a quien anunciamos, amonestando a todo hombre, y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre” 
+(Colosenses 1:28).
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La Fundación Educación Cristiana Pentecostal FECP se ha venido desarrollando de forma escalada de acuerdo a las mismas necesidades que ha presentado la Iglesia. En este sentido, cada área aporta a la formación del creyente desde diferentes ámbitos de su desarrollo integral y en cada una de los grupos que atiende. Adicionalmente, ha encontrado en la sinergia y el desarrollo de los proyectos institucionales, la posibilidad de unir esfuerzos y optimizar recursos para alcanzar mayores y mejores resultados.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por su parte, Escuela Dominical, desarrolla planes y programas que favorecen el desarrollo espiritual de forma integral en los niños y padres de familia, y en la formación teológica y ministerial de los maestros. Entre sus programas más relevantes durante el 2022 se encuentra:
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>“Bibliolandia 3”, que promueve las enseñanzas de las doctrinas fundamentales en un modelo lúdico-pedagógico inmersivo. Cuenta con dos cartillas, coro lema, coro de lecciones, videos tutoriales del uso del kit y manualidades; del cual se han distribuido doce mil ejemplares. Además, el proyecto musical “Verdaderos adoradores del gran Rey”, que acompañó la parte musical de Bibliolandia y la puesta a disposición de la cartilla para maestros de adolescentes, “Mi gran reto, permanecer en tu Palabra”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Gracias a Dios se ha llevado a cabo, la celebración de los días institucionales del niño en abril 30. “Jesús el motivo de mi adoración”; del maestro, el 15 de mayo “Un maestro que conoce, vive y enseña la Palabra de Dios”; y del adolescente en junio 18 “Firmes en tu Palabra”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Otro programa de gran valor ha sido “El acompañamiento bíblico y pedagógico en zonas vulnerables”, desarrollado en los departamentos del Amazonas y Chocó, en febrero y marzo respectivamente. Allí se tuvo la oportunidad de visitar varios corregimientos y barrios, llevando enseñanzas bíblicas a niños, atención con meriendas, entrega de kits bíblicos, enseñanzas a maestros y padres de familia.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Adicionalmente, se ha realizado acompañamiento a los distritos 32 y 9 en sus congresos, y se ha asesorado a todo el país en el desarrollo de la “ESFOMED” (Escuela de Formación a Maestros) y certificando a sesenta y un estudiantes. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A Escuela Dominical le apoya significativamente el área de Recursos Educativos y Tecnología (RET), proveyéndoles materiales didácticos y desarrollos tecnológicos que han mejorado el aprendizaje; por ejemplo, diseño de aulas virtuales, juegos tanto en físico como digitales, cartillas, manuales y materiales de aprendizaje experiencial que apoya el proceso lúdico de aprender la Palabra de Dios.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Adicionalmente, Recursos Educativos y Tecnología (RET) desarrolló durante este primer semestre los “Encuentros regionales de líderes de recursos educativos y de tecnología”, en las ciudades de Santa Marta, Medellín, Bogotá y Popayán; con el objetivo de capacitar a los líderes distritales en herramientas tecnológicas educativas, StoryTelling, influencers en la educación y en la implementación de la tecnología como herramienta para fortalecer el proceso educativo en los distritos. A nivel interno RET (Recursos Educativos y Tecnología) ha asesorado a seis distritos en los procesos tecnológicos que vienen adelantando.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En este aspecto es importante mencionar, que la FECP en sus procesos de innovación ha venido desarrollando un proyecto de “Transformación digital”, según el direccionamiento estratégico a 2025 con sentido eclesial y educativo, orientado a mejorar los procesos de atención a todos los usuarios de los servicios educativos: Pastores, líderes, maestros, profesionales, músicos, entre otros. Esto ha incluido el desarrollo del Software “SI_FECP” para consolidar la información de las áreas de música, Educación Teológica (IBP), educación secular y ESFOM, en un solo sistema de información, de manera que se pueda gestionar la  solicitud de licencias para músicos de la IPUC, consolidar la información académica de todos los institutos bíblicos del país, conocer la información de todos los profesionales que hay en la IPUC, consolidar el módulo de registros de notas de todos los pastores y esposas, de la escuela de formación ministerial y desarrollar una aplicación móvil que permita la administración del sistema de información SI-FECP. 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Esta articulación se logra gracias al interés de elaborar productos de alta calidad pedagógica y técnica, en contenido y diseño, aportando a otras áreas de la IPUC si lo requieren.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El área de Educación Teológica hace parte fundamental de este proceso educativo integral, pues a través de esta se vienen cimentando las bases del conocimiento doctrinal que se extiende a las demás áreas. Su labor se ha desarrollado a través de las asesorías pedagógicas y administrativas a los IBP de cada distrito, la ejecución del programa “Educando con calidad” en tres distritos y la participación en seminarios teológicos. A la fecha se han entregado ciento cincuenta y ocho Diplomas de IBP, cuarenta y tres carnets de idoneidad docente, cuarenta diplomas de “Educando con calidad 1” y cinco diplomas de “Educando con calidad 2”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>De igual manera, el IBP Virtual realizó el tercer seminario de educación virtual con más de noventa docentes y aspirantes. Actualmente tenemos un promedio de quinientos treinta estudiantes activos y de doscientos doce mensuales en catorce países, tres grupos en teología básica de misiones extranjeras (Guatemala, Chile y España) y dos grupos en estudios pastorales en convenio con la Universidad Bautista.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El área de Educación Secular- Investigación y Desarrollo- por su parte, viene diseñando programas y materiales educativos para estimular el avance académico de los creyentes y su crecimiento integral.  Un ejemplo de esto es el programa “Tu llave al éxito” solicitado por dos distritos, que orienta a los adolescentes de la congregación en la construcción de su proyecto de vida, y el programa “Siervo saludable, módulo II” que brinda conocimiento en la salud auditiva y vocal de los pastores, solicitado en cinco distritos.  De igual manera, el proyecto “Biblio lectores” con el objetivo de identificar el nivel de lectura de la Palabra de Dios y mejorar la comprensión. En este mismo sentido, se han venido ejecutando talleres para el desarrollo de competencias en ofimática, desarrollo de proyectos, redacción de textos, emprendimiento y tecnología, y módulos de gramática y administración eclesial, los cuales se han puesto en marcha a través de la escuela que lleva este mismo nombre, y que ha sido de gran bendición para los siete distritos que han solicitado asesoría.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Es importante mencionar el gran aporte que viene haciendo el área de Ed. Secular (I&D) en la asesoría a iniciativas en los distritos para el desarrollo de competencias eclesiales, administrativas, investigativas, académicas y en general, para el avance de la educación cristiana en el país.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Por su parte, el área de Música realiza una importante labor en todo el país, acompañando los diferentes eventos y programas que en materia de formación musical y alabanza se realiza en los distritos. De igual manera, ha contribuido en la implementación de la ESCAM- Escuela de formación para músicos- activa en treinta y tres distritos. Durante el primer semestre de 2022 se certificaron cuatrocientos setenta músicos en todo el país. Esto ha traído como consecuencia la necesidad de agilizar el licenciamiento de los niveles distrital y nacional, desarrollando un proceso de digitalización de licencias y certificados ESCAM, y que cuente con aplicación para celulares que permite realizar consultas de los músicos por parte del pastorado. A la fecha se han entregado seiscientas treinta licencias y quedan setenta y dos pendientes para su revisión.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En otros proyectos, Música Nacional viene promoviendo el conocimiento de nuestro Himnario Manantial de Inspiración, mediante el Gran Concierto Manantial, realizado el mes de mayo con quince canciones y una gran aceptación entre el pueblo cristiano. De igual manera, realizó la producción del coro lema de Bibliolandia 3, y trabaja en nuevas composiciones temáticas para entregar a la Iglesia del Señor un cántico nuevo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En cuanto al área de Artística, los programas de formación y materiales se han orientado hacia el fortalecimiento de los comités distritales, al desarrollo de escuelas de arte y a la construcción  del 2° módulo de arte escénico, el 1° de Arte Audiovisual y la Cartilla de Manualidades tomo 1 y 2. En cuanto a los eventos, el área de Artística fue invitada a participar en el segundo taller nacional de artística en España, con el tema 'Descubriendo mi talento' y en sus actividades de promoción llevó a cabo el Día Nacional del Arte Cristiano” en la congregación central de Tunja.  Actualmente se están llevando a cabo los concursos de guiones de teatro y poesía con treinta y seis participantes de varios distritos, y el concurso de cortometrajes abierto al público en general de la Iglesia 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Finalmente, se llevó a cabo la Escuela de Formación Ministerial ESFOM en los treinta y cuadro distritos y con la participación del 98% del pastorado, con el módulo La obra del Espíritu Santo. Esta escuela de formación es dirigida por el Consistorio de Ancianos y apoyada por la FECP en sus aspectos logísticos y pedagógicos, haciendo uso de las herramientas tecnológicas para optimizar los recursos.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>A nivel administrativo, la FECP apoya toda la gestión educativa a través de la ejecución de sus procesos de difusión, distribución y en el cumplimiento de los requerimientos que establece la legislación colombiana. Se cuenta con ocho empleados de planta y se han mejorado notablemente los procesos de digitalización avanzando hacia la transformación digital, la estructuración de sus procesos y la formación de competencias hacia el Liderazgo 4.0.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En la FECP queremos facilitar el cumplimiento de la misión de la Iglesia, a través de una educación cristiana transformadora con esfuerzos en innovación y transformación digital, respondiendo con calidad y agilidad, a los propósitos eclesiales de toda la Iglesia en Colombia y en el extranjero.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Todo este trabajo se ejecuta “a fin de perfeccionar a los santos para la obra del ministerio, para la edificación del cuerpo de Cristo,  hasta que todos lleguemos a la unidad de la fe y del conocimiento del Hijo de Dios, a un varón perfecto, a la medida de la estatura de la plenitud de Cristo; (Efesios 4:12-13) … “a quien anunciamos, amonestando a todo hombre, y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre” (Colosenses 1:28).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
 */
