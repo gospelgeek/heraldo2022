@@ -1,1 +1,69 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "0%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 85%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-title-45",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p class='first_letter_red aux_aqua' style='line-height: 1.2em; font-weight: 300; padding-top: 0.5em; font-size: 0.9em; color: rgb(107 104 104);'>La Fundación Educación Cristiana Pentecostal FECP se ha venido desarrollando de forma escalada de acuerdo a las mismas necesidades que ha presentado la Iglesia. En este sentido, cada área aporta a la formación del creyente desde diferentes ámbitos de su desarrollo integral y en cada una de los grupos que atiende. Adicionalmente, ha encontrado en la sinergia y el desarrollo de los proyectos institucionales, la posibilidad de unir esfue</p> <p style='line-height: 1.2em; font-weight: 300; padding-top: 0.5em; font-size: 0.9em; color: rgb(107 104 104);'>Por su parte, Escuela Dominical, desarrolla planes y programas que favorecen el desarrollo espiritual de forma integral en los niños y padres de familia, y en la formación teológica y ministerial de los maestros. Entre sus programas más relevantes durante el 2022 se encuentra:</p> <p style='line-height: 1.2em; font-weight: 300; padding-top: 0.5em; font-size: 0.9em; color: rgb(107 104 104);'><span style='color: #12ccff; font-weight: normal;'>“Bibliolandia 3”,</span> que promueve las enseñanzas de las doctrinas fundamentales en un modelo lúdico-pedagógico inmersivo. Cuenta con dos cartillas, coro lema, coro de lecciones, videos tutoriales del uso del kit y manualidades; del cual se han distribuido doce mil ejemplares. Además, el proyecto musical “Verdaderos adoradores del gran Rey”, que acompañó la parte musical de Bibliolandia y la puesta a disposición de la cartilla para maestros de adolescentes, “Mi gran reto, permanecer en tu Palabra”.</p>"
+        }
+    },
+    {
+        "x": "2.6%",
+        "y": "64%",
+        "width": "30%",
+        "background-color": "#005092",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-45",
+        "zIndex": 200,
+        "id_unique": "btn-read-more-45",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "27%",
+        "y": "63%",
+        "style": "width: 60%;",
+        "zIndex": "1",
+        "width": "80%",
+        "tag": "img-content",
+        "id_unique": "img-content-aux-new-45",
+        "data": {
+            "src": "./assets/pics/icons/44-aux-content.png"
+        }
+    },
+    {
+        "x": "8%",
+        "y": "78%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-7",
+        "id_2": "box-text-content-autor-45",
+        "id_3": "text-content-autor-45",
+        "id_4": "box-page-7-autor",
+        "styleImg": "width: 96%; height: 96%; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 21em; align-self: end; margin-left: -13em; margin-bottom: 1em; grid-area: area-2;",
+        "styleBoxImg": "grid-area: area-1;",
+        "styleTextAutor": "padding-left: 7.5em; font-size: 0.6em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Angelmiro Camacho Isaza. Director General FECP",
+        "data": {
+            "src": "./assets/pics/icons/autor-44.png"
+        }
+    },
+    {
+        "_id": "text-read-more",
+        "text": "<p style='font-size: 2em; text-align: center;'><strong>CAPACITACIÓN MISIONERA</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento evangelístico </strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Cada misionero ha realizado campañas, trabajo evangelístico y Refam tanto virtual como presencial; además han realizado ayunos, vigilias, devocionales y programas espirituales, que fortalezcan la visión del misionero y su familia.</p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento espiritual </strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Se han tenido enseñanzas con invitados, de acuerdo a la necesidad en las reuniones con los misioneros y esposas, como también se han tenido enseñanzas con invitados de acuerdo a la necesidad de los hijos de misioneros.</p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento formativo </strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Capacitación y orientación al misionero, generando y brindando herramientas, por medio de seminarios y talleres de formación, con diversas temáticas de forma integral. </p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento social</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Fortalecemos la obra social como mecanismo de participación en la obra misionera, mediante jornadas socio-evangelísticas. Realizando visitas a varios misioneros y sus familias por parte del Director Nacional, coordinador y su esposa, dando apoyo y fortaleza; y se enseñó a las iglesias. Hubo felicitaciones a misioneros y esposas, a través de los grupos por motivo de cumpleaños entre otros. Los misioneros nacionales realizaron actividades participativas en el campamento de Melgar, realizaron la dinámica del amigo secreto con entrega de detalles unos a otros. </p> <p style='padding-top: 0.7em; font-size: 1em;'><strong>Objetivo segmento administrativo </strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Asesoramos a los misioneros dando técnicas de administración ministerial, logrando la consolidación y estructuración de proyectos e ideas mediante conferencias. Las esposas de los misioneros se reunieron en la Asamblea de Pastores en Medellín para recibir formación, y se publicaron artículos formativos por parte de ellas en la revista digital de Misiones Nacionales.</p> <p style='padding-top: 0.7em; font-size: 1em;'>De las familias misioneras nacionales se han escogido dos, para el campo misionero internacional: Edilberto Díaz y familia (Misionero en Duitama, Boyacá, Distrito 14) para Cabo Verde; y Rafael Gómez y familia (Misionero en San Andrés Islas, Distrito 8) para Trinidad y Tobago.</p> "
+    }
+]

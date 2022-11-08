@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "38%",
+        "style": "width: 75%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_44",
+        "data": {
+            "src": "./assets/pics/icons/titulo-44.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "61%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 65%; height: auto !important; border-style: solid; border-width: 0.15em; border-color: #414a7c;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; color: #1E1E1F; text-align: justify; font-family: 'Montserrat', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='color: #045092; font-weight: 1000; text-align: center; font-size: 1.2em;'>Innovación y <br> transformación con <br>proyección eterna</p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "77%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 84%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<p id='text-aux-44-new' style='text-align: center; font-weight: 300; padding-top: 0.5em; font-size: 1em; font-style: italic; color: rgb(107 104 104);'>“…a quien anunciamos, amonestando a todo hombre, y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre” <br><span style='color: #43cfff;'>(Colosenses 1:28).</span></p>"
+        }
+    }
+]

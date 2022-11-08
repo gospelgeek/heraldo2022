@@ -740,6 +740,10 @@ audio {
     color: #798532;
 }
 
+.first_letter_red.aux_aqua::first-letter {
+    color: #12ccff;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -873,6 +877,12 @@ audio {
     bottom: 0 ;
 }
 
+#background-page-44 {
+    height: 55% !important;
+    position: absolute !important;
+    top: 0 ;
+}
+
 #pie-pagina-7 {
   display: none !important;
 }
@@ -960,7 +970,16 @@ audio {
 #pie-pagina-42 {
   display: none !important;
 }
+
 #pie-pagina-43 {
+  display: none !important;
+}
+
+#pie-pagina-44 {
+  display: none !important;
+}
+
+#pie-pagina-45 {
   display: none !important;
 }
 
@@ -1241,6 +1260,34 @@ audio {
     #text-content-2-38-aux {
         font-size: 1.5em !important;
     }
+    #img-content_44 {
+        top: 36% !important;
+    }
+    #img-content_44 .aux-img-class {
+        width: 80% !important;
+    }
+    #text-aux-44-new {
+        font-size: 1.35em !important;
+    }
+    #content-text-title-45 {
+        font-size: 1.3em !important;
+    }
+    #btn-read-more-45 {
+        top: 55% !important;
+    }
+    #img-content-aux-new-45 {
+        top: 60% !important;
+    }
+    #box-text-content-autor-45 {
+        width: 18em !important;
+        margin-left: -11em !important;
+        margin-bottom: 0.7em !important;
+    }
+    #text-content-autor-45 {
+        padding-left: 10em !important;
+        font-size: 0.47em !important;
+    }
+
 
 }
 
@@ -1423,6 +1470,32 @@ audio {
     }
     #text-content-2-38-aux {
         font-size: 1.5em !important;
+    }
+    #img-content_44 {
+        top: 35% !important;
+    }
+    #img-content_44 .aux-img-class {
+        width: 70% !important;
+    }
+    #text-aux-44-new {
+        font-size: 1.25em !important;
+    }
+    #content-text-title-45 {
+        font-size: 1.13em !important;
+    }
+    #btn-read-more-45 {
+        top: 60% !important;
+    }
+    #img-content-aux-new-45 {
+        top: 60% !important;
+    }
+    #box-text-content-autor-45 {
+        width: 18em !important;
+        margin-left: -11em !important;
+    }
+    #text-content-autor-45 {
+        padding-left: 10em !important;
+        font-size: 0.47em !important;
     }
 
 }
