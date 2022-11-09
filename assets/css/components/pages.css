@@ -748,6 +748,10 @@ audio {
     color: #002fa7;
 }
 
+#content-text-aux-49::first-letter {
+    color: #e8a431;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -998,6 +1002,14 @@ audio {
 }
 
 #pie-pagina-47 {
+  display: none !important;
+}
+
+#pie-pagina-48 {
+  display: none !important;
+}
+
+#pie-pagina-49 {
   display: none !important;
 }
 
