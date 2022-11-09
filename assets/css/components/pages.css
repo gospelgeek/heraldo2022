@@ -1316,6 +1316,10 @@ audio {
         padding-left: 10em !important;
         font-size: 0.47em !important;
     }
+    #text-content-2-46-aux {
+        font-size: 1.15em !important;
+    }
+
 
 
 }
@@ -1525,6 +1529,9 @@ audio {
     #text-content-autor-45 {
         padding-left: 10em !important;
         font-size: 0.47em !important;
+    }
+    #text-content-2-46-aux {
+        font-size: 1em !important;
     }
 
 }

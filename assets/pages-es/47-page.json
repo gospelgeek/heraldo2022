@@ -21,7 +21,7 @@
     },
     {
         "x": "0",
-        "y": "14%",
+        "y": "18%",
         "width": "100%",
         "styleBox": " padding: 1em; width: 67%; height: auto !important;",
         "background-color": "#b41015",
@@ -29,9 +29,78 @@
         "font-size": "1em",
         "tag": "content-text",
         "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
-        "id_unique": "content-text-2-38",
+        "id_unique": "content-text-2-47",
         "data": {
-            "text": "<p style='text-align: center; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'><span style='color: #002fa7; font-size: 2em;'>...</span>Y como dice el texto sagrado en Proverbios 25:25: “Como el agua fría al alma sedienta, Así son las buenas nuevas de lejanas tierras”</p>"
+            "text": "<p style='text-align: center; line-height: 1.2em; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'><span style='color: #002fa7; font-size: 2em;'>...</span>Y como dice el texto sagrado en Proverbios 25:25: <span style='font-style: italic; font-weight: normal;'>“Como el agua fría al alma sedienta, Así son <br>las buenas nuevas de lejanas tierras”</span></p>"
         }
+    },
+    {
+        "x": "0",
+        "y": "30%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 86%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-2-47",
+        "data": {
+            "text": "<p style='font-style: italic;  line-height: 1.2em; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'>En África, por la gracia del Señor ya se han abierto 5 obras misioneras Guinea Bissau, Cabo Verde, Tanzania, Mozambique y Guinea Ecuatorial, en la actualidad hay una membresía de 273 hermanos, y 14 pastores predicando el mensaje de salvación .</p>"
+        }
+    },
+    {
+        "x": "-12%",
+        "y": "64%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 61%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-2-47",
+        "data": {
+            "text": "<p style='line-height: 1.2em; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'>Cuán grande cosa ha hecho el alto y sublime Dios sus palabras siguen siendo espíritu y vida, vida para los pueblos encadenados en densa oscuridad.</p>"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-15",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 98% !important; height: 98% !important; border-radius: 40%;",
+        "styleBoxText": "height: 1em; width: 21em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.4em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.58em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Vicente Arango. Director Misiones Extranjeras IPUC",
+        "data": {
+            "src": "./assets/pics/icons/autor-47.png"
+        }
+    },
+    {
+        "x": "2%",
+        "y": "77%",
+        "width": "30%",
+        "background-color": "#0c37b1",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-47",
+        "zIndex": 200,
+        "id_unique": "btn-read-more-47",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "_id": "text-read-more",
+        "text": "<p style='font-size: 2em; text-align: center;'><strong>MISIONES EXTRANJERAS IPUC</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Hablar de misiones extranjeras, es hablar de algo con lo que ha crecido nuestra Iglesia Pentecostal Unida de Colombia, es algo que va en el ADN de la amada del Señor, tanto que hoy por hoy nuestros Pastores tienen como un gran logro ir a las misiones y darse del todo por cumplir con la gran comisión, es como ver realizado un sueño. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Es por eso que muchos de los cinco mil treinta pastores de la IPUC estamos listos a dejar una iglesia por grande que sea y una buena economía, no interesa, lo más grande son las misiones. Un niño le preguntó a su maestro de escuela dominical “¿qué quieres ser cuando seas grande?” La respuesta no se hizo esperar “misiónelo”: Misionero, pero así respondió el niño y así los jóvenes y adultos. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Aquí en la congregación le pregunté a una joven que cumplió los quince años ¿qué es lo que más desea usted? “Ser una misionera” me respondió, servir al Dios de las misiones por ese sentir que ha puesto en su pueblo. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Hoy deseamos compartir con todos algo que estamos haciendo en Centro y sur América, las islas del caribe, África, Europa y Asia, nuestro director el hermano Vicente Arango tiene una visión extraordinaria de las misiones y buena experiencia en este campo, y él como los coordinadores nacionales de misiones extranjeras nos aportarán un informe muy hermoso de lo que allí en estos lugares viene sucediendo. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Y como dice el texto Sagrado: “Como el agua fría al alma sedienta, Así son las buenas nuevas de lejanas tierras”. (Proverbios 25:25). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Video 1. Hno. Vicente Arango, Director de Misiones Extranjeras. </p> <p style='padding-top: 0.7em; font-size: 1em;'>En África, por la gracia del Señor ya se han abierto cinco obras misioneras Guinea Bissau, Cabo Verde, Tanzania, Mozambique y Guinea Ecuatorial, en la actualidad hay una membresía de doscientos setenta y tres hermanos, y catorce pastores predicando el mensaje de salvación </p> <p style='padding-top: 0.7em; font-size: 1em;'>Video 2. África (Grupo de alabanza en Guinea Ecuatorial, octubre 2021, misionero Juan Carlos Soto).</p> <p style='padding-top: 0.7em; font-size: 1em;'>Video 3. (Palabras de dos hermanos caboverdianos, Cabo Verde, julio de 2022, misionero Jeremías Velásquez) en el video hablan idioma portugués pero traducido al español dicen “Que Dios bendiga a toda la iglesia en Colombia, el Consistorio de Ancianos, todos los Pastores, las obras misioneras. Somos agradecidos por todos los misioneros que han sido enviados a todo el mundo, principalmente a Cabo verde y también agradecidos por los que apoyan la obra con sus ofrendas misioneras” </p> <p style='padding-top: 0.7em; font-size: 1em;'>Video 4. Bautismo de cuatro hermanos en Tanzania, cantan una alabanza que dice en español “Le digo a Satanás, ¡no más!, y voy a Dios mi Padre”. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Audio 1. El misionero de Guinea Bissau, el hermano. Manuel Cassiani narra el momento que el Señor le confirmó su llamado como misionero a Guinea Bissau. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Cuán grandes maravillas ha hecho el Alto y Sublime Dios, sus Palabras siguen siendo espíritu y vida, vida para los pueblos encadenados en densa oscuridad. Tenemos buenas nuevas desde Europa y Asia, damos gracias al Señor por cada una de ellas, una de las naciones más bendecidas por el Señor en Europa es la iglesia del Señor en España, actualmente hay más de cinco mil quinientos hermanos bautizados en el Nombre de Jesús, y cerca de ciento cincuenta pastores a los que Colombia apoya económicamente. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Video 5. Misionero Marcos Pabón, Madrid, España 12 de noviembre de 2021.</p> <p style='padding-top: 0.7em; font-size: 1em;'>En Europa la Iglesia Pentecostal Unida de Colombia también hace presencia en Portugal, Francia, Italia, Bélgica, Alemania, Suecia, Suiza, Austria, Reino Unido y Holanda. El Señor este año nos ha permitido un avance especial en cada una de las obras misioneras, dentro de ellas la posesión del primer Pastor italiano nativo, su nombre es el hermano Nuccio Arcidiacono, en el lugar de La Sicilia, pedimos sus oraciones por él y su familia, que el Señor sea ayudándoles y guiándoles. </p>"
     }
 ]

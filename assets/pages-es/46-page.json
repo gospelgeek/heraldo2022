@@ -3,10 +3,10 @@
         "x": "0",
         "y": "58%",
         "style": "width: 85%;",
-        "zIndex": "-1",
+        "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
-        "id_unique": "img-content_44",
+        "id_unique": "img-content_47",
         "data": {
             "src": "./assets/pics/icons/titulo-46.png"
         }
@@ -44,7 +44,7 @@
         "font-size": "1em",
         "tag": "content-text",
         "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
-        "id_unique": "content-text-2-38",
+        "id_unique": "content-text-2-37",
         "data": {
             "text": "<p id='text-content-2-46-aux' class='first_letter_red' style='font-weight: 400; padding-top: 0.5em; font-size: 0.87em; color: rgb(107 104 104);'>Hablar de misiones extranjeras, es hablar de algo con lo que ha crecido nuestra iglesia pentecostal unida de Colombia, es algo que va en el ADN de la amada del Señor tanto que hoy por hoy nuestros ministros, y pastores tienen como un gran logro ir a las misiones y darsen del todo por cumplir con la gran comisión es como ver realizado un sueño. </p>"
         }
@@ -58,7 +58,7 @@
         "font-size": "1.2em",
         "tag": "btn-normal",
         "class": "",
-        "id": "btn-espana-46",
+        "id": "btn-espana-47",
         "text": "",
         "data": {
            "text": "Leer más",
