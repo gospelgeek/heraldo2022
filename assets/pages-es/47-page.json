@@ -1,1 +1,37 @@
-[]
+[
+    {
+        "style": "width: 100%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_47",
+        "data": {
+            "src": "./assets/pics/icons/foto-aux-47-1.png"
+        }
+    },
+    {
+        "style": "width: 100%; height: 70%;  align-self: end !important",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_47_aux",
+        "data": {
+            "src": "./assets/pics/icons/foto-aux-47-2.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "14%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 67%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-2-38",
+        "data": {
+            "text": "<p style='text-align: center; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'><span style='color: #002fa7; font-size: 2em;'>...</span>Y como dice el texto sagrado en Proverbios 25:25: “Como el agua fría al alma sedienta, Así son las buenas nuevas de lejanas tierras”</p>"
+        }
+    }
+]
