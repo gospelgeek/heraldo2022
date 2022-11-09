@@ -744,6 +744,10 @@ audio {
     color: #12ccff;
 }
 
+#text-content-2-46-aux::first-letter {
+    color: #002fa7;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -883,6 +887,12 @@ audio {
     top: 0 ;
 }
 
+#background-page-46 {
+    height: 80% !important;
+    position: absolute !important;
+    top: 0 ;
+}
+
 #pie-pagina-7 {
   display: none !important;
 }
@@ -983,6 +993,14 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-46 {
+  display: none !important;
+}
+
+#pie-pagina-47 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -1004,6 +1022,17 @@ audio {
 
 #text-35-class-aux::first-letter {
    font-style: italic !important;
+}
+
+#img-content_47 {
+    position: absolute !important;
+    top: 0;
+    z-index: 1 !important;
+}
+
+#img-content_47_aux {
+    position: absolute !important;
+    bottom: 0;
 }
 
 /*
@@ -1287,6 +1316,10 @@ audio {
         padding-left: 10em !important;
         font-size: 0.47em !important;
     }
+    #text-content-2-46-aux {
+        font-size: 1.15em !important;
+    }
+
 
 
 }
@@ -1496,6 +1529,9 @@ audio {
     #text-content-autor-45 {
         padding-left: 10em !important;
         font-size: 0.47em !important;
+    }
+    #text-content-2-46-aux {
+        font-size: 1em !important;
     }
 
 }

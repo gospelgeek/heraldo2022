@@ -1867,4 +1867,37 @@ El don de profecía jamás es irrespetuoso con los demás, no va contra la digni
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 
+
+<p style='font-size: 2em; text-align: center;'><strong>MISIONES EXTRANJERAS IPUC</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hablar de misiones extranjeras, es hablar de algo con lo que ha crecido nuestra Iglesia Pentecostal Unida de Colombia, es algo que va en el ADN de la amada del Señor, tanto que hoy por hoy nuestros Pastores tienen como un gran logro ir a las misiones y darse del todo por cumplir con la gran comisión, es como ver realizado un sueño.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Es por eso que muchos de los cinco mil treinta pastores de la IPUC estamos listos a dejar una iglesia por grande que sea y una buena economía, no interesa, lo más grande son las misiones. Un niño le preguntó a su maestro de escuela dominical “¿qué quieres ser cuando seas grande?” La respuesta no se hizo esperar “misiónelo”: Misionero, pero así respondió el niño y así los jóvenes y adultos.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Aquí en la congregación le pregunté a una joven que cumplió los quince años ¿qué es lo que más desea usted? “Ser una misionera” me respondió, servir al Dios de las misiones por ese sentir que ha puesto en su pueblo.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hoy deseamos compartir con todos algo que estamos haciendo en Centro y sur América, las islas del caribe, África, Europa y Asia, nuestro director el hermano Vicente Arango tiene una visión extraordinaria de las misiones y buena experiencia en este campo, y él como los coordinadores nacionales de misiones extranjeras nos aportarán un informe muy hermoso de lo que allí en estos lugares viene sucediendo. </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Y como dice el texto Sagrado: “Como el agua fría al alma sedienta, Así son las buenas nuevas de lejanas tierras”. (Proverbios 25:25). </p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Video 1. Hno. Vicente Arango, Director de Misiones Extranjeras.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En África, por la gracia del Señor ya se han abierto cinco obras misioneras Guinea Bissau, Cabo Verde, Tanzania, Mozambique y Guinea Ecuatorial, en la actualidad hay una membresía de doscientos setenta y tres hermanos, y catorce pastores predicando el mensaje de salvación 
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Video 2. África (Grupo de alabanza en Guinea Ecuatorial, octubre 2021, misionero Juan Carlos Soto).</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Video 3. (Palabras de dos hermanos caboverdianos, Cabo Verde, julio de 2022, misionero Jeremías Velásquez) en el video hablan idioma portugués pero traducido al español dicen “Que Dios bendiga a toda la iglesia en Colombia, el Consistorio de Ancianos, todos los Pastores, las obras misioneras. Somos agradecidos por todos los misioneros que han sido enviados a todo el mundo, principalmente a Cabo verde y también agradecidos por los que apoyan la obra con sus ofrendas misioneras”
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Video 4. Bautismo de cuatro hermanos en Tanzania, cantan una alabanza que dice en español “Le digo a Satanás, ¡no más!, y voy a Dios mi Padre”.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Audio 1. El misionero de Guinea Bissau, el hermano. Manuel Cassiani narra el momento que el Señor le confirmó su llamado como misionero a Guinea Bissau.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Cuán grandes maravillas ha hecho el Alto y Sublime Dios, sus Palabras siguen siendo espíritu y vida, vida para los pueblos encadenados en densa oscuridad. Tenemos buenas nuevas desde Europa y Asia, damos gracias al Señor por cada una de ellas, una de las naciones más bendecidas por el Señor en Europa es la iglesia del Señor en España, actualmente hay más de cinco mil quinientos hermanos bautizados en el Nombre de Jesús, y cerca de ciento cincuenta pastores a los que Colombia apoya económicamente.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Video 5. Misionero Marcos Pabón, Madrid, España 12 de noviembre de 2021.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En Europa la Iglesia Pentecostal Unida de Colombia también hace presencia en Portugal, Francia, Italia, Bélgica, Alemania, Suecia, Suiza, Austria, Reino Unido y Holanda. El Señor este año nos ha permitido un avance especial en cada una de las obras misioneras, dentro de ellas la posesión del primer Pastor italiano nativo, su nombre es el hermano Nuccio Arcidiacono, en el lugar de La Sicilia, pedimos sus oraciones por él y su familia, que el Señor sea ayudándoles y guiándoles.
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
 */

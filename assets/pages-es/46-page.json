@@ -1,1 +1,68 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "58%",
+        "style": "width: 85%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_47",
+        "data": {
+            "src": "./assets/pics/icons/titulo-46.png"
+        }
+    },
+    {
+        "x": "-5%",
+        "y": "1%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1KwesCrBYUYzWS-O7sn9Fb-733PFevApl/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "0",
+        "y": "70%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 87%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-2-37",
+        "data": {
+            "text": "<p id='text-content-2-46-aux' class='first_letter_red' style='font-weight: 400; padding-top: 0.5em; font-size: 0.87em; color: rgb(107 104 104);'>Hablar de misiones extranjeras, es hablar de algo con lo que ha crecido nuestra iglesia pentecostal unida de Colombia, es algo que va en el ADN de la amada del Señor tanto que hoy por hoy nuestros ministros, y pastores tienen como un gran logro ir a las misiones y darsen del todo por cumplir con la gran comisión es como ver realizado un sueño. </p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "92%",
+        "width": "100%",
+        "background-color": "#982221",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "class": "",
+        "id": "btn-espana-47",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    }
+]
