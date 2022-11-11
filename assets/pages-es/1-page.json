@@ -22,5 +22,21 @@
         "data": {
             "src": "./assets/pics/icons/por-toda-la-tierra.png"
         }
+    },
+    {
+        "x": "60%",
+        "y": "3%",
+        "width": "60%",
+        "background-color": "rgb(107 104 104);",
+        "color": "#fff",
+        "font-size": "0.8em",
+        "tag": "title-content",
+        "style": "font-weight: normal; font-size: 0.8em; color: rgb(107 104 104); text-align: center; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "id_unique": "title-content-espanol-5",
+        "data": {
+           "text": "ISSN 1833",
+           "url": "#"
+        }
     }
 ]
