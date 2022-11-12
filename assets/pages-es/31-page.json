@@ -8,10 +8,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; border-radius: 0.2em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: 510; border-radius: 0.2em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": " <p class='first_letter_red aux_blue' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1em; font-style: italic; color: #1E1E1F;'>“Porque toda casa es hecha por alguno; pero el que hizo todas las cosas es Dios” <p style='text-align: center;'> (Hebreos 3:4).</p> <p style='text-align: center;'> Una casa no existe por casualidad, su diseño y construcción apuntan al diseñador y constructor.</p></p>"
+            "text": " <p  id='first_letter_29' class='first_letter_red aux_blue' style='line-height: 1.2em;  text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic; color: #1E1E1F;'>“Porque toda casa es hecha por alguno; pero el que hizo todas las cosas es Dios” <p style='text-align: center; line-height: 1.2em; '> (Hebreos 3:4).</p> <p style='line-height: 1.2em;  text-align: center;'> Una casa no existe por casualidad, su diseño y construcción apuntan al diseñador y constructor.</p></p>"
         }
     },
     {

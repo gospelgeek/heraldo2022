@@ -225,13 +225,13 @@ async function add_components_page(element, page, lang) {
 }
 
 const playAudio = (e) => {
-    console.log(audio_array.length)
 
     if (audio_array.length > 0) {
 
         audio_array.map((audio) => {
             audio.pause();
         })
+        //eventos para quitar el audio
         audio_array = [];
         band_audio = true;
         $('.audio-img-content').removeClass('opacity-audio')
@@ -247,6 +247,7 @@ const playAudio = (e) => {
    
     audio_array.push(audio)
     $('.audio-img-content').addClass('opacity-audio')
+    
     //saber si el audio no ha terminado
     audio.addEventListener('ended', function () {
         $('.audio-img-content').removeClass('opacity-audio')

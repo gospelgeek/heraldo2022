@@ -11,7 +11,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em;'>“L a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
+            "text": "<p  id='first_letter_17' class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em;'>“L a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
         }
     },
     {

@@ -752,6 +752,18 @@ audio {
     color: #e8a431;
 }
 
+#first_letter_17::first-letter {
+    font-size: 2.3em !important;
+}
+
+#first_letter_20::first-letter {
+    font-size: 1.2em !important;
+}
+
+#first_letter_29::first-letter {
+    font-size: 1.7em !important;
+}
+
 .first_letter_orange::first-letter {
     color: #c55f0b;
     font-size: 2.5em;
@@ -893,6 +905,12 @@ audio {
 
 #background-page-46 {
     height: 80% !important;
+    position: absolute !important;
+    top: 0 ;
+}
+
+#background-page-20 {
+    height: 100% !important;
     position: absolute !important;
     top: 0 ;
 }
@@ -1278,7 +1296,7 @@ audio {
         width: 75% !important;
     } 
     #img-content-1 {
-        top: 16% !important;
+        top: 19% !important;
     }
     #content-text-32 .responsive-font-content {
         font-size: 1.3em !important;
@@ -1331,7 +1349,9 @@ audio {
     #text-content-2-46-aux {
         font-size: 1.15em !important;
     }
-
+    #img-content-1 .aux-img-class {
+        width: 100% !important;
+    } 
 
 
 }
@@ -1487,7 +1507,8 @@ audio {
         bottom: 0 ;
     }
     #img-content-1 {
-        top: 15% !important;
+        top: 17% !important;
+        left: 7% !important;
     }
     #img-content-1 .aux-img-class {
        width: 80% !important;
@@ -1545,6 +1566,9 @@ audio {
     #text-content-2-46-aux {
         font-size: 1em !important;
     }
+    #img-content-1 .aux-img-class {
+        width: 100% !important;
+    } 
 
 }
 

@@ -38,7 +38,7 @@
         "style": "font-weight: normal; border-radius: 1em; font-size: 0.95em; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“El que tiene oído, oiga lo que el Espíritu <br> <p style='margin-left: 1.3em;'>dice a las iglesias”(Apocalipsis 3:22).</p></p>"
+            "text": "<p id='first_letter_17' class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“El que tiene oído, oiga lo que el Espíritu <br> <p style='margin-left: 1.3em;'>dice a las iglesias”(Apocalipsis 3:22).</p></p>"
         }
     },
     {
