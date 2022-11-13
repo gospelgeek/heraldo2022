@@ -1,1 +1,25 @@
-[]
+[
+    {
+        "x": "67%",
+        "y": "13%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "35%",
+        "height": "20%",
+        "fontSize": "5em",
+        "tag": "btn-normal-2",
+        "class": "",
+        "text": "",
+        "icon": "./assets/pics/icons/iconImprimir.png",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/iconEscucha.png",
+                "url": "./assets/audios/"
+            },
+            {
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "url": "https://drive.google.com/file/d/1eiD9LBU7fdQax7j9D-xHPmoSYoltd9Sk/view?usp=share_link"
+            }
+        ]
+    }
+]

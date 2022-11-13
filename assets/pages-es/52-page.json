@@ -1,0 +1,21 @@
+[
+    {
+        "x": "0",
+        "y": "0%",
+        "style": "width: 90%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_47",
+        "data": {
+            "src": "./assets/pics/icons/titulos-52.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "20%",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "wordsGame"
+    }
+]

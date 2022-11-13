@@ -1,1 +1,94 @@
-[]
+[
+    {
+        "x": "0",
+        "y": "4%",
+        "width": "100%",
+        "styleBox": "width: 82%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-19",
+        "style": "color: #b72fa3; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='padding-top: 1em; font-size: 0.8em; font-style: italic; line-height: 1.2em;'>MUERTE, USO DE BUEN RETIRO, DESTITUCIÓN, RENUNCIA, ENFERMEDAD...</p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "10%",
+        "width": "100%",
+        "styleBox": " padding: 1em; width: 82%; height: auto !important;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "tag": "content-text",
+        "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
+        "id_unique": "content-text-2-47",
+        "data": {
+            "text": "<p style='line-height: 1.27em; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'><span style='color: #a52ba3; font-size: 2.2em;'>¿</span>Frente a cada una de estas palabras, qué pensamiento le llega?...¿Qué sensación le da?...¿Siente vacío?...Son 5 puertas por las cuales cada uno de ustedes como pastor tendrá que salir un día, y por ende su esposa y familia.</p> <p  style='line-height: 1.2em; font-weight: 400; padding-top: 0.5em; font-size: 0.9em; color:  rgb(107 104 104);'>Hoy quiero ser la voz de todas aquellas mujeres que acompaña a cada uno de ustedes en la hermosa labor como es el servicio en la obra del Señor. Para nadie es ajeno la situación que tuvo que vivir la iglesia durante la pandemia con la perdida de muchos pastores que fallecieron; muchos de ellos en angustia por dejar sus familias con muchos proyectos pendientes. </p>"
+        }
+    },
+    {
+        "x": "0",
+        "y": "50%",
+        "style": "width: 100%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "id_unique": "img-content_47",
+        "data": {
+            "src": "./assets/pics/icons/fondo-51-aux.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "44%",
+        "width": "100%",
+        "background-color": "#a52ba3",
+        "color": "#fff",
+        "font-size": "1.2em",
+        "tag": "btn-normal",
+        "id": "btn-espana-49",
+        "id_unique": "btn-read-more-23",
+        "text": "",
+        "data": {
+           "text": "Leer más",
+           "url": "#"
+        }
+    },
+    {
+        "x": "0",
+        "y": "72%",
+        "width": "100%",
+        "styleBox": "width: 80%;",
+        "background-color": "#b41015",
+        "id_unique": "text-content-37",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "style": "font-weight: normal; color: #194d10; font-family: 'Montserrat', Times, serif;",
+        "text": "",
+        "data": {
+            "text": "<ul style='line-height: 1.7em; padding-inline-start: 0; color: #a52ba3; text-align: start; font-weight: 400;  text-decoration: underline; list-style: none; font-size: 0.89em;'><li style='color: black; font-weight: 400; '>Curso intensivo: Una mirada integral a la vida adulta</li><li style='color: black; font-weight: 400;'>Academia de Emprendimiento</li><li style='color: black; font-weight: 400; '>Acompañamiento al sector de La Mojana</li></ul>"
+        }
+    },
+    {
+        "x": "17%",
+        "y": "80%",
+        "width": "100%",
+        "id_unique": "box-principal-autor-page-23",
+        "id_2": "box-text-content-autor-19",
+        "id_3": "text-content-autor-9",
+        "id_4": "box-page-9-autor",
+        "styleImg": "width: 95% !important; height: 95% !important; border-radius: 50%;",
+        "styleBoxText": "height: 1em; width: 17.5em; align-self: end; height: 1em; margin-left: 3em; margin-bottom: 0.5em; grid-area: area-1;",
+        "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.6em; color: #fff;",
+        "tag": "boton-author",
+        "autor": "Por Mariela Forero de Torres. Directora UDIM",
+        "data": {
+            "src": "./assets/pics/icons/autora-51.png"
+        }
+    }
+]

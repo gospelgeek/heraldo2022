@@ -99,10 +99,28 @@
        });
    }
 
-   // Add region
+   
+//createWordsGame allows create the alphabet soup
+function createWordsGame(words) {
+    var gamePuzzle = wordfindgame.create(words, '#puzzle', '#words')
+    var puzzle = wordfind.newPuzzle(words, { width: 18, height: 18, fillBlanks: false })
+    wordfind.print(puzzle)
+    //pintar matriz 15x15
 
+    $('#solve').click(function () { wordfindgame.solve(gamePuzzle, words) })
+    $('#clean').click(function () { wordfindgame.clean() })
+}
+
+   // Add region
    function addRegion(region, pageElement, lang, page) {
        var reg = $(`<div />`, { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
+       
+       if (page == 52) {
+        console.log('entro 2')
+        $('.p' + 52).append(reg);
+        var words = ['Arrepentimiento','Conversión', 'NuevoNacimiento', 'Unicidad', 'ElNombreDeJesús', 'Adopción', 'Justificación', 'Redención', 'Santidad', 'Fe', 'Resurrección']
+        createWordsGame(words)
+       }
 
        $(reg).attr('id', region.id_unique);
 
