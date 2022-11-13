@@ -24,7 +24,7 @@
         "style": "font-weight: normal; border-radius: 1em; font-size: 0.95em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red aux_orange' style='padding-top: 1em; font-size: 1em;'>“Hay una declaración maravillosa en la Palabra de Dios, la encontramos en el Evangelio según Juan, que nos abre camino para entender el por qué podemos ahora disfrutar de una vida nueva, de una magnífica vida nueva en Cristo Jesús; el Señor nos declara: </p>"
+            "text": "<p id='first_letter_17' class='first_letter_red aux_orange' style='padding-top: 1em; font-size: 1em;'>“Hay una declaración maravillosa en la Palabra de Dios, la encontramos en el Evangelio según Juan, que nos abre camino para entender el por qué podemos ahora disfrutar de una vida nueva, de una magnífica vida nueva en Cristo Jesús; el Señor nos declara: </p>"
         }
     }
 ]

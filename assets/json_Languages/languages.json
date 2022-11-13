@@ -172,13 +172,13 @@
                 "width": "100%",
                 "background-color": "#982221",
                 "color": "#fff",
-                "font-size": "1em",
+                "font-size": "1.2em",
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-brasil-5",
                 "text": "",
                 "data": {
-                    "text": "ler mais",
+                    "text": "Ler mais",
                     "url": "#"
                 }
             },
@@ -558,13 +558,13 @@
                 "width": "30%",
                 "background-color": "#43a4c4",
                 "color": "#fff",
-                "font-size": "1em",
+                "font-size": "1.1em",
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-brasil-7",
                 "text": "",
                 "data": {
-                    "text": "ler mais",
+                    "text": "Ler mais",
                     "url": "#"
                 }
             },
@@ -778,7 +778,7 @@
                 "id": "btn-brasil-11",
                 "text": "",
                 "data": {
-                    "text": "ler mais",
+                    "text": "Ler mais",
                     "url": "#"
                 }
             },
@@ -921,7 +921,7 @@
                 "style": "font-weight: normal; border-radius: 1em; font-size: 0.8em; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“Wie oren heeft, laat hij horen  wat de Geest tegen<br> <p style='margin-left: 1.3em;'> de gemeenten zegt” (Openbaring 3:22).</p> </p>"
+                    "text": "<p id='first_letter_17' class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“Wie oren heeft, laat hij horen  wat de Geest tegen<br> <p style='margin-left: 1.3em;'> de gemeenten zegt” (Openbaring 3:22).</p> </p>"
                 }
             },
             {
@@ -1081,7 +1081,7 @@
                 "style": "font-weight: normal; border-radius: 1em; font-size: 0.95em; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“Quem tem ouvidos, ouça o que o Espírito <br> <p style='margin-left: 1.3em;'> diz às igrejas”. (Apocalipse 3:22).</p></p>"
+                    "text": "<p id='first_letter_17' class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>“Quem tem ouvidos, ouça o que o Espírito <br> <p style='margin-left: 1.3em;'> diz às igrejas”. (Apocalipse 3:22).</p></p>"
                 }
             },
             {
@@ -1129,7 +1129,7 @@
                 "id_unique": "btn-content-espana-17",
                 "text": "",
                 "data": {
-                    "text": "ler mais",
+                    "text": "Ler mais",
                     "url": "#"
                 }
             },
@@ -1410,7 +1410,7 @@
                 "style": "font-size: 0.85em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p class='first_letter_red' style='text-align: center; font-weight: 100; font-size: 1.3em; font-style: italic; color: #1E1E1F;'>“Toda a escritura é divinamente inspirada e proveitosa para ensinar, para repreender, para corrigir e para instruir em justiça para que o homem de Deus seja perfeito e perfeitamente instruído para toda a boa obra”. <p style='text-align: center; font-weight: 100; font-size: 1.3em;' >(2 Timóteo 3:16-17).</p></p>"
+                    "text": "<p  id='first_letter_29' class='first_letter_red' style='text-align: center; font-weight: 100; font-size: 1.3em; font-style: italic; color: #1E1E1F;'>“Toda a escritura é divinamente inspirada e proveitosa para ensinar, para repreender, para corrigir e para instruir em justiça para que o homem de Deus seja perfeito e perfeitamente instruído para toda a boa obra”. <p style='text-align: center; font-weight: 100; font-size: 1.3em;' >(2 Timóteo 3:16-17).</p></p>"
                 }
             },
             {

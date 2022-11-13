@@ -1,24 +1,24 @@
 [
     {
-        "x": "15%",
-        "y": "17%",
-        "style": "width: 90%;",
+        "x": "42%",
+        "y": "69%",
+        "style": "width: 100%;",
         "zIndex": "1",
         "width": "50%",
         "tag": "img-content",
-        "id_unique": "img-content-1",
+        "id_unique": "img-content-1-aux",
         "data": {
             "src": "./assets/pics/icons/salio-su-voz.png"
         }
     },
     {
-        "x": "42%",
-        "y": "71%",
+        "x": "8%",
+        "y": "20.5%",
         "style": "width: 100%;",
         "zIndex": "1",
         "width": "57%",
         "tag": "img-content",
-        "id_unique": "img-content-1-aux",
+        "id_unique": "img-content-1",
         "data": {
             "src": "./assets/pics/icons/por-toda-la-tierra.png"
         }
@@ -37,6 +37,30 @@
         "data": {
            "text": "ISSN 1833",
            "url": "#"
+        }
+    },
+    {
+        "x": "28%",
+        "y": "65%",
+        "style": "width: 100%;",
+        "zIndex": "1",
+        "width": "70%",
+        "tag": "img-content",
+        "id_unique": "img-content-1",
+        "data": {
+            "src": "./assets/pics/icons/salio-su-voz-lineas.png"
+        }
+    },
+    {
+        "x": "-4%",
+        "y": "17%",
+        "style": "width: 100%;",
+        "zIndex": "1",
+        "width": "90%",
+        "tag": "img-content",
+        "id_unique": "img-content-1",
+        "data": {
+            "src": "./assets/pics/icons/por-toda-la-tierra-lineas.png"
         }
     }
 ]

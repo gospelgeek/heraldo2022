@@ -8,10 +8,10 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "style": "font-weight: normal; width: 80%; font-size: 0.7em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+        "style": "font-weight: normal; width: 87%; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_aqua' style='text-align: center; padding-top: 0.5em; font-size: 1.5em; font-style: italic; color: #1E1E1F;'>“Esta es Palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos”<p style=' font-size: 1.6em;  color: #1E1E1F; text-align: center !important; '>(Zacarías 4:6).</p></p>"
+            "text": "<p class='first_letter_aqua' style='line-height: 1.2em; text-align: center; padding-top: 0.5em; font-size: 1.2em; font-style: italic; color: #1E1E1F;'>“Esta es Palabra de Jehová a Zorobabel, que dice: No con ejército, ni con fuerza, sino con mi Espíritu, ha dicho Jehová de los ejércitos”<p style=' font-size: 1.3em;  color: #1E1E1F; text-align: center !important; '>(Zacarías 4:6).</p></p>"
         }
     },
     {

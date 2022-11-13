@@ -11,7 +11,7 @@
         "style": "font-size: 0.85em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red' style='text-align: center; font-weight: 100; font-size: 1.3em; font-style: italic; color: #1E1E1F;'>“Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra”  <p style='text-align: center; font-weight: 100; font-size: 1.3em;' >(2 Timoteo 3:16-17)</p></p>"
+            "text": "<p id='first_letter_29' class='first_letter_red' style='text-align: center; font-weight: 100; font-size: 1.3em; font-style: italic; color: #1E1E1F;'>“Toda la Escritura es inspirada por Dios, y útil para enseñar, para redargüir, para corregir, para instruir en justicia, a fin de que el hombre de Dios sea perfecto, enteramente preparado para toda buena obra”  <p style='text-align: center; font-weight: 100; font-size: 1.3em;' >(2 Timoteo 3:16-17)</p></p>"
         }
     },
     {

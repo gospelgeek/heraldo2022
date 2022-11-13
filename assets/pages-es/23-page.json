@@ -41,11 +41,11 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "#pagina/21"
+                "url": ""
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "#pagina/21"
+                "url": "https://drive.google.com/file/d/1m4NnEBQaPPOZY6ZQyLD9N0z_98my6TWb/view?usp=share_link"
             }
         ]
     },
@@ -93,7 +93,7 @@
         "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
         "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 2.4em; margin-bottom: 0.5em; grid-area: area-1;",
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
-        "styleTextAutor": "padding-left: 1em; font-size: 0.5em; color: #fff;",
+        "styleTextAutor": "padding-left: 1em; font-size: 0.52em; color: #fff;",
         "tag": "boton-author",
         "autor": "Por Exel Javier Copete Gamboa. Supervisor Distrito 9",
         "data": {
