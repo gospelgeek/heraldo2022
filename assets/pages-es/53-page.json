@@ -1,0 +1,48 @@
+[
+    {
+        "x": "0",
+        "y": "12%",
+        "width": "100%",
+        "styleBox": "width: 60%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-19",
+        "style": "color: #fffff; font-family: 'Montserrat', sans-serif;",
+        "text": "",
+        "data": {
+            "text": "<p style='font-size: 0.9em; text-align: center;'> EL HERALDO DE LA VERDAD </p> <p style='font-size: 1em; text-align: center;'> Año 67 - Edicion 173 <br>Por toda la tierra salió su voz</p> <p style='text-align: center; padding-top: 0.5em; font-size: 0.7em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Iglesia Pentacostal Unidad De Colombia <br> Edicion No 173 - Año 67 - ISNN 1833</p>"
+        }
+    },
+    {
+        "x": "-5%",
+        "y": "30%",
+        "width": "65%",
+        "styleBox": "width: 100% padding: 1em;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-19",
+        "style": "color: #fffff; font-family: 'Montserrat', sans-serif;",
+        "data": {
+            "text": "<ul style='list-style: none; padding-inline-start: 0px; font-size: 0.7em; text-align: center;'><li> DIRECCIÓN Y CONTENIDO</li><li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Héctor Campuzano. Presidente IPUC</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Esdras Barranco. 1er vicepresidente</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Edilberto Ortiz. 2do vicepresidente</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Héctor Betancurt. Secretario General</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Oscar Restrepo. Dir. Finanzas</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Vicente Arango Varela. Dir. Misiones Extranjeras</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Fernando López. Dir. Misiones Nacionales</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Angelmiro Camacho. Dir. Educación Cristiana</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Fernando Sierra. Dir. Obra Social</li> <li style='font-size: 1em; padding-top: 0.7em;'>COORDINACIÓN GENERAL</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Julián Vera Polania</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Coordinador Nacional de Comunicaciones</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>David Sánchez Martínez</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Coordinador Nacional de Medios Escritos</li> <li style='font-size: 1em; padding-top: 0.7em;'>DESARROLLO DE SOFTWARE</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Samuel Ramirez</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Cristian Duvan Machado</li> <li style='font-size: 1em; padding-top: 0.7em;'>FOTOGRAFIA</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Banco de imagenes</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Decom Nacional</li> </ul>"
+        }
+    },
+    {
+        "x": "43%",
+        "y": "30%",
+        "width": "65%",
+        "styleBox": "width: 100% padding: 1em;",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "content-text",
+        "id_unique": "content-text-19",
+        "style": "color: #fffff; font-family: 'Montserrat', sans-serif;",
+        "data": {
+            "text": "<ul style='list-style: none; padding-inline-start: 0px; font-size: 0.7em; text-align: center;'><li>COORDINACIÓN TRADUCCIONES</li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Alemán</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Gerardo Blanco </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Inglés</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Antonio Silva </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Portugués</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Geremias Velásquez </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Francés</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Ramiro Rátiva </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Holandés</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Leonardo Fortunato </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y y equipo de trabajo </li> <li style='font-size: 1em; padding-top: 0.7em;'>IGLESIA PENTACOSTAL UNIDAD DE COLOMBIA</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Comite Nacional de Comunicaciones </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Telefono (57) 321 832 5267 </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>decomnacional1@gmail.com </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>www.ipuc.org.co </li> </ul> "
+        }
+    }
+]
