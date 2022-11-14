@@ -98,7 +98,6 @@
            });
        });
    }
-
    
 //createWordsGame allows create the alphabet soup
 function createWordsGame(words) {

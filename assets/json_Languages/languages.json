@@ -21,7 +21,7 @@
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "https://drive.google.com/file/d/1EZ3JMXAtv6fcFaOUuTsrGcYAf67XXtXu/view?usp=sharing"
+                        "url": "https://drive.google.com/file/d/1j3NPIsHlSPA_YqV7khcuLH0PZAsqdOVH/view?usp=share_link"
                     }
                 ]
             },
@@ -74,34 +74,46 @@
                 }
             },
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas-4",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "4-espana-5-francia"
+                        "id": "4-espana-5-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "4-espana-5-brasil"
+                        "id": "4-espana-5-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "4-espana-5-ingles"
+                        "id": "4-espana-5-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "4-espana-5-espana"
+                        "id": "4-espana-5-espana",
+                        "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "4-espana-5-aleman",
+                        "name": "Alemán"
                     }
                 ]
             },
@@ -112,34 +124,46 @@
         ],
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas-4",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "4-espana-5-francia"
+                        "id": "4-espana-5-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "4-espana-5-brasil"
+                        "id": "4-espana-5-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "4-espana-5-ingles"
+                        "id": "4-espana-5-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "4-espana-5-espana"
+                        "id": "4-espana-5-espana",
+                        "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "4-espana-5-aleman",
+                        "name": "Alemán"
                     }
                 ]
             },
@@ -162,7 +186,7 @@
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "https://drive.google.com/file/d/1EZ3JMXAtv6fcFaOUuTsrGcYAf67XXtXu/view?usp=sharing"
+                        "url": "https://drive.google.com/file/d/1j3NPIsHlSPA_YqV7khcuLH0PZAsqdOVH/view?usp=share_link"
                     }
                 ]
             },
@@ -239,7 +263,7 @@
                     },
                     {
                         "icon": "./assets/pics/icons/iconImprimir.png",
-                        "url": "https://drive.google.com/file/d/1EZ3JMXAtv6fcFaOUuTsrGcYAf67XXtXu/view?usp=sharing"
+                        "url": "https://drive.google.com/file/d/1j3NPIsHlSPA_YqV7khcuLH0PZAsqdOVH/view?usp=share_link"
                     }
                 ]
             },
@@ -292,40 +316,173 @@
                 }
             },
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "4-espana-5-francia"
+                        "id": "4-espana-5-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "4-espana-5-brasil"
+                        "id": "4-espana-5-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "4-espana-5-ingles"
+                        "id": "4-espana-5-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "4-espana-5-espana"
+                        "id": "4-espana-5-espana",
+                        "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "4-espana-5-aleman",
+                        "name": "Alemán"
                     }
                 ]
             },
             {
                 "_id": "text-read-more",
                 "text": "<p style='font-size: 2em; text-align: center;'><strong>LETTER FROM THE PRESIDENT</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Whoever believes in me, As the Scripture says…. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Brotherly greetings to all our brothers in the Name of Jesus. When thinking about the theme of this new edition of Heraldo, entitled “As the Scripture says”, I must say that his Word is the torch that lights our way and guides us to our destiny.</p> <p style='padding-top: 0.7em; font-size: 1em;'>With the purpose of promoting tools that contribute to our growth and discipleship, the Consistory of Elders, always seeks to act under the direction of God in all aspects of their work. That’s why our previously themed issue of ‘Faith Always’ was focused on relating to our Christian way of life. In the same purpose, the Consistory of Elders proposes our new motto: “As the Scripture says”.</p> <p style='padding-top: 0.7em; font-size: 1em;'>The Scripture is the Word of God, although written by men inspired by Him. We are mindful that it contains the entire plan of the Lord so that humanity may be saved, live uprightly and piously, grow in wisdom, be perfected, and be prepared for every good work.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Among the many enriching teachings for our lives, and being consistent with Christ's proposal for us to live in peace, communion, brotherhood and harmony, He has provided us with the same inspiring Spirit of his Word that leads us to walk in the light, accepting our possible differences, without generating disputes, hatred and resentment.</p> <p style='padding-top: 0.7em; font-size: 1em;'>“The voice of Him went out into all the earth...” (Psalms 19:4). It is by his Word that we are cleansed. Let us remember that our human efforts and our sacrifices will are useless to achieve a clean heart. It is only through a will directed towards his Word and through his Spirit will we be transformed. By his Word we are built and provided with the necessary foundations for a victorious life in Christ Jesus; his Word gives us growth and firmness, his Word is life. </p> <p style='padding-top: 0.7em; font-size: 1em;'>His Word is a light that illuminates our steps so that our feet do not stray, we do not slip, we do not stumble and in this way we continue to amrch on, to the victory of sanctification. </p> <p style='padding-top: 0.7em; font-size: 1em;'>We have the most sure prophetic Word; we would do well to abide by it and always obey it. We will be attentive to this torch that shines in a dark place, in the midst of the gloom of this world, until the day dawns and the morning star rises in our hearts.</p> <p style='padding-top: 0.7em; font-size: 1em;'>The Word of the Lord Jesus is worthy to be received by all. Part of the purpose of our new edition is to be another way of sowing the Word. Therefore, we invite our readers to treasure the Scriptures, they will guide us to the end. </p> <p style='padding-top: 0.7em; font-size: 1em;'>By Héctor Ariel Campuzano Fonseca. IPUC President </p> "
+            }
+        ],
+        "aleman": [
+            {
+                "x": "0",
+                "y": "5%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
+                "text": "",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/francia.png",
+                        "url": "#",
+                        "id": "4-espana-5-francia",
+                        "name": "Francia"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/portugal.png",
+                        "url": "#",
+                        "id": "4-espana-5-brasil",
+                        "name": "Portugués"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/usa.png",
+                        "url": "#",
+                        "id": "4-espana-5-ingles",
+                        "name": "Inglés"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/espana.png",
+                        "url": "#",
+                        "id": "4-espana-5-espana",
+                        "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "4-espana-5-aleman",
+                        "name": "Alemán"
+                    }
+                ]
+            },
+            {
+                "x": "0",
+                "y": "85%",
+                "viewX": 1800,
+                "viewY": 100,
+                "width": "100%",
+                "height": "20%",
+                "fontSize": "5em",
+                "tag": "btn-normal-2",
+                "class": "",
+                "text": "",
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/iconEscucha.png",
+                        "url": "./assets/audios/page-5-aleman.mp3"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/iconImprimir.png",
+                        "url": "https://drive.google.com/file/d/1j3NPIsHlSPA_YqV7khcuLH0PZAsqdOVH/view?usp=share_link"
+                    }
+                ]
+            },
+            {
+                "x": "0",
+                "y": "78%",
+                "width": "100%",
+                "background-color": "#982221",
+                "color": "#fff",
+                "font-size": "0.89em",
+                "tag": "btn-normal",
+                "class": "",
+                "id": "btn-aleman-5",
+                "text": "",
+                "data": {
+                    "text": "Weiterlesen",
+                    "url": "#"
+                }
+            },
+            {
+                "x": "0",
+                "y": "31%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "title-content",
+                "style": "font-weight: normal; font-size: 0.9em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
+                "text": "",
+                "id_unique": "title-content-espanol-5",
+                "data": {
+                    "text": "Wer an mich glaubt, wie die Heilige Schrift sagt ….",
+                    "url": "#"
+                }
+            },
+            {
+                "x": "0",
+                "y": "39.5%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "styleBox": "width: 77%",
+                "font-size": "1em",
+                "id_unique": "text-content-espanol-5",
+                "tag": "content-text",
+                "style": "font-weight: normal; font-size: 0.86em; color: rgb(107 104 104); text-align: justify;  font-family: 'Times New Roman', Times, serif;",
+                "text": "",
+                "data": {
+                   "text": "<p class='first_letter_red'>Brüderliche Grüße an alle unsere Brüder im Namen Jesu. Wenn ich über das Thema dieser neuen Ausgabe mit dem Titel 'Wie die Schrift sagt' nachdenke, muss ich sagen, dass sein Wort die Fackel ist, die unseren Weg erleuchtet und unser Schicksal lenkt.</p> <p style='padding-top: 0.5em;'> Mit dem Ziel, Instrumente zu fördern, die zu unserem Wachstum und unserer Ausbildung beitragen, hat das Konsistorium der Ältesten, das immer danach strebt, in allem, was wir tun, unter der Führung Gottes zu handeln, das Ziel unserer vorherigen Ausgabe mit dem Titel 'Für immer der Glaube' aufgegriffen und auf unseren christlichen Lebensstil ausgerichtet und schlägt daher unser neues Motto vor: 'Wie die Schrift sagt'. </p>"
+                }
+            },
+            {
+                "_id": "text-read-more",
+                "text": " <p style='font-size: 2em; text-align: center; color: #387086;'><strong>BRIEF DES VORSITZENDEN</strong></p> <p style='padding-top: 0.7em; font-size: 1em; color: #387086;'>Wer an mich glaubt, wie die Heilige Schrift sagt ….</p> <p style='padding-top: 0.7em; font-size: 1em;'>Brüderliche Grüße an alle unsere Brüder im Namen Jesu. Wenn ich über das Thema dieser neuen Ausgabe mit dem Titel ;Wie die Schrift sagt' nachdenke, muss ich sagen, dass sein Wort die Fackel ist, die unseren Weg erleuchtet und unser Schicksal lenkt. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Mit dem Ziel, Instrumente zu fördern, die zu unserem Wachstum und unserer Ausbildung beitragen, hat das Konsistorium der Ältesten, das immer danach strebt, in allem, was wir tun, unter der Führung Gottes zu handeln, das Ziel unserer vorherigen Ausgabe mit dem Titel 'Für immer der Glaube' aufgegriffen und auf unseren christlichen Lebensstil ausgerichtet und schlägt daher unser neues Motto vor: 'Wie die Schrift sagt'. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Die Heilige Schrift ist das Wort Gottes, obwohl sie von Menschen geschrieben wurde, die von ihm inspiriert wurden; wir sind uns nicht darüber im Unklaren, dass sieden ganzen Plan des Herrn für die Menschen enthält, um gerettet zu werden, gerecht und gottesfürchtig zu leben, in der Weisheit zu wachsen, vollendet und zu jedem guten Werk vorbereitet zu werden.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Unter den vielen bereichernden Lehren für unser Leben und in Übereinstimmung mit dem Vorschlag Christi, in Frieden, Gemeinschaft, Brüderlichkeit und Harmonie zu leben, hat er uns mit dem gleichen inspirierenden Geist seines Wortes ausgestattet, der uns dazu führt, im Licht zu wandeln und unsere möglichen Unterschiede zu akzeptieren, ohne Streit, Hass und Groll zu erzeugen. </p> <p style='padding-top: 0.7em; font-size: 1em;'><span style='font-style: italic;'><strong>“Seine Stimme ertönt auf der ganzen Erde...” (Psalm 19.4).</strong></span> Durch sein Wort werden wir gereinigt. Erinnern wir uns daran, dass menschliche Anstrengungen, unsere Opfer, nutzlos sind, um ein reines Herz zu erlangen; nur ein Wille, der auf sein Wort und durch seinen Geist ausgerichtet ist, wird uns verwandeln. Durch sein Wort werden wir aufgebaut und mit den notwendigen Grundlagen für ein siegreiches Leben in Christus Jesus versorgt; sein Wort gibt uns Wachstum und Festigkeit, sein Wort ist Leben. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Sein Wort ist ein Licht, das unsere Schritte erhellt, damit unsere Füße nicht vom Weg abkommen, wir nicht ausrutschen, nicht stolpern und so den Marsch zur Eroberung unserer Heiligung fortsetzen. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Wir haben das sicherste prophetische Wort; wir werden gut daran tun, es immer zu beachten und zu befolgen. Wir werden auf diese Fackel achten, die an einem dunklen Ort leuchtet, inmitten der Finsternis dieser Welt, bis der Tag anbricht und der Morgenstern in unseren Herzen aufgeht.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Das Wort des Herrn Jesus ist es wert, von allen aufgenommen zu werden; ein Teil des Ziels unserer neuen Ausgabe ist es, ein weiteres Mittel zu seiner Verbreitung zu sein. Deshalb laden wir unsere Leser ein, die Heilige Schrift zu schätzen; sie wird uns bis zum Ende leiten. </p> <p style='padding-top: 0.7em; font-size: 1em; color: #387086;'>Von Héctor Ariel Campuzano Fonseca. Präsident IPUC </p>"
             }
         ]
     },
@@ -487,30 +644,36 @@
                 }
             },
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "6-francia-7-francia"
+                        "id": "6-francia-7-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "6-brasil-7-brasil"
+                        "id": "6-brasil-7-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "6-espana-7-espana"
+                        "id": "6-espana-7-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -569,30 +732,36 @@
                 }
             },
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "6-francia-7-francia"
+                        "id": "6-francia-7-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "6-brasil-7-brasil"
+                        "id": "6-brasil-7-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "6-espana-7-espana"
+                        "id": "6-espana-7-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -604,35 +773,42 @@
     "11": {
         "francia": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "10-espana-11-francia"
+                        "id": "10-espana-11-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "10-espana-11-brasil"
+                        "id": "10-espana-11-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "10-espana-11-ingles"
+                        "id": "10-espana-11-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "10-espana-11-espana"
+                        "id": "10-espana-11-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -697,35 +873,42 @@
         ],
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "10-espana-11-francia"
+                        "id": "10-espana-11-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "10-espana-11-brasil"
+                        "id": "10-espana-11-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "10-espana-11-ingles"
+                        "id": "10-espana-11-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "10-espana-11-espana"
+                        "id": "10-espana-11-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -803,37 +986,44 @@
                 "data": {
                     "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1.1em; font-style: italic;'>“I planted, Apollos watered, but God gave the  <br> increase. 7 So then neither he who plants is anything <br> , nor he who waters, but God who gives the increase. <br>(1 Corinthians 3: 6-7 New King James Version) </p> <p style='padding-top: 0.7em; font-size: 1em;'> The Kingdom of Heaven is compared to a mustard seed, the smallest of all seeds, but one that was for the Jewish people quite insignificant. Being so tiny when it is sowed, it grows and makes a robust tree that offers shelter on all its branches for the birds. But how does that small seed grown into such a shade-giving tree? So it is God who works the new borth in a person’s life (Mark 4: 26-29). </p>"
                 }
-            },
+            },    
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "10-espana-11-francia"
+                        "id": "10-espana-11-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "10-espana-11-brasil"
+                        "id": "10-espana-11-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "10-espana-11-ingles"
+                        "id": "10-espana-11-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "10-espana-11-espana"
+                        "id": "10-espana-11-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -883,30 +1073,36 @@
     "17": {
         "francia": [
             {
-                "x": "24%",
-                "y": "2%",
-                "width": "25%",
+                "x": "0",
+                "y": "4%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "16-espana-17-francia"
+                        "id": "16-espana-17-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "16-espana-17-brasil"
+                        "id": "6-espana-17-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "16-espana-17-espana"
+                        "id": "16-espana-17-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1043,30 +1239,36 @@
                 ]
             },
             {
-                "x": "24%",
-                "y": "2%",
-                "width": "25%",
+                "x": "0",
+                "y": "4%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "16-espana-17-francia"
+                        "id": "16-espana-17-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "16-espana-17-brasil"
+                        "id": "6-espana-17-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "16-espana-17-espana"
+                        "id": "16-espana-17-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1193,8 +1395,8 @@
         "brasil": [
             {
                 "x": "0",
-                "y": "28%",
-                "style": "width: 96% !important;",
+                "y": "12%",
+                "style": "width: 85% !important;",
                 "zIndex": "1",
                 "width": "100%",
                 "tag": "img-content",
@@ -1224,30 +1426,30 @@
         "francia": [],
         "brasil": [
             {
-                "x": "24%",
-                "y": "5%",
-                "width": "25%",
+                "x": "0",
+                "y": "4%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
-                        "icon": "./assets/pics/icons/francia.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "22-espana-23-espana"
-                    },
-                    {
-                        "icon": "./assets/pics/icons/brasil.png",
-                        "url": "#",
-                        "id": "22-brasil-23-brasil"
+                        "id": "22-brasil-23-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "22-espana-23-espana"
+                        "id": "22-brasil-23-brasil",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1371,31 +1573,30 @@
     "29": {
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "1%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
-                "zIndex": 9999999,
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
-                        "icon": "./assets/pics/icons/francia.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "28-espana-29-espana"
-                    },
-                    {
-                        "icon": "./assets/pics/icons/brasil.png",
-                        "url": "#",
-                        "id": "28-brasil-29-brasil"
+                        "id": "28-brasil-29-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "28-espana-29-espana"
+                        "id": "28-espana-29-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1472,31 +1673,30 @@
     "31": {
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "1%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
-                "zIndex": 9999999,
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
-                        "icon": "./assets/pics/icons/francia.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "30-espana-31-espana"
-                    },
-                    {
-                        "icon": "./assets/pics/icons/brasil.png",
-                        "url": "#",
-                        "id": "30-espana-31-brasil"
+                        "id": "30-espana-31-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "30-espana-31-espana"
+                        "id": "30-espana-31-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1542,8 +1742,8 @@
                 "id_unique": "btn-read-more-31",
                 "text": "",
                 "data": {
-                   "text": "ler mais",
-                   "url": "#"
+                    "text": "ler mais",
+                    "url": "#"
                 }
             },
             {

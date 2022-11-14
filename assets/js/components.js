@@ -62,6 +62,20 @@ const addComponents = (region, lang) => {
         case 'botones-idomas-4':
             element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 25% 25% 25% 25%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[0].id}')"><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[1].id}')"><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[2].id}')"><img src="${(region.data)[2].icon}" ></a> <a id="${(region.data)[3].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[3].id}')"><img src="${(region.data)[3].icon}" ></a>`} </div> </div>`)
             break;
+        case 'botones-idomas-5':
+            element = (`<div class="div-center-ubication-responsive"> 
+                               <div style='${region.styleBox}'>
+
+                                ${(region.data).map((item) => {
+                                     return `
+                                     <a id="${item.id}" style="cursor: pointer; width: 2em; height: 2em;" onClick="clickLenguage('${item.id}')">
+                                     <img src="${item.icon}" >
+                                     </a><p>${item.name}</p>`
+                                })}
+
+                               </div>
+                       </div>`)
+            break;
         case 'boton-author':
             element = (`<div class="div-center-ubication-responsive"><div id="${region.id_1}" class='box-content-img-text'><div id="${region.id_2}" class='box-content-text-autor' style="${region.styleBoxText}" ><p id="${region.id_3}" style="${region.styleTextAutor}">${region.autor}</p></div><div id="${region.id_4}" style="${region.styleBoxImg}" class='circle-autor-img'><img id="${region.id_5}" src="${region.data.src}" style="width: 99% !important; height: 100%; object-fit: cover; ${region.styleImg}"> </div></div></div>`)
             break;
