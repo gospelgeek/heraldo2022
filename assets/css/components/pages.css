@@ -1045,7 +1045,7 @@ audio {
 }
 
 #img-content-1-aux {
-    animation: slidein 1.5s linear ;
+    animation: slideout 1.5s linear ;
 }
 
 #btn-read-more-33new .btn-normal-23 {
@@ -1076,6 +1076,15 @@ audio {
 @keyframes slidein {
     0% {
         transform: translateX(-100%);
+    }
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+@keyframes slideout {
+    0% {
+        transform: translateX(100%);
     }
     100% {
         transform: translateX(0%);
