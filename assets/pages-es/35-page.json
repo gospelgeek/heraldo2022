@@ -11,12 +11,12 @@
         "style": "font-weight: normal; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p id='text-35-class-aux' class='first_letter_red' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.12em; font-style: italic; color: #495f79;'>“En cuanto a Dios perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan<span style='color: #0e5b79;'>”</span> <p style='text-align: center; color: #528097;'>(Salmos 18:30)</p></p>"
+            "text": "<p id='text-35-class-aux' class='first_letter_red' style='line-height: 1.2em; text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.12em; font-style: italic; color: #495f79;'>“En cuanto a Dios perfecto es su camino, Y acrisolada la palabra de Jehová; Escudo es a todos los que en él esperan<span style='color: #0e5b79;'>”</span> <p style='text-align: center; color: #528097;'>(Salmos 18:30)</p></p>"
         }
     },
     {
         "x": "0",
-        "y": "28%",
+        "y": "26%",
         "width": "100%",
         "styleBox": "width: 78%;",
         "background-color": "#b41015",
