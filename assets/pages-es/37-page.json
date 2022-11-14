@@ -11,7 +11,7 @@
         "style": "font-weight: normal; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1em; font-style: italic; color: 1E1E1F;'>“Seguid el amor; y procurad los dones espirituales, pero sobre todo que profeticéis. Porque el que habla en lenguas no habla a los hombres, sino a Dios; pues nadie le entiende, aunque por el Espíritu habla misterios. Pero el que profetiza habla a los hombres para edificación, exhortación y consolación <p style='text-align: center; font-weight: 900 !important;'>(1 Corintios 14:1-3).</p></p>"
+            "text": "<p id='first_letter_17' class='first_letter_red' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1em; font-style: italic; color: 1E1E1F;'>“Seguid el amor; y procurad los dones espirituales, pero sobre todo que profeticéis. Porque el que habla en lenguas no habla a los hombres, sino a Dios; pues nadie le entiende, aunque por el Espíritu habla misterios. Pero el que profetiza habla a los hombres para edificación, exhortación y consolación <p style='text-align: center; font-weight: 900 !important;'>(1 Corintios 14:1-3).</p></p>"
         }
     },
     {

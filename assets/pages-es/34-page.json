@@ -24,13 +24,24 @@
     },
     {
         "x": "0",
-        "y": "48%",
+        "y": "52%",
         "style": "width: 90%;",
-        "zIndex": "1",
+        "zIndex": "2",
         "width": "100%",
         "tag": "img-content",
         "data": {
             "src": "./assets/pics/icons/titulo-32.png"
+        }
+    },
+    {
+        "x": "0",
+        "y": "7%",
+        "style": "width: 100%;",
+        "zIndex": "1",
+        "width": "100%",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/foto-34.png"
         }
     }
 ]

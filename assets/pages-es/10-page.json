@@ -20,9 +20,9 @@
         "id_3": "text-content-autor-10",
         "id_4": "box-page-7-autor",
         "styleImg": "width: 96%; height: 96%; border-radius: 50%;",
-        "styleBoxText": "height: 1em; width: 18em; align-self: end; margin-left: -9.5em; margin-bottom: 1em; grid-area: area-2;",
+        "styleBoxText": "height: 1em; width: 22em; align-self: end; margin-left: -13em; margin-bottom: 1em; grid-area: area-2;",
         "styleBoxImg": "grid-area: area-1;",
-        "styleTextAutor": "padding-left: 1em; font-size: 0.55em; color: #fff;",
+        "styleTextAutor": "padding-left: 8.2em; font-size: 0.55em; color: #fff;",
         "tag": "boton-author",
         "autor": "Por Edilberto Ortiz Sanmartín. Segundo Vicepresidente IPUC",
         "data": {
