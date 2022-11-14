@@ -1,33 +1,39 @@
 [
     {
-        "x": "24%",
+        "x": "0",
         "y": "5%",
-        "width": "30%",
+        "width": "100%",
         "background-color": "#b41015",
         "color": "#fff",
         "font-size": "1.3em",
-        "tag": "botones-idomas-4",
+        "zIndex": 300,
+        "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+        "tag": "botones-idomas-5",
         "text": "",
         "data": [
             {
                 "icon": "./assets/pics/icons/francia.png",
                 "url": "#",
-                "id": "10-espana-11-francia"
+                "id": "10-espana-11-francia",
+                "name": "Francia"
             },
             {
-                "icon": "./assets/pics/icons/brasil.png",
+                "icon": "./assets/pics/icons/portugal.png",
                 "url": "#",
-                "id": "10-espana-11-brasil"
+                "id": "10-espana-11-brasil",
+                "name": "Portugués"
             },
             {
                 "icon": "./assets/pics/icons/usa.png",
                 "url": "#",
-                "id": "10-espana-11-ingles"
+                "id": "10-espana-11-ingles",
+                "name": "Inglés"
             },
             {
                 "icon": "./assets/pics/icons/espana.png",
                 "url": "#",
-                "id": "10-espana-11-espana"
+                "id": "10-espana-11-espana",
+                "name": "Español"
             }
 
         ]

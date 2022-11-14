@@ -644,30 +644,36 @@
                 }
             },
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "6-francia-7-francia"
+                        "id": "6-francia-7-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "6-brasil-7-brasil"
+                        "id": "6-brasil-7-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "6-espana-7-espana"
+                        "id": "6-espana-7-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -726,30 +732,36 @@
                 }
             },
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "6-francia-7-francia"
+                        "id": "6-francia-7-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "6-brasil-7-brasil"
+                        "id": "6-brasil-7-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "6-espana-7-espana"
+                        "id": "6-espana-7-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -761,35 +773,42 @@
     "11": {
         "francia": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "10-espana-11-francia"
+                        "id": "10-espana-11-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "10-espana-11-brasil"
+                        "id": "10-espana-11-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "10-espana-11-ingles"
+                        "id": "10-espana-11-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "10-espana-11-espana"
+                        "id": "10-espana-11-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -854,35 +873,42 @@
         ],
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "10-espana-11-francia"
+                        "id": "10-espana-11-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "10-espana-11-brasil"
+                        "id": "10-espana-11-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "10-espana-11-ingles"
+                        "id": "10-espana-11-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "10-espana-11-espana"
+                        "id": "10-espana-11-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -960,37 +986,44 @@
                 "data": {
                     "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1.1em; font-style: italic;'>“I planted, Apollos watered, but God gave the  <br> increase. 7 So then neither he who plants is anything <br> , nor he who waters, but God who gives the increase. <br>(1 Corinthians 3: 6-7 New King James Version) </p> <p style='padding-top: 0.7em; font-size: 1em;'> The Kingdom of Heaven is compared to a mustard seed, the smallest of all seeds, but one that was for the Jewish people quite insignificant. Being so tiny when it is sowed, it grows and makes a robust tree that offers shelter on all its branches for the birds. But how does that small seed grown into such a shade-giving tree? So it is God who works the new borth in a person’s life (Mark 4: 26-29). </p>"
                 }
-            },
+            },    
             {
-                "x": "24%",
+                "x": "0",
                 "y": "5%",
-                "width": "30%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
-                "tag": "botones-idomas-4",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "10-espana-11-francia"
+                        "id": "10-espana-11-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "10-espana-11-brasil"
+                        "id": "10-espana-11-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/usa.png",
                         "url": "#",
-                        "id": "10-espana-11-ingles"
+                        "id": "10-espana-11-ingles",
+                        "name": "Inglés"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "10-espana-11-espana"
+                        "id": "10-espana-11-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1040,30 +1073,36 @@
     "17": {
         "francia": [
             {
-                "x": "24%",
-                "y": "2%",
-                "width": "25%",
+                "x": "0",
+                "y": "4%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "16-espana-17-francia"
+                        "id": "16-espana-17-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "16-espana-17-brasil"
+                        "id": "6-espana-17-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "16-espana-17-espana"
+                        "id": "16-espana-17-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1200,30 +1239,36 @@
                 ]
             },
             {
-                "x": "24%",
-                "y": "2%",
-                "width": "25%",
+                "x": "0",
+                "y": "4%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
                         "icon": "./assets/pics/icons/francia.png",
                         "url": "#",
-                        "id": "16-espana-17-francia"
+                        "id": "16-espana-17-francia",
+                        "name": "Francia"
                     },
                     {
-                        "icon": "./assets/pics/icons/brasil.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "16-espana-17-brasil"
+                        "id": "6-espana-17-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "16-espana-17-espana"
+                        "id": "16-espana-17-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1350,8 +1395,8 @@
         "brasil": [
             {
                 "x": "0",
-                "y": "28%",
-                "style": "width: 96% !important;",
+                "y": "12%",
+                "style": "width: 85% !important;",
                 "zIndex": "1",
                 "width": "100%",
                 "tag": "img-content",
@@ -1381,30 +1426,30 @@
         "francia": [],
         "brasil": [
             {
-                "x": "24%",
-                "y": "5%",
-                "width": "25%",
+                "x": "0",
+                "y": "4%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
-                        "icon": "./assets/pics/icons/francia.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "22-espana-23-espana"
-                    },
-                    {
-                        "icon": "./assets/pics/icons/brasil.png",
-                        "url": "#",
-                        "id": "22-brasil-23-brasil"
+                        "id": "22-brasil-23-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "22-espana-23-espana"
+                        "id": "22-brasil-23-brasil",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1528,31 +1573,30 @@
     "29": {
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "1%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
-                "zIndex": 9999999,
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
-                        "icon": "./assets/pics/icons/francia.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "28-espana-29-espana"
-                    },
-                    {
-                        "icon": "./assets/pics/icons/brasil.png",
-                        "url": "#",
-                        "id": "28-brasil-29-brasil"
+                        "id": "28-brasil-29-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "28-espana-29-espana"
+                        "id": "28-espana-29-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
@@ -1629,31 +1673,30 @@
     "31": {
         "brasil": [
             {
-                "x": "24%",
+                "x": "0",
                 "y": "1%",
-                "width": "25%",
+                "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
-                "font-size": "1em",
-                "tag": "botones-idomas",
-                "zIndex": 9999999,
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
                     {
-                        "icon": "./assets/pics/icons/francia.png",
+                        "icon": "./assets/pics/icons/portugal.png",
                         "url": "#",
-                        "id": "30-espana-31-espana"
-                    },
-                    {
-                        "icon": "./assets/pics/icons/brasil.png",
-                        "url": "#",
-                        "id": "30-espana-31-brasil"
+                        "id": "30-espana-31-brasil",
+                        "name": "Portugués"
                     },
                     {
                         "icon": "./assets/pics/icons/espana.png",
                         "url": "#",
-                        "id": "30-espana-31-espana"
+                        "id": "30-espana-31-espana",
+                        "name": "Español"
                     }
+        
                 ]
             },
             {
