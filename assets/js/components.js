@@ -78,7 +78,7 @@ const addComponents = (region, lang) => {
                        </div>`)
             break;
         case 'boton-author':
-            element = (`<div class="div-center-ubication-responsive"><div id="${region.id_1}" class='box-content-img-text'><div id="${region.id_2}" class='box-content-text-autor' style="${region.styleBoxText}" ><p id="${region.id_3}" style="${region.styleTextAutor}">${region.autor}</p></div><div id="${region.id_4}" style="${region.styleBoxImg}" class='circle-autor-img'><img id="${region.id_5}" src="${region.data.src}" style="width: 99% !important; height: 100%; object-fit: cover; ${region.styleImg}"> </div></div></div>`)
+            element = (`<div class="div-center-ubication-responsive"><div id="${region.id_1}" class='box-content-img-text'><div id="${region.id_2}" class='box-content-text-autor' style="${region.styleBoxText}" ><p class='author-class' id="${region.id_3}" style="${region.styleTextAutor}">${region.autor}</p></div><div id="${region.id_4}" style="${region.styleBoxImg}" class='circle-autor-img author-class'><img id="${region.id_5}" src="${region.data.src}" style="width: 99% !important; height: 100%; object-fit: cover; ${region.styleImg}"> </div></div></div>`)
             break;
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +

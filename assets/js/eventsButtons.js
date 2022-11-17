@@ -113,7 +113,6 @@ btnNav.addEventListener('click', () => {
 });
 
 
-
 //evento click para quitar el read more
 $('.read-more-close').on('click', function (event) {
     //prevent the default action for the click event
@@ -263,6 +262,7 @@ const playAudio = (e) => {
 
 
 }
+
 
 /**
     * @dec Funcion para agregar una region

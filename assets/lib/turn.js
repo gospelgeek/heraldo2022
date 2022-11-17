@@ -184,16 +184,16 @@ turnMethods = {
 
     // Event listeners
 
-    $(this).bind(mouseEvents.down, data.eventHandlers.touchStart).
+    $(this)./*bind(mouseEvents.down, data.eventHandlers.touchStart).*/
       bind('end', turnMethods._eventEnd).
       bind('pressed', turnMethods._eventPressed).
-      bind('released', turnMethods._eventReleased).
-      bind('flip', turnMethods._flip);
+      bind('released', turnMethods._eventReleased)
+      /*bind('flip', turnMethods._flip);*/
 
     $(this).parent().bind('start', data.eventHandlers.start);
 
-    $(document).bind(mouseEvents.move, data.eventHandlers.touchMove).
-      bind(mouseEvents.up, data.eventHandlers.touchEnd);
+    /*$(document).bind(mouseEvents.move, data.eventHandlers.touchMove).
+      bind(mouseEvents.up, data.eventHandlers.touchEnd);*/
 
     // Set the initial page
 
