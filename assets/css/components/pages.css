@@ -744,6 +744,11 @@ audio {
     color: #12ccff;
 }
 
+.author-class {
+    z-index: 100;
+    cursor: pointer;
+}
+
 .monserrat-black {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
