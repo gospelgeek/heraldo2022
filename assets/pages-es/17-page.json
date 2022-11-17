@@ -7,7 +7,7 @@
         "color": "#fff",
         "font-size": "1.3em",
         "zIndex": 300,
-        "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+        "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em; background-color: rgb(255,255,255,0.5)",
         "tag": "botones-idomas-5",
         "text": "",
         "data": [
@@ -15,7 +15,7 @@
                 "icon": "./assets/pics/icons/francia.png",
                 "url": "#",
                 "id": "16-espana-17-francia",
-                "name": "Francia"
+                "name": "Frances"
             },
             {
                 "icon": "./assets/pics/icons/portugal.png",

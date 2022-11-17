@@ -68,9 +68,10 @@ const addComponents = (region, lang) => {
 
                                 ${(region.data).map((item) => {
                                      return `
-                                     <a id="${item.id}" style="cursor: pointer; width: 2em; height: 2em;" onClick="clickLenguage('${item.id}')">
-                                     <img src="${item.icon}" >
-                                     </a><p>${item.name}</p>`
+                                     <a id="${item.id}" style="display: flex; gap: 0.5em; align-items: center; justify-items: center; cursor: pointer;" onClick="clickLenguage('${item.id}')">
+                                     <img style='width: 2em; height: 2em;' src="${item.icon}" >
+                                     <p>${item.name}</p>
+                                     </a>`
                                 })}
 
                                </div>
