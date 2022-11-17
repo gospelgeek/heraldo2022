@@ -1035,6 +1035,10 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-2 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;

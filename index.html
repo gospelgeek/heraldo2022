@@ -15,7 +15,14 @@
 
 
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-
+    <script>
+        $(document).on('mousemove', function(e) {
+            e.preventDefault();
+            $(this).off('mousemove');
+            $('.magazine').off('pressed');
+            $('.magazine').off('mousedown');
+        });
+    </script>
     <script type="text/javascript" src="./assets/extras/jquery.min.1.7.js"></script>
     <script type="text/javascript" src="./assets/extras/modernizr.2.5.3.min.js"></script>
     <script type="text/javascript" src="./assets/js/wordfind.js"></script>

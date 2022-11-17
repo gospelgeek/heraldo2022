@@ -49,6 +49,9 @@ const clickReadMore = async (e) => {
 
     //poner visible la caja de texto
     $('.read-more-box').removeClass('display-none')
+    
+    //scroll 0
+    $('.read-more-text').scrollTop(0)
 
     let id_page = (e.replace("+", "").replace("+", "")).split('-')[2]
     let lang = (e.replace("+", "").replace("+", "")).split('-')[1]
