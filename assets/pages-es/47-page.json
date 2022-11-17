@@ -77,6 +77,7 @@
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.58em; color: #fff;",
         "tag": "boton-author",
+        "iframe": "https://www.youtube.com/embed/OKtxp10FRqY",
         "autor": "Por Vicente Arango. Director Misiones Extranjeras IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-47.png"

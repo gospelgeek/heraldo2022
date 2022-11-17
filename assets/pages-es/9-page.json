@@ -12,6 +12,7 @@
         "styleBoxImg": "grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.5em;  color: #fff;",
         "tag": "boton-author",
+        "iframe": "https://www.youtube.com/embed/cSoP3lEGg2E",
         "autor": "Por Esdras Barranco Jiménez. Primer Vicepresidente IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-9.png"

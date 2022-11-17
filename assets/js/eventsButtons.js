@@ -20,6 +20,14 @@ const showAudio = (audio) => {
     $('#' + audio.id)[0].play();
 }
 
+const click_autor = (e) => {
+
+    //poner visible la caja de texto
+    $('.read-more-box').removeClass('display-none')
+    console.log(e)
+    $('.read-more-text').html(`<iframe width='100%' height='100%' src="${e}" title='Secretario General Heraldo 09 junio 2022 11 18 09 a m' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>`)
+}
+
 
 //variables auxiliares para el audio
 var band_audio = true;

@@ -50,6 +50,7 @@
         "styleTextAutor": "padding-left: 8em; font-size: 0.55em; color: #fff;",
         "tag": "boton-author",
         "autor": "Por Angelmiro Camacho Isaza. Director General FECP",
+        "iframe": "https://www.youtube.com/embed/wFJ_5tekEnM",
         "data": {
             "src": "./assets/pics/icons/autor-18.png"
         }
