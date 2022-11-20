@@ -1384,6 +1384,9 @@ audio {
     #img-content-1 .aux-img-class {
         width: 100% !important;
     } 
+    #idiomas-page-5 {
+        font-size: 0.6em !important;
+    }
 
 
 }

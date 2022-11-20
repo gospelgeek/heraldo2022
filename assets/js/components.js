@@ -64,7 +64,7 @@ const addComponents = (region, lang) => {
             break;
         case 'botones-idomas-5':
             element = (`<div class="div-center-ubication-responsive"> 
-                               <div style='${region.styleBox}'>
+                               <div id='${region.id_box}' style='${region.styleBox}'>
 
                                 ${(region.data).map((item) => {
                                      return `
