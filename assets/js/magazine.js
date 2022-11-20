@@ -199,11 +199,16 @@ function createWordsGame(words) {
 
    function resizeViewport() {
 
-       var width = $(window).width(),
-           height = $(window).height(),
-           options = $('.magazine').turn('options');
+       var width = $(window).width() ,
+           height = ($(window).height()),
+           options = $('.magazine').turn('options'); 
 
        $('.magazine').removeClass('animated');
+
+       if ( width <= 600 ) {
+           height += ($(window).height() * 0.16) ;
+       }
+         
 
        $('.magazine-viewport').css({
            width: width,
@@ -296,7 +301,7 @@ function createWordsGame(words) {
 
    function calculateBound(d) {
 
-       var bound = { width: d.width, height: d.height };
+      var bound = { width: d.width, height: d.height };
 
        if (bound.width > d.boundWidth || bound.height > d.boundHeight) {
 
