@@ -1219,9 +1219,6 @@ audio {
     #box-text-content-autor-9 {
         height: 0.8em !important;
     }
-    #text-content-espanol-5 {
-        font-size: 1.2em !important;
-    } 
     #text-content-frances-5 {
         font-size: 1.32em !important;
     }
@@ -1388,7 +1385,7 @@ audio {
         font-size: 0.94em !important;
     }
     #text-content-espanol-5 {
-        font-size: 1.25em !important;
+        font-size: 1.2em !important;
     }
     #text-content-brasil-5 {
         font-size: 1.25em !important;
@@ -1400,7 +1397,7 @@ audio {
         font-size: 1.25em !important;
     }
     #title-content-aleman-5 {
-        font-size: 0.78em !important;
+        font-size: 0.8em !important;
     }
     #text-content-aleman-5 {
         font-size: 1.25em !important;
