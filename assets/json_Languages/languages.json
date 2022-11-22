@@ -33,6 +33,7 @@
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-francia-5",
+                "id_unique": "boton-frances-5",
                 "text": "",
                 "data": {
                     "text": "Lire plus",
@@ -80,7 +81,7 @@
                 "font-size": "1.3em",
                 "zIndex": 300,
                 "id_box": "idiomas-page-5",
-                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "styleBox": "background-color: rgb(255,255,255,0.5); display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
                 "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
@@ -131,7 +132,7 @@
                 "font-size": "1.3em",
                 "id_box": "idiomas-page-5",
                 "zIndex": 300,
-                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "styleBox": "background-color: rgb(255,255,255,0.5); display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
                 "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
@@ -176,6 +177,7 @@
                 "height": "20%",
                 "fontSize": "5em",
                 "tag": "btn-normal-2",
+                "id_unique": "frances-5-icons",
                 "class": "",
                 "text": "",
                 "icon": "./assets/pics/icons/iconImprimir.png",
@@ -200,6 +202,7 @@
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-brasil-5",
+                "id_unique": "boton-frances-5",
                 "text": "",
                 "data": {
                     "text": "Ler mais",
@@ -253,6 +256,7 @@
                 "height": "20%",
                 "fontSize": "5em",
                 "tag": "btn-normal-2",
+                "id_unique": "frances-5-icons",
                 "class": "",
                 "text": "",
                 "icon": "./assets/pics/icons/iconImprimir.png",
@@ -277,6 +281,7 @@
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-ingles-5",
+                "id_unique": "boton-frances-5",
                 "text": "",
                 "data": {
                     "text": "Read more",
@@ -324,7 +329,7 @@
                 "font-size": "1.3em",
                 "id_box": "idiomas-page-5",
                 "zIndex": 300,
-                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "styleBox": "background-color: rgb(255,255,255,0.5); display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
                 "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
@@ -375,7 +380,7 @@
                 "font-size": "1.3em",
                 "zIndex": 300,
                 "id_box": "idiomas-page-5",
-                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "styleBox": "background-color: rgb(255,255,255,0.5); display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
                 "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
@@ -444,6 +449,7 @@
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-aleman-5",
+                "id_unique": "boton-aleman-5",
                 "text": "",
                 "data": {
                     "text": "Weiterlesen",
@@ -460,7 +466,7 @@
                 "tag": "title-content",
                 "style": "font-weight: normal; font-size: 0.9em; color: #387086; text-align: center; font-family: 'Montserrat', sans-serif;",
                 "text": "",
-                "id_unique": "title-content-espanol-5",
+                "id_unique": "title-content-aleman-5",
                 "data": {
                     "text": "Wer an mich glaubt, wie die Heilige Schrift sagt ….",
                     "url": "#"
@@ -474,7 +480,7 @@
                 "color": "#fff",
                 "styleBox": "width: 77%",
                 "font-size": "1em",
-                "id_unique": "text-content-espanol-5",
+                "id_unique": "text-content-aleman-5",
                 "tag": "content-text",
                 "style": "font-weight: normal; font-size: 0.86em; color: rgb(107 104 104); text-align: justify;  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
