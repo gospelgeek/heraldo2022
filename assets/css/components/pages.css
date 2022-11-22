@@ -1405,6 +1405,9 @@ audio {
     #boton-aleman-5 .boton-normal-text-23 {
         font-size: 0.6em !important;
     }
+    #box-text-page-7 .responsive-font-content {
+        font-size: 0.65em !important;
+    }
 
 
 }
@@ -1696,6 +1699,9 @@ audio {
     #page-6-content-text {
         font-size: 1.2em !important;
     }
+    #box-text-page-7 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
 
 
 }
@@ -1703,7 +1709,7 @@ audio {
 /*
   Autores
 */
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 390px) {
 
     #box-text-content-autor-7 {
         width: 13em !important;
