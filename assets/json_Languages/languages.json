@@ -622,13 +622,14 @@
             },
             {
                 "x": "0",
-                "y": "9%",
+                "y": "11%",
                 "width": "100%",
                 "styleBox": "",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
+                "id_unique": "box-text-page-frances-7",
                 "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.84em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -717,6 +718,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
+                "id_unique": "box-text-page-frances-7",
                 "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
