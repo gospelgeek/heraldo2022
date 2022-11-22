@@ -1196,9 +1196,6 @@ audio {
     #btn-content-icons-more-19 {
         top: 85% !important;
     }
-    #title-content-espanol-5 {
-        font-size: 0.85em !important;
-    }
     #title-content-frances-5 {
         font-size: 0.82em !important;
     }
@@ -1386,6 +1383,12 @@ audio {
     } 
     #idiomas-page-5 {
         font-size: 0.6em !important;
+    }
+    #title-content-espanol-5 {
+        font-size: 0.94em !important;
+    }
+    #text-content-espanol-5 {
+        font-size: 1.3em !important;
     }
 
 
@@ -1642,6 +1645,13 @@ audio {
     #img-content-28 .aux-img-class {
         width: 80% !important;
     } 
+    #title-content-espanol-5 {
+        font-size: 1em !important;
+    }
+    #text-content-espanol-5 {
+        font-size: 1.4em !important;
+    }
+
 }
 
 #puzzle {
