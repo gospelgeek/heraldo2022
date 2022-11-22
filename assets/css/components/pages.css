@@ -1049,6 +1049,10 @@ audio {
   display: none !important;
 }
 
+#pie-pagina-3 {
+  display: none !important;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -1380,6 +1384,9 @@ audio {
     #img-content-1 .aux-img-class {
         width: 100% !important;
     } 
+    #idiomas-page-5 {
+        font-size: 0.6em !important;
+    }
 
 
 }
@@ -1411,7 +1418,7 @@ audio {
         top: 78% !important;
     }
     #text-content-espanol-5 {
-        font-size: 1.05em !important;
+        font-size: 1.1em !important;
     }
     #title-content-frances-5 {
         font-size: 0.82em !important;
@@ -1597,6 +1604,21 @@ audio {
     #img-content-1 .aux-img-class {
         width: 100% !important;
     } 
+    #title-content-espanol-5 {
+        font-size: 0.9em !important;
+    }
+    #boton-frances-5 {
+        top: 80% !important;
+    }
+    #title-content-aleman-5 {
+        font-size: 0.78em !important;
+    }
+    #text-content-aleman-5 {
+        font-size: 1.1em !important;
+    }
+    #boton-aleman-5 .boton-normal-text-23 {
+        font-size: 0.6em !important;
+    }
 
 }
 

@@ -239,9 +239,9 @@ function createWordsGame(words) {
                $('.magazine').turn('size', bound.width, height * 0.6);
                $('.magazine').css({ left: -bound.width / 2 });
 
-           } else if (window.matchMedia("(max-width: 720px)").matches) {
+           } else if (window.matchMedia("(max-width: 870px)").matches) {
                $('.magazine').turn('display', 'single');
-               $('.magazine').turn('size', bound.width * 0.8, height);
+               $('.magazine').turn('size', bound.width * 0.7, height);
                $('.magazine').css({ left: -bound.width / 2.5 });
            } else {
                $('.magazine').turn('display', 'double');
