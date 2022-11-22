@@ -1693,9 +1693,30 @@ audio {
     #text-content-aleman-5 {
         font-size: 1.37em !important;
     }
+    #page-6-content-text {
+        font-size: 1.2em !important;
+    }
 
 
 }
+
+/*
+  Autores
+*/
+@media screen and (max-width: 380px) {
+
+    #box-text-content-autor-7 {
+        width: 13em !important;
+        margin-left: 1em !important;
+        height: 0.9em !important;
+    }
+    #text-content-autor-7 {
+        font-size: 0.42em !important;
+        padding-left: 1em !important;
+        padding-bottom: 1em !important;
+    }
+}
+
 
 #puzzle {
     margin: 20px 30px 0 30px;
