@@ -1197,10 +1197,10 @@ audio {
         top: 85% !important;
     }
     #title-content-frances-5 {
-        font-size: 0.82em !important;
+        font-size: 0.84em !important;
     }
     #title-content-ingles-5 {
-        font-size: 0.8em !important;
+        font-size: 0.82em !important;
     }
     #btn-ingles-5 {
         width: 4.9em;
@@ -1223,7 +1223,7 @@ audio {
         font-size: 1.2em !important;
     } 
     #text-content-frances-5 {
-        font-size: 1.2em !important;
+        font-size: 1.32em !important;
     }
     #title-content-brasil-5 {
         font-size: 0.9em !important;
@@ -1388,7 +1388,25 @@ audio {
         font-size: 0.94em !important;
     }
     #text-content-espanol-5 {
-        font-size: 1.3em !important;
+        font-size: 1.25em !important;
+    }
+    #text-content-brasil-5 {
+        font-size: 1.25em !important;
+    }
+    #boton-ingles-5 {
+        top: 76% !important;
+    }
+    #text-content-ingles-5 {
+        font-size: 1.25em !important;
+    }
+    #title-content-aleman-5 {
+        font-size: 0.78em !important;
+    }
+    #text-content-aleman-5 {
+        font-size: 1.25em !important;
+    }
+    #boton-aleman-5 .boton-normal-text-23 {
+        font-size: 0.6em !important;
     }
 
 
@@ -1431,9 +1449,6 @@ audio {
     }
     #title-content-brasil-5 {
         font-size: 0.86em !important;
-    }
-    #title-content-ingles-5 {
-        font-size: 0.77em !important;
     }
     #text-content-9 {
         top: 46% !important;
@@ -1622,6 +1637,12 @@ audio {
     #boton-aleman-5 .boton-normal-text-23 {
         font-size: 0.6em !important;
     }
+    #boton-ingles-5 {
+        top: 80% !important;
+    }
+    #title-content-ingles-5 {
+        font-size: 0.8em !important;
+    }
 
 }
 
@@ -1649,8 +1670,33 @@ audio {
         font-size: 1em !important;
     }
     #text-content-espanol-5 {
+        font-size: 1.35em !important;
+    }
+    #title-content-frances-5 {
+        font-size: 0.92em !important;
+    }
+    #text-content-frances-5 {
+        font-size: 1.42em !important;
+    }
+    #title-content-brasil-5 {
+        font-size: 1em !important;
+    }
+    #text-content-brasil-5 {
         font-size: 1.4em !important;
     }
+    #title-content-ingles-5 {
+        font-size: 0.86em !important;
+    }
+    #text-content-ingles-5 {
+        font-size: 1.35em !important;
+    }
+    #title-content-aleman-5 {
+        font-size: 0.85em !important;
+    }
+    #text-content-aleman-5 {
+        font-size: 1.37em !important;
+    }
+
 
 }
 
