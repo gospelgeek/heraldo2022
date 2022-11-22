@@ -206,7 +206,7 @@ function createWordsGame(words) {
        $('.magazine').removeClass('animated');
 
        if ( width <= 600 ) {
-           height += ($(window).height() * 0.16) ;
+           height += ($(window).height() * 0.163) ;
        }
          
 
