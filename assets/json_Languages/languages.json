@@ -234,7 +234,7 @@
                 "styleBox": "width: 77%",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "text-content-frances-5",
+                "id_unique": "text-content-brasil-5",
                 "style": "font-weight: normal; font-size: 0.86em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -281,7 +281,7 @@
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-ingles-5",
-                "id_unique": "boton-frances-5",
+                "id_unique": "boton-ingles-5",
                 "text": "",
                 "data": {
                     "text": "Read more",
@@ -313,7 +313,7 @@
                 "font-size": "1em",
                 "styleBox": "width: 77%",
                 "tag": "content-text",
-                "id_unique": "text-content-frances-5",
+                "id_unique": "text-content-ingles-5",
                 "style": "font-weight: normal; font-size: 0.8em; color: rgb(107 104 104); text-align: justify;  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
