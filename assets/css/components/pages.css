@@ -1213,11 +1213,13 @@ audio {
         top: 75% !important;
     }
     #text-content-autor-9 {
-        font-size: 0.3em !important;
+        font-size: 0.4em !important;
         margin-top: 0.5em !important;
     }
     #box-text-content-autor-9 {
         height: 0.8em !important;
+        width: 16em !important;
+        margin-left: 1em !important;
     }
     #text-content-frances-5 {
         font-size: 1.23em !important;
@@ -1733,6 +1735,7 @@ audio {
         padding-left: 1em !important;
         padding-bottom: 1em !important;
     }
+    
 }
 
 
