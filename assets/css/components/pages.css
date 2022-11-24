@@ -1145,7 +1145,10 @@ audio {
         top: 75% !important;
     }
     #text-content-9 {
-        top: 44% !important;
+        top: 37% !important;
+    }
+    #text-content-9 .responsive-font-content {
+        font-size: 0.7em !important;
     }
     #btn-11-icons {
         top: 40% !important;
@@ -1182,7 +1185,7 @@ audio {
         left: 0.9em !important;
     }
     #title-9-content {
-        font-size: 0.89em !important;
+        font-size: 1em !important;
     }
     #content-text-13 {
         font-size: 1em !important;
@@ -1218,7 +1221,7 @@ audio {
     }
     #box-text-content-autor-9 {
         height: 0.8em !important;
-        width: 16em !important;
+        width: 18em !important;
         margin-left: 1em !important;
     }
     #text-content-frances-5 {
@@ -1456,7 +1459,10 @@ audio {
         font-size: 0.86em !important;
     }
     #text-content-9 {
-        top: 46% !important;
+        top: 42% !important;
+    }
+    #text-content-9 .responsive-font-content {
+        font-size: 0.6em !important;
     }
     #btn-9-read-more {
         top: 80% !important;
@@ -1654,6 +1660,9 @@ audio {
     #box-text-page-frances-7 .responsive-font-content {
        font-size: 0.6em !important;
     }
+    #text-content-autor-9 {
+        font-size: 0.2em !important;
+    }
 
 }
 
@@ -1715,6 +1724,9 @@ audio {
     }
     #page-6-content-text {
         top: 25% !important;
+    }
+    #title-9-content {
+        font-size: 1.1em !important;
     }
 
 
