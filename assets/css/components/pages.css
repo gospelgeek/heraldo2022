@@ -1151,14 +1151,14 @@ audio {
         font-size: 0.65em !important;
     }
     #btn-11-icons {
-        top: 40% !important;
+        top: 47% !important;
     }
     #btn-11-content {
-        top: 40% !important;
+        top: 47.3% !important;
     }
     #text-contenet-spana-11 {
-        top: 9% !important;
-        font-size: 1em !important;
+        top: 12% !important;
+        font-size: 1.15em !important;
     }
     #titulo-12-content {
         top: 4% !important;
@@ -1480,15 +1480,9 @@ audio {
     #btn-7-spanis-aux {
         top: 80% !important;
     }
-    #btn-11-icons {
-        top: 43% !important;
-    }
-    #btn-11-content {
-        top: 43% !important;
-    }
     #text-contenet-spana-11 {
-        top: 9% !important;
-        font-size: 0.9em !important;
+        top: 12% !important;
+        font-size: 1em !important;
     }
     #title-spanis-10 {
         top: 9% !important;
@@ -1741,6 +1735,10 @@ audio {
     #text-content-autor-10 {
         font-size: 0.45em !important;
         padding-left: 7em !important;
+    }
+    #text-contenet-spana-11 {
+        top: 12% !important;
+        font-size: 1.2em !important;
     }
 
 
