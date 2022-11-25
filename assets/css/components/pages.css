@@ -1173,10 +1173,10 @@ audio {
         font-size: 0.72em !important;   
     }
     #text-element-page-13 {
-        top: 35% !important;
+        top: 33% !important;
     }
     #text-element-page-13 .responsive-font-content {
-        font-size: 0.74em !important;
+        font-size: 0.7em !important;
     }
     #btn-aux-espana-13 {
         top: 77% !important;
@@ -1809,6 +1809,11 @@ audio {
     #text-content-autor-10 {
         font-size: 0.18em !important;
         padding-left: 22em !important;
+    }
+    #text-content-autor-13 {
+        font-size: 0.25em !important;
+        padding-left: 1em !important;
+        margin-top: 0.3em !important;
     }
     
 }
