@@ -101,6 +101,8 @@ const addComponents = (region, lang) => {
     return element
 }
 
+alert(`altura: ${window.innerHeight} ancho: ${window.innerWidth}`)
+
 const addSVG = (content, region) => {
     return "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 " + region.viewX + " " + region.viewY + "' style='overflow: visible;' xml:space=''><foreignObject  width='100%' height='100%' style='overflow:visible;'>" + content + "</foreignObject></svg>"
 }

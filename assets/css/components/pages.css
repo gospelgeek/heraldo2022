@@ -1254,14 +1254,15 @@ audio {
         width: 13em !important;
     }
     #title-spanis-10 {
-        top: 13% !important;
+        top: 17% !important;
     }
     #box-text-content-autor-10 {
-        width: 16.6em !important;
+        width: 18em !important;
+        margin-left: -10em !important;
     }
     #text-content-autor-10 {
-        font-size: 0.4em !important;
-        padding-left: 9em !important;
+        font-size: 0.42em !important;
+        padding-left: 10em !important;
         margin-top: 0.5em !important;
     }
     #background-page-10 {
@@ -1490,7 +1491,7 @@ audio {
         font-size: 0.9em !important;
     }
     #title-spanis-10 {
-        top: 2% !important;
+        top: 9% !important;
     }
     #titulo-12-content {
         top: 0% !important;
@@ -1663,6 +1664,15 @@ audio {
     #text-content-autor-9 {
         font-size: 0.2em !important;
     }
+    #box-text-content-autor-10 {
+        width: 17em !important;
+        margin-left: -10em !important;
+    }
+    #text-content-autor-10 {
+        font-size: 0.4em !important;
+        padding-left: 9em !important;
+        margin-top: 0.5em !important;
+    }
 
 }
 
@@ -1675,7 +1685,7 @@ audio {
         margin-top: 0.5em !important;
     }
     #title-spanis-10 {
-        top: 14% !important;
+        top: 19% !important;
     }
     #content-text-14 .aux-class-content {
         width: 70% !important;
@@ -1728,6 +1738,10 @@ audio {
     #title-9-content {
         font-size: 1.1em !important;
     }
+    #text-content-autor-10 {
+        font-size: 0.45em !important;
+        padding-left: 7em !important;
+    }
 
 
 }
@@ -1735,7 +1749,7 @@ audio {
 /*
   Autores
 */
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 360px) {
 
     #box-text-content-autor-7 {
         width: 13em !important;
@@ -1746,6 +1760,14 @@ audio {
         font-size: 0.42em !important;
         padding-left: 1em !important;
         padding-bottom: 1em !important;
+    }
+    #box-text-content-autor-10 {
+        width: 16em !important;
+        margin-left: -9em !important;
+    }
+    #text-content-autor-10 {
+        font-size: 0.18em !important;
+        padding-left: 22em !important;
     }
     
 }
