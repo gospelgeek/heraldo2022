@@ -1167,7 +1167,19 @@ audio {
         font-size: 1.15em !important;
     }
     #titulo-12-content {
-        top: 4% !important;
+        top: 8% !important;
+    }
+    #text-content-page-13 .responsive-font-content {
+        font-size: 0.84em !important;   
+    }
+    #text-element-page-13 {
+        top: 35% !important;
+    }
+    #text-element-page-13 .responsive-font-content {
+        font-size: 0.74em !important;
+    }
+    #btn-aux-espana-13 {
+        top: 77% !important;
     }
     #text-content-19 {
        font-size: 0.9em !important;
@@ -1494,7 +1506,7 @@ audio {
         top: 9% !important;
     }
     #titulo-12-content {
-        top: 0% !important;
+        top: 5% !important;
     }
     #titulo-12-content .aux-img-class {
        width: 80% !important;
@@ -1672,6 +1684,18 @@ audio {
         font-size: 0.4em !important;
         padding-left: 9em !important;
         margin-top: 0.5em !important;
+    }
+    #text-content-page-13 .responsive-font-content {
+        font-size: 0.6em !important;   
+    }
+    #text-element-page-13 {
+        top: 30% !important;
+    }
+    #text-element-page-13 .responsive-font-content {
+        font-size: 0.67em !important;
+    }
+    #btn-aux-espana-13 {
+        top: 77% !important;
     }
 
 }
