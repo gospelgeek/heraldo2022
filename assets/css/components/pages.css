@@ -1810,6 +1810,11 @@ audio {
         font-size: 0.18em !important;
         padding-left: 22em !important;
     }
+    #text-content-autor-13 {
+        font-size: 0.25em !important;
+        padding-left: 1em !important;
+        margin-top: 0.3em !important;
+    }
     
 }
 
