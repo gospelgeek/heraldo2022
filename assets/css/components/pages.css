@@ -1292,8 +1292,11 @@ audio {
     #titulo-14-content {
         top: 7% !important;
     }
+    #content-text-14 .responsive-font-content {
+        font-size: 0.75em !important;
+    }
     #content-text-14 .aux-class-content {
-        width: 76% !important;
+        width: 87% !important;
     }
     #btn-content-espana-15 {
         top: 44% !important;
@@ -1443,6 +1446,12 @@ audio {
         padding-left: 1em !important;
         margin-top: 0.3em !important;
     }
+    #btn-normal-2-14 {
+        top: 65% !important;
+    }
+    #content-text-15 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
 
 
 }
@@ -1524,7 +1533,7 @@ audio {
         left: 24.5% !important;
     }
     #content-text-14 {
-        top: 47% !important;
+        top: 40% !important;
     }
     #btn-normal-2-14 {
         top: 75% !important;
@@ -1724,9 +1733,6 @@ audio {
     #title-spanis-10 {
         top: 19% !important;
     }
-    #content-text-14 .aux-class-content {
-        width: 70% !important;
-    }
     #title-content-26{
         top: 44.5% !important;
     }
@@ -1782,6 +1788,9 @@ audio {
     #text-contenet-spana-11 {
         top: 12% !important;
         font-size: 1.2em !important;
+    }
+    #content-text-14 .responsive-font-content {
+        font-size: 0.8em !important;
     }
 
 
