@@ -1170,7 +1170,7 @@ audio {
         top: 8% !important;
     }
     #text-content-page-13 .responsive-font-content {
-        font-size: 0.8em !important;   
+        font-size: 0.72em !important;   
     }
     #text-element-page-13 {
         top: 35% !important;
@@ -1435,6 +1435,14 @@ audio {
     #box-text-page-frances-7 .responsive-font-content {
         font-size: 0.74em !important;
     }
+    #box-text-content-autor-13 {
+        width: 15em !important;
+    }
+    #text-content-autor-13 {
+        font-size: 0.4em !important;
+        padding-left: 1em !important;
+        margin-top: 0.3em !important;
+    }
 
 
 }
@@ -1696,6 +1704,11 @@ audio {
     }
     #btn-aux-espana-13 {
         top: 77% !important;
+    }
+    #text-content-autor-13 {
+        font-size: 0.35em !important;
+        padding-left: 1em !important;
+        margin-top: 0.3em !important;
     }
 
 }
