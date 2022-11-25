@@ -1151,10 +1151,16 @@ audio {
         font-size: 0.65em !important;
     }
     #btn-11-icons {
-        top: 47% !important;
+        top: 48% !important;
     }
     #btn-11-content {
-        top: 47.3% !important;
+        top: 48.3% !important;
+    }
+    #btn-11-content-ingles {
+        top: 48.3% !important;
+    }
+    #btn-ingles-11 .boton-normal-text-23 {
+        font-size: 0.68em !important;
     }
     #text-contenet-spana-11 {
         top: 12% !important;
