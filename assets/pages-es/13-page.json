@@ -27,6 +27,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
+        "id_unique": "text-content-page-13",
         "style": "border-radius: 1em; font-size: 0.8em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
@@ -42,6 +43,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
+        "id_unique": "text-element-page-13",
         "style": "border-radius: 0.2em; font-size: 0.7em; color: #fff; text-align: justify; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
@@ -58,6 +60,7 @@
         "tag": "btn-normal",
         "class": "",
         "id": "btn-espana-13",
+        "id_unique": "btn-aux-espana-13",
         "text": "",
         "data": {
            "text": "Leer más",
