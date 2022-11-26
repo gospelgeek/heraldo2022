@@ -1,14 +1,14 @@
 [
     {
         "x": "0em",
-        "y": "10%",
-        "style": "z-index: 1; width: 92%;",
-        "zIndex": "1",
+        "y": "0%",
+        "style": "z-index: 1; width: 100%;",
+        "zIndex": "0",
         "width": "100%",
-        "id_unique": "mundo-page-8",
         "tag": "img-content",
+        "id_unique": "fondo-8-ajuste",
         "data": {
-            "src": "./assets/pics/icons/mundo-8.png"
+            "src": "./assets/pics/backgrounds/8.jpg"
         }
     },
     {

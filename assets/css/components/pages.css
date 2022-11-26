@@ -925,6 +925,13 @@ audio {
     top: 0 ;
 }
 
+#background-page-8 {
+    height: 100% !important;
+    position: absolute !important;
+    top: -10%;
+}
+
+
 #pie-pagina-7 {
   display: none !important;
 }
@@ -1293,7 +1300,7 @@ audio {
         top: 7% !important;
     }
     #content-text-14 .responsive-font-content {
-        font-size: 0.75em !important;
+        font-size: 0.7em !important;
     }
     #content-text-14 .aux-class-content {
         width: 87% !important;
@@ -1447,7 +1454,7 @@ audio {
         margin-top: 0.3em !important;
     }
     #btn-normal-2-14 {
-        top: 65% !important;
+        top: 68% !important;
     }
     #content-text-15 .responsive-font-content {
         font-size: 0.7em !important;
@@ -1536,7 +1543,7 @@ audio {
         top: 40% !important;
     }
     #btn-normal-2-14 {
-        top: 75% !important;
+        top: 78% !important;
     }
     #btn-content-espana-15 {
         top: 57% !important;

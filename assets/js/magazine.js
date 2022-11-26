@@ -64,8 +64,8 @@
            pageElement.find('.loader').remove();
        });
 
-
-       checkImage((page === 1)? '../assets/pics/backgrounds/' + page + '.gif' : '../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
+       let background_diferent = [ 1 , 8]
+       checkImage((background_diferent.includes(page))? '../assets/pics/backgrounds/' + page + '.gif' : '../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
        loadRegions(page, pageElement, lang);
 
    }
