@@ -1118,10 +1118,11 @@
             },
             {
                 "x": "0",
-                "y": "6%",
+                "y": "9%",
                 "width": "100%",
                 "styleBox": "width: 63%",
                 "background-color": "#b41015",
+                "id_unique": "text-page-spana-17",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
@@ -1140,7 +1141,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "content-text-15",
+                "id_unique": "content-text-page-spana-17",
                 "style": "font-weight: normal; border-radius: 1em; font-size: 0.81em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -1156,7 +1157,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "text-content-19",
+                "id_unique": "text-content-espana-17",
                 "style": "font-weight: normal; color: #1f6079;",
                 "text": "",
                 "data": {
@@ -1186,7 +1187,7 @@
                 "width": "100%",
                 "id_unique": "box-principal-autor-page-15",
                 "id_2": "box-text-content-autor-15",
-                "id_3": "text-content-autor-9",
+                "id_3": "text-content-autor-15",
                 "id_4": "box-page-9-autor",
                 "styleImg": "width: 98% !important; height: 98% !important; border-radius: 50%;",
                 "styleBoxText": "height: 1em; width: 20em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.5em; grid-area: area-1;",
@@ -1211,7 +1212,6 @@
                 "height": "20%",
                 "fontSize": "5em",
                 "tag": "btn-normal-2",
-                "id_unique": "btn-normal-2-14",
                 "icon": "./assets/pics/icons/iconImprimir.png",
                 "data": [
                     {
@@ -1235,7 +1235,6 @@
                 "height": "20%",
                 "fontSize": "5em",
                 "tag": "btn-normal-2",
-                "id_unique": "btn-normal-2-14",
                 "zIndex": 200,
                 "icon": "./assets/pics/icons/iconImprimir.png",
                 "data": [
@@ -1284,12 +1283,13 @@
             },
             {
                 "x": "0",
-                "y": "6%",
+                "y": "9%",
                 "width": "100%",
                 "styleBox": "width: 63%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
+                "id_unique": "text-page-spana-17",
                 "tag": "content-text",
                 "style": "font-weight: normal; border-radius: 1em; font-size: 0.95em; color: rgb(107 104 104);  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
@@ -1306,7 +1306,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "content-text-15",
+                "id_unique": "content-text-page-spana-17",
                 "style": "font-weight: normal; border-radius: 1em; font-size: 0.81em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -1322,7 +1322,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "text-content-19",
+                "id_unique": "text-content-espana-17",
                 "style": "font-weight: normal; color: #1f6079;",
                 "text": "",
                 "data": {
@@ -1352,7 +1352,7 @@
                 "width": "100%",
                 "id_unique": "box-principal-autor-page-15",
                 "id_2": "box-text-content-autor-15",
-                "id_3": "text-content-autor-9",
+                "id_3": "text-content-autor-15",
                 "id_4": "box-page-9-autor",
                 "styleImg": "width: 98% !important; height: 98% !important; border-radius: 50%;",
                 "styleBoxText": "height: 1em; width: 20em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.5em; grid-area: area-1;",
