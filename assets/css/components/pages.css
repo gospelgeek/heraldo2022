@@ -1312,8 +1312,8 @@ audio {
         width: 17em !important;
     }
     #text-content-autor-15 {
-        font-size: 0.4em !important;
-        margin-top: 0.5em !important;
+        font-size: 0.42em !important;
+        margin-top: 0.2em !important;
     }
     #box-principal-autor-page-15 {
         top: 83% !important;
@@ -1462,6 +1462,21 @@ audio {
     }
     #content-text-15 .responsive-font-content {
         font-size: 0.7em !important;
+    }
+    #text-page-spana-17 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #text-content-espana-17 {
+        top: 45% !important;
+    }
+    #text-content-espana-17 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #content-text-page-spana-17 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #btn-content-espana-17 {
+        top: 73% !important;
     }
 
 
@@ -1734,6 +1749,15 @@ audio {
         font-size: 0.35em !important;
         margin-top: 0.5em !important;
     }
+    #text-page-spana-17 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+    #content-text-page-spana-17 {
+        top: 22% !important;
+    }
+    #content-text-page-spana-17 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
 
 }
 
@@ -1806,6 +1830,15 @@ audio {
     }
     #content-text-14 .responsive-font-content {
         font-size: 0.8em !important;
+    }
+    #text-content-espana-17 .responsive-font-content {
+        font-size: 0.85em !important;
+    }
+    #content-text-page-spana-17 .responsive-font-content {
+        font-size: 0.84em !important;
+    }
+    #btn-content-espana-17 {
+        top: 71% !important;
     }
 
 
