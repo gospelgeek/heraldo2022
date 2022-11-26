@@ -1463,11 +1463,14 @@ audio {
     #content-text-15 .responsive-font-content {
         font-size: 0.7em !important;
     }
+    #text-page-spana-17 {
+        width: 96% !important;
+    }
     #text-page-spana-17 .responsive-font-content {
         font-size: 0.8em !important;
     }
     #text-content-espana-17 {
-        top: 45% !important;
+        top: 48% !important;
     }
     #text-content-espana-17 .responsive-font-content {
         font-size: 0.8em !important;
