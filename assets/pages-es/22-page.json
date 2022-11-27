@@ -5,6 +5,7 @@
         "style": "width: 85% !important;",
         "zIndex": "1",
         "width": "100%",
+        "id_unique": "titulo-page-22",
         "tag": "img-content",
         "data": {
             "src": "./assets/pics/icons/titulo-22.png"
