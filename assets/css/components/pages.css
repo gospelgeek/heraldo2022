@@ -1558,8 +1558,8 @@ audio {
        font-size: 0.9em !important;
     }
     #text-content-autor-27 {
-        font-size: 0.53em !important;
-        margin-top: 0.2em !important;
+        font-size: 0.54em !important;
+        margin-top: 0.14em !important;
     }
     #box-text-content-autor-27 {
         width: 15em !important;
@@ -2044,9 +2044,12 @@ audio {
 /*
    fondos
 */
-@media screen and (max-height: 799px) {
+@media screen and (max-width: 600px) and (max-height: 799px) {
     #title-content-24 {
         top: 20% !important;
+    }
+    #title-content-26 {
+        top: 44% !important;
     }
     #title-aux-content-26 .aux-img-class {
         height: 17em !important;
