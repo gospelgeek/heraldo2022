@@ -1499,6 +1499,28 @@ audio {
     #text-content-autor-20 {
         font-size: 0.49em !important;
     }
+    #content-text-page-21 {
+        width: 97% !important;
+    }
+    #content-text-page-21 .responsive-font-content {
+        font-size: 0.93em !important;
+    }
+    #text-center-content-19 {
+        top: 57% !important;
+   }
+    #text-center-content-19 .responsive-font-content {
+        font-size: 0.9em !important;
+    }
+    #box-content-text-page-21 {
+        top: 24% !important;
+       
+    }
+    #box-content-text-page-21 .responsive-font-content {
+        font-size: 0.75em !important;
+    }
+    #box-content-text-page-21 .aux-class-content {
+        width: 80% !important;
+    }
 
 
 }
@@ -1801,6 +1823,26 @@ audio {
         font-size: 0.47em !important;
         margin-top: 0.5em !important;
     }
+    #content-text-page-21 {
+        width: 98% !important;
+    }
+    #content-text-page-21 .responsive-font-content {
+        font-size: 0.75em !important;
+    }
+    #box-content-text-page-21 {
+        top: 24% !important;
+    }
+    #box-content-text-page-21 .responsive-font-content {
+        width: 98% !important;
+        font-size: 0.65em !important;
+    }
+    #text-center-content-19 {
+        top: 62% !important;
+   }
+    #text-center-content-19 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+
 
 }
 
@@ -1891,6 +1933,16 @@ audio {
     }
     #text-content-autor-20 {
         font-size: 0.47em !important;
+    }
+    #box-content-text-page-21 {
+        top: 24% !important;
+       
+    }
+    #box-content-text-page-21 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #box-content-text-page-21 .aux-class-content {
+        width: 85% !important;
     }
 
 
