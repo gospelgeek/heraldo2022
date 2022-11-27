@@ -1565,6 +1565,29 @@ audio {
         width: 15em !important;
         margin-left: 2em !important;
     }
+    #title-content-26 {
+        top: 46% !important;
+    }
+    #text-principal-29 {
+        top: 10% !important;
+    }
+    #text-principal-29 .responsive-font-content {
+        font-size: 0.63em !important;
+    }
+    #content-text-29 {
+        top: 32% !important;
+    }
+    #content-text-29 .responsive-font-content {
+        font-size: 0.9em !important;
+    }
+    #box-text-content-autor-29 {
+        width: 14em !important;
+        margin-left: 2.4em !important;
+    }
+    #text-content-autor-29 {
+        margin-top:  0.2em !important;
+        font-size: 0.58em !important;
+    }
 
 
 }
@@ -1931,6 +1954,31 @@ audio {
         font-size: 0.49em !important;
         margin-top: 0.2em !important;
     }
+    #text-principal-29 {
+        top: 10% !important;
+    }
+    #text-principal-29 {
+        top: 10% !important;
+    }
+    #text-principal-29 .responsive-font-content {
+        font-size: 0.6em !important;
+    }
+    #content-text-29 {
+        top: 32% !important;
+    }
+    #content-text-29 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #box-text-content-autor-29 .responsive-font-content {
+        font-size: 0.5em !important;
+    }
+    #box-text-content-autor-29 {
+        width: 14em !important;
+        margin-left: 2.4em !important;
+    }
+    #text-content-autor-29 {
+        font-size: 0.53em !important;
+    }
 
 
 }
@@ -2048,12 +2096,6 @@ audio {
     #title-content-24 {
         top: 20% !important;
     }
-    #title-content-26 {
-        top: 44% !important;
-    }
-    #title-aux-content-26 .aux-img-class {
-        height: 17em !important;
-    }
 }
 
 /*
@@ -2117,6 +2159,16 @@ audio {
     #text-content-autor-27 {
         font-size: 0.47em !important;
         margin-top: 0.2em !important;
+    }
+    #text-principal-29 .responsive-font-content {
+        font-size: 0.6em !important;
+    }
+    #content-text-29 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #text-content-autor-29 {
+        margin-top:  0.2em !important;
+        font-size: 0.5em !important;
     }
     
 }
