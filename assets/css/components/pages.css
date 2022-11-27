@@ -1592,7 +1592,7 @@ audio {
         top: 12% !important;
     }
     #box-content-text-31 .responsive-font-content {
-        font-size: 0.72em !important;
+        font-size: 0.69em !important;
     }
     #content-text-31 {
         top: 30% !important;
@@ -1604,7 +1604,7 @@ audio {
         top: 35% !important;
     }
     #text-content-text-31 .responsive-font-content {
-        font-size: 0.82em !important;
+        font-size: 0.78em !important;
     }
     #text-content-text-31 .aux-class-content {
         width: 85% !important;
@@ -1623,8 +1623,16 @@ audio {
     #box-content-brasil-text-31 .responsive-font-content {
         font-size: 0.67em !important;
     }
-
+    #box-text-content-autor-33 {
+        width: 14em !important;
+        margin-left: 2.4em !important;
+    }
+    #text-content-autor-33 {
+        margin-top: 0.18em !important;
+        font-size: 0.66em !important;
+    }
 }
+
 
 @media screen and (max-width: 600px) and (max-height: 680px) {
 
@@ -1783,7 +1791,7 @@ audio {
        width: 80% !important;
     }
     #content-text-32 {
-        top: 65% !important;
+        top: 62% !important;
     }
     #content-text-32 .responsive-font-content {
         font-size: 1em !important;
@@ -2048,6 +2056,13 @@ audio {
     #box-content-brasil-text-31 .responsive-font-content {
         font-size: 0.64em !important;
     }
+    #box-text-content-autor-33 {
+        width: 14em !important;
+        margin-left: 2.4em !important;
+    }
+    #text-content-autor-33 {
+        font-size: 0.6em !important;
+    }
 
 }
 
@@ -2251,6 +2266,14 @@ audio {
     }
     #box-content-brasil-text-31 .responsive-font-content {
         font-size: 0.62em !important;
+    }
+    #text-content-autor-33 {
+        margin-top: 0.18em !important;
+        font-size: 0.66em !important;
+    }
+    #text-content-autor-33 {
+        margin-top: 0.18em !important;
+        font-size: 0.6em !important;
     }
     
 }
