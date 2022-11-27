@@ -1122,7 +1122,7 @@
                 "width": "100%",
                 "styleBox": "width: 63%",
                 "background-color": "#b41015",
-                "id_unique": "text-page-spana-17",
+                "id_unique": "text-page-frances-17",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
@@ -1157,7 +1157,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "text-content-espana-17",
+                "id_unique": "box-text-content-espana-17",
                 "style": "font-weight: normal; color: #1f6079;",
                 "text": "",
                 "data": {

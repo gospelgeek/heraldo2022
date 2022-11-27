@@ -1466,6 +1466,9 @@ audio {
     #text-page-spana-17 .responsive-font-content {
         font-size: 0.72em !important;
     }
+    #text-page-frances-17 .responsive-font-content {
+        font-size: 0.68em !important;
+    }
     #text-content-espana-17 {
         top: 48% !important;
     }
@@ -1477,6 +1480,12 @@ audio {
     }
     #btn-content-espana-17 {
         top: 73% !important;
+    }
+    #box-text-content-espana-17 .responsive-font-content {
+        font-size: 0.85em !important;
+    }
+    #box-text-content-espana-17 {
+        top: 45% !important;
     }
 
 
@@ -1757,6 +1766,15 @@ audio {
     }
     #content-text-page-spana-17 .responsive-font-content {
         font-size: 0.7em !important;
+    }
+    #text-page-frances-17 .responsive-font-content {
+        font-size: 0.6em !important;
+    }
+    #box-text-content-espana-17 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+    #box-text-content-espana-17 {
+        top: 48% !important;
     }
 
 }
