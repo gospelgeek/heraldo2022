@@ -1336,6 +1336,10 @@ audio {
         top: 68%;
         font-size: 1.2em !important;
     }
+    #content-text-brasil-22 {
+        top: 68%;
+        font-size: 1.1em !important;
+    }
     #btn-read-more-23 {
         top: 84% !important;
         left: 2% !important;
@@ -1345,7 +1349,7 @@ audio {
         font-size: 1.2em !important;
     }
     #title-content-24 {
-        top: 20% !important;
+        top: 25% !important;
     }
     #content-text-25 {
         top: 35% !important;
@@ -1639,12 +1643,15 @@ audio {
     #content-text-22 {
         font-size: 1em !important;
     }
+    #content-text-brasil-22 {
+        font-size: 0.94em !important;
+    }
     #box-principal-autor-page-23 {
         top: 80% !important;
         left: 20% !important;
     }
     #title-content-24 {
-        top: 11% !important;
+        top: 17% !important;
     }
     #content-text-25 {
         top: 40% !important;
