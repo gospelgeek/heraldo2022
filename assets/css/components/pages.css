@@ -1487,6 +1487,18 @@ audio {
     #box-text-content-espana-17 {
         top: 45% !important;
     }
+    #img-content-fondo-20 .aux-img-class{
+        height: 17em !important;
+    }
+    #content-text-page-20 {
+        top: 70% !important;
+    }
+    #content-text-page-20 .responsive-font-content {
+        font-size: 0.83em !important;
+    }
+    #text-content-autor-20 {
+        font-size: 0.49em !important;
+    }
 
 
 }
@@ -1776,6 +1788,19 @@ audio {
     #box-text-content-espana-17 {
         top: 48% !important;
     }
+    #img-content-fondo-20 .aux-img-class{
+        height: 14.5em !important;
+    }
+    #content-text-page-20 {
+        top: 73% !important;
+    }
+    #content-text-page-20 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+    #text-content-autor-20 {
+        font-size: 0.47em !important;
+        margin-top: 0.5em !important;
+    }
 
 }
 
@@ -1858,6 +1883,15 @@ audio {
     #btn-content-espana-17 {
         top: 71% !important;
     }
+    #img-content-fondo-20 .aux-img-class{
+        height: 19em !important;
+    }
+    #content-text-page-20 .responsive-font-content {
+        font-size: 0.9em !important;
+    }
+    #text-content-autor-20 {
+        font-size: 0.47em !important;
+    }
 
 
 }
@@ -1889,6 +1923,14 @@ audio {
         font-size: 0.25em !important;
         padding-left: 1em !important;
         margin-top: 0.3em !important;
+    }
+    #img-content-fondo-20 .aux-img-class{
+        height: 16em !important;
+    }
+    #text-content-autor-20 {
+        font-size: 0.4em !important;
+        padding-left: 10em !important;
+        margin-top: 0.5em !important;
     }
     
 }

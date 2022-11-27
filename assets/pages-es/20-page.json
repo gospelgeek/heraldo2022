@@ -13,10 +13,11 @@
     {
         "x": "0",
         "y": "0",
-        "style": "width: 100% !important; height: 20em !important;",
+        "style": "width: 100% !important; height: 20em;",
         "zIndex": "2",
         "width": "100%",
         "tag": "img-content",
+        "id_unique": "img-content-fondo-20",
         "data": {
             "src": "./assets/pics/icons/fondo-20.png"
         }
@@ -31,7 +32,7 @@
         "font-size": "1em",
         "tag": "content-text",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "id_unique": "content-text-page-20",
         "data": {
             "text": "<p id='first_letter_20' class='first_letter_red aux_red' style='padding-top: 1em; font-size: 1em; font-style: italic;'>|  “Lámpara es a mis pies tu palabra, Y lumbrera a mi camino” (Salmos 119: 105).</p>"
         }
@@ -42,7 +43,7 @@
         "width": "100%",
         "id_unique": "box-principal-autor-page-7",
         "id_2": "box-text-content-autor-10",
-        "id_3": "text-content-autor-10",
+        "id_3": "text-content-autor-20",
         "id_4": "box-page-7-autor",
         "styleImg": "width: 96%; height: 96%; border-radius: 50%;",
         "styleBoxText": "height: 1em; width: 20em; align-self: end; margin-left: -13em; margin-bottom: 1em; grid-area: area-2;",
