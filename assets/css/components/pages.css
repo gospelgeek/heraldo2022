@@ -1535,7 +1535,7 @@ audio {
         margin-left: 2.4em !important;
     }
     #box-content-text-25 .responsive-font-content {
-        font-size: 0.72em !important;
+        font-size: 0.68em !important;
     }
     #box-text-content-autor-25 {
         width: 14em !important;
@@ -1544,6 +1544,22 @@ audio {
     #text-content-autor-25 {
         font-size: 0.47em !important;
         padding-left: 1.2em !important;
+    }
+    #title-aux-content-26 .aux-img-class {
+        height: 19.8em !important;
+    }
+    #content-text-27 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+    #text-content-text-27 {
+        top: 42% !important;
+    }
+    #text-content-text-27 .responsive-font-content {
+       font-size: 0.9em !important;
+    }
+    #text-content-autor-27 {
+        font-size: 0.5em !important;
+        margin-top: 0.2em !important;
     }
 
 
@@ -1895,6 +1911,18 @@ audio {
     #text-content-autor-25 {
         font-size: 0.45em !important;
     }
+    #title-aux-content-26 .aux-img-class {
+        height: 16em !important;
+    }
+    #content-text-27 .responsive-font-content {
+        font-size: 0.62em !important;
+    }
+    #text-content-text-27 {
+        top: 46% !important;
+    }
+    #text-content-text-27 .responsive-font-content {
+       font-size: 0.8em !important;
+    }
 
 
 }
@@ -2004,6 +2032,16 @@ audio {
 
 }
 
+
+/*
+   fondos
+*/
+@media screen and (max-height: 760px) {
+    #title-content-24 {
+        top: 20% !important;
+    }
+}
+
 /*
   Autores
 */
@@ -2052,6 +2090,19 @@ audio {
     }
     #text-content-autor-25 {
         font-size: 0.42em !important;
+    }
+    #title-aux-content-26 .aux-img-class {
+        height: 16.7em !important;
+    }
+    #text-content-text-27 {
+        top: 53% !important;
+    }
+    #text-content-text-27 .responsive-font-content {
+       font-size: 0.76em !important;
+    }
+    #text-content-autor-27 {
+        font-size: 0.47em !important;
+        margin-top: 0.2em !important;
     }
     
 }
