@@ -1685,7 +1685,7 @@
         "brasil": [
             {
                 "x": "0",
-                "y": "1%",
+                "y": "4%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
@@ -1720,7 +1720,7 @@
                 "font-size": "1em",
                 "tag": "content-text",
                 "style": "font-weight: normal; border-radius: 0.2em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
-                "text": "",
+                "id_unique": "box-content-brasil-text-31",
                 "data": {
                     "text": " <p class='first_letter_red aux_blue' style='text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1em; font-style: italic; color: #1E1E1F;'>“Porque toda a casa é edificada por alguém, mas quem edificou todas as coisas é Deus. <p style='text-align: center;'> (Hebreus 3:4).                    </p> <p style='text-align: center;'>Em certa ocasião Jesus foi confrontado acerca da relação entre o homem e a mulher. </p></p>"
                 }
@@ -1734,7 +1734,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "content-text-15",
+                "id_unique": "text-content-text-31",
                 "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -1766,7 +1766,7 @@
                 "height": "20%",
                 "fontSize": "5em",
                 "tag": "btn-normal-2",
-                "id_unique": "btn-content-icons-more-19",
+                "id_unique": "btn-content-icons-more-31",
                 "icon": "./assets/pics/icons/iconImprimir.png",
                 "data": [
                     {

@@ -1,7 +1,7 @@
 [
     {
         "x": "0",
-        "y": "7%",
+        "y": "10%",
         "width": "100%",
         "styleBox": " padding: 1em; width: 80%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.15em; border-color: #414a7c;",
         "background-color": "#b41015",
@@ -9,7 +9,7 @@
         "font-size": "1em",
         "tag": "content-text",
         "style": "font-weight: 510; border-radius: 0.2em; color: #1E1E1F; text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "id_unique": "box-content-text-31",
         "data": {
             "text": " <p  id='first_letter_29' class='first_letter_red aux_blue' style='line-height: 1.2em;  text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic; color: #1E1E1F;'>“Porque toda casa es hecha por alguno; pero el que hizo todas las cosas es Dios” <p style='text-align: center; line-height: 1.2em; '> (Hebreos 3:4).</p> <p style='line-height: 1.2em;  text-align: center;'> Una casa no existe por casualidad, su diseño y construcción apuntan al diseñador y constructor.</p></p>"
         }
@@ -23,9 +23,8 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "id_unique": "content-text-15",
+        "id_unique": "text-content-text-31",
         "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
-        "text": "",
         "data": {
             "text": "<p style=' padding-top: 0.6em; font-size: 0.9em; font-weight: normal;'>En cierta ocasión Jesús fue confrontado acerca de la relación entre el hombre y la mujer. Los fariseos discutían sobre las creencias culturales del divorcio, Mateo 19:3-9, Jesús llevó la discusión a un nivel más alto; Él les dijo que necesitaban ver más allá de sus prácticas culturales, sociales y las deformaciones ocasionadas por el pecado. Ellos como nosotros, necesitamos entender la intención original y sublime de Dios para con el varón y la mujer. </p>"
         }
@@ -47,7 +46,7 @@
         }
     },
     {
-        "x": "6.7%",
+        "x": "4%",
         "y": "73%",
         "viewX": 1800,
         "viewY": 100,
@@ -55,7 +54,7 @@
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
-        "id_unique": "btn-content-icons-more-19",
+        "id_unique": "btn-content-icons-more-31",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
@@ -74,7 +73,7 @@
     },
     {
         "x": "0",
-        "y": "1%",
+        "y": "4%",
         "width": "100%",
         "background-color": "#b41015",
         "color": "#fff",

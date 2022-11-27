@@ -6,6 +6,7 @@
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
+        "id_unique": "img-content-30",
         "data": {
             "src": "./assets/pics/icons/titulo-30.png"
         }
