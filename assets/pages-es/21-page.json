@@ -9,7 +9,7 @@
         "font-size": "1em",
         "tag": "content-text",
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-        "text": "",
+        "id_unique": "content-text-page-21",
         "data": {
             "text": "<p  id='first_letter_17' class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1em;'>“L a Palabra de Dios tiene muchos propósitos y significados en la Biblia, miraremos en este artículo varios de ellos:</p>"
         }
@@ -23,7 +23,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "id_unique": "text-content-19",
+        "id_unique": "box-content-text-page-21",
         "style": "line-height: 1.5em; border-radius: 0.2em; font-size: 0.8em; color: #3c3c42; text-align: justify; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
