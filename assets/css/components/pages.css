@@ -1524,6 +1524,10 @@ audio {
     #text-content-autor-23 {
         font-size: 0.42em !important;
     }
+    #box-text-content-autor-23 {
+        width: 14em !important;
+        margin-left: 2.4em !important;
+    }
 
 
 }
@@ -1855,6 +1859,10 @@ audio {
     #content-text-21 {
         font-size: 1em !important;
     }
+    #box-text-content-autor-23 {
+        width: 14em !important;
+        margin-left: 2em !important;
+    }
 
 
 }
@@ -1996,6 +2004,10 @@ audio {
         font-size: 0.4em !important;
         padding-left: 10em !important;
         margin-top: 0.5em !important;
+    }
+    #box-text-content-autor-23 {
+        width: 14em !important;
+        margin-left: 1.5em !important;
     }
     
 }
