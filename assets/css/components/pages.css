@@ -1631,6 +1631,12 @@ audio {
         margin-top: 0.18em !important;
         font-size: 0.66em !important;
     }
+    #text-content-page-35 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+    #text-content-35 .responsive-font-content {
+        font-size: 0.78em !important;
+    }
 }
 
 
@@ -2063,6 +2069,12 @@ audio {
     #text-content-autor-33 {
         font-size: 0.6em !important;
     }
+    #text-content-page-35 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
+    #text-content-35 .responsive-font-content {
+        font-size: 0.75em !important;
+    }
 
 }
 
@@ -2169,6 +2181,15 @@ audio {
     }
     #text-content-text-31 .responsive-font-content {
         font-size: 0.94em !important;
+    }
+    #text-content-page-35 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #text-content-35 {
+        top: 24% !important;
+    }
+    #text-content-35 .responsive-font-content {
+        font-size: 0.83em !important;
     }
 
 }
