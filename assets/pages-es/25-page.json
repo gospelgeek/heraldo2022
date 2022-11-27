@@ -8,6 +8,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
+        "id_unique": "box-content-text-25", 
         "style": "font-weight: normal; width: 87%; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
@@ -51,8 +52,8 @@
         "y": "80%",
         "width": "100%",
         "id_unique": "box-principal-autor-page-23",
-        "id_2": "box-text-content-autor-19",
-        "id_3": "text-content-autor-9",
+        "id_2": "box-text-content-autor-25",
+        "id_3": "text-content-autor-25",
         "id_4": "box-page-9-autor",
         "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
         "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 2.4em; margin-bottom: 0.5em; grid-area: area-1;",
