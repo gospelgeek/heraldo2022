@@ -8,6 +8,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
+        "id_unique": "content-text-27",
         "style": "border-radius: 0.2em; font-size: 0.7em; color: #fff; text-align: justify; font-family: 'Montserrat', sans-serif;",
         "text": "",
         "data": {
@@ -23,7 +24,7 @@
         "color": "#fff",
         "font-size": "1em",
         "tag": "content-text",
-        "id_unique": "content-text-15",
+        "id_unique": "text-content-text-27",
         "style": "color: rgb(107 104 104); font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
@@ -52,7 +53,7 @@
         "width": "100%",
         "id_unique": "box-principal-autor-page-23",
         "id_2": "box-text-content-autor-19",
-        "id_3": "text-content-autor-9",
+        "id_3": "text-content-autor-27",
         "id_4": "box-page-9-autor",
         "styleImg": "width: 95% !important; height: 95% !important; border-radius: 40%;",
         "styleBoxText": "height: 1em; width: 18em; align-self: end; height: 1em; margin-left: 2.4em; margin-bottom: 0.5em; grid-area: area-1;",
