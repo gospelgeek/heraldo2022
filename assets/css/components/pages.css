@@ -1632,10 +1632,10 @@ audio {
         font-size: 0.66em !important;
     }
     #text-content-page-35 .responsive-font-content {
-        font-size: 0.7em !important;
+        font-size: 0.74em !important;
     }
     #text-content-35 .responsive-font-content {
-        font-size: 0.78em !important;
+        font-size: 0.8em !important;
     }
 }
 
@@ -2075,6 +2075,9 @@ audio {
     #text-content-35 .responsive-font-content {
         font-size: 0.75em !important;
     }
+    #img-content-34 .aux-img-class {
+        height: 15em !important;
+    }
 
 }
 
@@ -2190,6 +2193,9 @@ audio {
     }
     #text-content-35 .responsive-font-content {
         font-size: 0.83em !important;
+    }
+    #img-content-34 .aux-img-class {
+        height: 19.7em !important;
     }
 
 }
