@@ -68,6 +68,7 @@
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.8em; color: #fff;",
         "tag": "boton-author",
+        "iframe": "",
         "autor": "Por Rodrigo Muñoz. Pastor IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-33.png"

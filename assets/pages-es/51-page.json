@@ -86,6 +86,7 @@
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.6em; color: #fff;",
         "tag": "boton-author",
+        "iframe": "",
         "autor": "Por Mariela Forero de Torres. Directora UDIM",
         "data": {
             "src": "./assets/pics/icons/autora-51.png"
