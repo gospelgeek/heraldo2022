@@ -60,6 +60,7 @@
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.6em; color: #fff;",
         "tag": "boton-author",
+        "iframe": "",
         "autor": "Por Segundo G. Arboleda Rosero. Pastor IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-23.png"

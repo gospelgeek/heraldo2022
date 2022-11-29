@@ -615,6 +615,7 @@
                 "styleBoxImg": "grid-area: area-2;",
                 "styleTextAutor": "padding-left: 1em; font-size: 0.52em; color: #fff;",
                 "tag": "boton-author",
+                "iframe": "",
                 "autor": "Pour Álvaro de Jesús Torres Forero. Pasteur IPUC",
                 "data": {
                     "src": "./assets/pics/icons/autor-7.png"
@@ -700,6 +701,7 @@
                 "id_3": "text-content-autor-7",
                 "id_4": "box-page-7-autor",
                 "styleImg": "border-radius: 50%;",
+                "iframe": "",
                 "styleBoxText": "height: 1em; width: 15em;  align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
                 "styleBoxImg": "grid-area: area-2;",
                 "styleTextAutor": "padding-left: 1em; font-size: 0.54em;  color: #fff;",
@@ -1194,6 +1196,7 @@
                 "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
                 "styleTextAutor": "padding-left: 1em; font-size: 0.5em; color: #fff;",
                 "tag": "boton-author",
+                "iframe": "",
                 "autor": "Door Fernando López Pimiento. Directeur Nationale Missies IPUC",
                 "data": {
                     "src": "./assets/pics/icons/autor-17.png"
@@ -1359,6 +1362,7 @@
                 "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
                 "styleTextAutor": "padding-left: 1em; font-size: 0.55em; color: #fff;",
                 "tag": "boton-author",
+                "iframe": "",
                 "autor": "Por Fernando López Pimento. Diretor Missões Nacionais",
                 "data": {
                     "src": "./assets/pics/icons/autor-17.png"
@@ -1536,6 +1540,7 @@
                 "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
                 "styleTextAutor": "padding-left: 1em; font-size: 0.5em; color: #fff;",
                 "tag": "boton-author",
+                "iframe": "",
                 "autor": "Por Javier Copete Gamboa. Supervisor do distrito 9",
                 "data": {
                     "src": "./assets/pics/icons/autor-21.png"
@@ -1655,6 +1660,7 @@
                 "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
                 "styleTextAutor": "padding-left: 1em; font-size: 0.7em; color: #fff;",
                 "tag": "boton-author",
+                "iframe": "",
                 "autor": "Por Willman Marín Parra. Pastor IPUC",
                 "data": {
                     "src": "./assets/pics/icons/autor-29.png"

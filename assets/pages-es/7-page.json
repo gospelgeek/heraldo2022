@@ -12,6 +12,7 @@
         "styleBoxImg": "grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.54em; color: #fff;",
         "tag": "boton-author",
+        "iframe": "",
         "autor": "Por Álvaro de Jesús Torres Forero. Pastor IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-7.png"
