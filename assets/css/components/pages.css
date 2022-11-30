@@ -1095,6 +1095,18 @@ audio {
     bottom: 0;
 }
 
+#page-1-text-background {
+    position: absolute;
+    bottom: 0;
+    border-radius: 0em;
+    width: 85% !important;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    height: 3em;
+    background-color: #ffffff;
+    z-index: 1;
+}
+
 /*
     animacion de entrada
 */
@@ -1647,7 +1659,11 @@ audio {
         font-size: 0.72em !important;
     }
     #text-content-autor-37 {
+        padding-top: 5em;
         font-size: 0.56em !important;
+    }
+    #page-1-text-background  .responsive-font-content {
+        font-size: 0.7em !important;
     }
 }
 
@@ -2462,4 +2478,68 @@ button::-moz-focus-inner {
 .buttonsGame:hover {
     background-color: rgb(32, 80, 184);
     border: 2px solid rgb(32, 80, 184);
+}
+
+/*
+   loader new
+*/
+
+.containerLoader {
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: 10000;
+    transition: all 1.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.loader,
+.loader::before,
+.loader::after {
+    border-radius: 50%;
+    width: 2.5em;
+    height: 2.5em;
+    animation: loader 1.5s infinite ease-in-out;
+}
+
+.loader {
+    color: #ffffff;
+    font-size: 13px;
+    position: relative;
+    animation-delay: -0.16s;
+}
+
+.loader::before,
+.loader::after {
+    content: '';
+    position: absolute;
+    top: 0;
+}
+
+.loader::before {
+    left: -3.5em;
+    animation-delay: -0.32s;
+}
+
+.loader::after {
+    left: 3.5em;
+}
+
+@keyframes loader {
+    0%,
+    80%,
+    100% {
+        box-shadow: 0 2.5em 0 -1.3em;
+    }
+    40% {
+        box-shadow: 0 2.5em 0 0;
+    }
+}
+
+#loading-image {
+    width:50px;
+    height:50px;
 }
