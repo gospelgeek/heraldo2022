@@ -699,6 +699,17 @@ audio {
     z-index: -1;
 }
 
+#btn-aleman-7::before {
+    content: "";
+    position: absolute;
+    top: 35%;
+    margin-left: -8em;
+    width: 4em;
+    height: 20%;
+    background-color: #43a4c4;
+    z-index: -1;
+}
+
 
 .first_letter_red::first-letter {
     color: #0e5b79;

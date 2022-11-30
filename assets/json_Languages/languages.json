@@ -485,7 +485,7 @@
                 "style": "font-weight: normal; font-size: 0.86em; color: rgb(107 104 104); text-align: justify;  font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                   "text": "<p class='first_letter_red'>Brüderliche Grüße an alle unsere Brüder im Namen Jesu. Wenn ich über das Thema dieser neuen Ausgabe mit dem Titel 'Wie die Schrift sagt' nachdenke, muss ich sagen, dass sein Wort die Fackel ist, die unseren Weg erleuchtet und unser Schicksal lenkt.</p> <p style='padding-top: 0.5em;'> Mit dem Ziel, Instrumente zu fördern, die zu unserem Wachstum und unserer Ausbildung beitragen, hat das Konsistorium der Ältesten, das immer danach strebt, in allem, was wir tun, unter der Führung Gottes zu handeln, das Ziel unserer vorherigen Ausgabe mit dem Titel 'Für immer der Glaube' aufgegriffen und auf unseren christlichen Lebensstil ausgerichtet und schlägt daher unser neues Motto vor: 'Wie die Schrift sagt'. </p>"
+                    "text": "<p class='first_letter_red'>Brüderliche Grüße an alle unsere Brüder im Namen Jesu. Wenn ich über das Thema dieser neuen Ausgabe mit dem Titel 'Wie die Schrift sagt' nachdenke, muss ich sagen, dass sein Wort die Fackel ist, die unseren Weg erleuchtet und unser Schicksal lenkt.</p> <p style='padding-top: 0.5em;'> Mit dem Ziel, Instrumente zu fördern, die zu unserem Wachstum und unserer Ausbildung beitragen, hat das Konsistorium der Ältesten, das immer danach strebt, in allem, was wir tun, unter der Führung Gottes zu handeln, das Ziel unserer vorherigen Ausgabe mit dem Titel 'Für immer der Glaube' aufgegriffen und auf unseren christlichen Lebensstil ausgerichtet und schlägt daher unser neues Motto vor: 'Wie die Schrift sagt'. </p>"
                 }
             },
             {
@@ -598,6 +598,58 @@
                     "text": "<p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em; font-style: italic;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade.</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos .</p> <p style='line-height: 1.3em; padding: 0.15em; width: 9.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong>( Salmos 77:10-14 )</strong></p>"
                 }
             }
+        ],
+        "aleman": [
+            {
+                "x": "0",
+                "y": "88%",
+                "viewX": 1800,
+                "viewY": 100,
+                "width": "100%",
+                "height": "20%",
+                "fontSize": "5em",
+                "tag": "btn-normal-2",
+                "class": "",
+                "text": "",
+                "icon": "./assets/pics/icons/iconImprimir.png",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/iconEscucha.png",
+                        "url": ""
+                    },
+                    {
+                        "icon": "./assets/pics/icons/iconImprimir.png",
+                        "url": "https://drive.google.com/file/d/1bBH1TN9c9jqEE08_B32VsDVFmRMdocLG/view?usp=share_link"
+                    }
+                ]
+            },
+            {
+                "x": "0",
+                "y": "1%",
+                "style": "z-index: 1; width: 85% !important;",
+                "zIndex": "1",
+                "width": "100%",
+                "tag": "img-content",
+                "data": {
+                    "src": "./assets/pics/icons/titulo_6.png"
+                }
+            },
+            {
+                "x": "0",
+                "y": "28%",
+                "width": "100%",
+                "styleBox": " padding: 1em; width: 60%; height: auto !important;",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "id_unique": "page-6-content-text",
+                "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
+                "text": "",
+                "data": {
+                          "text": "<p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'> 'Ich sagte: Ich will die Jahre der rechten Hand des Allerhöchsten ins Gedächtnis zurückrufen. Ich will der Werke des Herrn gedenken, ja, ich will deiner Wunder gedenken, die du vollbracht hast. Ich will über alle deine Werke nachdenken und von deinen Taten reden O Gott, heilig ist dein Weg: welcher Gott ist größer als unser Gott? Du bist der Gott, der Wunder vollbringt; du hast deine Macht unter den Volkern bekannt gemacht'<p style='line-height: 1.3em; padding: 0.15em; width: 9.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong> (Psalm 77,10-14).</strong></p>"
+                }
+            }
         ]
     },
     "7": {
@@ -682,8 +734,13 @@
                         "url": "#",
                         "id": "6-espana-7-espana",
                         "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "6-aleman-7-aleman",
+                        "name": "Alemán"
                     }
-        
                 ]
             },
             {
@@ -772,13 +829,113 @@
                         "url": "#",
                         "id": "6-espana-7-espana",
                         "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "6-aleman-7-aleman",
+                        "name": "Alemán"
                     }
-        
                 ]
             },
             {
                 "_id": "text-read-more",
                 "text": "<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #0e5b79;'><strong>Discurso final</strong></p> <p style='display: grid; padding-top: 0.7em; font-size: 1em;'><span style='font-weight: normal; width: 80%; text-align: center; justify-self: center;'>E eu disse: Isto é enfermidade minha; e logo me lembrei dos anos da dextra do Altíssimo. Lembrar-me-ei, pois, das obras do Senhor: Certamente que me lembrarei das tuas maravilhas da antiguidade. Meditarei, também,em todas as tuas obras , e falarei dos teus feitos. O teu caminho, ó Deus, está no santuário. Que Deus é tão grande como o nosso Deus? Tu és o Deus que fazes maravilhas: Tu fizeste notória a tua força entre os povos (Salmos 77:10-14). </span></p> <p style='padding-top: 0.7em; font-size: 1em;'>Que Deus lhes abençoe grandemente meus irmãos. Hoje quero comprimentar-vos como o irmão Álvaro, como a familia que somos e o povo que Deus forjou, pagando um alto preço e dedicando-o os seus cuidados com profundo amor. </p> <p style='color: #0e5b79; padding-top: 0.7em; font-size: 1em;'>Introdução: </p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive uma mãe que me ensinou os caminhos de Deus e que orava comigo pelas noites. Me ensinou a cantar todo o dia e deu-me um bom exemplo. Não era uma mulher iracunda e ainda no castigo não perdia nem a razão nem o controle, nem esquecia a misericordia.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Cresci numa familia que disfrutava levantar-se as cinco da manhã para ir ao templo a orar. Não me posso queixar, tive toda a oportunidade de conhecer a Deus num ambiente cristão.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Deus guiou-me em toda a vida e senti sua presença imaterial muito perto cuidando-me e guiando-me, e ainda livrando-me das façanhas dos que em algum momento procuraram meu mal.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Ao longo de toda a vida Ele proveu para todas as minhas necessidades, desde o meu alimento até meus sapatos, sem esquecer minha educação, nem minha formação espiritual e ministerial.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Encheu a minha alma com uma paixão muito profunda por sua obra, ainda que não tinha o perfil adequado e só eu sou testemunha do que Deus teve que fazer comigo e paciência que teve com Álvaro.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Hoje quero falar como um ser humano para agradecer ao meu Deus pelas suas bondades comigo; Seu chamado imerecido e por permitir-me compartilhar a vida em igualdade de condições com homens que eram melhores que eu. Nunca me senti digno do grande privilégio que levo em minha alma como um tesouro, o mais grande tesouro da vida: O serviço a Deus. Espero que os que tiveram que suportar-me, me perdoem as imprudências e os erros cometidos.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Nunca me considerei perfeito nem intocavel , muito menos melhor que eles. Como disse o apóstolo: 'Por sua graça sou o que sou'.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Tive duas esposas com as que me sinto individado e as que admirei por sua compreensão, inteligência e capacidade de serviço. Mariela me suportou por mais de trinta anos e não sei como conseguiu, mas todavia ela ainda quer. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Encontrei que o caminho da vida é sinuoso e de uma topografia irregular, com as alturas e os vales muda a pressão, mas Deus é imutavel.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Deus permitiu-me compartilhar por muitos anos na administração da igreja e aprendi que, para ser úteis não é necessário ser iguais; ao contrário, na diversidade está a riqueza. O diálogo e a confrontação de idéias é um exercício nobre que enriquece a vida e produz soluções sábias. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Encontrei que para mim foi muito dificil expressar meus sentimentos e vou-me com essa dívida, mas asseguro-lhes que significaram muito para mim e que contribuiram inevitavelmente para meu crescimento espiritual e formação ministerial.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Só quero dizer simplismente: Muito obrigado!</p> <p style='padding-top: 0.7em; font-size: 1em;'>Me atrevo a pensar em voz alta sobre algumas particularidades da administração da igreja. Disse e quero repetí-lo, que a palavra 'administração' usada em nosso caso tem apelido e é indispensavel que não o esqueçamos, porque a igreja é tão peculiar em sua quotidianidade e que é necessária uma maneira especial em seu manejo. Esta administração se chama: “Administração eclesial” e não é um eufemismo, é indispensavel.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Quando consideramos a proteção das ovelhas e seu bom manejo encontra-mo-nos com a necessidade de harmonizar três direitos, primeiro o direito de Deus, já que são suas ovelhas; o do pastor como administrador e o do povo. Obviamente que Deus é a primeira consideração e é necessario entender que a comunidade está acima do indivíduo.</p> <p style='padding-top: 0.7em; font-size: 1em;'>A natureza do serviço a Deus requer da profunda nobreza do servidor como expressa o apóstolo Paulo, “Assim como bem sabeis de que modo vos exortávamos e consolávamos, a cada um de vós, como pai a seus filhos”(1 Tessalonicenses 2:11) . Ou como o diz em (Romanos 9:3) “Porque, eu mesmo poderia desejar ser separado de Cristo, por amor dos meus irmãos que são meus parentes segundo a carne.” A melhor expressão de amor na administração é fazer o correto e justo no contexto das circunstâncias.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Embora, o mundo não é branco e negro; a justiça deve cosiderar a variedade de ações, circunstâncias e motivações mas nunca deve ser parcializada. Com muita razão a justiça está representada com os olhos vendados e como tal não conhece a ninguém. O amiguismo é o inimigo mortal do justo.</p> <p style='padding-top: 0.7em; font-size: 1em;'>As normas devem estar ao serviço dos sujeitos a juizo, mas não podem ignorar a gravidade dos atos. Um pastor acusado não deve ter como fortaleza para sua defesa “o devido processo” , ainda que é seu direito; senão a inocência. Um homem inocente necessita que se lhe faça justiça, a misericordia é para os culpados. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Nossa igreja amadureceu de uma forma gradual e crescente, de tal forma que hoje gozamos de um avanço tecnológico de ponta, e contamos com profissioanis capazes e comprometidos que fazem um excelente trabalho mas tem um gargalo e é que os pastores não são empregados. Esta realidade impõe uma relação que dificulta enormemente implementar processos e políticas que facilitariam a gestão administrativa e que a fariam mais eficiente. Espero que no futuro se encontre uma solução porque a medida que se expande a igreja, estes detalhes se fazem mais salientes. Não esqueçamos que quanto mais se cresce, mais necessária é a auditoria para assegurar que os processos e as políticas se implementam de maneira adequada e eficaz. Devemos ter sempre presente que o que administramos é a Igreja e sua visão e sua missão não a defenimos nós senão Deus e que os recursos que maneja tém o propósito essencial de cumprir com o objectivo proposto por Deus que é a salvação dos perdidos.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Bom é que o homem prospere, mas não de forma desmedida porque nos diz a Escritura: “ Ele o fez cavalgar sobre as alturas da terra, e comeu as novidades do campo, e fez chupar mel da rocha, e azeite da dura pederneira, manteiga de vacas e leite do rebanho, com a gordura dos cordeiros e dos carneiros que pastam em Basan, e dos bodes, com o mais escolhido trigo; e bebeste o sangue das uvas, o vinho puro. E, engordando-se Jeshurun, deu coices; engordaste-te, engrossate-te, e de gordura te cobriste: e deixou a Deus, que o fez, e desprezou a Rocha da sua salvação” ( Deuteronómio 32:13-15), ou a advertência que encontramos no mesmo livro, no capítulo 8:11-14, 17 “ Guarda-te para que não te esqueças do Senhor, teu Deus, não guardando os seus mandamentos, e os seus juízos, e os seus estatutos que hoje te ordeno: Para que porventura, havendo tu comido e estando farto, e havendo edificado boas casas, e habitando-as , e tiverem aumentado as tuas ovelhas, e se acrescentar a prata e o ouro, e se multiplicar tudo quanto tens, se não se eleve o teu coração e te esqueças do Senhor, teu Deus, que te tirou da terra do Egito, da casa da servidão... E digas no teu coração: A minha força, e a fortaleza do meu braço me adquiriu este poder. Quando nos convertemos, nos ensinaram a tirar os ídolos materiais da nossa casa, mas outros ídolos se querem instalar: A avareza e a obstinação. 1 Samuel 15:23; Colossenses 3:5.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Os princípios e doutrinas que abraçamos são a nossa riqueza, e não o alcançar relevância neste mundo. Há alguns anos alguém disse: “geralmente estar bem com Deus te leva a confrontação com os homens”. Não aspiremos a ser como o outro ou a ter o que o outro tem. Nosso referente é CRISTO! Os ministros somos aderentes a uma causa e não amantes de uma actividade. Os que amam a causa, falam e pensam como o apóstolo Paulo. “ Eu, de muita vontade, me gastarei, e me deixarei gastar, pelas vossas almas, ainda que, amando-vos cada vez mais, seja menos amado” ( 2 Coríntios 12:15). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Me rodeia um perigo doloroso, e é que a geração que se está levantando tenha a tendência imperceptivel de regressar pelo caminho da perdição que transitámos e de onde nos resgatou o Senhor. Não é normal que nossos filhos não amem, nem admirem nossa forma de viver. Espero que Deus nos ilumine para encontrar a maneira de evitar essa morte e que nossa crença não se converte num “canto de amores” ( Ezequiel 33:32). </p> <p style='padding-top: 0.7em; font-size: 1em;'>Hoje desafio a igreja colombiana, a evangelização de cincoenta milhões de compatriotas. Enquanto usarmos expressões como “ essa é uma senhora igreja” e nos gloriemos no alcançado, o trabalho ficará sem fazer. Há que olhar em frente, o caminho que falta por percorrer “porque longo caminho te resta” e o tempo se acabou. É hora de que o pastor local se empodere, se apropie dessa visão e com paixão sagrada ponha sua olhada no campo que “está branco”; considere a grande necessidade dos perdidos e dedique seu esforço e seus recursos para alcançar a meta planteada por Jesus “todo o mundo”, “cada criatura”. Esse é o desafio.</p> <p style='padding-top: 0.7em; font-size: 1em;'>E por último falarei de uma realidade que parecera que todos quisessem ignorar; a velhice. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Tarde ou cedo todos seremos anciãos. A velhice tem as suas próprias características e são analisaveis; é responsabilidadede cada pessoa planear e assegurar essa etapa da vida e temos que começar pelo estilo de vida que cada um deseja escolher. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Podemos ser empregados ou independentes. O Estado criou umas ferramentas e recursos para que os cidadãos assegurem sua velhice. Quando és empregado a responsabilidade está compartilhada entre o trabalhador e a empresa, quando se é independente és teu próprio chefe e deves assumir toda a responsabilidade da administração de todos os recursos, e projectá-los a longo prazo. Se as pessoas vivem como a cigarra cantando todo o verão, quando chega o inverno morrerão, e não será culpa de ninguém. Se vivem como a formiga, sobreviverão. Não se pode viver como se não existisse o inverno. Daí a necessidade das pensões. Mas se a aspiração é viver um nível médio, a poupançca deve ser mais robusta. A vida do independente tem que ser mais responsavel e mais inteligente “ E se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá, liberalmente... (Santiago 1:5). Ou de outra maneira busque a ajuda de alguém que o colabore, os fundos de pensão, por exemplo. Não provoquemos uma situação lamentavel em que não podemos retirar e os demais não tenham que pedir que retiremos, e então caiamos no ressentimento e a amargura, ou que já não exercemos nosso ministério eficientemente e obriguemos os demais a suportar nossa incapacidade funcional. Deus nos ajude. Bem aventurado o homem que sabe cuando afastar. </p> <p style='color: #0e5b79; padding-top: 0.7em; font-size: 1em;'>Só resta-me dizer-lhes que mantenhamos uma vida de profunda relação íntima com Deus, para que Ele possa falar-nos e guiar-nos, e o final seja melhor que o princípio. Família, que o meu Senhor Jesus vos abençoe.</p> <p style='color: #0e5b79; padding-top: 0.7em; font-size: 1em;'>Irmão e servidor em Cristo – Álvaro Torres Forrero. Pastor IPUC</p> "
+            }
+        ],
+        "aleman": [
+            {
+                "x": "0",
+                "y": "5%",
+                "width": "100%",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1.3em",
+                "zIndex": 300,
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "tag": "botones-idomas-5",
+                "text": "",
+                "data": [
+                    {
+                        "icon": "./assets/pics/icons/francia.png",
+                        "url": "#",
+                        "id": "6-francia-7-francia",
+                        "name": "Frances"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/portugal.png",
+                        "url": "#",
+                        "id": "6-brasil-7-brasil",
+                        "name": "Portugués"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/espana.png",
+                        "url": "#",
+                        "id": "6-espana-7-espana",
+                        "name": "Español"
+                    },
+                    {
+                        "icon": "./assets/pics/icons/alemania.png",
+                        "url": "#",
+                        "id": "6-aleman-7-aleman",
+                        "name": "Alemán"
+                    }
+                ]
+            },
+            {
+                "x": "20%",
+                "y": "78%",
+                "width": "100%",
+                "id_unique": "box-principal-autor-page-7",
+                "id_2": "box-text-content-autor-7",
+                "id_3": "text-content-autor-7",
+                "id_4": "box-page-7-autor",
+                "styleImg": "border-radius: 50%;",
+                "iframe": "",
+                "styleBoxText": "height: 1em; width: 15em;  align-self: end; margin-left: 2em; margin-bottom: 1em; grid-area: area-1;",
+                "styleBoxImg": "grid-area: area-2;",
+                "styleTextAutor": "padding-left: 1.5em; font-size: 0.54em;  color: #fff;",
+                "tag": "boton-author",
+                "autor": "Álvaro de Jesús Torres Forero. Pfarrer IPUC",
+                "data": {
+                    "src": "./assets/pics/icons/autor-7.png"
+                }
+            },
+            {
+                "x": "0",
+                "y": "9%",
+                "width": "100%",
+                "styleBox": "",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "id_unique": "box-text-page-frances-7",
+                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "text": "",
+                "data": {
+                    "text": "<p class='first_letter_red' style='padding-top: 1em; font-size: 1em;'>Gott segne euch sehr, meineBrüder. Heute möchte ich Sie als Bruder Alvaro grüßen, als die Familie, die wir sind, und als das Volk, das Gott geschmiedet hat, indem er einen hohen Preis gezahlt hat und wir ihm seine Fürsorge in tiefer Liebe widmen.</p> <p style='text-align: center; padding-top: 0.5em; font-size: 2em; color: #0e5b79;' id='title-7-font'><strong>Einführung</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Ich hatte eine Mutter, die mich die Wege Gottes gelehrt hat und die nachts mit mir gebetet hat. Sie hat mir den ganzen Tag lang das Singen beigebracht und mir ein sehr gutes Beispiel gegeben. Sie war keine zornige Frau, und selbst bei einer Bestrafung verlor sie weder die Vernunft noch die Beherrschung, noch vergaß sie die Barmherzigkeit. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ich bin in einer Familie aufgewachsen, die gerne um fünf Uhr morgens aufstand, um zum Beten in den Tempel zu gehen. Ich kann mich nicht beklagen, ich hatte jede Gelegenheit, Gott in einem christlichen Umfeld kennen zu lernen. </p>"
+                }
+            },
+            {
+                "x": "5%",
+                "y": "75%",
+                "width": "30%",
+                "background-color": "#43a4c4",
+                "color": "#fff",
+                "font-size": "0.89em",
+                "tag": "btn-normal",
+                "class": "",
+                "id": "btn-aleman-7",
+                "text": "",
+                "data": {
+                    "text": "Weiterlesen",
+                    "url": "#"
+                }
+            },
+            {
+                "_id": "text-read-more",
+                "text": "<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #0e5b79;'><strong>SCHLUSSREDE</strong></p> <p style='display: grid; padding-top: 0.7em; font-size: 1em; text-align: center;'><span style='font-weight: normal; width: 80%; text-align: center; justify-self: center;'>“Ich sagte: Ich will die Jahre der rechten Hand des Allerhöchsten ins Gedächtnis zurückrufen. Ich will der Werke des Herrn gedenken, ja, ich will deiner Wunder gedenken, die du vollbracht hast. Ich will über alle deine Werke nachdenken und von deinen Taten reden O Gott, heilig ist dein Weg: welcher Gott ist größer als unser Gott? Du bist der Gott, der Wunder vollbringt; du hast deine Macht unter den Volkern bekannt gemacht”<br>(Psalm 77,10-14). </span></p> <p style='padding-top: 0.7em; font-size: 1em;'>Gott segne euch sehr, meineBrüder. Heute möchte ich Sie als Bruder Alvaro grüßen, als die Familie, die wir sind, und als das Volk, das Gott geschmiedet hat, indem er einen hohen Preis gezahlt hat und wir ihm seine Fürsorge in tiefer Liebe widmen.</p> <p style='padding-top: 0.7em; font-size: 1em;'><span style='color: #0e5b79;padding-bottom: 0.7em;'><strong>Einführung</strong></span><br> Ich hatte eine Mutter, die mich die Wege Gottes gelehrt hat und die nachts mit mir gebetet hat. Sie hat mir den ganzen Tag lang das Singen beigebracht und mir ein sehr gutes Beispiel gegeben. Sie war keine zornige Frau, und selbst bei einer Bestrafung verlor sie weder die Vernunft noch die Beherrschung, noch vergaß sie die Barmherzigkeit. Ich bin in einer Familie aufgewachsen, die gerne um fünf Uhr morgens aufstand, um zum Beten in den Tempel zu gehen. Ich kann mich nicht beklagen, ich hatte jede Gelegenheit, Gott in einem christlichen Umfeld kennen zu lernen. Gott hat mich mein ganzes Leben lang begleitet, und ich habe seine immaterielle Gegenwart ganz nah gespürt, er hat sich um mich gekümmert und mich geführt und mich sogar vor den Angriffen derer bewahrt hat, die mir einst schaden wollten. Im Laufe meines Lebens hat er für alle meine Bedürfnisse gesorgt, von meinem Essen bis zu meinen Schuhen, ohne dabei meine Ausbildung und meine geistliche und seelsorgerische Schulung zu vergessen. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Er erfüllte meine Seele mit einer tiefen Leidenschaft für seine Arbeit, obwohl ich nicht das richtige Profil hatte, und ich allein bin ein Zeuge dessen, was Gott mit mir tun musste und welche Geduld er mit Alvaro hatte. Heute möchte ich als Mensch sprechen, um meinem Gott für seine Güte zu danken: für seine unverdiente Berufung und dafür, dass er mir erlaubt hat, das Leben gleichberechtigt mit Menschen zu teilen, die besser waren als ich. Ich habe mich nie des großen Privilegs würdig gefühlt, das ich wie einen Schatz in meiner Seele trage, den größten Schatz des Lebens: den Dienst an Gott. Ich hoffe, dass diejenigen, die mich ertragen mussten, mir meine Leichtsinnigkeit und meine Fehler verzeihen werden. Ich habe mich nie für perfekt oder unantastbar gehalten, geschweige denn für besser als sie. Wie der Apostel sagt: “Durch seine Gnade bin ich, was ich bin”. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ich hatte zwei Ehefrauen, denen ich zu Dank verpflichtet bin und die ich für ihr Verständnis, ihre Intelligenz und ihre Dienstbereitschaft bewundert habe. Mariela hat mich mehr als dreißig Jahre lang ertragen, und ich weiß nicht, wie sie es geschafft hat, aber sie hat immer noch den Willen dazu. Ich habe festgestellt, dass die Straße des Lebens kurvenreich und uneben ist, mit den Höhen und Tälern ändert sich der Druck, aber Gott ist unwandelbar. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Gott erlaubte mir, viele Jahre lang an der Verwaltung der Kirche teilzunehmen, und ich lernte, dass es nicht notwendig ist, gleich zu sein, um nützlich zu sein; im Gegenteil, Vielfalt ist Reichtum. Der Dialog und die Konfrontation von Ideen ist eine edle Übung, die das Leben bereichert und kluge Lösungen hervorbringt. Es ist mir sehr schwer gefallen, meine Gefühle auszudrücken, und ich verlasse die Welt mit dieser Schuld, aber ich versichere Ihnen, dass Sie mir sehr viel bedeutet haben und dass Sie einen unschätzbaren Beitrag zu meinem geistlichen Wachstum und meiner dienstlichen Ausbildung geleistet haben. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Ich möchte einfach nur sagen: Vielen Dank! Ich werde es wagen, laut über einige Besonderheiten der Kirchenverwaltungnachzudenken. Ich habe gesagt, und ich möchte es wiederholen, dass das Wort “Verwaltung”, das in unserem Fall verwendet wird, einen Beinamen hat, und es ist unabdingbar, dass wir ihn nicht vergessen, weil die Kirche in ihrem täglichen Leben so eigen ist, dass eine besondere Art des Umgangs mit ihr notwendig ist. Diese Verwaltung wird “kirchliche Verwaltung” genannt, und das ist kein Euphemismus, sondern unabdingbar, dass wir es verstehen. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Wenn wir über den Schutz der Schafe und ihre ordnungsgemäße Bewirtschaftung nachdenken, müssen wir drei Rechte miteinander in Einklang bringen: das Recht Gottes, denn es sind seine Schafe; das Recht des Hirten als Verwalter; und das Recht des Volkes. Natürlich steht Gott an erster Stelle, und es ist wichtig zu verstehen, dass die Gemeinschaft über dem Einzelnen steht. Das Wesen des Dienstes an Gott erfordert den tiefen Edelmut des Dieners, wie es der Apostel Paulus ausdrückt, “wie auch ihr wisst, wie wir einen jeden von euch ermahnt und getröstet haben, wie ein Vater seine Kinder” (1 Thessalonicher 2,1 1). Oder wie er es in Römer 9,3 ausdrückt: “Denn ich wollte, ich selbst wäre von der Kirche verbannt, getrennt von Christus, aus Liebe zu meinen Brüdern, die meine Verwandten sind nach dem Fleisch”. Der beste Ausdruck von Liebe in der Verwaltung besteht darin, das zu tun, was unter den gegebenen Umständen richtig und gerecht ist. </p> <p style='padding-top: 0.7em; font-size: 1em;'> Die Welt ist jedoch nicht schwarz-weiß; die Justiz muss die Vielfalt der Handlungen, Umstände und Beweggründe berücksichtigen, darf aber niemals voreingenommen sein. Die Justiz wird zu Recht mit verbundenen Augen dargestellt und kennt daher niemanden. Vetternwirtschaft ist der Todfeind der Gerechtigkeit. </p> <p style='padding-top: 0.7em; font-size: 1em;'>Die Vorschriften müssen den Angeklagten dienen, dürfen aber die Schwere der Tat nicht außer Acht lassen. Ein angeklagter Pastor sollte sich nicht auf ein “ordnungsgemäßes Verfahren” berufen können, obwohl dies sein Recht ist, sondern auf seine Unschuld. Ein Unschuldiger braucht Gerechtigkeit; Barmherzigkeit ist für die Schuldigen. Unsere Kirche ist allmählich und in zunehmendem Maße gereift und gewachsen, so dass wir heute über einen hochmodernen technologischen Fortschritt verfügen, und wir haben fähige und engagierte Fachleute, die hervorragende Arbeit leisten, aber es gibt einen Engpass, und der besteht darin, dass die Pfarrer keine Angestellten sind. Diese Tatsache erschwert die Umsetzung von Verfahren und Strategien, die die Verwaltung erleichtern und effizienter machen würden. Ich hoffe, dass in Zukunft eine Lösung gefunden wird, denn je größer die Kirche wird, desto wichtiger werden diese Details. Wir dürfen nicht vergessen, dass je mehr wir wachsen, desto mehr Audits erforderlich sind, um sicherzustellen, dass die Prozesse und Strategien ordnungsgemäß und effektiv umgesetzt werden. </p> <p style='padding-top: 0.7em; font-size: 1em;'> Wir müssen uns immer vor Augen halten, dass das, was wir verwalten, die Kirche ist und dass ihre Vision und ihr Auftrag nicht von uns, sondern von Gott definiert werden, und dass die Ressourcen, die wir verwalten, den wesentlichen Zweck haben, den von Gott beabsichtigten Zweck zu erfüllen, nämlich die Errettung der Verlorenen. Es ist gut für den Menschen, reich zu werden, aber nicht übermäßig, denn die Heilige Schrift sagt uns: “Er ließ ihn auf den Höhen der Erde reiten und aß die Früchte des Feldes; er ließ ihn Honig aus dem Felsen und Öl aus dem Feuerstein kosten, den Quark von Kühen und die Milch von Schafen, mit dem Fett von Lämmern und Hammeln der Rasse Basan und männlichen Ziegen, mit dem besten Weizen; und vom Blut der Trauben hast du Wein getrunken. Aber Jeschurun wurde fett und strampelte (du bist fett, du bist gemästet und plump); da verließ er Gott, der ihn gemacht hatte, und verachtete den Fels seines Heils” (Deuteronomium 32, 13-15). Oder die Warnung in Kapitel 8 desselben Buches: </p> <p style='padding-top: 0.7em; font-size: 1em;'> “Hüte dich, dass du Jehova, deinen Gott, nicht vergisst, damit du nicht isst und satt wirst und gute Häuser baust, um darin zu wohnen, und dein Herz hochmütig wird und du Jehova, deinen Gott, vergisst, der dich aus dem Land Ägypten, aus dem Haus der Knechtschaft, geführt hat; und in deinem Herzen sprichst: Meine Kraft und die Starke meiner Hand haben mir diesen Reichtum gebracht.' Als wir uns bekehrten, wurde uns beigebracht, die materiellen Götzen aus unserem Haus zu entfernen, aber andere Götzen wollen sich installieren: Gier und Sturheit. 1 Samuel 15,23; Kolosser 3.5. </p> <p style='padding-top: 0.7em; font-size: 1em;'> Die Grundsätze und Lehren, die wir uns zu eigen machen, sind unser Reichtum, nicht die Erlangung von Bedeutung in dieser Welt. Jemand sagte vor vielen Jahren: 'Wenn man mit Gott im Reinen ist, kommt man in der Regel mit den Menschen in Konflikt'. Lasst uns nicht danach streben, wie andere zu sein oder zu haben, was andere haben, unser Bezugspunkt ist CHRISTUS! </p> <p style='padding-top: 0.7em; font-size: 1em;'>Wir Gesandte sind Anhänger einer Sache und nicht Liebhaber einer Tätigkeit. Diejenigen, die die Sache lieben, reden und denken wie der Apostel Paulus: “Und ich will gern das Meine ausgeben und mich ganz und gar für eure Seelen aufopfern, denn auch wenn ich euch mehr liebe, so werde ich doch weniger geliebt” (2. Korinther 12,15). </p> <p style='padding-top: 0.7em; font-size: 1em;'> Eine schmerzliche Gefahr umgibt mich, nämlich die, dass die heranwachsende Generation die unmerkliche Tendenz hat, auf den Weg des Verderbens zurückzukehren, den wir gegangen sind und von dem uns der Herr gerettet hat. Es ist nicht normal, dass unsere Kinder unsere Lebensweise nicht lieben und bewundern. Ich hoffe, dass Gott uns erleuchten wird, damit wir einen Weg finden, diesen Tod zu vermeiden, und dass unser Glaube nicht zu einem “Liebeslied” wird (Ezechiel 33:32). </p> <p style='padding-top: 0.7em; font-size: 1em;'> Ich stelle die kolumbianische Kirche vor eine Herausforderung: die Evangelisierung von fünfzig Millionen Landsleuten. Solange wir Ausdrücke wie “Dies ist eine Frauenkirche” verwenden und uns mit dem Erreichten rühmen, wird die Arbeit unerledigt bleiben. Wir müssen den Blick nach vorne richten, denn “der Weg ist lang” und die Zeit wird knapp. Es ist an der Zeit, dass der Ortspfarrer sich selbst ermächtigt, diese Vision in die Hand nimmt und mit heiliger Leidenschaft das Feld ins Visier nimmt, das “weiß” ist; die große Not der Verlorenen bedenkt und seine Anstrengungen und Ressourcen darauf verwendet, das von Jesus gesetzte Ziel zu erreichen, “die ganze Welt”, “jede Kreatur”. Das ist die Herausforderung. </p> <p style='padding-top: 0.7em; font-size: 1em;'> Und schließlich werde ich über eine Realität sprechen, die jeder zu ignorieren scheint: das Alter. </p> <p style='padding-top: 0.7em; font-size: 1em;'> Früher oder später werden wir alle alt sein. Das Alter hat seine eigenen Merkmale und sie sind unausweichlich; es liegt in der Verantwortung jedes Einzelnen, diesen Lebensabschnitt zu planen und abzusichern, und wir müssen mit dem Lebensstil beginnen, den jeder Einzelne wählen möchte. Ob wir nun angestellt oder selbständig sind, der Staat hat Instrumente und Mittel für die Bürger geschaffen, um ihr Alter zu sichern. Als Angestellter wird die Verantwortung zwischen dem Arbeitnehmer und dem Unternehmen geteilt, als Selbständiger sind Sie Ihr eigener Chef und müssen die volle Verantwortung für die Verwaltung aller Ihrer Ressourcen übernehmen und sie langfristig planen. Wenn die Menschen den ganzen Sommer über wie die singende Zikade leben, werden sie im Winter sterben, und niemand wird daran schuld sein. Wenn sie wie eine Ameise leben, werden sie überleben; man kann nicht leben, als ob es keinen Winter gäbe. Daher die Notwendigkeit von Renten. Wenn man aber ein Leben auf durchschnittlichem Niveau anstrebt, müssen die Ersparnisse robuster sein. Das Leben der Selbstständigen muss verantwortungsvoller und intelligenter werden, “und wem es an Weisheit mangelt, der frage Gott, der allen Menschen reichlich gibt” (Jakobus 1,5). Oder Sie können sich an jemanden wenden, der Ihnen hilft, z. B. an die Rentenversicherung. Lassen Sie uns nicht eine unglückliche Situation heraufbeschwören, in der wir nicht in den Ruhestand gehen können und andere uns bitten müssen, zu gehen, und wir dann in Groll und Bitterkeit verfallen oder unseren Dienst nicht mehr wirksam ausüben und andere zwingen, unsere Funktionsunfähigkeit zu ertragen. Gott helfe uns, gesegnet ist der Mann, der weiß, wann er zur Seite treten muss. </p> <p style='padding-top: 0.7em; font-size: 1em;'> Es bleibt mir nur noch, Ihnen zu sagen, dass Sie ein Leben in tiefer und inniger Beziehung zu Gott führen sollen, damit Er zu uns sprechen und uns führen kann, und das Ende wird besser sein als der Anfang. Familie, möge mein Herr Jesus euch segnen. </p> <p style='color: #0e5b79; padding-top: 0.7em; font-size: 1em;'>Bruder und Diener in Christus, </p> <p style='color: #0e5b79; padding-top: 0.7em; font-size: 1em;'>Álvaro Torres Forero. Pfarrer IPUC</p>"
             }
         ]
     },
@@ -820,7 +977,6 @@
                         "id": "10-espana-11-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -920,7 +1076,6 @@
                         "id": "10-espana-11-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -998,7 +1153,7 @@
                 "data": {
                     "text": "<p class='first_letter_red aux_red' style='text-align: center; padding-top: 1em; font-size: 1.1em; font-style: italic;'>“I planted, Apollos watered, but God gave the  <br> increase. 7 So then neither he who plants is anything <br> , nor he who waters, but God who gives the increase. <br>(1 Corinthians 3: 6-7 New King James Version) </p> <p style='padding-top: 0.7em; font-size: 1em;'> The Kingdom of Heaven is compared to a mustard seed, the smallest of all seeds, but one that was for the Jewish people quite insignificant. Being so tiny when it is sowed, it grows and makes a robust tree that offers shelter on all its branches for the birds. But how does that small seed grown into such a shade-giving tree? So it is God who works the new borth in a person’s life (Mark 4: 26-29). </p>"
                 }
-            },    
+            },
             {
                 "x": "0",
                 "y": "5%",
@@ -1035,7 +1190,6 @@
                         "id": "10-espana-11-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -1115,7 +1269,6 @@
                         "id": "16-espana-17-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -1281,7 +1434,6 @@
                         "id": "16-espana-17-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -1464,7 +1616,6 @@
                         "id": "22-espana-23-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -1612,7 +1763,6 @@
                         "id": "28-espana-29-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
@@ -1713,7 +1863,6 @@
                         "id": "30-espana-31-espana",
                         "name": "Español"
                     }
-        
                 ]
             },
             {
