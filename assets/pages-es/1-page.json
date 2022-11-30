@@ -46,7 +46,7 @@
         "zIndex": "1",
         "width": "70%",
         "tag": "img-content",
-        "id_unique": "img-content-1",
+        "id_unique": "img-content-1-aux",
         "data": {
             "src": "./assets/pics/icons/salio-su-voz-lineas.png"
         }
@@ -61,6 +61,17 @@
         "id_unique": "img-content-1",
         "data": {
             "src": "./assets/pics/icons/por-toda-la-tierra-lineas.png"
+        }
+    },
+    {
+        "width": "100%",
+        "styleBox": "width: 100%;",
+        "background-color": "#b41015",
+        "id_unique": "page-1-text-background",
+        "font-size": "1em",
+        "tag": "content-text",
+        "data": {
+            "text": "<p style='font-size: 0.8em; text-align: center;'>Órgano Oficial de la Iglesia Pentecostal Unida de Colombia</p><p style='font-size: 0.6em; text-align: center;'>Edicion 117 / Año 67 / Septiembre 2022 - Distribucion gratuita</p>"
         }
     }
 ]
