@@ -31,6 +31,7 @@ const click_autor = (e) => {
 }
 
 
+
 //variables auxiliares para el audio
 var band_audio = true;
 var audio_array = [];
@@ -274,6 +275,7 @@ const playAudio = (e) => {
 
 
 }
+
 
 
 /**
