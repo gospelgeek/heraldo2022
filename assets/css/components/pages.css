@@ -1487,7 +1487,7 @@ audio {
         font-size: 0.6em !important;
     }
     #box-text-page-7 .responsive-font-content {
-        font-size: 0.6em !important;
+        font-size: 0.7em !important;
     }
     #box-text-page-frances-7 .responsive-font-content {
         font-size: 0.74em !important;
@@ -1688,6 +1688,9 @@ audio {
     }
     #page-1-text-background  .responsive-font-content {
         font-size: 0.7em !important;
+    }
+    #page-7-last-text {
+        display: none;
     }
 }
 
@@ -1926,7 +1929,7 @@ audio {
         font-size: 0.8em !important;
     }
     #box-text-page-7 .responsive-font-content {
-        font-size: 0.5em !important;
+        font-size: 0.6em !important;
     }
     #box-text-page-frances-7 .responsive-font-content {
        font-size: 0.6em !important;
