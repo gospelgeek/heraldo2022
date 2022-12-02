@@ -910,7 +910,7 @@
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "box-text-page-frances-7",
+                "id_unique": "box-text-page-7",
                 "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
@@ -927,6 +927,7 @@
                 "tag": "btn-normal",
                 "class": "",
                 "id": "btn-aleman-7",
+                "id_unique": "btn-page-aleman-7",
                 "text": "",
                 "data": {
                     "text": "Weiterlesen",

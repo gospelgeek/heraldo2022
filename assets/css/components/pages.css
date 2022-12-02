@@ -1487,7 +1487,7 @@ audio {
         font-size: 0.6em !important;
     }
     #box-text-page-7 .responsive-font-content {
-        font-size: 0.7em !important;
+        font-size: 0.65em !important;
     }
     #box-text-page-frances-7 .responsive-font-content {
         font-size: 0.74em !important;
@@ -1691,6 +1691,9 @@ audio {
     }
     #page-7-last-text {
         display: none;
+    }
+    #btn-page-aleman-7 .boton-normal-text-23 {
+        font-size: 0.6em !important;
     }
 }
 
