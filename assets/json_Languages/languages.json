@@ -543,7 +543,7 @@
                 "style": "display: grid; font-weight: normal; border-radius: 0.2em; font-size: 1em; color: rgb(107 104 104); text-align: center; font-family: 'Times New Roman', Times, serif; font-style: italic;",
                 "text": "",
                 "data": {
-                    "text": " <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='line-height: 1.3em; padding: 0.1em; width: 10.2em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87;; text-align: center; justify-self: center; font-style: normal;'><strong>( Psaumes 77: 11-14 )</strong></p>"
+                    "text": " <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>Je rappellerai les oeuvres de l'Éternel, Car je me souviens de tes merveilles d'autrefois; Je parlerai de toutes tes oeuvres, Je raconterai tes hauts faits..</p> <p style='line-height: 1.3em; text-align: center; padding-top: 0.5em; font-size: 1em;'>O Dieu! tes voies sont saintes; Quel dieu est grand comme Dieu?Tu es le Dieu qui fait des prodiges; Tu as manifesté parmi les peuples ta puissance.</p> <p style='line-height: 1.3em; padding: 0.1em; width: 10.7em; background-color: #fff; border-radius: 0.7em; margin-top: 0.8em; font-size: 1.2em; color: #216b87; text-align: center; justify-self: center; font-style: normal;'><strong>( Psaumes 77: 11-14 )</strong></p>"
                 }
             }
         ],
@@ -770,7 +770,7 @@
             },
             {
                 "x": "0",
-                "y": "9%",
+                "y": "11%",
                 "width": "100%",
                 "styleBox": "",
                 "background-color": "#b41015",
