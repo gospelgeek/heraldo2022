@@ -1695,6 +1695,12 @@ audio {
     #btn-page-aleman-7 .boton-normal-text-23 {
         font-size: 0.6em !important;
     }
+    #btn-presidente {
+        font-size: 1.55em !important;
+    }
+    #btn-presidente-pag-4-video {
+        top: 46% !important;
+    }
 }
 
 

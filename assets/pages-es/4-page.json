@@ -55,6 +55,7 @@
         "styleBox": "width: 60%; ",
         "zIndex": 400,
         "tag": "content-text",
+        "id_unique": "btn-presidente-pag-4-video",
         "data": {
             "text": "<a id='btn-presidente'style='width: 8em; border-radius: 0.7em; background-color: #9a211f;  font-size: 1em;' type='button'>Ver Video</a>"
         }
