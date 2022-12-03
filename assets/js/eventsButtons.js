@@ -25,6 +25,9 @@ const click_autor = (e) => {
     if (e !== '') {
     //poner visible la caja de texto
     $('.read-more-box').removeClass('display-none')
+    $('.read-more-content').addClass('aux-video-author')
+    $('.read-more-close').addClass('change-color-text')
+    $('.read-more-text').addClass('aux-video-author-text')
     $('.read-more-text').html(`<iframe width='100%' height='100%' src="${e}" title='Secretario General Heraldo 09 junio 2022 11 18 09 a m' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>`)
     }
 
@@ -132,6 +135,9 @@ $('.read-more-close').on('click', function (event) {
     $(this).parent().parent().addClass('display-none')
     //quitar reproductor de audio e video de un iframe
     $('.read-more-text').html('')
+    $('.read-more-content').removeClass('aux-video-author')
+    $('.read-more-close').removeClass('change-color-text')
+    $('.read-more-text').removeClass('aux-video-author-text')
 });
 
 
