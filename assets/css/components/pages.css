@@ -1194,13 +1194,13 @@ audio {
         font-size: 0.63em !important;
     }
     #btn-11-icons {
-        top: 48% !important;
+        top: 51% !important;
     }
     #btn-11-content {
-        top: 48.3% !important;
+        top: 51.4% !important;
     }
     #btn-11-content-ingles {
-        top: 48.3% !important;
+        top: 51.3% !important;
     }
     #btn-ingles-11 .boton-normal-text-23 {
         font-size: 0.68em !important;
@@ -2384,13 +2384,15 @@ audio {
 }
 
 
-/*
-@media screen and (max-width: 400px) and (min-height: 713px) {
-     #text-content-autor-7 {
-        font-size: 0.5em !important;
-     }
+
+@media screen and (max-width: 400px) and (max-height: 713px) {
+     
+    #title-spanis-10 {
+        top: 11% !important;
+    }
+
 }
-*/
+
 
 
 #puzzle {
