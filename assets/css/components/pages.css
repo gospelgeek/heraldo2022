@@ -1182,16 +1182,16 @@ audio {
         font-size: 0.56em !important;
     }
     #btn-9-read-more {
-        top: 75% !important;
+        top: 77% !important;
     }
     #icon-content-9 {
-        top: 75% !important;
+        top: 76% !important;
     }
     #text-content-9 {
-        top: 37% !important;
+        top: 39% !important;
     }
     #text-content-9 .responsive-font-content {
-        font-size: 0.65em !important;
+        font-size: 0.63em !important;
     }
     #btn-11-icons {
         top: 48% !important;
@@ -2382,6 +2382,15 @@ audio {
     }
     
 }
+
+
+/*
+@media screen and (max-width: 400px) and (min-height: 713px) {
+     #text-content-autor-7 {
+        font-size: 0.5em !important;
+     }
+}
+*/
 
 
 #puzzle {
