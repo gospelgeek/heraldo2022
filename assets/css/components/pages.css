@@ -1106,6 +1106,15 @@ audio {
     bottom: 0;
 }
 
+#fondo-12-content {
+    position: absolute;
+    bottom: 0;
+}
+
+#fondo-12-content .img-aux-page-12 {
+   height: 22em !important;
+}
+
 #page-1-text-background {
     position: absolute;
     bottom: 0;
@@ -1707,6 +1716,9 @@ audio {
         width: 90% !important;
         height: 64% !important;
     }
+    #fondo-12-content .img-aux-page-12 {
+        height: 20.5em !important;
+    }
     
 }
 
@@ -2159,6 +2171,9 @@ audio {
         font-size: 0.5em !important;
         padding-left: 2em !important;
     }
+    #fondo-12-content .img-aux-page-12 {
+        height: 15.5em !important;
+    }
 
 }
 
@@ -2281,6 +2296,9 @@ audio {
     #text-content-autor-37 {
         font-size: 0.6em !important;
     }
+    #fondo-12-content .img-aux-page-12 {
+        height: 21em !important;
+    }
 
 }
 
@@ -2387,6 +2405,9 @@ audio {
     #text-content-37 .responsive-font-content {
         font-size: 0.68em !important;
     }
+    #fondo-12-content .img-aux-page-12 {
+        height: 16.7em !important;
+    }
     
 }
 
@@ -2405,6 +2426,13 @@ audio {
     }
     #text-element-page-13 .responsive-font-content {
         font-size: 0.68em !important;
+    }
+    #text-content-autor-9 {
+        margin-top: 0.3em !important;
+        font-size: 0.3em !important;
+    }
+    #fondo-12-content .img-aux-page-12 {
+        height: 16.5em !important;
     }
 
 }

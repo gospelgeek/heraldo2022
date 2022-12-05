@@ -94,6 +94,16 @@ const addComponents = (region, lang) => {
             "<div id='words'></div>" +
             "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver el juego</button><button class='buttonsGame' id='clean'>Reiniciar juego</button></div>"))
             break;
+        case 'img-content-2':
+            element = (`<div class="div-center-ubication-responsive"> 
+                            <div class="img-aux-page-12" style='display: grid; grid-template-rows: 5% 90% 5%; grid-template-columns: 100%;'> 
+                                <div style='grid-row: 1; grid-column: 1; background-color: #9a211f;'></div>
+                                <img src="${region.data.src}" class='aux-img-class' style="width: 70%; height: 100%; object-fit: cover; ${region.style}">
+                                <div style='grid-row: 3; grid-column: 1; background-color: #9a211f; '></div>
+                            </div>
+
+                        </div>`)
+            break;
         default:
             break;
     }

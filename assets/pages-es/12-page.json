@@ -12,6 +12,16 @@
         }
     },
     {
+        "style": "width: 100%",
+        "zIndex": "1",
+        "width": "100%",
+        "id_unique": "fondo-12-content",
+        "tag": "img-content-2",
+        "data": {
+            "src": "./assets/pics/icons/fondo12.gif"
+        }
+    },
+    {
         "x": "60%",
         "y": "90%",
         "width": "50%",
