@@ -1140,6 +1140,10 @@ audio {
     z-index: 1;
 }
 
+#img-page-25 {
+    margin-top: -2em;
+}
+
 /*
     animacion de entrada
 */
@@ -2191,6 +2195,9 @@ audio {
     #text-center-content-21 .responsive-font-content {
         font-size: 0.7em !important;
     }
+    #img-page-25 {
+       width: 90% !important;
+    }
 
 }
 
@@ -2486,6 +2493,12 @@ audio {
     }
     #content-text-21 {
         top: 60% !important;
+    }
+    #img-page-25 {
+        width: 90% !important;
+    }
+    #content-text-27 .responsive-font-content {
+        font-size: 0.62em !important;
     }
 
 }

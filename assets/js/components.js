@@ -113,6 +113,14 @@ const addComponents = (region, lang) => {
                             </div>
                         </div>`)
             break;
+        case 'img-content-aux':
+            element = (`<div class="div-center-ubication-responsive">
+                           <div id='${region.id_aux}' style='width: 100%; display: grid; grid-template-rows: auto; grid-template-columns: 100%; align-items: center; justify-items: center;'> 
+                              <img id="${region.data[0].id}" src="${region.data[0].src}" class='aux-img-class' style="width: 70%; height: 100%; object-fit: cover; ${region.style}">
+                              <img id="${region.data[1].id}" src="${region.data[1].src}" class='aux-img-class' style="width: 70%; height: 100%; object-fit: cover; ${region.style}">
+                            </div>
+                        </div>`)
+            break;
         default:
             break;
     }
