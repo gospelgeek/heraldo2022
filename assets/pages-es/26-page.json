@@ -5,23 +5,13 @@
         "style": "width: 100%",
         "zIndex": "1",
         "width": "100%",
-        "tag": "img-content",
-        "id_unique": "title-aux-content-26",
-        "data": {
-            "src": "./assets/pics/icons/fondo-aux-26.png"
-        }
-    },
-    {
-        "x": "0",
-        "y": "43%",
-        "style": "width: 95%",
-        "zIndex": "1",
-        "width": "100%",
-        "id_unique": "title-content-26",
-        "tag": "img-content",
-        "data": {
-            "src": "./assets/pics/icons/titulo-26.png"
-        }
+        "tag": "img-content-aux",
+        "id_unique": "title-aux-content-26-new",
+        "data": [
+           { "src": "./assets/pics/icons/fondo-aux-26.png"},
+           { "src": "./assets/pics/icons/titulo-26.png" , 
+             "id": "img-page-25"}
+        ]
     },
     {
         "x": "0",
@@ -32,7 +22,6 @@
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
-        "id_unique": "btn-content-icons-more-19",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
