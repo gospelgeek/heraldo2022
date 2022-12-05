@@ -2447,6 +2447,9 @@ audio {
     #text-content-autor-15 {
         font-size: 0.4em !important;
     }
+    #img-content-fondo-20 .aux-img-class{
+        height: 15.5em !important;
+    }
 
 }
 
