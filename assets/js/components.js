@@ -104,6 +104,15 @@ const addComponents = (region, lang) => {
 
                         </div>`)
             break;
+        case 'btn-presidente':
+            element = (`<div class="div-center-ubication-responsive">
+                            <div style='${region.styleBox}'>
+                              <a id='btn-presidente' style='width: 8em; border-radius: 0.7em; background-color: #9a211f;  font-size: 1em;'  onclick="click_autor('${''+region.iframe+''}')" >
+                                 Ver Video
+                              </a>
+                            </div>
+                        </div>`)
+            break;
         default:
             break;
     }

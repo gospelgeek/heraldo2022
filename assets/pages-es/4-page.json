@@ -49,15 +49,16 @@
         }
     },
     {
-        "x": "50%",
-        "y": "40%",
+        "x": "45%",
+        "y": "45%",
         "width": "60%",
-        "styleBox": "width: 60%; ",
+        "styleBox": "width: 50%; ",
         "zIndex": 400,
-        "tag": "content-text",
+        "iframe": "https://www.youtube.com/embed/6k_p35FhaQQ",
+        "tag": "btn-presidente",
         "id_unique": "btn-presidente-pag-4-video",
         "data": {
-            "text": "<a id='btn-presidente'style='width: 8em; border-radius: 0.7em; background-color: #9a211f;  font-size: 1em;' type='button'>Ver Video</a>"
+            "text": ""
         }
     }
 ]
