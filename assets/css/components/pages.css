@@ -1389,7 +1389,7 @@ audio {
         left: 2% !important;
     }
     #content-text-21 {
-        top: 63% !important;
+        top: 60% !important;
         font-size: 1.2em !important;
     }
     #title-content-24 {
@@ -2480,6 +2480,9 @@ audio {
     }
     #content-text-page-21 .responsive-font-content {
         font-size: 0.8em !important;
+    }
+    #content-text-21 {
+        top: 60% !important;
     }
 
 }
