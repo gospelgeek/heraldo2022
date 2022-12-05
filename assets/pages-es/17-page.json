@@ -125,6 +125,7 @@
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
+        "id_unique": "btn-aux-page-17",
         "icon": "./assets/pics/icons/iconImprimir.png",
         "data": [
             {
