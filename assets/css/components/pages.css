@@ -2434,6 +2434,15 @@ audio {
     #fondo-12-content .img-aux-page-12 {
         height: 15em !important;
     }
+    #btn-normal-2-14 {
+        top: 70% !important;
+    }
+    #btn-content-espana-15 {
+        top: 60% !important;
+    }
+    #text-content-autor-15 {
+        font-size: 0.4em !important;
+    }
 
 }
 

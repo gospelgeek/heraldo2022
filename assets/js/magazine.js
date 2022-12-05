@@ -64,7 +64,7 @@
            pageElement.find('.loader').remove();
        });
 
-       let background_diferent = [ 1 , 8]
+       let background_diferent = [ 1 , 8 , 14 , 15]
        checkImage((background_diferent.includes(page))? '../assets/pics/backgrounds/' + page + '.gif' : '../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
        loadRegions(page, pageElement, lang);
 
