@@ -1350,7 +1350,7 @@ audio {
         width: 87% !important;
     }
     #btn-content-espana-15 {
-        top: 50% !important;
+        top: 55% !important;
     }
     #box-text-content-autor-15 {
         width: 17em !important;
@@ -2417,7 +2417,7 @@ audio {
 
 
 @media screen and (max-width: 400px) and (max-height: 713px) {
-     
+
     #title-spanis-10 {
         top: 11% !important;
     }
@@ -2435,16 +2435,20 @@ audio {
         font-size: 0.3em !important;
     }
     #fondo-12-content .img-aux-page-12 {
-        height: 15em !important;
+        height: 13.5em !important;
+        width: 100% !important;
     }
     #btn-normal-2-14 {
         top: 70% !important;
     }
     #btn-content-espana-15 {
-        top: 60% !important;
+        top: 65% !important;
     }
     #text-content-autor-15 {
         font-size: 0.4em !important;
+    }
+    #img-content-fondo-20 .aux-img-class{
+        height: 15.5em !important;
     }
 
 }
