@@ -28,7 +28,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.83em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 0.7em; font-size: 1em;'>Dios delega a Zorobabel la responsabilidad de reconstruir el templo, una tarea grande, pero le manifiesta que esto no será posible por habilidades o estrategias humanas, sino por su Espíritu.<br> Se entiende por estrategia un plan de acción para alcanzar un objetivo, sobre este particular hoy tenemos a disposición muchos conocimientos y por cierto nada despreciables; sin embargo, respecto a la predicación del Evangelio debemos ser cuidadosos en el uso de estas herramientas, a fin de no perder la perspectiva del sentido de la misión. Podemos tomar algunos de estos recursos, pero debemos tener presente que las estrategias o métodos no pueden desplazar al Espíritu Santo en la tarea de la predicación.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Por ejemplo, Jesús dijo que se predicase en su Nombre el arrepentimiento y perdón de pecados. En muchos casos la predicación se centra en mover las emociones, trayendo como resultado, multitudes frente a un altar pero, no hay convicción de pecado y por ende no se busca el perdón de ellos para alcanzar la salvación.</p>"
+            "text": "<p style='padding-top: 0.7em; font-size: 1em;'>Dios delega a Zorobabel la responsabilidad de reconstruir el templo, una tarea grande, pero le manifiesta que esto no será posible por habilidades o estrategias humanas, sino por su Espíritu.<br> Se entiende por estrategia un plan de acción para alcanzar un objetivo, sobre este particular hoy tenemos a disposición muchos conocimientos y por cierto nada despreciables; sin embargo, respecto a la predicación del Evangelio debemos ser cuidadosos en el uso de estas herramientas, a fin de no perder la perspectiva del sentido de la misión. Podemos tomar algunos de estos recursos, pero debemos tener presente que las estrategias o métodos no pueden desplazar al Espíritu Santo en la tarea de la predicación.</p> <p id='parrafo-page-25' style='padding-top: 0.7em; font-size: 1em;'>Por ejemplo, Jesús dijo que se predicase en su Nombre el arrepentimiento y perdón de pecados. En muchos casos la predicación se centra en mover las emociones, trayendo como resultado, multitudes frente a un altar pero, no hay convicción de pecado y por ende no se busca el perdón de ellos para alcanzar la salvación.</p>"
         }
     },
     {
@@ -39,7 +39,8 @@
         "color": "#fff",
         "font-size": "1.2em",
         "tag": "btn-normal",
-        "id": "btn-espana-23",
+        "id": "btn-espana-25",
+        "zIndex": 300,
         "id_unique": "btn-read-more-23",
         "text": "",
         "data": {
