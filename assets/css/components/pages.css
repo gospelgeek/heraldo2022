@@ -1620,13 +1620,13 @@ audio {
         top: 10% !important;
     }
     #text-principal-29 .responsive-font-content {
-        font-size: 0.63em !important;
+        font-size: 0.67em !important;
     }
     #content-text-29 {
-        top: 32% !important;
+        top: 33% !important;
     }
     #content-text-29 .responsive-font-content {
-        font-size: 0.9em !important;
+        font-size: 1em !important;
     }
     #box-text-content-autor-29 {
         width: 14em !important;
@@ -1734,6 +1734,9 @@ audio {
     }
     #parrafo-page-25 {
         display: none;
+    }
+    #btn-espana-page-29 {
+        top: 63% !important;
     }
 }
 
@@ -2103,9 +2106,6 @@ audio {
     #text-principal-29 {
         top: 10% !important;
     }
-    #text-principal-29 {
-        top: 10% !important;
-    }
     #text-principal-29 .responsive-font-content {
         font-size: 0.6em !important;
     }
@@ -2198,7 +2198,9 @@ audio {
     #img-page-25 {
        width: 90% !important;
     }
-
+    #btn-espana-page-29 {
+        top: 60% !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {
