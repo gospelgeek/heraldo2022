@@ -1722,7 +1722,12 @@ audio {
     #btn-aux-page-17 {
         top: 83% !important;
     }
-    
+    #text-center-content-21 {
+        top: 56% !important;
+    }
+    #text-center-content-21 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
 }
 
 
@@ -2177,6 +2182,12 @@ audio {
     #fondo-12-content .img-aux-page-12 {
         height: 15.5em !important;
     }
+    #text-center-content-21 {
+        top: 60% !important;
+    }
+    #text-center-content-21 .responsive-font-content {
+        font-size: 0.7em !important;
+    }
 
 }
 
@@ -2302,6 +2313,12 @@ audio {
     #fondo-12-content .img-aux-page-12 {
         height: 21em !important;
     }
+    #text-center-content-21 {
+        top: 57% !important;
+    }
+    #text-center-content-21  .responsive-font-content{
+        font-size: 0.9em !important;
+    }
 
 }
 
@@ -2411,7 +2428,12 @@ audio {
     #fondo-12-content .img-aux-page-12 {
         height: 16.7em !important;
     }
-    
+    #text-center-content-21 {
+        top: 60% !important;
+    }
+    #text-center-content-21  .responsive-font-content{
+        font-size: 0.7em !important;
+    }
 }
 
 
@@ -2449,6 +2471,15 @@ audio {
     }
     #img-content-fondo-20 .aux-img-class{
         height: 15.5em !important;
+    }
+    #text-center-content-21 {
+        top: 62% !important;
+    }
+    #text-center-content-21  .responsive-font-content{
+        font-size: 0.7em !important;
+    }
+    #content-text-page-21 .responsive-font-content {
+        font-size: 0.8em !important;
     }
 
 }
