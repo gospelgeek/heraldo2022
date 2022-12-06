@@ -1854,6 +1854,7 @@
                 "font-size": "1.2em",
                 "tag": "btn-normal",
                 "id": "btn-brasil-29",
+                "id_unique": "btn-espana-page-29",
                 "text": "",
                 "data": {
                     "text": "Ler mais",
@@ -1896,7 +1897,7 @@
             },
             {
                 "x": "0",
-                "y": "7%",
+                "y": "10%",
                 "width": "100%",
                 "styleBox": " padding: 1em; width: 80%; height: auto !important; border-radius: 0.6em; border-style: solid; border-width: 0.15em; border-color: #414a7c;",
                 "background-color": "#b41015",
@@ -1911,7 +1912,7 @@
             },
             {
                 "x": "0",
-                "y": "35%",
+                "y": "38%",
                 "width": "100%",
                 "styleBox": "width: 79%;",
                 "background-color": "#b41015",
@@ -1927,7 +1928,7 @@
             },
             {
                 "x": "6%",
-                "y": "65%",
+                "y": "68%",
                 "width": "30%",
                 "background-color": "#ffd369",
                 "color": "#fff",
@@ -1942,8 +1943,8 @@
                 }
             },
             {
-                "x": "6.7%",
-                "y": "73%",
+                "x": "4%",
+                "y": "76%",
                 "viewX": 1800,
                 "viewY": 100,
                 "width": "30%",
