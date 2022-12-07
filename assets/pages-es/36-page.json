@@ -30,7 +30,34 @@
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1peXN9KP6lXYQ4ByDUyluGI7aoLtY1ZK9/view?usp=share_link"
+                "url": "https://drive.google.com/file/d/1ng724hNcGklPdpkSuawOIm_VKgH_uPCP/view?usp=share_link"
+            }
+        ]
+    },
+    {
+        "x": "60%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 36
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 36
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 36
             }
         ]
     }
