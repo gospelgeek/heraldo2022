@@ -41,5 +41,32 @@
         "data": {
             "text": "<p id='text-content-2-38-aux' class='first_letter_red aux_blue_2' style='font-style: italic; text-align: center; font-weight: 400; padding-top: 0.5em; font-size: 1em; color: 1E1E1F;'>“Y cuando aparezca el Principe de los pastores, vosotros recibiereis la corona incorruptible de gloria”. <span style='color: #396cc8;'>(1 Pedro 5:4)</span></p>"
         }
+    },
+    {
+        "x": "55%",
+        "y": "90%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 38
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 38
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 38
+            }
+        ]
     }
 ]
