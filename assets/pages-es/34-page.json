@@ -18,31 +18,22 @@
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",
-                "url": "https://drive.google.com/file/d/1pOUNIMmo5qmTGoeDpoN2ltWMc97rnMTu/view?usp=share_link"
+                "url": "https://drive.google.com/file/d/1RQSB4UH1roWbXS-lOBNUFWuRhXjFBAgq/view?usp=share_link"
             }
         ]
     },
     {
         "x": "0",
-        "y": "52%",
-        "style": "width: 90%;",
-        "zIndex": "2",
-        "width": "100%",
-        "tag": "img-content",
-        "data": {
-            "src": "./assets/pics/icons/titulo-32.png"
-        }
-    },
-    {
-        "x": "0",
         "y": "7%",
         "style": "width: 100%;",
-        "zIndex": "1",
+        "zIndex": "2",
         "width": "100%",
-        "tag": "img-content",
-        "id_unique": "img-content-34",
-        "data": {
-            "src": "./assets/pics/icons/foto-34.png"
-        }
+        "tag": "img-content-aux",
+        "id_unique": "title-aux-content-26-new",
+        "data": [
+            {"src": "./assets/pics/icons/foto-34.png"},
+            {"src": "./assets/pics/icons/titulo-32.png" ,
+            "id": "img-page-34"}
+        ]
     }
 ]
