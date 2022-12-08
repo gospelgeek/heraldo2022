@@ -55,7 +55,7 @@
         "style": "font-weight: normal; color: rgb(107 104 104); font-family: 'Montserrat', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p class='first_letter_red aux_green' style=' font-weight: 500;  line-height: 1em; padding-top: 1em; font-size: 0.8em;'>Se trabajó con diferentes métodos de evangelismo en forma presencial y virtual <ul style='padding-inline-start: 0.4em; color: 1E1E1F;  font-weight: 400; font-size: 0.75em; list-style: none;'><li>-Atención a distritos y congregaciones, de forma presencial y virtual.</li><li>-Asesorías realizadas a diferentes distritos por los coordinadores distritales</li><li>-Conferencia presencial en el campamento de Melgar (Tolima) – con los treinta y cinco distritos, y sus coordinadores distritales. </li><li>-Capacitación estratégica en la implementación de Refam digital.</li><li>-Articulación Refam digital con Refam en vivo. </li><li>-Creación del Linkr.bio. - con veintisiete distritos, equivalente al 77% de cobertura</li></ul></p>"
+            "text": "<p class='first_letter_red aux_green' style=' font-weight: 500;  line-height: 1em; padding-top: 1em; font-size: 0.8em;'>Se trabajó con diferentes métodos de evangelismo en forma presencial y virtual <ul id='page-43-text-normal' style='padding-inline-start: 0.4em; color: 1E1E1F;  font-weight: 400; font-size: 0.75em; list-style: none;'><li>-Atención a distritos y congregaciones, de forma presencial y virtual.</li><li>-Asesorías realizadas a diferentes distritos por los coordinadores distritales</li><li>-Conferencia presencial en el campamento de Melgar (Tolima) – con los treinta y cinco distritos, y sus coordinadores distritales. </li><li>-Capacitación estratégica en la implementación de Refam digital.</li><li>-Articulación Refam digital con Refam en vivo. </li><li>-Creación del Linkr.bio. - con veintisiete distritos, equivalente al 77% de cobertura</li></ul></p>"
         }
     },
     {
@@ -79,9 +79,9 @@
         "x": "17%",
         "y": "80%",
         "width": "100%",
-        "id_unique": "box-principal-autor-page-15",
-        "id_2": "box-text-content-autor-19",
-        "id_3": "text-content-autor-9",
+        "id_unique": "box-principal-autor-page-23",
+        "id_2": "box-text-content-autor-43",
+        "id_3": "text-content-autor-43",
         "id_4": "box-page-9-autor",
         "styleImg": "width: 98% !important; height: 98% !important; border-radius: 40%;",
         "styleBoxText": "height: 1em; width: 21em; align-self: end; height: 1em; margin-left: 0em; margin-bottom: 0.5em; grid-area: area-1;",
