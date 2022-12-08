@@ -48,7 +48,13 @@ const addComponents = (region, lang) => {
             element = (`<div class="div-center-ubication-responsive"><span class="responsive-font" style="${region.style}" >${(region.data).text}</span></div>`)
             break;
         case 'content-text':
-            element = (`<div class="div-center-ubication-responsive"><div class='aux-class-content' style="width: 80%; heiht: 80%; ${region.styleBox}"> <span class="responsive-font-content" style="${region.style}" >${(region.data).text}</span> </div> </div>`)
+            element = (`<div class="div-center-ubication-responsive">
+                             <div class='aux-class-content' style="width: 80%; heiht: 80%; ${region.styleBox}"> 
+                                    <span class="responsive-font-content" style="${region.style}" >
+                                    ${(region.data).text}
+                                    </span> 
+                             </div> 
+                        </div>`)
             break;
         case 'botones-idomas':
             element = (`<div class="div-center-ubication-responsive"> <div style="gap: 0.5em;grid-template-columns: 33.3% 33.3% 33.3%;" class="div-center-two-icons-responsive" > ${`<a id="${(region.data)[0].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[0].id}')"><img src="${(region.data)[0].icon}" ></a> <a id="${(region.data)[1].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[1].id}')"><img src="${(region.data)[1].icon}" ></a> <a id="${(region.data)[2].id}" style="cursor: pointer;" onClick="clickLenguage('${(region.data)[2].id}')"><img src="${(region.data)[2].icon}" ></a>`} </div> </div>`)
@@ -121,6 +127,23 @@ const addComponents = (region, lang) => {
                             </div>
                         </div>`)
             break;
+        case 'ummm':
+            element = (`<div class="div-center-ubication-responsive">
+                          <div class='aux-class-content' style="width: 80%; heiht: 80%; ${region.styleBox}"> 
+                            <span class="responsive-font-content" style="${region.style}" >
+                               <p style=' font-weight: 900;  line-height: 1.5em; padding-top: 0.5em; font-size: 1.3em;'>Objetivos: 
+                                 <ul style='padding-inline-start: 0; pxcolor: 1E1E1F; text-align: center; font-weight: 400;  text-decoration: underline; list-style: none; font-size: 1.2em;'>
+                                     <li style='color: black; font-weight: 400; '><a  onclick="click_ul_li('1')" style='cursor: pointer;'>Objetivo segmento evangelístico</a></li>
+                                     <li style='color: black; font-weight: 400; '><a  onclick="click_ul_li('2')" style='cursor: pointer;'>Objetivo segmento espiritual</a></li>
+                                     <li style='color: black; font-weight: 400; '><a  onclick="click_ul_li('3')" style='cursor: pointer;'>Objetivo segmento formativo</a></li>
+                                     <li style='color: black; font-weight: 400; '><a  onclick="click_ul_li('4')" style='cursor: pointer;'>Objetivo segmento social</a></li>
+                                     <li style='color: black; font-weight: 400; '><a  onclick="click_ul_li('5')" style='cursor: pointer;'>Objetivo segmento administrativo</a></li>
+                                </ul>
+                              </p>
+                            </span>
+                            </div>
+                        </div>`)
+           break;
         default:
             break;
     }
