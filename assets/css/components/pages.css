@@ -2544,6 +2544,11 @@ audio {
     color: #fff !important;
 }
 
+.height-auto {
+    height: auto !important;
+    min-height: 10em;
+}
+
 #puzzle {
     margin: 20px 30px 0 30px;
 }
