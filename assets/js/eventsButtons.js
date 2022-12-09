@@ -287,6 +287,8 @@ function click_ul_li(e) {
 
     $('.read-more-box').removeClass('display-none')
     $('.read-more-content').addClass('height-auto')
+    //scroll 0
+    $('.read-more-text').scrollTop(0)
 
     //switch para saber que tipo de contenido es
     switch (e) {

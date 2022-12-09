@@ -1455,7 +1455,8 @@ audio {
         font-size: 1.3em !important;
     }
     #btn-read-more-45 {
-        top: 55% !important;
+        top: 59% !important;
+        left: 1% !important;
     }
     #img-content-aux-new-45 {
         top: 60% !important;
@@ -1468,6 +1469,7 @@ audio {
     #text-content-autor-45 {
         padding-left: 10em !important;
         font-size: 0.47em !important;
+        margin-top: 0.2em !important;
     }
     #text-content-2-46-aux {
         font-size: 1.15em !important;
