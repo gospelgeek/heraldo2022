@@ -1769,6 +1769,10 @@ audio {
     #btn-read-more-47 {
         top: 80% !important;
     }
+    #btn-read-more-49 {
+        top: 50% !important;
+        left: 0% !important;
+    }
 }
 
 
@@ -2250,6 +2254,10 @@ audio {
     #btn-read-more-47 {
         top: 80% !important;
     }
+    #btn-read-more-49 {
+        top: 55% !important;
+        left: 0% !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {
@@ -2509,6 +2517,10 @@ audio {
     #text-content-autor-43 {
         font-size: 0.34em !important;
         margin-top: 0.1em !important;
+    }
+    #btn-read-more-49 {
+        top: 60% !important;
+        left: 0% !important;
     }
 }
 
