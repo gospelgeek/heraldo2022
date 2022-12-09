@@ -1760,6 +1760,15 @@ audio {
         font-size: 0.41em !important;
         margin-top: 0.1em !important;
     }
+    #content-text-2-47 .responsive-font-content {
+        font-size: 0.9em !important;
+    }
+    #content-text-2-47-aux .responsive-font-content {
+        font-size: 0.85em !important;
+    }
+    #btn-read-more-47 {
+        top: 80% !important;
+    }
 }
 
 
@@ -2232,6 +2241,15 @@ audio {
     #text-content-autor-43 {
         font-size: 0.38em !important;
     }
+    #content-text-2-47 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #content-text-2-47-aux .responsive-font-content {
+        font-size: 0.75em !important;
+    }
+    #btn-read-more-47 {
+        top: 80% !important;
+    }
 }
 
 @media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {
@@ -2365,6 +2383,9 @@ audio {
     #text-content-autor-43 {
         font-size: 0.43em !important;
         margin-top: 0.1em !important;
+    }
+    #content-text-2-47-aux .responsive-font-content {
+        font-size: 0.9em !important;
     }
 
 }
@@ -2564,6 +2585,12 @@ audio {
     }
     #page-43-text-normal {
         font-size: 0.8em !important;
+    }
+    #content-text-2-47 .responsive-font-content {
+        font-size: 0.8em !important;
+    }
+    #content-text-2-47-aux .responsive-font-content {
+        font-size: 0.75em !important;
     }
 
 }
