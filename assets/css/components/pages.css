@@ -1070,6 +1070,11 @@ audio {
   display: none !important;
 }
 
+
+#pie-pagina-11 {
+   color: #fff;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -1209,13 +1214,13 @@ audio {
         font-size: 0.63em !important;
     }
     #btn-11-icons {
-        top: 51% !important;
+        top: 60% !important;
     }
     #btn-11-content {
-        top: 51.4% !important;
+        top: 60% !important;
     }
     #btn-11-content-ingles {
-        top: 51.3% !important;
+        top: 60.3% !important;
     }
     #btn-ingles-11 .boton-normal-text-23 {
         font-size: 0.68em !important;
