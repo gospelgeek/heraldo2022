@@ -58,7 +58,7 @@
         "x": "17%",
         "y": "80%",
         "width": "100%",
-        "id_unique": "box-principal-autor-page-15",
+        "id_unique": "box-principal-autor-page-17",
         "id_2": "box-text-content-autor-19",
         "id_3": "text-content-autor-15",
         "id_4": "box-page-9-autor",
@@ -67,7 +67,7 @@
         "styleBoxImg": "margin-left: 1.5em; grid-area: area-2;",
         "styleTextAutor": "padding-left: 1em; font-size: 0.5em; color: #fff;",
         "tag": "boton-author",
-        "iframe": "",
+        "iframe": "https://www.youtube.com/embed/OKtxp10FRqY",
         "autor": "Por Vicente Arango. Director Misiones Extranjeras IPUC",
         "data": {
             "src": "./assets/pics/icons/autor-19.png"
@@ -75,7 +75,7 @@
     },
     {
         "x": "-10%",
-        "y": "4%",
+        "y": "7%",
         "width": "50%",
         "background-color": "#b41015",
         "color": "#fff",

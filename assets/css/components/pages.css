@@ -967,7 +967,10 @@ audio {
 }
 
 #pie-pagina-18 {
-  display: none !important;
+   height: 1em !important;
+   top: 3% !important;
+   color: #fff;
+   bottom: none !important;
 }
 
 #pie-pagina-19 {
@@ -2643,6 +2646,8 @@ audio {
     }
 
 }
+
+
 
 .aux-video-author {
     padding: 0 0 0 0 !important;
