@@ -1773,9 +1773,19 @@ audio {
         left: 0% !important;
     }
     .change-color-text {
-       top: -1.3em !important;
+       display: grid;
+       justify-content: center;
+       align-content: center;
+       top: -2em !important;
        right: 0.5em !important;
-       font-size: 2.5em !important;
+       font-size: 2em !important;
+       background-color: gray;
+       line-height: 0;
+       width: 1.6em;
+       height: 1.6em;
+       border-radius: 50%;
+       --webkit-border-radius: 50%;
+       --moz-border-radius: 50%;
     }
 }
 
@@ -2263,9 +2273,8 @@ audio {
         left: 0% !important;
     }
     .change-color-text {
-        top: 0.3em !important;
         right: 0.5em !important;
-        font-size: 2em !important;
+        font-size: 1.5em !important;
     }
 }
 
