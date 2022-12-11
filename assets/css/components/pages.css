@@ -1542,6 +1542,9 @@ audio {
     #text-page-frances-17 .responsive-font-content {
         font-size: 0.68em !important;
     }
+    #text-page-frances-17 .aux-class-content {
+       width: 70% !important;
+    }
     #text-content-espana-17 {
         top: 48% !important;
     }
