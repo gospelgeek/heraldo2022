@@ -131,7 +131,7 @@ btnNav.addEventListener('click', () => {
 $('.read-more-close').on('click', function (event) {
     //prevent the default action for the click event
     event.preventDefault();
-
+    console.log('click')
     $(this).parent().parent().addClass('display-none')
     //quitar reproductor de audio e video de un iframe
     $('.read-more-text').html('')
