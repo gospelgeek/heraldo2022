@@ -1,32 +1,5 @@
 [
     {
-        "x": "-10%",
-        "y": "2%",
-        "width": "50%",
-        "background-color": "#b41015",
-        "color": "#fff",
-        "font-size": "1em",
-        "tag": "social-media",
-        "text": "",
-        "data": [
-            {
-                "icon": "./assets/pics/icons/facebook.png",
-                "url": "http://www.facebook.com/sharer.php?u=",
-                "page": 23
-            },
-            {
-                "icon": "./assets/pics/icons/gorjeo.png",
-                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
-                "page": 23
-            },
-            {
-                "icon": "./assets/pics/icons/whatsapp.png",
-                "url": "http://api.whatsapp.com/send?text=",
-                "page": 23
-            }
-        ]
-    },
-    {
         "x": "0",
         "y": "4%",
         "width": "100%",
@@ -55,7 +28,7 @@
     },
     {
         "x": "70%",
-        "y": "4%",
+        "y": "2.2%",
         "viewX": 1800,
         "viewY": 100,
         "width": "30%",
@@ -90,7 +63,7 @@
         "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
         "text": "",
         "data": {
-            "text": "<p style='padding-top: 1em; font-size: 1.3em;'>vivo, y como prueba irrefutable está soportada por su gloriosa Palabra y por ellos como testigos oculares, le vieron, sintieron sus corazones encendidos por el poder de la Palabra que oyeron de sus labios, Lucas 24:32.</p>"
+            "text": "<p style='padding-top: 1em; font-size: 1.3em;'>Jesús a través del camino les va citando las Escrituras desde Moisés, los profetas, y todo lo que decían de Él. Cuando Jesús fue invitado a quedarse con ellos, al partir el pan, los ojos de sus discípulos fueron abiertos y le reconocieron.</p>"
         }
     },
     {
