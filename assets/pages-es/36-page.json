@@ -13,10 +13,10 @@
     },
     {
         "x": "3%",
-        "y": "86%",
+        "y": "55%",
         "viewX": 1800,
         "viewY": 100,
-        "width": "35%",
+        "width": "100%",
         "height": "20%",
         "fontSize": "5em",
         "tag": "btn-normal-2",
@@ -26,7 +26,7 @@
         "data": [
             {
                 "icon": "./assets/pics/icons/iconEscucha.png",
-                "url": "./assets/audios/page-34-espanol.mp3"
+                "url": ""
             },
             {
                 "icon": "./assets/pics/icons/iconImprimir.png",

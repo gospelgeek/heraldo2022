@@ -85,9 +85,11 @@ span {
     .number-page {
         bottom: 28px;
     }
+
     .even .number-page {
         left: 36px;
     }
+
     .odd .number-page {
         right: 36px;
     }
@@ -202,7 +204,7 @@ audio {
     border-radius: 100%;
     box-shadow: 3px 3px 8px grey;
     top: 24px !important;
-    right: 27%!important;
+    right: 27% !important;
     background-image: url(/assets/pics/icons/x.png) !important;
 }
 
@@ -272,20 +274,24 @@ audio {
 }
 
 @media only screen and (max-width: 468px) {
+
     #button-fb,
     #button-wpp,
     #button-twi {
         width: 100%;
         height: 30px;
     }
+
     .button-share-fb,
     .button-share-wpp,
     .button-share-twi {
         bottom: 28px !important;
     }
+
     .button-share-fb {
         left: 64% !important;
     }
+
     .button-share-wpp {
         left: 74% !important;
     }
@@ -345,24 +351,29 @@ audio {
 }
 
 @media only screen and (max-width: 468px) {
+
     .p9 #button-fb,
     .p9 #button-wpp,
     .p9 #button-twi {
         width: 100%;
         height: 30px;
     }
+
     .p9 .button-share-fb {
         bottom: 80% !important;
         left: 88% !important;
     }
+
     .p9 .button-share-twi {
         bottom: 72% !important;
         left: 88% !important;
     }
+
     .p9 .button-share-wpp {
         bottom: 64% !important;
         left: 88% !important;
     }
+
     .p10 .button-share-fb,
     .p10 .button-share-twi,
     .p10 .button-share-wpp,
@@ -371,12 +382,15 @@ audio {
     .p36 .button-share-wpp {
         bottom: 21px !important;
     }
+
     .p10 .button-share-wpp {
         left: 80% !important;
     }
+
     .p36 .button-share-twi {
         left: 72% !important;
     }
+
     .p36 .button-share-wpp {
         left: 80% !important;
     }
@@ -547,7 +561,7 @@ audio {
     grid-template-rows: 100%;
     justify-items: center;
     align-items: center;
-    width: 6em ;
+    width: 6em;
     height: 2em;
     border-radius: 0.5em;
     text-decoration: none;
@@ -856,31 +870,31 @@ audio {
 #background-page-10 {
     height: 64% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-11 {
     height: 64% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-28 {
     height: 80% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-29 {
     height: 80% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-30 {
     height: 54% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-4 {
@@ -890,49 +904,49 @@ audio {
 #background-page-35 {
     height: 80% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-36 {
     height: 68% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-37 {
     height: 68% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-42 {
     height: 68% !important;
     position: absolute !important;
-    top: 0 ;
+    top: 0;
 }
 
 #background-page-43 {
     height: 63% !important;
     position: absolute !important;
-    bottom: 0 ;
+    bottom: 0;
 }
 
 #background-page-44 {
     height: 55% !important;
     position: absolute !important;
-    top: 0 ;
+    top: 0;
 }
 
 #background-page-46 {
     height: 80% !important;
     position: absolute !important;
-    top: 0 ;
+    top: 0;
 }
 
 #background-page-20 {
     height: 100% !important;
     position: absolute !important;
-    top: 0 ;
+    top: 0;
 }
 
 #background-page-8 {
@@ -943,148 +957,146 @@ audio {
 
 
 #pie-pagina-7 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-9 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-10 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-13 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-15 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-17 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-18 {
-   height: 1em !important;
-   top: 3% !important;
-   color: #fff;
-   bottom: none !important;
+    height: 1em !important;
+    top: 3% !important;
+    color: #fff;
+    bottom: none !important;
 }
 
 #pie-pagina-19 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-20 {
-  display: none !important;
+    display: none !important;
 }
 
 
 #pie-pagina-23 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-25 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-24 {
-   color: #fff;
+    color: #fff;
 }
 
 #pie-pagina-27 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-28 {
-   color: #fff;
+    color: #fff;
 }
 
 #pie-pagina-29 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-31 {
-  color: #fff;
+    color: #fff;
 }
 
 #pie-pagina-32 {
-  display: none !important;
+    top: 5% !important;
+    color: #fff;
+    height: 1em !important;
 }
 
 #pie-pagina-33 {
-  display: none !important;
-}
-
-#pie-pagina-35 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-36 {
-  display: none !important;
+    color: #fff;
 }
 
 #pie-pagina-37 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-42 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-43 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-44 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-45 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-46 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-47 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-48 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-49 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-51 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-2 {
-  display: none !important;
+    display: none !important;
 }
 
 #pie-pagina-3 {
-  display: none !important;
+    display: none !important;
 }
 
 
 #pie-pagina-11 {
-   color: #fff;
+    color: #fff;
 }
 
 #pie-pagina-14 {
-   color: #fff;
+    color: #fff;
 }
 
 #pie-pagina-30 {
-   color: #fff;
+    color: #fff;
 }
 
 #page-fondo-12-content {
@@ -1093,11 +1105,11 @@ audio {
 }
 
 #img-content-1 {
-    animation: slidein 1.2s linear ;
+    animation: slidein 1.2s linear;
 }
 
 #img-content-1-aux {
-    animation: slideout 1.5s linear ;
+    animation: slideout 1.5s linear;
 }
 
 #btn-read-more-33new .btn-normal-23 {
@@ -1107,8 +1119,8 @@ audio {
 }
 
 #text-35-class-aux::first-letter {
-   font-style: italic !important;
-   font-size: 2em !important;
+    font-style: italic !important;
+    font-size: 2em !important;
 }
 
 #img-content_47 {
@@ -1128,7 +1140,7 @@ audio {
 }
 
 #fondo-12-content .img-aux-page-12 {
-   height: 22em !important;
+    height: 22em !important;
 }
 
 #page-1-text-background {
@@ -1171,6 +1183,7 @@ audio {
     0% {
         transform: translateX(-100%);
     }
+
     100% {
         transform: translateX(0%);
     }
@@ -1180,6 +1193,7 @@ audio {
     0% {
         transform: translateX(100%);
     }
+
     100% {
         transform: translateX(0%);
     }
@@ -1197,624 +1211,811 @@ audio {
         width: 4.2em;
         height: 1.8em;
     }
+
     .boton-normal-text-23 {
         font-size: 0.8em !important;
     }
-    .div-center-two-icons-responsive  {
+
+    .div-center-two-icons-responsive {
         width: 3.5em;
     }
+
     .read-more-content {
         width: 80%;
         height: 80%;
     }
+
     .responsive-font {
         font-size: 0.9em !important;
     }
+
     .responsive-font-content {
         font-size: 0.56em !important;
     }
+
     #btn-9-read-more {
         top: 77% !important;
     }
+
     #icon-content-9 {
         top: 76% !important;
     }
+
     #text-content-9 {
         top: 39% !important;
     }
+
     #text-content-9 .responsive-font-content {
         font-size: 0.63em !important;
     }
+
     #btn-11-icons {
         top: 60% !important;
     }
+
     #btn-11-content {
         top: 60% !important;
     }
+
     #btn-11-content-ingles {
         top: 60.3% !important;
     }
+
     #btn-ingles-11 .boton-normal-text-23 {
         font-size: 0.68em !important;
     }
+
     #text-contenet-spana-11 {
         top: 12% !important;
         font-size: 1.15em !important;
     }
+
     #titulo-12-content {
         top: 6% !important;
     }
+
     #text-content-page-13 .responsive-font-content {
-        font-size: 0.72em !important;   
+        font-size: 0.72em !important;
     }
+
     #text-element-page-13 {
         top: 33% !important;
     }
+
     #text-element-page-13 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #btn-aux-espana-13 {
         top: 77% !important;
     }
+
     #text-content-19 {
-       font-size: 0.9em !important;
+        font-size: 0.9em !important;
     }
+
     #btn-read-more-33 {
         top: 75% !important;
     }
+
     #text-content-33 {
         top: 40% !important;
         font-size: 0.9em !important;
     }
+
     #btn-read-more-21 {
         left: 2em !important;
     }
+
     #content-text-23 {
         top: 43% !important;
         font-size: 0.9em !important;
     }
+
     #btn-read-more-23 {
         top: 84% !important;
         left: 0.9em !important;
     }
+
     #title-9-content {
         font-size: 1em !important;
     }
+
     #content-text-13 {
         font-size: 1em !important;
     }
+
     #text-center-content-19 {
         top: 63% !important;
     }
+
     #btn-conten-read-more-19 {
         top: 75% !important;
     }
+
     #btn-content-icons-more-19 {
         top: 85% !important;
     }
+
     #title-content-frances-5 {
         font-size: 0.84em !important;
     }
+
     #title-content-ingles-5 {
         font-size: 0.82em !important;
     }
+
     #btn-ingles-5 {
         width: 4.9em;
         height: 1.8em;
     }
-    #page-6-content-text .responsive-font-content  {
+
+    #page-6-content-text .responsive-font-content {
         font-size: 0.86em !important;
     }
+
     #box-principal-autor-page-7 {
         top: 75% !important;
     }
+
     #text-content-autor-9 {
         font-size: 0.4em !important;
         margin-top: 0.5em !important;
     }
+
     #box-text-content-autor-9 {
         height: 0.8em !important;
         width: 18em !important;
         margin-left: 1em !important;
     }
+
     #text-content-frances-5 {
         font-size: 1.23em !important;
     }
+
     #title-content-brasil-5 {
         font-size: 0.9em !important;
     }
+
     #text-content-autor-7 {
         margin-top: 0.5em !important;
         font-size: 0.44em !important;
     }
+
     #box-text-content-autor-7 {
         height: 1em !important;
         width: 13em !important;
     }
+
     #box-page-9-autor {
         width: 4.3em !important;
         height: 4.3em !important;
     }
+
     #box-principal-autor-page-9 {
         top: 80% !important;
         left: 22% !important;
     }
+
     #box-principal-autor-page-13 {
         top: 83% !important;
         left: 24.5% !important;
     }
+
     #box-text-content-autor-9 {
         width: 13em !important;
     }
+
     #title-spanis-10 {
         top: 17% !important;
     }
+
     #box-text-content-autor-10 {
         width: 18em !important;
         margin-left: -10em !important;
     }
+
     #text-content-autor-10 {
         font-size: 0.43em !important;
         padding-left: 9em !important;
         margin-top: 0.3em !important;
     }
+
     #background-page-10 {
         height: 60% !important;
     }
+
     #background-page-11 {
         height: 60% !important;
     }
+
     #titulo-14-content {
         top: 7% !important;
     }
+
     #content-text-14 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #content-text-14 .aux-class-content {
         width: 87% !important;
     }
+
     #btn-content-espana-15 {
         top: 61% !important;
     }
+
     #box-text-content-autor-15 {
         width: 17em !important;
     }
+
     #text-content-autor-15 {
         font-size: 0.42em !important;
         margin-top: 0.2em !important;
     }
+
     #box-principal-autor-page-15 {
         top: 83% !important;
         left: 24.5% !important;
     }
+
     #box-principal-autor-page-17 {
         top: 83% !important;
         left: 19% !important;
     }
+
     #content-text-19 {
         font-size: 1.4em !important;
     }
+
     #btn-content-espana-19 {
         top: 80% !important;
         left: 6% !important;
     }
+
     #box-text-content-autor-19 {
         width: 13em !important;
     }
+
     #content-text-18 {
         font-size: 1.3em !important;
     }
+
     #content-text-22 {
         top: 68%;
         font-size: 1.4em !important;
     }
+
     #content-text-brasil-22 {
         top: 68%;
         font-size: 1.27em !important;
     }
+
     #btn-read-more-23 {
         top: 84% !important;
         left: 2% !important;
     }
+
     #content-text-21 {
         top: 60% !important;
         font-size: 1.2em !important;
     }
+
     #content-text-brasil-21 {
         top: 60% !important;
         font-size: 1.1em !important;
     }
+
     #title-content-24 {
         top: 22% !important;
     }
+
     #content-text-25 {
         top: 33% !important;
     }
+
     #content-text-25 .responsive-font-content {
         font-size: 0.76em !important;
     }
-    #title-content-26{
+
+    #title-content-26 {
         top: 46% !important;
     }
+
     #img-content-28 {
         top: 5% !important;
     }
+
     #img-content-28 .aux-img-class {
         width: 75% !important;
-    } 
+    }
+
     #img-content-1 {
         top: 19% !important;
     }
+
     #content-text-32 .responsive-font-content {
         font-size: 1.3em !important;
     }
+
     #text-aux-32 {
         font-size: 0.9em !important;
     }
+
     #img-content_36 {
         top: 10% !important;
     }
+
     #content-text-38 {
         top: 37% !important;
     }
+
     #text-content-38-aux {
         font-size: 1.5em !important;
     }
+
     #content-text-2-38 {
         top: 45% !important;
     }
+
     #text-content-2-38-aux {
         font-size: 1.5em !important;
     }
+
     #img-content_44 {
         top: 36% !important;
     }
+
     #img-content_44 .aux-img-class {
         width: 80% !important;
     }
+
     #text-aux-44-new {
         font-size: 1.35em !important;
     }
+
     #content-text-title-45 {
         font-size: 1.3em !important;
     }
+
     #btn-read-more-45 {
         top: 59% !important;
         left: 1% !important;
     }
+
     #img-content-aux-new-45 {
         top: 60% !important;
     }
+
     #box-text-content-autor-45 {
         width: 18em !important;
         margin-left: -11em !important;
         margin-bottom: 0.7em !important;
     }
+
     #text-content-autor-45 {
         padding-left: 10em !important;
         font-size: 0.47em !important;
         margin-top: 0.2em !important;
     }
+
     #text-content-2-46-aux {
         font-size: 1.15em !important;
     }
+
     #img-content-1 .aux-img-class {
         width: 100% !important;
-    } 
+    }
+
     #idiomas-page-5 {
         font-size: 0.6em !important;
     }
+
     #title-content-espanol-5 {
         font-size: 0.94em !important;
     }
+
     #text-content-espanol-5 {
         font-size: 1.2em !important;
     }
+
     #text-content-brasil-5 {
         font-size: 1.085em !important;
     }
+
     #boton-ingles-5 {
         top: 76% !important;
     }
+
     #text-content-ingles-5 {
         font-size: 1.18em !important;
     }
+
     #title-content-aleman-5 {
         font-size: 0.8em !important;
     }
+
     #text-content-aleman-5 {
         font-size: 1.18em !important;
     }
+
     #boton-aleman-5 .boton-normal-text-23 {
         font-size: 0.6em !important;
     }
+
     #box-text-page-7 .responsive-font-content {
         font-size: 0.65em !important;
     }
+
     #box-text-page-frances-7 .responsive-font-content {
         font-size: 0.67em !important;
     }
+
     #box-text-content-autor-13 {
         width: 15em !important;
     }
+
     #text-content-autor-13 {
         font-size: 0.4em !important;
         padding-left: 1em !important;
         margin-top: 0.3em !important;
     }
+
     #btn-normal-2-14 {
         top: 72% !important;
     }
+
     #content-text-15 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #text-page-spana-17 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #text-page-frances-17 .responsive-font-content {
         font-size: 0.68em !important;
     }
+
     #text-page-frances-17 .aux-class-content {
-       width: 70% !important;
+        width: 70% !important;
     }
+
     #text-content-espana-17 {
         top: 48% !important;
     }
+
     #text-content-espana-17 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #content-text-page-spana-17 .responsive-font-content {
         font-size: 0.74em !important;
     }
+
     #btn-content-espana-17 {
         top: 83% !important;
     }
+
     #box-text-content-espana-17 .responsive-font-content {
         font-size: 0.78em !important;
     }
+
     #box-text-content-espana-17 {
         top: 47% !important;
     }
-    #img-content-fondo-20 .aux-img-class{
+
+    #img-content-fondo-20 .aux-img-class {
         height: 17em !important;
     }
+
     #content-text-page-20 {
         top: 70% !important;
     }
+
     #content-text-page-20 .responsive-font-content {
         font-size: 0.83em !important;
     }
+
     #text-content-autor-20 {
         font-size: 0.49em !important;
     }
+
     #content-text-page-21 {
         width: 97% !important;
     }
+
     #content-text-page-21 .responsive-font-content {
         font-size: 0.93em !important;
     }
+
     #text-center-content-19 {
         top: 57% !important;
-   }
+    }
+
     #text-center-content-19 .responsive-font-content {
         font-size: 0.9em !important;
     }
+
     #box-content-text-page-21 {
         top: 24% !important;
     }
+
     #box-content-text-page-21 .responsive-font-content {
         font-size: 0.71em !important;
     }
+
     #box-content-text-page-21 .aux-class-content {
         width: 80% !important;
     }
+
     #text-content-autor-23 {
         font-size: 0.42em !important;
     }
+
     #box-text-content-autor-23 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #box-content-text-25 .responsive-font-content {
         font-size: 0.75em !important;
     }
+
     #box-text-content-autor-25 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #text-content-autor-25 {
         font-size: 0.47em !important;
         padding-left: 1.2em !important;
     }
+
     #title-aux-content-26 .aux-img-class {
         height: 19.8em !important;
     }
+
     #content-text-27 .responsive-font-content {
         font-size: 0.65em !important;
     }
+
     #text-content-text-27 {
         top: 44% !important;
     }
+
     #text-content-text-27 .responsive-font-content {
-       font-size: 0.9em !important;
+        font-size: 0.9em !important;
     }
+
     #text-content-autor-27 {
         font-size: 0.54em !important;
         margin-top: 0.14em !important;
     }
+
     #box-text-content-autor-27 {
         width: 15em !important;
         margin-left: 2em !important;
     }
+
     #title-content-26 {
         top: 46% !important;
     }
+
     #text-principal-29 {
         top: 10% !important;
     }
+
     #text-principal-29 .responsive-font-content {
         font-size: 0.67em !important;
     }
+
     #content-text-29 {
         top: 33% !important;
     }
+
     #content-text-29 .responsive-font-content {
         font-size: 1em !important;
     }
+
     #box-text-content-autor-29 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #text-content-autor-29 {
-        margin-top:  0.2em !important;
+        margin-top: 0.2em !important;
         font-size: 0.58em !important;
     }
+
     #box-content-text-31 {
         top: 12% !important;
     }
+
     #box-content-text-31 .responsive-font-content {
         font-size: 0.69em !important;
     }
+
     #content-text-31 {
         top: 30% !important;
     }
+
     #box-content-text-31 {
         top: 12% !important;
     }
+
     #text-content-text-31 {
         top: 35% !important;
     }
+
     #text-content-text-31 .responsive-font-content {
         font-size: 0.78em !important;
     }
+
     #text-content-text-31 .aux-class-content {
         width: 85% !important;
     }
+
     #btn-read-more-31 {
         top: 62% !important;
         left: 0% !important;
     }
+
     #btn-content-icons-more-31 {
         top: 68% !important;
         left: 70% !important;
     }
+
     #box-content-brasil-text-31 {
         top: 12% !important;
     }
+
     #box-content-brasil-text-31 .responsive-font-content {
         font-size: 0.67em !important;
     }
+
     #box-text-content-autor-33 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #text-content-autor-33 {
         margin-top: 0.18em !important;
         font-size: 0.66em !important;
     }
+
     #text-content-page-35 .responsive-font-content {
         font-size: 0.74em !important;
     }
+
     #text-content-35 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #content-text-37 {
         top: 7% !important;
     }
+
     #content-text-37 .responsive-font-content {
         font-size: 0.64em !important;
     }
+
     #text-content-37 .responsive-font-content {
         font-size: 0.72em !important;
     }
+
     #text-content-autor-37 {
         font-size: 0.56em !important;
     }
-    #page-1-text-background  .responsive-font-content {
+
+    #page-1-text-background .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #page-7-last-text {
         display: none;
     }
+
     #btn-page-aleman-7 .boton-normal-text-23 {
         font-size: 0.6em !important;
     }
+
     #btn-presidente {
         font-size: 1em !important;
     }
+
     #btn-presidente-pag-4-video {
         top: 46% !important;
     }
+
     #page-9-title-read-more {
         font-size: 1.8em !important;
     }
+
     .aux-video-author {
         width: 90% !important;
         height: 64% !important;
     }
+
     #fondo-12-content .img-aux-page-12 {
         height: 18.8em !important;
     }
+
     #btn-aux-page-17 {
         top: 83% !important;
     }
+
     #text-center-content-21 {
         top: 58% !important;
     }
+
     #text-center-content-21 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #parrafo-page-25 {
         display: none;
     }
+
     #btn-espana-page-29 {
         top: 68% !important;
     }
+
     #content-text-38 {
         top: 47% !important;
     }
+
     #content-text-2-38 {
         top: 55% !important;
     }
+
     #page-43-text-normal {
         font-size: 0.9em !important;
     }
+
     #box-text-content-autor-43 {
         width: 17em !important;
         margin-left: 0em !important;
     }
+
     #text-content-autor-43 {
         font-size: 0.41em !important;
         margin-top: 0.1em !important;
     }
+
     #content-text-2-47 .responsive-font-content {
         font-size: 0.9em !important;
     }
+
     #content-text-2-47-aux .responsive-font-content {
         font-size: 0.85em !important;
     }
+
     #btn-read-more-47 {
         top: 80% !important;
     }
+
     #btn-read-more-49 {
         top: 57% !important;
         left: 0% !important;
     }
+
     .change-color-text {
-       display: grid;
-       justify-content: center;
-       align-content: center;
-       top: -2em !important;
-       right: 0.5em !important;
-       font-size: 2em !important;
-       background-color: gray;
-       line-height: 0;
-       width: 1.6em;
-       height: 1.6em;
-       border-radius: 50%;
-       --webkit-border-radius: 50%;
-       --moz-border-radius: 50%;
+        display: grid;
+        justify-content: center;
+        align-content: center;
+        top: -2em !important;
+        right: 0.5em !important;
+        font-size: 2em !important;
+        background-color: gray;
+        line-height: 0;
+        width: 1.6em;
+        height: 1.6em;
+        border-radius: 50%;
+        --webkit-border-radius: 50%;
+        --moz-border-radius: 50%;
     }
+
     #text-page-31-aux-paragraph {
         display: none;
     }
@@ -1823,492 +2024,643 @@ audio {
 
 @media screen and (max-width: 600px) and (max-height: 680px) {
 
-    #page-6-content-text .responsive-font-content  {
+    #page-6-content-text .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #page-6-content-text {
         top: 28% !important;
     }
+
     #box-page-7-autor {
         width: 5em !important;
         height: 5em !important;
     }
+
     #text-content-autor-7 {
         margin-top: 0.5em !important;
         font-size: 0.4em !important;
     }
+
     #box-text-content-autor-7 {
         height: 1em !important;
         width: 13em !important;
     }
+
     #icon-content-9 {
         top: 78% !important;
     }
+
     #btn-9-read-more {
         top: 78% !important;
     }
+
     #text-content-espanol-5 {
         font-size: 1.1em !important;
     }
+
     #title-content-frances-5 {
         font-size: 0.82em !important;
     }
+
     #frances-5-icons {
         top: 86% !important;
     }
+
     #title-content-brasil-5 {
         font-size: 0.86em !important;
     }
+
     #text-content-9 {
         top: 42% !important;
     }
+
     #text-content-9 .responsive-font-content {
         font-size: 0.6em !important;
     }
+
     #btn-9-read-more {
         top: 80% !important;
     }
+
     #icon-content-9 {
         top: 80% !important;
     }
+
     #mundo-page-8 {
         top: 2% !important;
     }
+
     #mundo-page-8 .aux-img-class {
         width: 87% !important;
     }
+
     #btn-7-spanis-aux {
         top: 80% !important;
     }
+
     #text-contenet-spana-11 {
         top: 12% !important;
         font-size: 1em !important;
     }
+
     #title-spanis-10 {
         top: 9% !important;
     }
+
     #titulo-12-content {
         top: 5% !important;
     }
+
     #titulo-12-content .aux-img-class {
-       width: 80% !important;
+        width: 80% !important;
     }
+
     #box-principal-autor-page-13 {
         top: 80% !important;
         left: 24.5% !important;
     }
+
     #content-text-14 {
         top: 40% !important;
     }
+
     #btn-normal-2-14 {
         top: 75% !important;
     }
+
     #btn-content-espana-15 {
         top: 57% !important;
     }
+
     #box-principal-autor-page-15 {
         top: 78% !important;
     }
+
     #box-principal-autor-page-17 {
         top: 78% !important;
     }
+
     #box-text-content-autor-15 {
         width: 15em !important;
     }
-    #no_esta_enamorada_de_mi_16 .aux-img-class{
+
+    #no_esta_enamorada_de_mi_16 .aux-img-class {
         height: 20em !important;
     }
+
     #content-text-19 {
         font-size: 1.3em !important;
     }
+
     #btn-content-espana-19 {
         top: 83% !important;
         left: 6% !important;
     }
+
     #box-text-content-autor-19 {
         width: 13em !important;
     }
+
     #content-text-22 {
         font-size: 1em !important;
     }
+
     #content-text-brasil-22 {
         font-size: 0.94em !important;
     }
+
     #box-principal-autor-page-23 {
         top: 80% !important;
         left: 20% !important;
     }
+
     #title-content-24 {
         top: 17% !important;
     }
+
     #content-text-25 {
         top: 35% !important;
     }
+
     #content-text-25 .responsive-font-content {
         font-size: 0.65em !important;
     }
-    #title-content-26 .aux-img-class{
+
+    #title-content-26 .aux-img-class {
         width: 80% !important;
     }
-    #title-content-26{
+
+    #title-content-26 {
         top: 50% !important;
     }
+
     #title-aux-content-26 .aux-img-class {
         height: 14.5em !important;
     }
+
     #img-content-28 {
         top: 5% !important;
     }
+
     #img-content-28 .aux-img-class {
         height: 15.3em !important;
         width: 75% !important;
-    } 
+    }
+
     #background-page-28 {
         height: 75% !important;
         position: absolute !important;
-        bottom: 0 ;
+        bottom: 0;
     }
+
     #background-page-29 {
         height: 75% !important;
         position: absolute !important;
-        bottom: 0 ;
+        bottom: 0;
     }
+
     #img-content-1 {
         top: 17% !important;
         left: 7% !important;
     }
+
     #img-content-1 .aux-img-class {
-       width: 80% !important;
+        width: 80% !important;
     }
+
     #content-text-32 {
         top: 62% !important;
     }
+
     #content-text-32 .responsive-font-content {
         font-size: 1em !important;
     }
+
     #text-aux-32 {
         font-size: 0.9em !important;
     }
+
     #img-content_36 {
         top: 10% !important;
     }
+
     #content-text-38 {
         top: 45% !important;
     }
+
     #text-content-38-aux {
         font-size: 1.5em !important;
     }
+
     #content-text-2-38 {
         top: 55% !important;
     }
+
     #text-content-2-38-aux {
         font-size: 1.5em !important;
     }
+
     #img-content_44 {
         top: 35% !important;
     }
+
     #img-content_44 .aux-img-class {
         width: 70% !important;
     }
+
     #text-aux-44-new {
         font-size: 1.25em !important;
     }
+
     #content-text-title-45 {
         font-size: 1.13em !important;
     }
+
     #btn-read-more-45 {
         top: 60% !important;
     }
+
     #img-content-aux-new-45 {
         top: 60% !important;
     }
+
     #box-text-content-autor-45 {
         width: 18em !important;
         margin-left: -11em !important;
     }
+
     #text-content-autor-45 {
         padding-left: 10em !important;
         font-size: 0.47em !important;
     }
+
     #text-content-2-46-aux {
         font-size: 1em !important;
     }
+
     #img-content-1 .aux-img-class {
         width: 100% !important;
-    } 
+    }
+
     #title-content-espanol-5 {
         font-size: 0.9em !important;
     }
+
     #boton-frances-5 {
         top: 80% !important;
     }
+
     #title-content-aleman-5 {
         font-size: 0.78em !important;
     }
+
     #text-content-aleman-5 {
         font-size: 1.1em !important;
     }
+
     #boton-aleman-5 .boton-normal-text-23 {
         font-size: 0.6em !important;
     }
+
     #boton-ingles-5 {
         top: 80% !important;
     }
+
     #title-content-ingles-5 {
         font-size: 0.8em !important;
     }
+
     #box-text-page-7 .responsive-font-content {
         font-size: 0.6em !important;
     }
+
     #box-text-page-frances-7 .responsive-font-content {
-       font-size: 0.6em !important;
+        font-size: 0.6em !important;
     }
+
     #text-content-autor-9 {
         font-size: 0.2em !important;
     }
+
     #box-text-content-autor-10 {
         width: 17em !important;
         margin-left: -10em !important;
     }
+
     #text-content-autor-10 {
         font-size: 0.4em !important;
         padding-left: 9em !important;
         margin-top: 0.5em !important;
     }
+
     #text-content-page-13 .responsive-font-content {
-        font-size: 0.6em !important;   
+        font-size: 0.6em !important;
     }
+
     #text-element-page-13 {
         top: 30% !important;
     }
+
     #text-element-page-13 .responsive-font-content {
         font-size: 0.67em !important;
     }
+
     #btn-aux-espana-13 {
         top: 77% !important;
     }
+
     #text-content-autor-13 {
         font-size: 0.35em !important;
         padding-left: 1em !important;
         margin-top: 0.3em !important;
     }
+
     #text-content-autor-15 {
         font-size: 0.35em !important;
         margin-top: 0.5em !important;
     }
+
     #text-page-spana-17 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #content-text-page-spana-17 {
         top: 22% !important;
     }
+
     #content-text-page-spana-17 .responsive-font-content {
         font-size: 0.68em !important;
     }
+
     #text-page-frances-17 .responsive-font-content {
         font-size: 0.6em !important;
     }
+
     #box-text-content-espana-17 .responsive-font-content {
         font-size: 0.67em !important;
     }
+
     #box-text-content-espana-17 {
         top: 50% !important;
     }
-    #img-content-fondo-20 .aux-img-class{
+
+    #img-content-fondo-20 .aux-img-class {
         height: 14.5em !important;
     }
+
     #content-text-page-20 {
         top: 73% !important;
     }
+
     #content-text-page-20 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #text-content-autor-20 {
         font-size: 0.47em !important;
         margin-top: 0.5em !important;
     }
+
     #content-text-page-21 {
         width: 98% !important;
     }
+
     #content-text-page-21 .responsive-font-content {
         font-size: 0.75em !important;
     }
+
     #box-content-text-page-21 {
         top: 24% !important;
     }
+
     #box-content-text-page-21 .responsive-font-content {
         width: 98% !important;
         font-size: 0.65em !important;
     }
+
     #text-center-content-19 {
         top: 62% !important;
-   }
+    }
+
     #text-center-content-19 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #titulo-page-22 {
         top: 7% !important;
     }
+
     #text-content-autor-23 {
         font-size: 0.35em !important;
         padding-left: 2em !important;
     }
+
     #content-text-21 {
         font-size: 1em !important;
     }
+
     #content-text-brasil-21 {
         font-size: 1em !important;
     }
+
     #box-text-content-autor-23 {
         width: 14em !important;
         margin-left: 2em !important;
     }
+
     #box-content-text-25 .responsive-font-content {
         font-size: 0.67em !important;
     }
+
     #box-text-content-autor-25 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #text-content-autor-25 {
         font-size: 0.45em !important;
     }
+
     #title-aux-content-26 .aux-img-class {
         height: 16em !important;
     }
+
     #content-text-27 .responsive-font-content {
         font-size: 0.62em !important;
     }
+
     #text-content-text-27 {
         top: 46% !important;
     }
+
     #text-content-text-27 .responsive-font-content {
-       font-size: 0.8em !important;
+        font-size: 0.8em !important;
     }
+
     #text-content-autor-27 {
         font-size: 0.49em !important;
         margin-top: 0.2em !important;
     }
+
     #text-principal-29 {
         top: 10% !important;
     }
+
     #text-principal-29 .responsive-font-content {
         font-size: 0.6em !important;
     }
+
     #content-text-29 {
         top: 32% !important;
     }
+
     #content-text-29 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #box-text-content-autor-29 .responsive-font-content {
         font-size: 0.5em !important;
     }
+
     #box-text-content-autor-29 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #text-content-autor-29 {
         font-size: 0.53em !important;
     }
+
     #img-content-30 .aux-img-class {
-       width: 80% !important;
+        width: 80% !important;
     }
+
     #content-text-31 {
         top: 30% !important;
     }
+
     #box-content-text-31 {
         top: 15% !important;
     }
+
     #box-content-text-31 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #text-content-text-31 {
         top: 40% !important;
     }
+
     #text-content-text-31 .responsive-font-content {
         font-size: 0.83em !important;
     }
+
     #text-content-text-31 .aux-class-content {
         width: 89% !important;
     }
+
     #btn-read-more-31 {
         top: 73% !important;
         left: 0% !important;
     }
+
     #btn-content-icons-more-31 {
         top: 82% !important;
         left: 70% !important;
     }
+
     #box-content-brasil-text-31 {
         top: 12% !important;
     }
+
     #box-content-brasil-text-31 .responsive-font-content {
         font-size: 0.64em !important;
     }
+
     #box-text-content-autor-33 {
         width: 14em !important;
         margin-left: 2.4em !important;
     }
+
     #text-content-autor-33 {
         font-size: 0.6em !important;
     }
+
     #text-content-page-35 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #text-content-35 .responsive-font-content {
         font-size: 0.75em !important;
     }
+
     #img-content-34 .aux-img-class {
         height: 15em !important;
     }
+
     #content-text-37 .responsive-font-content {
         font-size: 0.6em !important;
     }
+
     #text-content-37 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #text-content-autor-37 {
         font-size: 0.5em !important;
         padding-left: 2em !important;
     }
+
     #fondo-12-content .img-aux-page-12 {
         height: 15.5em !important;
     }
+
     #text-center-content-21 {
         top: 60% !important;
     }
+
     #text-center-content-21 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #img-page-25 {
-       width: 90% !important;
+        width: 90% !important;
     }
+
     #btn-espana-page-29 {
         top: 62% !important;
     }
+
     #page-43-text-normal {
         font-size: 0.76em !important;
     }
-    #img-content_36  .aux-img-class {
+
+    #img-content_36 .aux-img-class {
         width: 85% !important;
     }
+
     #text-content-autor-43 {
         font-size: 0.38em !important;
     }
+
     #content-text-2-47 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #content-text-2-47-aux .responsive-font-content {
         font-size: 0.75em !important;
     }
+
     #btn-read-more-47 {
         top: 80% !important;
     }
+
     #btn-read-more-49 {
         top: 55% !important;
         left: 0% !important;
     }
+
     .change-color-text {
         right: 0.5em !important;
         font-size: 1.5em !important;
@@ -2319,134 +2671,176 @@ audio {
     #box-text-content-autor-9 {
         width: 16em !important;
     }
+
     #text-content-autor-9 {
         font-size: 0.4em !important;
         margin-top: 0.5em !important;
     }
+
     #title-spanis-10 {
         top: 19% !important;
     }
-    #title-content-26{
+
+    #title-content-26 {
         top: 44.5% !important;
     }
+
     #img-content-28 .aux-img-class {
         width: 80% !important;
-    } 
+    }
+
     #title-content-espanol-5 {
         font-size: 1em !important;
     }
+
     #text-content-espanol-5 {
         font-size: 1.35em !important;
     }
+
     #title-content-frances-5 {
         font-size: 0.92em !important;
     }
+
     #text-content-frances-5 {
         font-size: 1.42em !important;
     }
+
     #title-content-brasil-5 {
         font-size: 1em !important;
     }
+
     #text-content-brasil-5 {
         font-size: 1.4em !important;
     }
+
     #title-content-ingles-5 {
         font-size: 0.86em !important;
     }
+
     #text-content-ingles-5 {
         font-size: 1.35em !important;
     }
+
     #title-content-aleman-5 {
         font-size: 0.85em !important;
     }
+
     #text-content-aleman-5 {
         font-size: 1.37em !important;
     }
+
     #page-6-content-text {
         font-size: 1.2em !important;
     }
+
     #box-text-page-7 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #page-6-content-text {
         top: 25% !important;
     }
+
     #title-9-content {
         font-size: 1.1em !important;
     }
+
     #text-content-autor-10 {
         font-size: 0.45em !important;
         padding-left: 7em !important;
     }
+
     #text-contenet-spana-11 {
         top: 12% !important;
         font-size: 1.2em !important;
     }
+
     #content-text-14 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #text-content-espana-17 .responsive-font-content {
         font-size: 0.85em !important;
     }
+
     #content-text-page-spana-17 .responsive-font-content {
         font-size: 0.84em !important;
     }
+
     #btn-content-espana-17 {
         top: 71% !important;
     }
-    #img-content-fondo-20 .aux-img-class{
+
+    #img-content-fondo-20 .aux-img-class {
         height: 19em !important;
     }
+
     #content-text-page-20 .responsive-font-content {
         font-size: 0.9em !important;
     }
+
     #text-content-autor-20 {
         font-size: 0.47em !important;
     }
+
     #box-content-text-page-21 {
         top: 24% !important;
-       
+
     }
+
     #box-content-text-page-21 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #box-content-text-page-21 .aux-class-content {
         width: 85% !important;
     }
+
     #content-text-25 .responsive-font-content {
         font-size: 0.74em !important;
     }
+
     #text-content-text-31 .responsive-font-content {
         font-size: 0.94em !important;
     }
+
     #text-content-page-35 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #text-content-35 {
         top: 24% !important;
     }
+
     #text-content-35 .responsive-font-content {
         font-size: 0.83em !important;
     }
+
     #img-content-34 .aux-img-class {
         height: 19.7em !important;
     }
+
     #text-content-autor-37 {
         font-size: 0.6em !important;
     }
+
     #fondo-12-content .img-aux-page-12 {
         height: 21em !important;
     }
+
     #text-center-content-21 {
         top: 57% !important;
     }
-    #text-center-content-21  .responsive-font-content{
+
+    #text-center-content-21 .responsive-font-content {
         font-size: 0.9em !important;
     }
+
     #text-content-autor-43 {
         font-size: 0.43em !important;
         margin-top: 0.1em !important;
     }
+
     #content-text-2-47-aux .responsive-font-content {
         font-size: 0.9em !important;
     }
@@ -2464,114 +2858,146 @@ audio {
         margin-left: 1em !important;
         height: 0.9em !important;
     }
+
     #text-content-autor-7 {
         font-size: 0.42em !important;
         padding-left: 1em !important;
         padding-bottom: 1em !important;
     }
+
     #box-text-content-autor-10 {
         width: 16em !important;
         margin-left: -9em !important;
     }
+
     #text-content-autor-10 {
         font-size: 0.18em !important;
         padding-left: 22em !important;
     }
+
     #text-content-autor-13 {
         font-size: 0.25em !important;
         padding-left: 1em !important;
         margin-top: 0.3em !important;
     }
-    #img-content-fondo-20 .aux-img-class{
+
+    #img-content-fondo-20 .aux-img-class {
         height: 16em !important;
     }
+
     #text-content-autor-20 {
         font-size: 0.4em !important;
         padding-left: 10em !important;
         margin-top: 0.5em !important;
     }
+
     #box-text-content-autor-23 {
         width: 14em !important;
         margin-left: 1.5em !important;
     }
+
     #content-text-25 {
         top: 33% !important;
     }
+
     #content-text-25 .responsive-font-content {
         font-size: 0.57em !important;
     }
+
     #text-content-autor-25 {
         font-size: 0.42em !important;
     }
+
     #title-aux-content-26 .aux-img-class {
         height: 16.7em !important;
     }
+
     #text-content-text-27 {
         top: 53% !important;
     }
+
     #text-content-text-27 .responsive-font-content {
-       font-size: 0.76em !important;
+        font-size: 0.76em !important;
     }
+
     #text-content-autor-27 {
         font-size: 0.47em !important;
         margin-top: 0.2em !important;
     }
+
     #text-principal-29 .responsive-font-content {
         font-size: 0.6em !important;
     }
+
     #content-text-29 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #text-content-autor-29 {
-        margin-top:  0.2em !important;
+        margin-top: 0.2em !important;
         font-size: 0.5em !important;
     }
+
     #text-content-text-31 {
         top: 37% !important;
     }
+
     #text-content-text-31 .responsive-font-content {
         font-size: 0.74em !important;
     }
+
     #box-content-brasil-text-31 {
         top: 12% !important;
     }
+
     #box-content-brasil-text-31 .responsive-font-content {
         font-size: 0.62em !important;
     }
+
     #text-content-autor-33 {
         margin-top: 0.18em !important;
         font-size: 0.66em !important;
     }
+
     #text-content-autor-33 {
         margin-top: 0.18em !important;
         font-size: 0.6em !important;
     }
+
     #text-content-autor-37 {
         font-size: 0.5em !important;
     }
+
     #content-text-37 .responsive-font-content {
         font-size: 0.55em !important;
     }
+
     #text-content-37 .responsive-font-content {
         font-size: 0.68em !important;
     }
+
     #fondo-12-content .img-aux-page-12 {
         height: 16.7em !important;
     }
+
     #text-center-content-21 {
         top: 60% !important;
     }
-    #text-center-content-21  .responsive-font-content{
+
+    #text-center-content-21 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #box-text-content-autor-43 {
         width: 16em !important;
         margin-left: 0em !important;
     }
+
     #text-content-autor-43 {
         font-size: 0.34em !important;
         margin-top: 0.1em !important;
     }
+
     #btn-read-more-49 {
         top: 60% !important;
         left: 0% !important;
@@ -2585,79 +3011,103 @@ audio {
     #title-spanis-10 {
         top: 11% !important;
     }
+
     #titulo-12-content {
         top: 2.5% !important;
     }
+
     #text-content-page-13 .aux-class-content {
         width: 85% !important;
     }
+
     #text-element-page-13 .responsive-font-content {
         font-size: 0.68em !important;
     }
+
     #text-content-autor-9 {
         margin-top: 0.3em !important;
         font-size: 0.3em !important;
     }
+
     #fondo-12-content .img-aux-page-12 {
         height: 13.5em !important;
         width: 100% !important;
     }
+
     #btn-normal-2-14 {
         top: 75% !important;
     }
+
     #btn-content-espana-15 {
         top: 72% !important;
     }
+
     #text-content-autor-15 {
         font-size: 0.4em !important;
     }
-    #img-content-fondo-20 .aux-img-class{
+
+    #img-content-fondo-20 .aux-img-class {
         height: 15.5em !important;
     }
+
     #text-center-content-21 {
         top: 62% !important;
     }
-    #text-center-content-21  .responsive-font-content{
+
+    #text-center-content-21 .responsive-font-content {
         font-size: 0.7em !important;
     }
+
     #content-text-page-21 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #content-text-21 {
         top: 60% !important;
     }
+
     #content-text-brasil-21 {
         top: 60% !important;
     }
+
     #img-page-25 {
         width: 90% !important;
     }
+
     #content-text-27 .responsive-font-content {
         font-size: 0.62em !important;
     }
+
     #btn-content-icons-more-31 {
         top: 74% !important;
         left: 70% !important;
     }
+
     #btn-read-more-31 {
         top: 66% !important;
         left: 0% !important;
     }
+
     #text-content-text-31 {
         top: 38% !important;
     }
+
     #content-text-38 {
         top: 47% !important;
     }
+
     #content-text-2-38 {
         top: 55% !important;
     }
+
     #page-43-text-normal {
         font-size: 0.8em !important;
     }
+
     #content-text-2-47 .responsive-font-content {
         font-size: 0.8em !important;
     }
+
     #content-text-2-47-aux .responsive-font-content {
         font-size: 0.75em !important;
     }
@@ -2665,7 +3115,7 @@ audio {
 }
 
 @media screen and (max-width: 900px) and (max-height: 900px) and (orientation: landscape) {
-    #canvas > div {
+    #canvas>div {
         display: none !important;
     }
 }
@@ -2873,17 +3323,19 @@ button::-moz-focus-inner {
 }
 
 @keyframes loader {
+
     0%,
     80%,
     100% {
         box-shadow: 0 2.5em 0 -1.3em;
     }
+
     40% {
         box-shadow: 0 2.5em 0 0;
     }
 }
 
 #loading-image {
-    width:50px;
-    height:50px;
+    width: 50px;
+    height: 50px;
 }
