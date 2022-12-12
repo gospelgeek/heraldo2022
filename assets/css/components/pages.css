@@ -1553,6 +1553,9 @@ audio {
     #img-content_36 {
         top: 10% !important;
     }
+    #img-content_36 .aux-img-class {
+        width: 87% !important;
+    }
 
     #content-text-38 {
         top: 37% !important;
