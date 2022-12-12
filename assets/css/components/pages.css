@@ -1402,7 +1402,7 @@ audio {
     }
     #content-text-brasil-22 {
         top: 68%;
-        font-size: 1.1em !important;
+        font-size: 1.27em !important;
     }
     #btn-read-more-23 {
         top: 84% !important;
@@ -1411,6 +1411,10 @@ audio {
     #content-text-21 {
         top: 60% !important;
         font-size: 1.2em !important;
+    }
+    #content-text-brasil-21 {
+        top: 60% !important;
+        font-size: 1.1em !important;
     }
     #title-content-24 {
         top: 22% !important;
@@ -2141,6 +2145,9 @@ audio {
     #content-text-21 {
         font-size: 1em !important;
     }
+    #content-text-brasil-21 {
+        font-size: 1em !important;
+    }
     #box-text-content-autor-23 {
         width: 14em !important;
         margin-left: 2em !important;
@@ -2607,6 +2614,9 @@ audio {
         font-size: 0.8em !important;
     }
     #content-text-21 {
+        top: 60% !important;
+    }
+    #content-text-brasil-21 {
         top: 60% !important;
     }
     #img-page-25 {

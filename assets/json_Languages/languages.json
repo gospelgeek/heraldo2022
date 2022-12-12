@@ -1640,43 +1640,10 @@
         ]
     },
     "22": {
-        "francia": [],
         "brasil": [
             {
-                "x": "0",
-                "y": "12%",
-                "style": "width: 85% !important;",
-                "zIndex": "1",
-                "width": "100%",
-                "tag": "img-content",
-                "data": {
-                    "src": "./assets/pics/icons/titulo-22.png"
-                }
-            },
-            {
-                "x": "0",
-                "y": "65%",
-                "width": "100%",
-                "styleBox": "width: 85%;",
-                "background-color": "#b41015",
-                "color": "#fff",
-                "font-size": "1em",
-                "tag": "content-text",
-                "id_unique": "content-text-brasil-22",
-                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.8em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
-                "text": "",
-                "data": {
-                    "text": " <p class='first_letter_orange' style='padding-top: 1em; font-size: 1em;'>“Lucas em seu evangelho, capítulo 24:13 narra-nos a forma como Jesus caminhou ao lado de dois dos seus discípulos que regressavam tristes e frustrados, porque para eles, Cristo não havia ressuscitado. Jesus interpelou-lhes, mas eles não o reconheceram porque tinham seus olhos vendados. Jesus através do caminho citou-lhes as Escrituras desde Moisés, os profetas e de tudo o que dele se dizia. Quando Jesus foi convidado a ficar com eles, ao partir o pão, os olhos dos seus discípulos foram abertos e reconheceram, que Jesus está vivo, e a prova irrefutável está suportada por sua gloriosa Palavra e por eles, que como testemunhas oculares, viram-no e sentiram os seus corações em chama pelo poder da Palavra que ouviram dos seus lábios, Lucas 24:32. </p>"
-                }
-            }
-        ]
-    },
-    "23": {
-        "francia": [],
-        "brasil": [
-            {
-                "x": "-10%",
-                "y": "2%",
+                "x": "55%",
+                "y": "4%",
                 "width": "50%",
                 "background-color": "#b41015",
                 "color": "#fff",
@@ -1703,13 +1670,44 @@
             },
             {
                 "x": "0",
+                "y": "12%",
+                "style": "width: 85% !important;",
+                "zIndex": "1",
+                "width": "100%",
+                "tag": "img-content",
+                "data": {
+                    "src": "./assets/pics/icons/titulo-22.png"
+                }
+            },
+            {
+                "x": "0",
+                "y": "62%",
+                "width": "100%",
+                "styleBox": "width: 85%;",
+                "background-color": "#b41015",
+                "color": "#fff",
+                "font-size": "1em",
+                "tag": "content-text",
+                "id_unique": "content-text-brasil-22",
+                "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.9em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
+                "text": "",
+                "data": {
+                    "text": " <p class='first_letter_orange' style='padding-top: 1em; font-size: 1.1em;'>“Lucas em seu evangelho, capítulo 24:13 narra-nos a forma como Jesus caminhou ao lado de dois dos seus discípulos que regressavam tristes e frustrados, porque para eles, Cristo não havia ressuscitado. Jesus interpelou-lhes, mas eles não o reconheceram porque tinham seus olhos vendados.</p>"
+                }
+            }
+        ]
+    },
+    "23": {
+        "brasil": [
+            {
+                "x": "0",
                 "y": "4%",
                 "width": "100%",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1.3em",
                 "zIndex": 300,
-                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em;",
+                "styleBox": "display: flex; gap: 0.5em; justify-items: center; align-items: center; font-size: 0.7em; background-color: rgb(255,255,255,0.5);",
                 "tag": "botones-idomas-5",
                 "text": "",
                 "data": [
@@ -1729,7 +1727,7 @@
             },
             {
                 "x": "70%",
-                "y": "4%",
+                "y": "2.5%",
                 "viewX": 1800,
                 "viewY": 100,
                 "width": "30%",
@@ -1753,18 +1751,18 @@
             },
             {
                 "x": "0",
-                "y": "66%",
+                "y": "64%",
                 "width": "100%",
                 "styleBox": "width: 86%;",
                 "background-color": "#b41015",
                 "color": "#fff",
                 "font-size": "1em",
                 "tag": "content-text",
-                "id_unique": "content-text-21",
+                "id_unique": "content-text-brasil-21",
                 "style": "font-weight: normal; border-radius: 0.2em; font-size: 0.75em; color: rgb(107 104 104); text-align: justify; font-family: 'Times New Roman', Times, serif;",
                 "text": "",
                 "data": {
-                    "text": "<p style='padding-top: 1em; font-size: 1.3em;'>vivo, e a prova irrefutável está suportada por sua gloriosa Palavra e por eles, que como testemunhas oculares, viram-no e sentiram os seus corações em chama pelo poder da Palavra que ouviram dos seus lábios, Lucas 24:32. </p>"
+                    "text": "<p style='padding-top: 1em; font-size: 1em;'>Jesus através do caminho citou-lhes as Escrituras desde Moisés, os profetas e de tudo o que dele se dizia. Quando Jesus foi convidado a ficar com eles, ao partir o pão, os olhos dos seus discípulos foram abertos e reconheceram, que Jesus está vivo, e a prova irrefutável está suportada por sua gloriosa Palavra e por eles, que como testemunhas oculares, viram-no e sentiram os seus corações em chama pelo poder da Palavra que ouviram dos seus lábios, Lucas 24:32. </p>"
                 }
             },
             {
