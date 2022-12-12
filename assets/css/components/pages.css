@@ -1051,7 +1051,7 @@ audio {
 }
 
 #pie-pagina-42 {
-    display: none !important;
+    bottom: 0.7em !important;
 }
 
 #pie-pagina-43 {
@@ -1209,6 +1209,27 @@ audio {
 
 .opacity-audio {
     opacity: 0.5;
+}
+
+.box-accordion {
+    display: grid;
+    grid-auto-rows: auto;
+    grid-template-columns: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.items-accordion {
+    justify-self: center;
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 2em;
+    background-color: #2d3a7d;
+    color: #fff;
+    cursor: pointer;
+    font-family:  'Montserrat', sans-serif;
+    text-align: center;
 }
 
 /*
@@ -1551,7 +1572,7 @@ audio {
     }
 
     #img-content_36 {
-        top: 10% !important;
+        top: 5% !important;
     }
     #img-content_36 .aux-img-class {
         width: 87% !important;
@@ -2030,6 +2051,9 @@ audio {
     #text-page-31-aux-paragraph {
         display: none;
     }
+    .height-auto {
+        min-height: 18em !important;
+    }
 }
 
 
@@ -2253,7 +2277,7 @@ audio {
     }
 
     #img-content_36 {
-        top: 10% !important;
+        top: 6% !important;
     }
 
     #content-text-38 {
