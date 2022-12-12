@@ -1007,7 +1007,7 @@ audio {
 }
 
 #pie-pagina-31 {
-  display: none !important;
+  color: #fff;
 }
 
 #pie-pagina-32 {
@@ -1080,6 +1080,10 @@ audio {
 }
 
 #pie-pagina-14 {
+   color: #fff;
+}
+
+#pie-pagina-30 {
    color: #fff;
 }
 
@@ -1692,7 +1696,7 @@ audio {
     }
     #btn-content-icons-more-31 {
         top: 68% !important;
-        left: -1% !important;
+        left: 70% !important;
     }
     #box-content-brasil-text-31 {
         top: 12% !important;
@@ -1810,6 +1814,9 @@ audio {
        border-radius: 50%;
        --webkit-border-radius: 50%;
        --moz-border-radius: 50%;
+    }
+    #text-page-31-aux-paragraph {
+        display: none;
     }
 }
 
@@ -2231,7 +2238,7 @@ audio {
     }
     #btn-content-icons-more-31 {
         top: 82% !important;
-        left: -1% !important;
+        left: 70% !important;
     }
     #box-content-brasil-text-31 {
         top: 12% !important;
@@ -2630,7 +2637,7 @@ audio {
     }
     #btn-content-icons-more-31 {
         top: 74% !important;
-        left: -1% !important;
+        left: 70% !important;
     }
     #btn-read-more-31 {
         top: 66% !important;
