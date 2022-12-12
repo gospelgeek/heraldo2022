@@ -25,5 +25,32 @@
         "data": {
             "text": "<p style='line-height: 1.2em; text-align: center; font-weight: 100; padding-top: 0.5em; font-size: 1.85em; font-style: italic; color: #fff;' id='content-text-13'> “porque Dios es el que en vosotros produce así  el querer como el hacer, por <br> su buena voluntad” <p id='text-aux-32' style='text-align: center; color:#2391c1; font-size: 1.3em;'>(Filipenses 2:13)</p></p>"
         }
+    },
+    {
+        "x": "60%",
+        "y": "4.3%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 33
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 33
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 33
+            }
+        ]
     }
 ]
