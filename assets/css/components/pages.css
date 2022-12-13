@@ -1059,7 +1059,7 @@ audio {
 }
 
 #pie-pagina-44 {
-    display: none !important;
+   bottom: 0.9em;
 }
 
 #pie-pagina-45 {
@@ -1176,12 +1176,32 @@ audio {
     z-index: 1;
 }
 
+#btn-ir-sitio-web-page-45 {
+    display: grid;
+    place-items: center;
+    width: 5em;
+    height: 2em;
+    border-radius: 1em;
+    background-color: #ffa12c;
+    color: #fff;
+    font-size: 0.9em;
+    transform: rotate(5deg);
+    padding: 0.2em;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 #img-page-25 {
     margin-top: -2em;
 }
 
 #img-page-34 {
     margin-top: -1em;
+}
+
+
+#page-45-text-aux {
+    display: none;
 }
 
 /*
@@ -1606,8 +1626,8 @@ audio {
         font-size: 1.35em !important;
     }
 
-    #content-text-title-45 {
-        font-size: 1.3em !important;
+    #content-text-title-45 .responsive-font-content {
+        font-size: 0.83em !important;
     }
 
     #btn-read-more-45 {
@@ -2070,6 +2090,18 @@ audio {
         height: 3.4em !important;
     }
 
+    #page-45-text-aux {
+        display: block;
+    }
+
+    #page-45-text-1 {
+        display: none;
+    }
+
+    #page-45-text-2 {
+        display: none;
+    }
+
 }
 
 
@@ -2324,8 +2356,8 @@ audio {
         font-size: 1.25em !important;
     }
 
-    #content-text-title-45 {
-        font-size: 1.13em !important;
+    #content-text-title-45 .responsive-font-content {
+        font-size: 0.7em !important;
     }
 
     #btn-read-more-45 {
