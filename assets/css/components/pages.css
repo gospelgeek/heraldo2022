@@ -2052,8 +2052,24 @@ audio {
         display: none;
     }
     .height-auto {
-        min-height: 18em !important;
+        min-height: 23em !important;
     }
+
+    #accordion-4 {
+        font-size: 0.8em !important;
+        height: 2.5em !important;
+    }
+
+    #accordion-6 {
+        font-size: 0.8em !important;
+        height: 3.4em !important;
+    }
+
+    #accordion-7 {
+        font-size: 0.8em !important;
+        height: 3.4em !important;
+    }
+
 }
 
 
