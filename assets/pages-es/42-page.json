@@ -48,5 +48,32 @@
         "data": {
             "text": "<p style=' font-weight: 900;  line-height: 1.5em; padding-top: 0.5em; font-size: 1.3em;'>Objetivos: <ul style='padding-inline-start: 0; pxcolor: 1E1E1F; text-align: center; font-weight: 400;  text-decoration: underline; list-style: none; font-size: 1.2em;'><li style='color: black; font-weight: 400; '>Objetivo segmento evangelístico</li><li style='color: black; font-weight: 400; '>Objetivo segmento espiritual</li><li style='color: black; font-weight: 400; '>Objetivo segmento formativo</li><li style='color: black; font-weight: 400; '>Objetivo segmento social</li><li style='color: black; font-weight: 400; '>Objetivo segmento administrativo</li></ul></p>"
         }
+    },
+    {
+        "x": "60%",
+        "y": "3%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 42
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 42
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 42
+            }
+        ]
     }
 ]
