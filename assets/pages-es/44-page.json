@@ -63,5 +63,32 @@
         "data": {
             "text": "<p id='text-aux-44-new' style='text-align: center; font-weight: 300; padding-top: 0.5em; font-size: 1em; font-style: italic; color: rgb(107 104 104);'>“…a quien anunciamos, amonestando a todo hombre, y enseñando a todo hombre en toda sabiduría, a fin de presentar perfecto en Cristo Jesús a todo hombre” <br><span style='color: #43cfff;'>(Colosenses 1:28).</span></p>"
         }
+    },
+    {
+        "x": "60%",
+        "y": "3%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 44
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 44
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 44
+            }
+        ]
     }
 ]
