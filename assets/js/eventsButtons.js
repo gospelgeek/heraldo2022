@@ -339,6 +339,7 @@ function event_click_accordion(e) {
 
 }
 
+
 /**
     * @dec Funcion para agregar una region
 <p style='font-size: 2em; text-align: center;'><strong>COMO DICE LA ESCRITURA… NO CON EJÉRCITO, SINO CON MI ESPÍRITU</strong></p>
