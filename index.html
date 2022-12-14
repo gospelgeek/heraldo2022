@@ -18,23 +18,27 @@
     <script type="text/javascript" src="./assets/js/wordfind.js"></script>
     <script type="text/javascript" src="./assets/js/wordfindgame.js"></script>
     <script type="text/javascript" src="./assets/lib/hash.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Belgrano&family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Belgrano&family=Montserrat:wght@300;500&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LH8XZP"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LH8XZP" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     <audio id="turnPage" src="./assets/audios/turn-page.mp3"></audio>
 
     <div id="loading">
-       <img id="loading-image" style='width:50px; height:50px;'src="https://raw.githubusercontent.com/alejolilo1234/Heraldo-digital/main/assets/img/loader%402x.gif" alt="Cargando..." /> 
-       <!--  <div class="loader"></div> -->
+        <img id="loading-image" style='width:50px; height:50px;'
+            src="https://raw.githubusercontent.com/alejolilo1234/Heraldo-digital/main/assets/img/loader%402x.gif"
+            alt="Cargando..." />
+        <!--  <div class="loader"></div> -->
     </div>
 
     <div id="canvas">
@@ -82,228 +86,243 @@
     <div id="search" class="container-search options">
         <div class="input-search options">
             <input id="word-search" class="options" type="text" placeholder="Ingrese su búsqueda aquí...">
-            <button id="button-search" class="options" onclick="searchButton('es')"> <img src="/assets/pics/icons/search.png" class="options" alt=""></i></button>
+            <button id="button-search" class="options" onclick="searchButton('es')"> <img
+                    src="/assets/pics/icons/search.png" class="options" alt=""></i></button>
         </div>
         <div class="result-search options"></div>
     </div>
 
     <!--Language Section-->
     <div id="language" class="container-language options">
-        <button id='spain' class='spain-language options' onclick="location.href = 'index.html'"><img src="./assets/pics/icons/spain.png" alt="" class="options"><p>Español</p></button>
-        <button id='english' class='english-language options' onclick="location.href = 'index-en.html'"><img src="./assets/pics/icons/united-states.png" alt="" class="options"><p>Inglés</p></button>
+        <button id='spain' class='spain-language options' onclick="location.href = 'index.html'"><img
+                src="./assets/pics/icons/spain.png" alt="" class="options">
+            <p>Español</p>
+        </button>
+        <button id='english' class='english-language options' onclick="location.href = 'index-en.html'"><img
+                src="./assets/pics/icons/united-states.png" alt="" class="options">
+            <p>Inglés</p>
+        </button>
     </div>
 
     <!-- Read more Component -->
-    <div class="read-more-box display-none"> 
+    <div class="read-more-box display-none">
         <div class="read-more-content">
             <span id='read-more-close-id' class="read-more-close">x</span>
-            <div class="read-more-text"> 
-                
+            <div class="read-more-text">
+
             </div>
         </div>
-    <div>
+        <div>
 
-    <script src="/assets/js/loader.js"></script>
-   
-
-    <script type="text/javascript">
-        function loadApp() {
-
-            $('#canvas').fadeIn(1000);
+            <script src="/assets/js/loader.js"></script>
 
 
-            var flipbook = $('.magazine');
+            <script type="text/javascript">
+                function loadApp() {
 
-            // Check if the CSS was already loaded
+                    $('#canvas').fadeIn(1000);
 
-            if (flipbook.width() == 0 || flipbook.height() == 0) {
-                setTimeout(loadApp, 10);
 
-                return;
-            }
+                    var flipbook = $('.magazine');
 
-            // Create the flipbook
+                    // Check if the CSS was already loaded
 
-            flipbook.turn({
+                    if (flipbook.width() == 0 || flipbook.height() == 0) {
+                        setTimeout(loadApp, 10);
 
-                height: $(window).height(),
+                        return;
+                    }
 
-                // Duration in millisecond
+                    // Create the flipbook
 
-                duration: 1000,
+                    flipbook.turn({
 
-                // Hardware acceleration
+                        height: $(window).height(),
 
-                acceleration: !isChrome(),
+                        // Duration in millisecond
 
-                // Enables gradients
+                        duration: 1000,
 
-                gradients: true,
+                        // Hardware acceleration
 
-                // Auto center this flipbook
+                        acceleration: !isChrome(),
 
-                autoCenter: true,
+                        // Enables gradients
 
-                // Elevation from the edge of the flipbook when turning a page
+                        gradients: true,
 
-                elevation: 50,
+                        // Auto center this flipbook
 
-                // The number of pages
+                        autoCenter: true,
 
-                pages: 54,
+                        // Elevation from the edge of the flipbook when turning a page
 
-                // Events
+                        elevation: 50,
 
-                when: {
-                    turning: function(event, page, view) {
+                        // The number of pages
 
-                        var book = $(this),
-                            currentPage = book.turn('page'),
-                            pages = book.turn('pages'),
-                            turnPage = document.getElementById("turnPage");
+                        pages: 54,
 
-                        //Sonido cambio de página
-                        turnPage.play()
+                        // Events
 
-                        // Update the current URI
+                        when: {
+                            turning: function (event, page, view) {
 
-                        Hash.go('pagina/' + page).update();
+                                var book = $(this),
+                                    currentPage = book.turn('page'),
+                                    pages = book.turn('pages'),
+                                    turnPage = document.getElementById("turnPage");
 
-                        // Show and hide navigation buttons
+                                //Sonido cambio de página
+                                turnPage.play()
 
-                        disableControls(page);
+                                // Update the current URI
 
-                    },
+                                Hash.go('pagina/' + page).update();
 
-                    turned: function(event, page, view) {
+                                // Show and hide navigation buttons
 
-                        disableControls(page);
+                                disableControls(page);
 
-                        $(this).turn('center');
+                            },
 
-                        if (page == 1) {
-                            $(this).turn('peel', 'br');
+                            turned: function (event, page, view) {
+
+                                disableControls(page);
+
+                                $(this).turn('center');
+
+                                if (page == 1) {
+                                    $(this).turn('peel', 'br');
+                                }
+
+                            },
+
+                            missing: function (event, pages) {
+
+                                // Add pages that aren't in the magazine
+                                for (var i = 0; i < pages.length; i++)
+                                    addPage(pages[i], $(this), 'es');
+
+                            }
                         }
 
-                    },
+                    });
 
-                    missing: function(event, pages) {
-                         
-                        // Add pages that aren't in the magazine
-                        for (var i = 0; i < pages.length; i++)
-                            addPage(pages[i], $(this), 'es');
+                    // Using arrow keys to turn the page
 
+                    $(document).keydown(function (e) {
+
+                        var previous = 37,
+                            next = 39,
+                            esc = 27;
+
+                        switch (e.keyCode) {
+                            case previous:
+
+                                // left arrow
+                                $('.magazine').turn('previous');
+                                hideAudio()
+                                e.preventDefault();
+
+                                break;
+                            case next:
+
+                                //right arrow
+                                $('.magazine').turn('next');
+                                hideAudio()
+                                e.preventDefault();
+
+                                break;
+                        }
+                    });
+
+                    // URIs - Format #/page/1 
+                    //  window.location.hash.replace('#', '%23')
+                    //console.log(window.location.hash.replace('#', '%23'));
+                    //  console.log(window.location.hash);
+
+                    Hash.on('^pagina\/([0-9]*)$', {
+                        yep: function (path, parts) {
+                            var page = parts[1];
+
+                            if (page !== undefined) {
+                                if ($('.magazine').turn('is'))
+                                    $('.magazine').turn('page', page);
+                            }
+
+                        },
+                        nop: function (path) {
+
+                            if ($('.magazine').turn('is'))
+                                $('.magazine').turn('page', 1);
+                        }
+                    });
+
+
+                    $(window).resize(function () {
+                        resizeViewport();
+                    }).bind('orientationchange', function () {
+                        resizeViewport();
+                    });
+
+
+                    // Regions
+
+                    if ($.isTouch) {
+                        $('.magazine').bind('touchstart', regionClick);
+                    } else {
+                        $('.magazine').click(regionClick);
                     }
-                }
 
-            });
+                    // Events for the next button
 
-            // Using arrow keys to turn the page
+                    $('.next-button').click(function () {
 
-            $(document).keydown(function(e) {
-
-                var previous = 37,
-                    next = 39,
-                    esc = 27;
-
-                switch (e.keyCode) {
-                    case previous:
-
-                        // left arrow
-                        $('.magazine').turn('previous');
-                        hideAudio()
-                        e.preventDefault();
-
-                        break;
-                    case next:
-
-                        //right arrow
                         $('.magazine').turn('next');
                         hideAudio()
-                        e.preventDefault();
 
-                        break;
+                        $('#videos-box-page-47').find('iframe').each(function () {
+                           $(this).attr('src', $(this).attr('src'));
+                        });
+
+                    });
+
+                    // Events for the previous button
+
+                    $('.previous-button').click(function () {
+
+                        $('.magazine').turn('previous');
+                        hideAudio()
+
+                        $('#videos-box-page-47').find('iframe').each(function () {
+                           $(this).attr('src', $(this).attr('src'));
+                        });
+
+                    });
+
+                    resizeViewport();
+
+                    $('.magazine').addClass('animated');
+
+
                 }
-            });
 
-            // URIs - Format #/page/1 
-            //  window.location.hash.replace('#', '%23')
-            //console.log(window.location.hash.replace('#', '%23'));
-            //  console.log(window.location.hash);
-
-            Hash.on('^pagina\/([0-9]*)$', {
-                yep: function(path, parts) {
-                    var page = parts[1];
-
-                    if (page !== undefined) {
-                        if ($('.magazine').turn('is'))
-                            $('.magazine').turn('page', page);
-                    }
-
-                },
-                nop: function(path) {
-
-                    if ($('.magazine').turn('is'))
-                        $('.magazine').turn('page', 1);
-                }
-            });
+                $('#canvas').hide();
 
 
-            $(window).resize(function() {
-                resizeViewport();
-            }).bind('orientationchange', function() {
-                resizeViewport();
-            });
+                // Load the HTML4 version if there's not CSS transform
+
+                yepnope({
+                    test: Modernizr.csstransforms,
+                    yep: ['./assets/lib/turn.js'],
+                    nope: ['./assets/lib/turn.html4.min.js'],
+                    both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css', './assets/js/loader.js'],
+                    complete: loadApp
+                });
 
 
-            // Regions
-
-            if ($.isTouch) {
-                $('.magazine').bind('touchstart', regionClick);
-            } else {
-                $('.magazine').click(regionClick);
-            }
-
-            // Events for the next button
-
-            $('.next-button').click(function() {
-
-                $('.magazine').turn('next');
-                hideAudio()
-
-            });
-
-            // Events for the previous button
-
-            $('.previous-button').click(function() {
-
-                $('.magazine').turn('previous');
-                hideAudio()
-
-            });
-
-            resizeViewport();
-
-            $('.magazine').addClass('animated');
-
-
-        }
-
-        $('#canvas').hide();
-
-
-        // Load the HTML4 version if there's not CSS transform
-
-        yepnope({
-            test: Modernizr.csstransforms,
-            yep: ['./assets/lib/turn.js'],
-            nope: ['./assets/lib/turn.html4.min.js'],
-            both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/animation.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/localStorage.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css', './assets/js/loader.js'],
-            complete: loadApp
-        });
-        
-      
-    </script>
+            </script>
 </body>
 
 </html>
