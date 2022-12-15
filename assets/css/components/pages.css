@@ -1107,6 +1107,10 @@ audio {
     color: #fff;
 }
 
+#pie-pagina-50 {
+    color: #fff;
+}
+
 #page-fondo-12-content {
     position: absolute;
     bottom: 1em;
@@ -2119,6 +2123,31 @@ audio {
         top: 52% !important;
     }
 
+    #content-text-2-51 .responsive-font-content {
+        font-size: 0.72em !important;
+    }
+
+    #img-content-51 {
+        top: 42% !important;
+    }
+
+    #text-content-51 {
+        top: 67% !important;
+    }
+
+    #text-content-51 .responsive-font-content {
+        font-size: 0.68em !important;
+    }
+
+    #btn-read-more-51 {
+        top: 82% !important;
+    }
+
+    #text-content-autor-51 {
+        margin-top: 0.12em;
+        font-size: 0.5em !important;
+    }
+
 }
 
 
@@ -2772,6 +2801,31 @@ audio {
         right: 0.5em !important;
         font-size: 1.5em !important;
     }
+
+    #content-text-2-51 .responsive-font-content {
+        font-size: 0.68em !important;
+    }
+
+    #img-content-51 {
+        top: 42% !important;
+    }
+
+    #text-content-51 {
+        top: 67% !important;
+    }
+
+    #text-content-51 .responsive-font-content {
+        font-size: 0.68em !important;
+    }
+
+    #btn-read-more-51 {
+        top: 82% !important;
+    }
+
+    #text-content-autor-51 {
+        font-size: 0.45em !important;
+    }
+    
 }
 
 @media screen and (max-width: 600px) and (min-height: 900px) and (max-height: 1200px) {

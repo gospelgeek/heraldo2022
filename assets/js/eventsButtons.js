@@ -288,29 +288,26 @@ const playAudio = (e) => {
 function click_ul_li(e) {
 
     $('.read-more-box').removeClass('display-none')
+    let array_data_class = ['1','2','3','4','5']
+    if (array_data_class.includes(e)) {
     $('.read-more-content').addClass('height-auto')
+    }
     //scroll 0
     $('.read-more-text').scrollTop(0)
 
-    //switch para saber que tipo de contenido es
-    switch (e) {
-        case '1':
-            $('.read-more-text').html(`<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento evangelístico</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Cada misionero ha realizado campañas, trabajo evangelístico y Refam tanto virtual como presencial; además han realizado ayunos, vigilias, devocionales y programas espirituales, que fortalezcan la visión del misionero y su familia.</p>`)
-            break;
-        case '2':
-            $('.read-more-text').html(` <p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento espiritual</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Se han tenido enseñanzas con invitados, de acuerdo a la necesidad en las reuniones con los misioneros y esposas, como también se han tenido enseñanzas con invitados de acuerdo a la necesidad de los hijos de misioneros.</p>`)
-            break;
-        case '3':
-            $('.read-more-text').html(`<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento formativo</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Capacitación y orientación al misionero, generando y brindando herramientas, por medio de seminarios y talleres de formación, con diversas temáticas de forma integral.</p>`)
-            break;
-        case '4':
-            $('.read-more-text').html(`<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento social</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Fortalecemos la obra social como mecanismo de participación en la obra misionera, mediante jornadas socio-evangelísticas. Realizando visitas a varios misioneros y sus familias por parte del Director Nacional, coordinador y su esposa, dando apoyo y fortaleza; y se enseñó a las iglesias. Hubo felicitaciones a misioneros y esposas, a través de los grupos por motivo de cumpleaños entre otros. Los misioneros nacionales realizaron actividades participativas en el campamento de Melgar, realizaron la dinámica del amigo secreto con entrega de detalles unos a otros.</p>`)
-            break;
-        case '5':
-            $('.read-more-text').html(`<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento administrativo</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Asesoramos a los misioneros dando técnicas de administración ministerial, logrando la consolidación y estructuración de proyectos e ideas mediante conferencias. Las esposas de los misioneros se reunieron en la Asamblea de Pastores en Medellín para recibir formación, y se publicaron artículos formativos por parte de ellas en la revista digital de Misiones Nacionales.</p> <p style='padding-top: 0.7em; font-size: 1em;'>De las familias misioneras nacionales se han escogido dos, para el campo misionero internacional: Edilberto Díaz y familia (Misionero en Duitama, Boyacá, Distrito 14) para Cabo Verde; y Rafael Gómez y familia (Misionero en San Andrés Islas, Distrito 8) para Trinidad y Tobago.</p>`)
-            break;
-
+    const array = { 
+        '1': `<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento evangelístico</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Cada misionero ha realizado campañas, trabajo evangelístico y Refam tanto virtual como presencial; además han realizado ayunos, vigilias, devocionales y programas espirituales, que fortalezcan la visión del misionero y su familia.</p>`,
+        '2':  `<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento espiritual</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Se han tenido enseñanzas con invitados, de acuerdo a la necesidad en las reuniones con los misioneros y esposas, como también se han tenido enseñanzas con invitados de acuerdo a la necesidad de los hijos de misioneros.</p>`,
+        '3': `<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento formativo</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Capacitación y orientación al misionero, generando y brindando herramientas, por medio de seminarios y talleres de formación, con diversas temáticas de forma integral.</p>`,
+        '4': `<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento social</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Fortalecemos la obra social como mecanismo de participación en la obra misionera, mediante jornadas socio-evangelísticas. Realizando visitas a varios misioneros y sus familias por parte del Director Nacional, coordinador y su esposa, dando apoyo y fortaleza; y se enseñó a las iglesias. Hubo felicitaciones a misioneros y esposas, a través de los grupos por motivo de cumpleaños entre otros. Los misioneros nacionales realizaron actividades participativas en el campamento de Melgar, realizaron la dinámica del amigo secreto con entrega de detalles unos a otros.</p>`,
+        '5': `<p style='font-size: 2em; text-align: center; color: #194d10;'><strong>Objetivo segmento administrativo</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Asesoramos a los misioneros dando técnicas de administración ministerial, logrando la consolidación y estructuración de proyectos e ideas mediante conferencias. Las esposas de los misioneros se reunieron en la Asamblea de Pastores en Medellín para recibir formación, y se publicaron artículos formativos por parte de ellas en la revista digital de Misiones Nacionales.</p> <p style='padding-top: 0.7em; font-size: 1em;'>De las familias misioneras nacionales se han escogido dos, para el campo misionero internacional: Edilberto Díaz y familia (Misionero en Duitama, Boyacá, Distrito 14) para Cabo Verde; y Rafael Gómez y familia (Misionero en San Andrés Islas, Distrito 8) para Trinidad y Tobago.</p>`,
+        '6': `<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>CURSO INTENSIVO UNA MIRADA INTEGRAL A LA VIDA ADULTA</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>El envejecimiento de la población mundial y los adultos ha crecido de manera importante; la mayoría de los países del mundo están experimentando un aumento en el número y proporción de personas mayores. Según datos del DANE en el mundo para el 2050, el número de personas de más 60 años crecerá de 600 millones a casi 2000 millones, y se</p> <p style='padding-top: 0.7em; font-size: 1em;'>prevé que el porcentaje de personas de 60 años o más se duplique, pasando de un 10% a un 21%. Ese incremento será mayor y más rápido en los países en desarrollo, donde se prevé que la población anciana se multiplique por cuatro en los próximos 50 años.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Colombia no está lejos de esa realidad, los datos demográficos demuestran que la fertilidad y la mortalidad han cambiado; en este país se ha experimentado un aumento considerable en la esperanza de vida al nacer y la mejora en la supervivencia de las personas mayores que repercute en la proporción cada vez mayor de la longevidad colombiana.</p> <p style='padding-top: 0.7em; font-size: 1em;'> Este panorama no es otra cosa que la indicación de que debemos prepararnos para cuidarnos y cuidar a otros. Comprometidos con el cuidado del adulto mayor, iniciamos una muy buena propuesta de capacitar a mujeres en esta área; pues como lo hemos visto es una demanda social del presente, y a futuro una muy buena herramienta laboral en caso de necesitarla. Para este año hemos tenido la oportunidad de capacitar 150 mujeres en esta área, con un grupo experto en adulto mayor grupo (GEA).</p> <p style='padding-top: 0.7em; font-size: 1em; color: #62164b;'>Temática:</p> <p style='padding-top: 0.7em; font-size: 1em;'> <ul style='color: #62164b; list-style-type: decimal;'> <li>Gerontología</li> <li>Psicología clínica</li> <li>Salud y nutrición</li> <li>Pedagogía</li> <li>Fisioterapia-hábitos saludables</li> <li>Ética del cuidado</li> <li>Odontología</li> </ul></p>`,
+        '7': ` <p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>ACADEMIA DE EMPRENDIMIENTO</strong></p> <p style='padding-top: 0.7em; font-size: 1em;'>Emprender es una actividad compleja que requiere tomar decisiones cruciales en las que no basta el sentido común.</p> <p style='padding-top: 0.7em; font-size: 1em; background-color: #e6dae9; padding: 0.4em; border: solid 0.1em #ae86b7;'>¿No te lo he ordenado yo? ¡Sé fuerte y valiente! No temas ni te acobardes, porque el Señor tu Dios estará contigo dondequiera que vayas.</p> <p style='padding-top: 0.7em; font-size: 1em;'>En UDIM trabajamos para potenciar los recursos de muchas mujeres talentosas que sirven de manera incansable en la obra del señor. Es por lo que damos herramientas que enriquecen su quehacer en cada entorno social donde se encuentran. La academia para emprendedoras tiene como fin formar mujeres, brindando asistencia en las siguientes áreas:</p> <p style='padding-top: 0.7em; font-size: 1em;'> <ul style='list-style-type: decimal;'> <li>Área administrativa</li> <li>Área de emprendimiento</li> <li>Área de mercadeo</li> <li>Área económica</li> <li>Área financiera</li> <li>Ética del cuidado</li> <li>Odontología</li> </ul> </p> <p style='padding-top: 0.7em; font-size: 1em;'>Se trabaja de manera virtual, con los profesionales en cada área. Tenemos un aproximado de 100 mujeres emprendedoras, dispuestas a hacer un proceso y crecer de manera productiva para ellas y su entorno social.</p> <p style='padding-top: 0.7em; font-size: 1em;'>En algunos distritos el consejo directivo</p> <p style='padding-top: 0.7em; font-size: 1em;'>se ha desplazado para llevar este programa con un profesional en negocios internacionales, para incentivar este programa, que de manera preventiva se hace también con las esposas de pastores activos en el ministerio.</p> <p style='padding-top: 0.7em; font-size: 1em;'> Si quieres capacitarte contacta con nosotros: 3148233134 encargada del programa. Te puedes capacitar de manera virtual, nuestra aula virtual cuenta con todos los pasos para que hagas tu propio proceso individual.</p>`,
+        '8': `<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>ACOMPAÑAMIENTO AL SECTOR DE LA MOJANA</strong></p> <p style='padding-top: 0.7em; font-size: 1em; color: #62164b;'>fecha 22- 31 de mayo 2022</p> <p style='padding-top: 0.7em; font-size: 1em;'>Comitiva delegada:</p> <p style='padding-top: 0.7em; font-size: 1em;'> <ul> <li>Coordinadora: Claudia Hoyos Psicóloga y especialista en pareja y familia</li> <li>Marisela Castro: Socióloga (esposa de pastor)</li> <li>Ely Yohana Lozada: Gestora Comunitaria (esposa de pastor)</li> <li>Esneira Salazar; Nutricionista (servidora local)</li> </ul> </p> <p style='padding-top: 0.7em; font-size: 1em;'> La Mojana Sucre es un sector de alta vulnerabilidad en donde las necesidades se hacen evidentes, sin embargo, para la comisión que tuvo la oportunidad de trabajar durante 11 días en el sector fue un tiempo de aprendizaje, además de la ayuda que se pudo brindar a las diferentes comunidades de la región; el trabajo fue muy gratificante, ya que se pudo percibir la disposición de la comunidad</p> <p style='padding-top: 0.7em; font-size: 1em;'>en participar de todas las actividades las cuales fueron de gran beneficio no solamente a cada individuo sino también a la población en general.</p> <p style='padding-top: 0.7em; font-size: 1em;'>Se realizó un trabajo integral con parejas, al igual que con los adolescentes y los niños, tratando de suplir las necesidades de los diferentes grupos, dando excelentes resultados en cada intervención.</p>`
     }
+
+    $('.read-more-text').html(array[e])
+
 }
 
 function event_click_accordion(e) {
@@ -913,4 +910,314 @@ MISIONES EXTRANJERAS
 </p>
 
 </div>
+
+
+<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>CURSO INTENSIVO UNA MIRADA INTEGRAL A LA VIDA ADULTA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>El envejecimiento de la población
+mundial y los adultos ha crecido de
+manera importante; la mayoría de los
+países del mundo están
+experimentando un aumento en el
+número y proporción de personas
+mayores. Según datos del DANE en el
+mundo para el 2050, el número de
+personas de más 60 años crecerá de
+600 millones a casi 2000 millones, y se</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>prevé que el porcentaje de personas de
+60 años o más se duplique, pasando de
+un 10% a un 21%. Ese incremento será
+mayor y más rápido en los países en
+desarrollo, donde se prevé que la
+población anciana se multiplique por
+cuatro en los próximos 50 años.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Colombia no está lejos de esa realidad,
+los datos demográficos demuestran
+que la fertilidad y la mortalidad han
+cambiado; en este país se ha
+experimentado un aumento
+considerable en la esperanza de vida al
+nacer y la mejora en la supervivencia
+de las personas mayores que repercute
+en la proporción cada vez mayor de la
+longevidad colombiana.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+Este panorama no es otra cosa que la
+indicación de que debemos
+prepararnos para cuidarnos y cuidar a
+otros. Comprometidos con el cuidado
+del adulto mayor, iniciamos una muy
+buena propuesta de capacitar a
+mujeres en esta área; pues como lo
+hemos visto es una demanda social del
+presente, y a futuro una muy buena
+herramienta laboral en caso de
+necesitarla. Para este año hemos
+tenido la oportunidad de capacitar 150
+mujeres en esta área, con un grupo
+experto en adulto mayor grupo (GEA).</p>
+<p  style='padding-top: 0.7em; font-size: 1em; color: #62164b;'>Temática:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+<ul style='color: #62164b;  list-style-type: decimal;'>
+ <li>Gerontología</li>
+ <li>Psicología clínica</li>
+ <li>Salud y nutrición</li>
+ <li>Pedagogía</li>
+ <li>Fisioterapia-hábitos saludables</li>
+ <li>Ética del cuidado</li>
+ <li>Odontología</li>
+</ul></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+
+<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>ACADEMIA DE
+EMPRENDIMIENTO</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Emprender es una actividad compleja
+que requiere tomar decisiones
+cruciales en las que no basta el sentido
+común.</p>
+<p  style='padding-top: 0.7em; font-size: 1em; background-color: #e6dae9; padding: 0.4em; border: solid 0.1em #ae86b7;'>¿No te lo he ordenado yo? ¡Sé
+fuerte y valiente! No temas ni te
+acobardes, porque el Señor tu Dios
+estará contigo dondequiera que
+vayas.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En UDIM trabajamos para potenciar los
+recursos de muchas mujeres
+talentosas que sirven de manera
+incansable en la obra del señor. Es por
+lo que damos herramientas que
+enriquecen su quehacer en cada
+entorno social donde se encuentran. La
+academia para emprendedoras tiene
+como fin formar mujeres, brindando
+asistencia en las siguientes áreas:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+
+<ul style='list-style-type: decimal;'>
+ <li>Área administrativa</li>
+ <li>Área de emprendimiento</li>
+ <li>Área de mercadeo</li>
+ <li>Área económica</li>
+ <li>Área financiera</li>
+ <li>Ética del cuidado</li>
+ <li>Odontología</li>
+</ul>
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se trabaja de manera virtual, con los
+profesionales en cada área. Tenemos
+un aproximado de 100 mujeres
+emprendedoras, dispuestas a hacer un
+proceso y crecer de manera productiva
+para ellas y su entorno social.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>En algunos distritos el consejo directivo</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>se ha desplazado para llevar este
+programa con un profesional en
+negocios internacionales, para
+incentivar este programa, que de
+manera preventiva se hace también
+con las esposas de pastores activos en
+el ministerio.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+Si quieres capacitarte contacta con
+nosotros: 3148233134 encargada del
+programa. Te puedes capacitar de
+manera virtual, nuestra aula virtual
+cuenta con todos los pasos para que
+hagas tu propio proceso individual.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>ACOMPAÑAMIENTO
+AL SECTOR DE LA
+MOJANA</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em; color: #62164b;'>fecha 22- 31 de mayo 2022</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Comitiva delegada:</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+<ul>
+ <li>Coordinadora: Claudia Hoyos
+Psicóloga y especialista en pareja y
+familia</li>
+ <li>Marisela Castro: Socióloga (esposa
+de pastor)</li>
+ <li>Ely Yohana Lozada: Gestora
+Comunitaria (esposa de pastor)</li>
+ <li>Esneira Salazar; Nutricionista
+(servidora local)</li>
+</ul>
+</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>
+La Mojana Sucre es un sector de alta
+vulnerabilidad en donde las
+necesidades se hacen evidentes, sin
+embargo, para la comisión que tuvo la
+oportunidad de trabajar durante 11 días
+en el sector fue un tiempo de
+aprendizaje, además de la ayuda que
+se pudo brindar a las diferentes
+comunidades de la región; el trabajo
+fue muy gratificante, ya que se pudo
+percibir la disposición de la comunidad</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>en participar de todas las actividades
+las cuales fueron de gran beneficio no
+solamente a cada individuo sino
+también a la población en general.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Se realizó un trabajo integral con
+parejas, al igual que con los
+adolescentes y los niños, tratando de
+suplir las necesidades de los diferentes
+grupos, dando excelentes resultados
+en cada intervención.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+
+<p class='monserrat-black' style='font-size: 2em; text-align: center; color: #62164b;'><strong>UDI</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1.2em; color: #62164b;'><strong>MARIELA FORERO
+DE TORRES</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em; color: #62164b;'>MUERTE, USO DE BUEN RETIRO,
+DESTITUCIÓN, RENUNCIA,
+ENFERMEDAD</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>¿Frente a cada una de estas palabras,
+qué pensamiento le llega?...¿Qué
+sensación le da?...¿Siente vacío?...Son 5
+puertas por las cuales cada uno de
+ustedes como pastor tendrá que salir
+un día, y por ende su esposa y familia.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hoy quiero ser
+la voz de todas
+aquellas
+mujeres que
+acompaña a
+cada uno de
+ustedes en la
+hermosa labor como es el servicio en la
+obra del señor. Para nadie es ajeno la
+situación que tuvo que vivir la iglesia
+durante la pandemia con la perdida de
+muchos pastores que fallecieron;
+muchos de ellos en angustia por dejar
+sus familias con muchos proyectos
+pendientes. Escuchamos voces de
+mujeres que decían de sus esposos -sus
+últimas palabras fueron: “SEÑOR te
+encargo mi familia”, otras recibían
+notas en servilletas donde ellos
+escribían “los amó y Dios tiene el
+control”, otra que su esposo oraba y decía “señor, yo cuide de tu grey, cuida
+tú de mi familia”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em; background-color: #e6dae9; padding: 0.4em; border: solid 0.1em #ae86b7;'>
+Proverbios 31: 8,9
+
+¡Levanta la voz por los que no tienen voz!
+¡Defiende los derechos de los desposeídos!
+¡Levanta la voz, y hazles justicia! ¡Defiende
+
+a los pobres y necesitados!
+.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>La fundación UDIM durante 17 años ha
+venido tocando temas frente a la
+viudez, la destitución, el retiro, la
+enfermedad; circunstancias que hacen
+que la familia tome un giro diferente y
+se vea enfrentada a situaciones muy
+dolorosas; y donde a través de un
+proyecto de investigación se observó</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>que la mujer
+al acontecer
+uno de estos
+momentos,
+se ve
+enfrentada a
+tomar
+responsabilidades que desconocían y
+que no saben cómo hacerlo.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Hoy, son mujeres que deben asumir la
+total responsabilidad de ellas y de la
+familia a cargo, hijos pequeños,
+adolescentes, jóvenes en proceso de
+formación profesional. Temas que se
+deben pensar y planear con
+anticipación, (pero la muerte llegó...) y
+son temas aplazados para cuando
+tuvieran el “dinero, el tiempo o una
+mejor iglesia”. Y ese es el objetivo de la
+fundación UDIM, dar herramientas,</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>preparar para que cada una de ellas
+este lista a hacer frente a esta situación
+que de todas formas tendrá que
+asumir; y que mejor que la encuentre
+preparada.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Es por eso que hoy, en nombre de
+aquella mujer esposa de pastor y como
+directora de la fundación UDIM (que,
+en tiempo de pandemia, ya no sabía
+cómo consolar o que decir a cada
+mujer que iba quedando sola con su
+familia, y que debía desocupar la casa,
+para el nuevo pastor y su familia)
+recordarles que el más comprometido
+con la capacitación, preparación
+formación y planeación de la familia y
+de esa mujer que lo acompaña, es
+usted Como cabeza y sacerdote de
+ellos. “Solo Dios sabe que, en cada
+llamada, quería escuchar que esos
+pastores tenían seguridad social,
+seguro de vida, que ya le tenía una
+casa; para así, poder atender a la mujer
+en su duelo y hacer un proceso
+emocional; pero, cuando está, la
+preocupación económica, ellas deben
+saltar ese proceso y dedicarse a buscar
+qué hacer, para generar ingresos y velar
+por su familia, siendo ahora la “cabeza”
+por la ausencia del esposo, padre y
+pastor.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Mi admiración y respeto, por todos
+aquellos que han entendido el mensaje
+de la fundación y han apoyado a su
+esposa en educación, o en un
+emprendimiento o proyecto social;
+porque también es cierto que muchas,
+han manifestado “mi esposo siempre
+me dijo que si le pasaba algo, yo debía
+conocer de temas económicos, y
+gracias a Dios quede con casa, con la
+pensión y pude invertir lo del seguro y
+lo de corpentunida, en un
+emprendimiento de negocio. Mi
+esposo siempre fue muy organizado y
+me compartía todo lo que yo debía
+saber en su ausencia”.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'><strong>“Las pequeñas cosas son las
+responsables de los grandes cambios”.</strong></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'>Atentamente: Mariela forero
+Representante legal.</p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+<p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
 */
