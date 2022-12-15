@@ -2,20 +2,21 @@
     {
         "x": "0",
         "y": "0%",
-        "style": "width: 90%;",
+        "style": "width: 86%;",
         "zIndex": "1",
         "width": "100%",
         "tag": "img-content",
-        "id_unique": "img-content_47",
+        "id_unique": "img-content-52",
         "data": {
             "src": "./assets/pics/icons/titulos-52.png"
         }
     },
     {
         "x": "0",
-        "y": "20%",
+        "y": "25%",
         "zIndex": "1",
         "width": "100%",
+        "id_unique": "sopa-letras-52",
         "tag": "wordsGame"
     }
 ]
