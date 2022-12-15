@@ -2152,6 +2152,36 @@ audio {
         font-size: 1.7em !important;
     }
 
+    #img-content-52 .aux-img-class {
+        width: 70% !important;     
+    }
+
+    #puzzle {
+        margin: 10px 10px 0 10px;
+    }
+
+    #puzzle .puzzleSquare {
+        height: 20px !important;
+        width: 6% !important;
+        font: 0.7em sans-serif !important;
+    }
+
+    #sopa-letras-52 {
+        top: 18% !important;
+    }
+
+    #words {
+        padding: 0.4em !important;
+    }
+
+    .buttonsGame {
+        width: 10em !important;
+    }
+
+    #solve {
+        font-size: 0.6em !important;
+    }
+
 }
 
 
@@ -3314,9 +3344,7 @@ audio {
     min-height: 10em;
 }
 
-#puzzle {
-    margin: 20px 30px 0 30px;
-}
+
 
 #puzzle div {
     width: 100%;
@@ -3330,7 +3358,7 @@ audio {
 }
 
 #solve {
-    font-size: 0.8em !important;
+    font-size: 0.8em;
 }
 
 /* style for each square in the puzzle */
