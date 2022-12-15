@@ -1066,6 +1066,10 @@ audio {
     display: none !important;
 }
 
+#pie-pagina-52 {
+    display: none !important;
+}
+
 #pie-pagina-46 {
     bottom: 2em;
 }
@@ -2180,6 +2184,10 @@ audio {
 
     #solve {
         font-size: 0.6em !important;
+    }
+
+    #svg-pag-54 {
+        padding-left: 20.5em !important;
     }
 
 }

@@ -98,7 +98,7 @@ const addComponents = (region, lang) => {
         case 'wordsGame':
             element = ($('<div />', { 'class': 'div-words div-center-ubication-responsive' }).html("<div id='puzzle'> </div>" +
             "<div id='words'></div>" +
-            "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver el juego</button><button class='buttonsGame' id='clean'>Reiniciar juego</button></div>"))
+            "<div id='wordsButton'><button class='buttonsGame' id='solve'>Resolver</button><button class='buttonsGame' id='clean'>Reiniciar</button></div>"))
             break;
         case 'img-content-2':
             element = (`<div class="div-center-ubication-responsive"> 
