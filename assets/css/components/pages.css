@@ -2167,7 +2167,7 @@ audio {
     #puzzle .puzzleSquare {
         height: 20px !important;
         width: 6% !important;
-        font: 0.7em sans-serif !important;
+        font: 0.6em sans-serif !important;
     }
 
     #sopa-letras-52 {
@@ -2175,19 +2175,27 @@ audio {
     }
 
     #words {
-        padding: 0.4em !important;
+        padding: 0.7em !important;
     }
 
     .buttonsGame {
-        width: 10em !important;
-    }
-
-    #solve {
-        font-size: 0.6em !important;
+        display: grid;
+        place-content: center;
+        width: 7em !important;
+        height: 2.5em !important;
+        font-size: 0.5em !important;
     }
 
     #svg-pag-54 {
         padding-left: 20.5em !important;
+    }
+
+    #puzzle > div {
+        height: 1em !important;
+    }
+
+    #words > ul > li {
+        font-size: 0.6em !important;
     }
 
 }
