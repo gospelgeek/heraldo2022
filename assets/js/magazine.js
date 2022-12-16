@@ -167,7 +167,7 @@ function createWordsGame(words) {
                break;
 
            case 'to-page':
-               $('.magazine').turn('page', data.page);
+            $('.magazine').turn('page', data.page);
                break;
        }
 
