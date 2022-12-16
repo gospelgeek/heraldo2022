@@ -44,5 +44,32 @@
         "data": {
             "text": "<ul style='list-style: none; padding-inline-start: 0px; font-size: 0.7em; text-align: center;'><li>COORDINACIÓN TRADUCCIONES</li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Alemán</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Gerardo Blanco </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Inglés</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Antonio Silva </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Portugués</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Geremias Velásquez </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Francés</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Ramiro Rátiva </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y equipo de trabajo </li> <li style='text-align: center; padding-top: 0.6em; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'><strong>Holandés</strong></li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Misionero Leonardo Fortunato </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>y y equipo de trabajo </li> <li style='font-size: 1em; padding-top: 0.7em;'>IGLESIA PENTACOSTAL UNIDAD DE COLOMBIA</li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Comite Nacional de Comunicaciones </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>Telefono (57) 321 832 5267 </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>decomnacional1@gmail.com </li> <li style='text-align: center; font-size: 0.9em; font-weight: normal; font-family: 'Times New Roman', Times, serif;'>www.ipuc.org.co </li> </ul> "
         }
+    },
+    {
+        "x": "-8%",
+        "y": "92%",
+        "width": "50%",
+        "background-color": "#b41015",
+        "color": "#fff",
+        "font-size": "1em",
+        "tag": "social-media",
+        "text": "",
+        "data": [
+            {
+                "icon": "./assets/pics/icons/facebook.png",
+                "url": "http://www.facebook.com/sharer.php?u=",
+                "page": 53
+            },
+            {
+                "icon": "./assets/pics/icons/gorjeo.png",
+                "url": "http://twitter.com/intent/tweet?text=Heraldo&url=",
+                "page": 53
+            },
+            {
+                "icon": "./assets/pics/icons/whatsapp.png",
+                "url": "http://api.whatsapp.com/send?text=",
+                "page": 53
+            }
+        ]
     }
 ]
