@@ -2198,6 +2198,14 @@ audio {
         font-size: 0.6em !important;
     }
 
+    #text-indece-page-2 .indice-text {
+        font-size: 1em !important;
+    }
+
+    #text-indece-page-2 .indice-text-aux {
+        font-size: 0.8em !important;
+    }
+
 }
 
 
@@ -3554,4 +3562,9 @@ button::-moz-focus-inner {
 #loading-image {
     width: 50px;
     height: 50px;
+}
+
+.a-aux-indice {
+    text-decoration: none;
+    cursor: pointer;
 }

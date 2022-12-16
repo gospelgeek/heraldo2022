@@ -336,6 +336,9 @@ function event_click_accordion(e) {
 
 }
 
+function indice_event(e) {
+    $('.magazine').turn('page', e);
+}
 
 
 /**
@@ -1220,5 +1223,316 @@ Representante legal.</p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
 <p  style='padding-top: 0.7em; font-size: 1em;'></p>
+
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'><a type='button' onclick='indice_event(4)' class='a-aux-indice'>Carta del Presidente</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+Héctor Ariel Campuzano Fonseca | <span style='font-weight: normal; color: gray;'>Presidente</span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(6)' class='a-aux-indice'>
+Notas del Director
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(6)' class='a-aux-indice'>
+ Álvaro de Jesús Torres Forero | <span style='font-weight: normal; color: gray;'>Pastor IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 4</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(8)' class='a-aux-indice'>
+Como dice la Escritura, por toda la tierra salió su voz
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(8)' class='a-aux-indice'>
+ Esdras Barranco Jiménez | <span style='font-weight: normal; color: gray;'>Primer Vicepresidente IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 8</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(12)' class='a-aux-indice'>
+Con la sencillez que dice la Escritura
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(12)' class='a-aux-indice'>
+ Héctor Raúl Betancur Montoya  | <span style='font-weight: normal; color: gray;'>Secretario General IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 10</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(14)' class='a-aux-indice'>
+Como dice la Escritura, la Palabra de Dios es viva
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(14)' class='a-aux-indice'>
+Oscar de Jesús Restrepo Villada | <span style='font-weight: normal; color: gray;'>Director Administrativo IPUC
+</span> | <span style='font-weight: normal; color: #9a211f;'>pagina 12</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.7em;'>
+<a type='button' onclick='indice_event(16)' class='a-aux-indice'>
+Como dice la Escritura, bienaventurados los que oyen y obedecen
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(16)' class='a-aux-indice'>
+ Fernando López Pimiento | <span style='font-weight: normal; color: gray;'>Director Misiones Nacionales IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 14</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(18)' class='a-aux-indice'>
+Como dice la Escritura, limpios por La Palabra
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(18)' class='a-aux-indice'>
+Vicente Arango Varela | <span style='font-weight: normal; color: gray;'>Director Misiones Extranjeras</span> | <span style='font-weight: normal; color: #9a211f;'>Página 16</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(20)' class='a-aux-indice'>
+Como dice la Escritura, lámpara es a mis pies tu Palabra
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(20)' class='a-aux-indice'>
+Angelmiro Camacho Isaza | <span style='font-weight: normal; color: gray;'>Director General FECP</span> | <span style='font-weight: normal; color: #9a211f;'>Página 18</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.65em;'>
+<a type='button' onclick='indice_event(22)' class='a-aux-indice'>
+Como dice la Escritura, el Señor abrió su corazón para que oyese su Palabra
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(22)' class='a-aux-indice'>
+Exel Javier Copete Gamboa | <span style='font-weight: normal; color: gray;'>Supervisor distrito 9</span> | <span style='font-weight: normal; color: #9a211f;'>Página 20</span>
+</a>
+</p>
+
+//parte 1 acabada
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(24)' class='a-aux-indice'>
+Como dice la Escritura, no con ejército sino con mi Espíritu
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(24)' class='a-aux-indice'>
+Segundo G. Arboleda Rosero | <span style='font-weight: normal; color: gray;'>Pastor IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 22</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(26)' class='a-aux-indice'>
+Como dice la Escritura, predica a tiempo y fuera de tiempo
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(26)' class='a-aux-indice'>
+Jairo Antonio Marín Leiva | <span style='font-weight: normal; color: gray;'>Pastor IPUC
+</span> | <span style='font-weight: normal; color: #9a211f;'>Página 24</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(28)' class='a-aux-indice'>
+Preparados para toda buena obra
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(28)' class='a-aux-indice'>
+Willman Marín Parra | <span style='font-weight: normal; color: gray;'>Pastor IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 26</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(30)' class='a-aux-indice'>
+Como dice la Escritura, varón y hembra los creó
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(30)' class='a-aux-indice'>
+Eduardo Tejada | <span style='font-weight: normal; color: gray;'>Pastor IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 28</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(32)' class='a-aux-indice'>
+Él es el que produce el querer, como el hacer
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(32)' class='a-aux-indice'>
+Rodrigo Muñoz | <span style='font-weight: normal; color: gray;'>Pastor IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 30</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(34)' class='a-aux-indice'>
+La Palabra de Dios es intachable y es escudo
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(34)' class='a-aux-indice'>
+Marcos Pabón Duarte | <span style='font-weight: normal; color: gray;'>Misionero en España</span> | <span style='font-weight: normal; color: #9a211f;'>Página 32</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(36)' class='a-aux-indice'>
+Como dice la Escritura, La Palabra profética más segura
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(36)' class='a-aux-indice'>
+Miguel Ángel Lozano | <span style='font-weight: normal; color: gray;'>Pastor IPUC</span> | <span style='font-weight: normal; color: #9a211f;'>Página 34</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(38)' class='a-aux-indice'>
+Reconocimiento Ministerial | <span style='font-weight: normal; color: #9a211f;'>Página 36</span>
+</a></p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(42)' class='a-aux-indice'>
+Capacitación Misionera
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(42)' class='a-aux-indice'>
+Fernando López Pimiento | <span style='font-weight: normal; color: gray;'>Director Misiones Nacionales</span> | <span style='font-weight: normal; color: #9a211f;'>Página 40</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(44)' class='a-aux-indice'>
+Innovación y transformación con proyección eterna
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(44)' class='a-aux-indice'>
+Angelmiro Camacho Isaza | <span style='font-weight: normal; color: gray;'>Director General FECP</span> | <span style='font-weight: normal; color: #9a211f;'>Página 42</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(46)' class='a-aux-indice'>
+Misiones Extranjeras
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(46)' class='a-aux-indice'>
+Vicente Arango Varela | <span style='font-weight: normal; color: gray;'>Director Misiones Extranjeras</span> | <span style='font-weight: normal; color: #9a211f;'>Página 44</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(48)' class='a-aux-indice'>
+Expecodes
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(48)' class='a-aux-indice'>
+Medios escritos | <span style='font-weight: normal; color: gray;'>Misiones Extranjeras</span> | <span style='font-weight: normal; color: #9a211f;'>Página 46</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(50)' class='a-aux-indice'>
+Unión para el desarrollo integral de la mujer
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(50)' class='a-aux-indice'>
+Mariela Forero de Torres | <span style='font-weight: normal; color: gray;'>Directora UDIM</span> | <span style='font-weight: normal; color: #9a211f;'>Página 48</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(52)' class='a-aux-indice'>
+  Sopa de Letras | <span style='font-weight: normal; color: #9a211f;'>Página 50</span>
+</a></p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(53)' class='a-aux-indice'>
+   Créditos  | <span style='font-weight: normal; color: #9a211f;'>Página 52</span>
+</a></p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+<p class='monserrat-black indice-text' style='padding-top: 0.5em; font-size: 0.8em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+</a></p>
+<p class='monserrat-black indice-text-aux' style='padding-top: 0.1em; font-size: 0.63em;'>
+<a type='button' onclick='indice_event(4)' class='a-aux-indice'>
+ | <span style='font-weight: normal; color: gray;'></span> | <span style='font-weight: normal; color: #9a211f;'>Página 2</span>
+</a>
+</p>
+
+
+
 
 */
